@@ -172,10 +172,22 @@
         }
         
         function load() {
-            fetch('./data.json?t=' + Date.now(), { cache: 'no-store' })
-                .then(r => r.json())
-                .then(render)
-                .catch(e => console.log('Error:', e));
+            const url = './data.json?t=' + Date.now();
+            console.log('Fetching:', url);
+            fetch(url, { cache: 'no-store' })
+                .then(r => {
+                    console.log('Response status:', r.status);
+                    if (!r.ok) throw new Error('Response not ok');
+                    return r.json();
+                })
+                .then(data => {
+                    console.log('Data loaded:', data);
+                    render(data);
+                })
+                .catch(e => {
+                    console.error('Fetch error:', e);
+                    document.getElementById('news-section').textContent = 'Error loading: ' + e.message;
+                });
         }
         
         document.getElementById('refresh-btn').addEventListener('click', load);
