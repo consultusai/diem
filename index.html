@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <meta name="theme-color" content="#667eea">
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="Diem">
-    <link rel="manifest" href="./manifest.json">
     <title>Diem - Daily Dashboard</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -18,36 +18,32 @@
         .header p { color: #666; font-size: 14px; }
         .section { background: white; padding: 25px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,.1); }
         .section h2 { color: #667eea; font-size: 18px; margin-bottom: 15px; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
-        .news-item, .action-item { margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px solid #eee; }
-        .news-item:last-child, .action-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
-        .news-item h3, .action-item h4 { color: #333; font-size: 15px; margin-bottom: 5px; }
-        .news-item p, .action-item p { color: #666; font-size: 13px; line-height: 1.5; }
+        .news-item { margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px solid #eee; }
+        .news-item:last-child { border-bottom: none; margin-bottom: 0; }
+        .news-item h3 { color: #333; font-size: 15px; margin-bottom: 5px; }
+        .news-item p { color: #666; font-size: 13px; line-height: 1.5; }
         .tip-box { background: #f0f4ff; padding: 20px; border-left: 4px solid #667eea; border-radius: 6px; }
-        .tip-box h3 { color: #667eea; font-size: 14px; margin-bottom: 8px; font-weight: 600; }
-        .tip-box p { color: #333; font-size: 14px; line-height: 1.6; }
-        .article-rec { background: #f0f8f4; padding: 20px; border-left: 4px solid #1abc9c; border-radius: 6px; }
-        .article-rec h3 { color: #1abc9c; font-size: 14px; margin-bottom: 8px; }
-        .article-rec p { color: #333; font-size: 13px; margin-bottom: 10px; line-height: 1.5; }
-        .article-rec a { display: inline-block; background: #1abc9c; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 13px; font-weight: 600; }
-        .article-rec a:hover { background: #16a085; }
-        .goal-header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; border-radius: 8px 8px 0 0; font-weight: 600; font-size: 15px; }
-        .goal-body { background: #fafafa; padding: 15px; border-radius: 0 0 8px 8px; }
-        .task { display: flex; align-items: center; padding: 10px; margin-bottom: 8px; background: white; border-radius: 6px; border-left: 3px solid #ddd; }
-        .task.completed { border-left-color: #2ecc71; opacity: 0.7; }
-        .task input[type="checkbox"] { width: 18px; height: 18px; margin-right: 12px; cursor: pointer; }
-        .task label { cursor: pointer; flex: 1; color: #333; font-size: 14px; }
-        .task.completed label { text-decoration: line-through; color: #999; }
-        .progress-bar { width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden; margin-top: 12px; }
-        .progress-fill { height: 100%; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); width: 0%; transition: width .3s ease; }
-        .progress-text { font-size: 12px; color: #666; margin-top: 6px; text-align: right; }
-        #refresh-btn { margin-top: 15px; padding: 8px 16px; background: #667eea; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; }
-        #refresh-btn:hover { background: #764ba2; }
-        #celebration-section { display: none; }
-        #celebration-section.show { display: block; }
+        .tip-box h3 { color: #667eea; font-size: 14px; margin-bottom: 8px; }
+        .article-rec { background: #f0f8f4; padding: 20px; border-left: 4px solid #1abc9c; border-radius: 6px; margin-bottom: 15px; }
+        .article-rec a { display: inline-block; background: #1abc9c; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 13px; }
+        .action-item { margin-bottom: 12px; padding: 12px; background: #fff8f0; border-left: 4px solid #ff9500; border-radius: 6px; }
+        .action-item h4 { color: #ff9500; font-size: 14px; margin-bottom: 5px; }
+        .action-item p { color: #666; font-size: 13px; }
+        .weather-line { margin: 8px 0; font-size: 13px; color: #666; }
         .upcoming-item { padding: 10px 0; border-bottom: 1px solid #eee; }
         .upcoming-item:last-child { border-bottom: none; }
         .upcoming-item strong { color: #667eea; }
-        .weather-line { margin: 8px 0; font-size: 13px; color: #666; }
+        .upcoming-item .days { font-size: 12px; color: #999; }
+        #refresh-btn { margin-top: 15px; padding: 8px 16px; background: #667eea; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; }
+        #refresh-btn:hover { background: #764ba2; }
+        .task { display: flex; padding: 10px; margin-bottom: 8px; background: white; border-radius: 6px; border-left: 3px solid #ddd; }
+        .task.completed { border-left-color: #2ecc71; opacity: 0.7; }
+        .task input { width: 18px; height: 18px; margin-right: 12px; cursor: pointer; }
+        .task label { flex: 1; color: #333; font-size: 14px; cursor: pointer; }
+        .task.completed label { text-decoration: line-through; color: #999; }
+        .progress-bar { width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden; margin-top: 12px; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); width: 0%; }
+        .progress-text { font-size: 12px; color: #666; margin-top: 6px; text-align: right; }
     </style>
 </head>
 <body>
@@ -55,182 +51,158 @@
         <div class="header">
             <h1>☕ Good Morning, Chris</h1>
             <p id="date-display">Loading...</p>
-            <div id="weather-section" style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #eee;"></div>
+            <div id="weather-section"></div>
             <button id="refresh-btn">🔄 Refresh</button>
         </div>
         
         <div class="section">
             <h2>⭐ News</h2>
-            <div id="news-section">Loading...</div>
+            <div id="news-section"></div>
         </div>
         
         <div class="section">
             <h2>🌴 Miami & Florida</h2>
-            <div id="miami-news-section">Loading...</div>
+            <div id="miami-section"></div>
         </div>
         
-        <div class="section" id="celebration-section">
-            <h2>🎉 Today's Celebration</h2>
+        <div class="section" id="celebration-section" style="display:none;">
+            <h2>🎉 Today</h2>
             <p id="celebration-text"></p>
         </div>
         
         <div class="section">
             <h2>📅 Coming Up</h2>
-            <div id="upcoming-section">Loading...</div>
+            <div id="upcoming-section"></div>
         </div>
         
         <div class="section">
-            <h2>💡 Today's Tip</h2>
+            <h2>💡 Tip</h2>
             <div class="tip-box">
-                <h3 id="tip-title">Loading...</h3>
+                <h3 id="tip-title"></h3>
                 <p id="tip-content"></p>
             </div>
         </div>
         
         <div class="section">
             <h2>✅ Actions for Today</h2>
-            <div id="actions-section">Loading...</div>
+            <div id="actions-section"></div>
         </div>
         
         <div class="section">
-            <h2>📖 Article of the Day</h2>
+            <h2>📖 Read This</h2>
             <div class="article-rec">
-                <h3 id="article-title">Loading...</h3>
+                <h3 id="article-title"></h3>
                 <p id="article-reason"></p>
-                <a id="article-link" target="_blank">Read Article →</a>
+                <a id="article-link" target="_blank">Open →</a>
             </div>
         </div>
         
         <div class="section">
-            <h2>🎯 This Week's Goals</h2>
-            <div class="goal-header">Guest Bedroom Revamp (Friends Arrive in 13 Days)</div>
-            <div class="goal-body">
-                <div class="task">
-                    <input type="checkbox" id="task1">
-                    <label for="task1">1. Choose bed color/style (queen → full)</label>
-                </div>
-                <div class="task">
-                    <input type="checkbox" id="task2">
-                    <label for="task2">2. Purchase bed online</label>
-                </div>
-                <div class="task">
-                    <input type="checkbox" id="task3">
-                    <label for="task3">3. Install/assemble bed</label>
-                </div>
-                <div class="task">
-                    <input type="checkbox" id="task4">
-                    <label for="task4">4. Order mattress</label>
-                </div>
-                <div class="task">
-                    <input type="checkbox" id="task5">
-                    <label for="task5">5. Arrange mattress delivery (before guests arrive)</label>
-                </div>
-                <div class="progress-bar">
-                    <div class="progress-fill"></div>
-                </div>
-                <div class="progress-text">0 of 5 complete • 0%</div>
+            <h2>🎯 Guest Bedroom</h2>
+            <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; border-radius: 8px 8px 0 0; font-weight: 600; margin-bottom: -20px;">Ready by June 7</div>
+            <div style="background: #fafafa; padding: 20px; border-radius: 0 0 8px 8px; margin-top: 0;">
+                <div class="task"><input type="checkbox" id="t1"><label for="t1">1. Choose bed color/style</label></div>
+                <div class="task"><input type="checkbox" id="t2"><label for="t2">2. Purchase bed online</label></div>
+                <div class="task"><input type="checkbox" id="t3"><label for="t3">3. Install bed</label></div>
+                <div class="task"><input type="checkbox" id="t4"><label for="t4">4. Order mattress</label></div>
+                <div class="task"><input type="checkbox" id="t5"><label for="t5">5. Arrange delivery</label></div>
+                <div class="progress-bar"><div class="progress-fill"></div></div>
+                <div class="progress-text">0 of 5 complete</div>
             </div>
         </div>
     </div>
     
     <script>
-        function loadDashboard() {
-          fetch('./data.json?t=' + Date.now())
-            .then(r => r.json())
-            .then(data => {
-                const { date, dayOfWeek, usNews, miamiNews, tip, actions, article, weather, celebration, upcoming } = data;
-                
-                // Date
-                document.getElementById('date-display').textContent = dayOfWeek + ', ' + date + ' • Your daily dashboard';
-                
-                // Weather
-                if (weather) {
-                    const w = weather;
-                    const weatherHTML = '<div class="weather-line"><strong>Miami Weather:</strong> ' + w.temp_range + 'F, ' + w.condition + '</div>' +
-                        '<div class="weather-line">Wind: ' + w.wind + ' | Rain: ' + w.chance_rain + ' | Humidity: ' + w.humidity + '</div>';
-                    document.getElementById('weather-section').innerHTML = weatherHTML;
-                }
-                
-                // News
-                if (usNews && usNews.length > 0) {
-                    const newsHTML = usNews.map(n => 
-                        '<div class="news-item"><h3>' + (n.title || 'News') + '</h3><p>' + (n.description || '') + '</p></div>'
-                    ).join('');
-                    document.getElementById('news-section').innerHTML = newsHTML;
-                }
-                
-                // Miami News
-                if (miamiNews && miamiNews.length > 0) {
-                    const miamiHTML = miamiNews.map(n => 
-                        '<div class="news-item"><h3>' + (n.title || 'News') + '</h3><p>' + (n.description || '') + '</p></div>'
-                    ).join('');
-                    document.getElementById('miami-news-section').innerHTML = miamiHTML;
-                }
-                
-                // Celebration
-                if (celebration) {
-                    document.getElementById('celebration-section').classList.add('show');
-                    document.getElementById('celebration-text').textContent = 'Today is ' + celebration + '!';
-                }
-                
-                // Upcoming
-                if (upcoming && upcoming.length > 0) {
-                    const upcomingHTML = upcoming.map(u => 
-                        '<div class="upcoming-item"><strong>' + u.event + '</strong><br><span style="font-size:12px;color:#999;">' + u.daysUntil + ' days away</span></div>'
-                    ).join('');
-                    document.getElementById('upcoming-section').innerHTML = upcomingHTML;
-                }
-                
-                // Tip
-                if (tip) {
-                    document.getElementById('tip-title').textContent = tip.title;
-                    document.getElementById('tip-content').textContent = tip.content;
-                }
-                
-                // Actions
-                if (actions && actions.length > 0) {
-                    const actionsHTML = actions.map((a, i) =>
-                        '<div class="action-item"><h4>' + (i+1) + '. ' + a.action + '</h4><p><strong>' + a.time + '</strong> • ' + a.description + '</p></div>'
-                    ).join('');
-                    document.getElementById('actions-section').innerHTML = actionsHTML;
-                }
-                
-                // Article
-                if (article) {
-                    document.getElementById('article-title').textContent = '"' + article.title + '" — ' + article.source;
-                    document.getElementById('article-reason').textContent = 'Why read it: ' + article.reason;
-                    document.getElementById('article-link').href = article.url;
-                }
-            })
-            .catch(e => console.error('Error loading content:', e));
+        function render(data) {
+            // Date & weather
+            document.getElementById('date-display').textContent = data.dayOfWeek + ', ' + data.date;
+            if (data.weather) {
+                const w = data.weather;
+                document.getElementById('weather-section').innerHTML = 
+                    '<div class="weather-line"><strong>Miami:</strong> ' + w.temp_range + 'F, ' + w.condition + '</div>' +
+                    '<div class="weather-line">Wind: ' + w.wind + ' | Rain: ' + w.chance_rain + ' | Humidity: ' + w.humidity + '</div>';
+            }
+            
+            // News
+            if (data.usNews && data.usNews.length) {
+                document.getElementById('news-section').innerHTML = data.usNews
+                    .map(n => '<div class="news-item"><h3>' + n.title + '</h3><p>' + n.description + '</p></div>')
+                    .join('');
+            }
+            
+            // Miami
+            if (data.miamiNews && data.miamiNews.length) {
+                document.getElementById('miami-section').innerHTML = data.miamiNews
+                    .map(n => '<div class="news-item"><h3>' + n.title + '</h3><p>' + n.description + '</p></div>')
+                    .join('');
+            }
+            
+            // Celebration
+            if (data.celebration) {
+                document.getElementById('celebration-section').style.display = 'block';
+                document.getElementById('celebration-text').textContent = 'Today is ' + data.celebration + '!';
+            }
+            
+            // Upcoming
+            if (data.upcoming && data.upcoming.length) {
+                document.getElementById('upcoming-section').innerHTML = data.upcoming
+                    .map(u => '<div class="upcoming-item"><strong>' + u.event + '</strong><div class="days">' + u.daysUntil + ' days away</div></div>')
+                    .join('');
+            }
+            
+            // Tip
+            if (data.tip) {
+                document.getElementById('tip-title').textContent = data.tip.title;
+                document.getElementById('tip-content').textContent = data.tip.content;
+            }
+            
+            // Actions
+            if (data.actions && data.actions.length) {
+                document.getElementById('actions-section').innerHTML = data.actions
+                    .map((a, i) => '<div class="action-item"><h4>' + (i+1) + '. ' + a.action + '</h4><p><strong>' + a.time + '</strong> • ' + a.description + '</p></div>')
+                    .join('');
+            }
+            
+            // Article
+            if (data.article) {
+                document.getElementById('article-title').textContent = '"' + data.article.title + '" — ' + data.article.source;
+                document.getElementById('article-reason').textContent = data.article.reason;
+                document.getElementById('article-link').href = data.article.url;
+            }
         }
         
-        document.getElementById('refresh-btn').addEventListener('click', loadDashboard);
-        loadDashboard();
+        function load() {
+            fetch('./data.json?t=' + Date.now(), { cache: 'no-store' })
+                .then(r => r.json())
+                .then(render)
+                .catch(e => console.log('Error:', e));
+        }
+        
+        document.getElementById('refresh-btn').addEventListener('click', load);
+        load();
         
         // Task tracking
-        document.querySelectorAll('.task input[type="checkbox"]').forEach((cb, i) => {
-            cb.addEventListener('change', function() {
-                this.parentElement.classList.toggle('completed');
-                updateProgress();
-                localStorage.setItem('task' + i, this.checked);
+        setTimeout(() => {
+            ['t1','t2','t3','t4','t5'].forEach((id, i) => {
+                const cb = document.getElementById(id);
+                if (localStorage.getItem(id)) cb.checked = true;
+                if (cb.checked) cb.parentElement.classList.add('completed');
+                cb.addEventListener('change', () => {
+                    localStorage.setItem(id, cb.checked);
+                    cb.parentElement.classList.toggle('completed');
+                    updateProgress();
+                });
             });
-            
-            if (localStorage.getItem('task' + i) === 'true') {
-                cb.checked = true;
-                cb.parentElement.classList.add('completed');
-            }
-        });
+            updateProgress();
+        }, 100);
         
         function updateProgress() {
-            const total = document.querySelectorAll('.task input').length;
-            const completed = document.querySelectorAll('.task input:checked').length;
-            const pct = Math.round((completed / total) * 100);
+            const total = 5;
+            const checked = ['t1','t2','t3','t4','t5'].filter(id => document.getElementById(id)?.checked).length;
+            const pct = Math.round(checked / total * 100);
             document.querySelector('.progress-fill').style.width = pct + '%';
-            document.querySelector('.progress-text').textContent = completed + ' of ' + total + ' complete • ' + pct + '%';
+            document.querySelector('.progress-text').textContent = checked + ' of ' + total + ' complete';
         }
-        
-        updateProgress();
     </script>
 </body>
 </html>
