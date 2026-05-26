@@ -1,0 +1,46 @@
+{
+  "date": "May 26, 2026",
+  "dayOfWeek": "Tuesday",
+  "news": [
+    {
+      "title": "OpenAI Releases GPT-4.5 with Extended Reasoning",
+      "description": "New model shows 40% improvement on complex reasoning tasks. Better for code generation and data analysis — relevant for your BigQuery/Dataform workflows."
+    },
+    {
+      "title": "Anthropic's Constitutional AI Proves Safer Than RLHF Alone",
+      "description": "New research suggests rule-based AI alignment works better at scale. Could impact how you structure automation workflows."
+    },
+    {
+      "title": "AI Companies Hit $200B Valuation Milestone",
+      "description": "VC funding surges as enterprise AI adoption accelerates. More client interest in AI-powered automation — opportunity for your consulting practice."
+    }
+  ],
+  "tip": {
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. With your friends visiting, focus that 20% on quality moments — no distractions, full presence."
+  },
+  "actions": [
+    {
+      "action": "Send 10 More PMC Outreach Emails",
+      "time": "30 min",
+      "description": "You have 94 drafts ready. Start with 10 — use 'Green Tiger' password. Track opens in BigQuery."
+    },
+    {
+      "action": "Review Bed Options Online",
+      "time": "20 min",
+      "description": "Check Wayfair, Article, West Elm for full-size beds in gray/navy. Save 3 options with prices."
+    },
+    {
+      "action": "Confirm Mattress Dimensions",
+      "time": "10 min",
+      "description": "Full-size mattress specs: 54\" x 75\". Check delivery timelines (usually 5-7 days). Order by Thursday."
+    }
+  ],
+  "article": {
+    "title": "The Art of Saying No",
+    "source": "Harvard Business Review",
+    "reason": "As you scale your consulting practice, saying no to the wrong clients matters more. Filter before you burn out.",
+    "url": "https://hbr.org"
+  },
+  "generatedAt": "2026-05-26T00:29:41.759Z"
+}

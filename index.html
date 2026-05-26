@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#667eea">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Diem">
+    <link rel="manifest" href="/manifest.json">
+    <title>Diem - Daily Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .header h1 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 5px;
+        }
+        
+        .header p {
+            color: #666;
+            font-size: 14px;
+        }
+        
+        .section {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .section h2 {
+            color: #667eea;
+            font-size: 18px;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .news-item, .action-item {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .news-item:last-child, .action-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        
+        .news-item h3, .action-item h4 {
+            color: #333;
+            font-size: 15px;
+            margin-bottom: 5px;
+        }
+        
+        .news-item p, .action-item p {
+            color: #666;
+            font-size: 13px;
+            line-height: 1.5;
+        }
+        
+        .tip-box {
+            background: #f0f4ff;
+            padding: 20px;
+            border-left: 4px solid #667eea;
+            border-radius: 6px;
+        }
+        
+        .tip-box h3 {
+            color: #667eea;
+            font-size: 14px;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+        
+        .tip-box p {
+            color: #333;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        
+        .article-rec {
+            background: #f0f8f4;
+            padding: 20px;
+            border-left: 4px solid #1abc9c;
+            border-radius: 6px;
+        }
+        
+        .article-rec h3 {
+            color: #1abc9c;
+            font-size: 14px;
+            margin-bottom: 8px;
+        }
+        
+        .article-rec p {
+            color: #333;
+            font-size: 13px;
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+        
+        .article-rec a {
+            display: inline-block;
+            background: #1abc9c;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 600;
+        }
+        
+        .article-rec a:hover {
+            background: #16a085;
+        }
+        
+        .goal-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            border-radius: 8px 8px 0 0;
+            font-weight: 600;
+            font-size: 15px;
+        }
+        
+        .goal-body {
+            background: #fafafa;
+            padding: 15px;
+            border-radius: 0 0 8px 8px;
+        }
+        
+        .task {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            margin-bottom: 8px;
+            background: white;
+            border-radius: 6px;
+            border-left: 3px solid #ddd;
+        }
+        
+        .task.completed {
+            border-left-color: #2ecc71;
+            opacity: 0.7;
+        }
+        
+        .task input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            margin-right: 12px;
+            cursor: pointer;
+        }
+        
+        .task label {
+            cursor: pointer;
+            flex: 1;
+            color: #333;
+            font-size: 14px;
+        }
+        
+        .task.completed label {
+            text-decoration: line-through;
+            color: #999;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #e0e0e0;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-top: 12px;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+        
+        .progress-text {
+            font-size: 12px;
+            color: #666;
+            margin-top: 6px;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>☕ Good Morning, Will</h1>
+            <p id="date-display">Loading...</p>
+        </div>
+        
+        <div class="section">
+            <h2>📰 AI News This Week</h2>
+            <div id="news-section">Loading...</div>
+        </div>
+        
+        <div class="section">
+            <h2>💡 Today's Tip</h2>
+            <div class="tip-box">
+                <h3 id="tip-title">Loading...</h3>
+                <p id="tip-content"></p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>✅ Actions for Today</h2>
+            <div id="actions-section">Loading...</div>
+        </div>
+        
+        <div class="section">
+            <h2>📖 Article of the Day</h2>
+            <div class="article-rec">
+                <h3 id="article-title">Loading...</h3>
+                <p id="article-reason"></p>
+                <a id="article-link" target="_blank">Read Article →</a>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>🎯 This Week's Goals</h2>
+            <div class="goal-header">Guest Bedroom Revamp (Friends Arrive in 13 Days)</div>
+            <div class="goal-body">
+                <div class="task">
+                    <input type="checkbox" id="task1">
+                    <label for="task1">1. Choose bed color/style (queen → full)</label>
+                </div>
+                <div class="task">
+                    <input type="checkbox" id="task2">
+                    <label for="task2">2. Purchase bed online</label>
+                </div>
+                <div class="task">
+                    <input type="checkbox" id="task3">
+                    <label for="task3">3. Install/assemble bed</label>
+                </div>
+                <div class="task">
+                    <input type="checkbox" id="task4">
+                    <label for="task4">4. Order mattress</label>
+                </div>
+                <div class="task">
+                    <input type="checkbox" id="task5">
+                    <label for="task5">5. Arrange mattress delivery (before guests arrive)</label>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill"></div>
+                </div>
+                <div class="progress-text">0 of 5 complete • 0%</div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Load content from data.json (generated by GitHub Actions)
+        fetch('/data.json')
+            .then(r => r.json())
+            .then(data => {
+                const { date, dayOfWeek, news, tip, actions, article } = data;
+                
+                // Update date
+                document.getElementById('date-display').textContent = dayOfWeek + ', ' + date + ' • Your daily dashboard';
+                
+                // Update news
+                let newsHTML = news.map(item => 
+                    '<div class="news-item"><h3>' + item.title + '</h3><p>' + item.description + '</p></div>'
+                ).join('');
+                document.getElementById('news-section').innerHTML = newsHTML;
+                
+                // Update tip
+                document.getElementById('tip-title').textContent = tip.title;
+                document.getElementById('tip-content').textContent = tip.content;
+                
+                // Update actions
+                let actionsHTML = actions.map((item, i) =>
+                    '<div class="action-item"><h4>' + (i+1) + '. ' + item.action + '</h4><p><strong>' + item.time + '</strong> • ' + item.description + '</p></div>'
+                ).join('');
+                document.getElementById('actions-section').innerHTML = actionsHTML;
+                
+                // Update article
+                document.getElementById('article-title').textContent = '"' + article.title + '" — ' + article.source;
+                document.getElementById('article-reason').textContent = 'Why read it: ' + article.reason;
+                document.getElementById('article-link').href = article.url;
+            })
+            .catch(e => console.error('Error loading content:', e));
+        
+        // Task tracking
+        document.querySelectorAll('.task input[type="checkbox"]').forEach((cb, i) => {
+            cb.addEventListener('change', function() {
+                this.parentElement.classList.toggle('completed');
+                updateProgress();
+                localStorage.setItem('task' + i, this.checked);
+            });
+            
+            if (localStorage.getItem('task' + i) === 'true') {
+                cb.checked = true;
+                cb.parentElement.classList.add('completed');
+            }
+        });
+        
+        function updateProgress() {
+            const total = document.querySelectorAll('.task input').length;
+            const completed = document.querySelectorAll('.task input:checked').length;
+            const pct = Math.round((completed / total) * 100);
+            document.querySelector('.progress-fill').style.width = pct + '%';
+            document.querySelector('.progress-text').textContent = completed + ' of ' + total + ' complete • ' + pct + '%';
+        }
+        
+        updateProgress();
+    </script>
+</body>
+</html>

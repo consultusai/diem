@@ -1,0 +1,12 @@
+{
+  "name": "diem",
+  "version": "1.0.0",
+  "description": "Will's daily dashboard - AI news, tips, actions, goals",
+  "main": "generate-dashboard.js",
+  "scripts": {
+    "generate": "node generate-dashboard.js"
+  },
+  "keywords": ["dashboard", "pwa", "daily"],
+  "author": "Will King",
+  "license": "MIT"
+}
