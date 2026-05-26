@@ -1,220 +1,146 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
-    <meta name="theme-color" content="#667eea">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <title>Diem - Daily Dashboard</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; padding: 20px; }
-        .container { max-width: 900px; margin: 0 auto; }
-        .header { background: white; padding: 30px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,.1); }
-        .header h1 { color: #333; font-size: 28px; margin-bottom: 5px; }
-        .header p { color: #666; font-size: 14px; }
-        .section { background: white; padding: 25px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,.1); }
-        .section h2 { color: #667eea; font-size: 18px; margin-bottom: 15px; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
-        .news-item { margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px solid #eee; }
-        .news-item:last-child { border-bottom: none; margin-bottom: 0; }
-        .news-item h3 { color: #333; font-size: 15px; margin-bottom: 5px; }
-        .news-item p { color: #666; font-size: 13px; line-height: 1.5; }
-        .tip-box { background: #f0f4ff; padding: 20px; border-left: 4px solid #667eea; border-radius: 6px; }
-        .tip-box h3 { color: #667eea; font-size: 14px; margin-bottom: 8px; }
-        .article-rec { background: #f0f8f4; padding: 20px; border-left: 4px solid #1abc9c; border-radius: 6px; margin-bottom: 15px; }
-        .article-rec a { display: inline-block; background: #1abc9c; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 13px; }
-        .action-item { margin-bottom: 12px; padding: 12px; background: #fff8f0; border-left: 4px solid #ff9500; border-radius: 6px; }
-        .action-item h4 { color: #ff9500; font-size: 14px; margin-bottom: 5px; }
-        .action-item p { color: #666; font-size: 13px; }
-        .weather-line { margin: 8px 0; font-size: 13px; color: #666; }
-        .upcoming-item { padding: 10px 0; border-bottom: 1px solid #eee; }
-        .upcoming-item:last-child { border-bottom: none; }
-        .upcoming-item strong { color: #667eea; }
-        .upcoming-item .days { font-size: 12px; color: #999; }
-        #refresh-btn { margin-top: 15px; padding: 8px 16px; background: #667eea; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; }
-        #refresh-btn:hover { background: #764ba2; }
-        .task { display: flex; padding: 10px; margin-bottom: 8px; background: white; border-radius: 6px; border-left: 3px solid #ddd; }
-        .task.completed { border-left-color: #2ecc71; opacity: 0.7; }
-        .task input { width: 18px; height: 18px; margin-right: 12px; cursor: pointer; }
-        .task label { flex: 1; color: #333; font-size: 14px; cursor: pointer; }
-        .task.completed label { text-decoration: line-through; color: #999; }
-        .progress-bar { width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden; margin-top: 12px; }
-        .progress-fill { height: 100%; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); width: 0%; }
-        .progress-text { font-size: 12px; color: #666; margin-top: 6px; text-align: right; }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache">
+<title>Diem</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);min-height:100vh;padding:20px}
+.container{max-width:900px;margin:0 auto}
+.header{background:#fff;padding:30px;border-radius:12px;margin-bottom:20px;box-shadow:0 4px 6px rgba(0,0,0,.1)}
+.header h1{color:#333;font-size:28px;margin-bottom:5px}
+.header p{color:#666;font-size:14px}
+.section{background:#fff;padding:25px;border-radius:12px;margin-bottom:20px;box-shadow:0 4px 6px rgba(0,0,0,.1)}
+.section h2{color:#667eea;font-size:18px;margin-bottom:15px;border-bottom:2px solid #667eea;padding-bottom:10px}
+.item{margin-bottom:15px;padding-bottom:15px;border-bottom:1px solid #eee}
+.item:last-child{border-bottom:none;margin-bottom:0}
+.item h3{color:#333;font-size:15px;margin-bottom:5px}
+.item p{color:#666;font-size:13px;line-height:1.5}
+.tip{background:#f0f4ff;padding:20px;border-left:4px solid #667eea;border-radius:6px;margin-bottom:15px}
+.action{background:#fff8f0;padding:15px;margin-bottom:10px;border-left:4px solid #ff9500;border-radius:6px}
+.action h4{color:#ff9500;font-size:14px;margin-bottom:5px}
+.upcoming{padding:10px 0;border-bottom:1px solid #eee;font-size:14px}
+.upcoming strong{color:#667eea}
+#refresh-btn{margin-top:15px;padding:8px 16px;background:#667eea;color:#fff;border:none;border-radius:6px;cursor:pointer}
+#weather{margin:15px 0;padding:15px 0;border-top:1px solid #eee;font-size:13px;color:#666}
+</style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>☕ Good Morning, Chris</h1>
-            <p id="date-display">Loading...</p>
-            <div id="weather-section"></div>
-            <button id="refresh-btn">🔄 Refresh</button>
-        </div>
-        
-        <div class="section">
-            <h2>⭐ News</h2>
-            <div id="news-section"></div>
-        </div>
-        
-        <div class="section">
-            <h2>🌴 Miami & Florida</h2>
-            <div id="miami-section"></div>
-        </div>
-        
-        <div class="section" id="celebration-section" style="display:none;">
-            <h2>🎉 Today</h2>
-            <p id="celebration-text"></p>
-        </div>
-        
-        <div class="section">
-            <h2>📅 Coming Up</h2>
-            <div id="upcoming-section"></div>
-        </div>
-        
-        <div class="section">
-            <h2>💡 Tip</h2>
-            <div class="tip-box">
-                <h3 id="tip-title"></h3>
-                <p id="tip-content"></p>
-            </div>
-        </div>
-        
-        <div class="section">
-            <h2>✅ Actions for Today</h2>
-            <div id="actions-section"></div>
-        </div>
-        
-        <div class="section">
-            <h2>📖 Read This</h2>
-            <div class="article-rec">
-                <h3 id="article-title"></h3>
-                <p id="article-reason"></p>
-                <a id="article-link" target="_blank">Open →</a>
-            </div>
-        </div>
-        
-        <div class="section">
-            <h2>🎯 Guest Bedroom</h2>
-            <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; border-radius: 8px 8px 0 0; font-weight: 600; margin-bottom: -20px;">Ready by June 7</div>
-            <div style="background: #fafafa; padding: 20px; border-radius: 0 0 8px 8px; margin-top: 0;">
-                <div class="task"><input type="checkbox" id="t1"><label for="t1">1. Choose bed color/style</label></div>
-                <div class="task"><input type="checkbox" id="t2"><label for="t2">2. Purchase bed online</label></div>
-                <div class="task"><input type="checkbox" id="t3"><label for="t3">3. Install bed</label></div>
-                <div class="task"><input type="checkbox" id="t4"><label for="t4">4. Order mattress</label></div>
-                <div class="task"><input type="checkbox" id="t5"><label for="t5">5. Arrange delivery</label></div>
-                <div class="progress-bar"><div class="progress-fill"></div></div>
-                <div class="progress-text">0 of 5 complete</div>
-            </div>
-        </div>
-    </div>
-    
-    <script>
-        function render(data) {
-            // Date & weather
-            document.getElementById('date-display').textContent = data.dayOfWeek + ', ' + data.date;
-            if (data.weather) {
-                const w = data.weather;
-                document.getElementById('weather-section').innerHTML = 
-                    '<div class="weather-line"><strong>Miami:</strong> ' + w.temp_range + 'F, ' + w.condition + '</div>' +
-                    '<div class="weather-line">Wind: ' + w.wind + ' | Rain: ' + w.chance_rain + ' | Humidity: ' + w.humidity + '</div>';
-            }
-            
-            // News
-            if (data.usNews && data.usNews.length) {
-                document.getElementById('news-section').innerHTML = data.usNews
-                    .map(n => '<div class="news-item"><h3>' + n.title + '</h3><p>' + n.description + '</p></div>')
-                    .join('');
-            }
-            
-            // Miami
-            if (data.miamiNews && data.miamiNews.length) {
-                document.getElementById('miami-section').innerHTML = data.miamiNews
-                    .map(n => '<div class="news-item"><h3>' + n.title + '</h3><p>' + n.description + '</p></div>')
-                    .join('');
-            }
-            
-            // Celebration
-            if (data.celebration) {
-                document.getElementById('celebration-section').style.display = 'block';
-                document.getElementById('celebration-text').textContent = 'Today is ' + data.celebration + '!';
-            }
-            
-            // Upcoming
-            if (data.upcoming && data.upcoming.length) {
-                document.getElementById('upcoming-section').innerHTML = data.upcoming
-                    .map(u => '<div class="upcoming-item"><strong>' + u.event + '</strong><div class="days">' + u.daysUntil + ' days away</div></div>')
-                    .join('');
-            }
-            
-            // Tip
-            if (data.tip) {
-                document.getElementById('tip-title').textContent = data.tip.title;
-                document.getElementById('tip-content').textContent = data.tip.content;
-            }
-            
-            // Actions
-            if (data.actions && data.actions.length) {
-                document.getElementById('actions-section').innerHTML = data.actions
-                    .map((a, i) => '<div class="action-item"><h4>' + (i+1) + '. ' + a.action + '</h4><p><strong>' + a.time + '</strong> • ' + a.description + '</p></div>')
-                    .join('');
-            }
-            
-            // Article
-            if (data.article) {
-                document.getElementById('article-title').textContent = '"' + data.article.title + '" — ' + data.article.source;
-                document.getElementById('article-reason').textContent = data.article.reason;
-                document.getElementById('article-link').href = data.article.url;
-            }
-        }
-        
-        function load() {
-            const url = './data.json?t=' + Date.now();
-            console.log('Fetching:', url);
-            fetch(url, { cache: 'no-store' })
-                .then(r => {
-                    console.log('Response status:', r.status);
-                    if (!r.ok) throw new Error('Response not ok');
-                    return r.json();
-                })
-                .then(data => {
-                    console.log('Data loaded:', data);
-                    render(data);
-                })
-                .catch(e => {
-                    console.error('Fetch error:', e);
-                    document.getElementById('news-section').textContent = 'Error loading: ' + e.message;
-                });
-        }
-        
-        document.getElementById('refresh-btn').addEventListener('click', load);
-        load();
-        
-        // Task tracking
-        setTimeout(() => {
-            ['t1','t2','t3','t4','t5'].forEach((id, i) => {
-                const cb = document.getElementById(id);
-                if (localStorage.getItem(id)) cb.checked = true;
-                if (cb.checked) cb.parentElement.classList.add('completed');
-                cb.addEventListener('change', () => {
-                    localStorage.setItem(id, cb.checked);
-                    cb.parentElement.classList.toggle('completed');
-                    updateProgress();
-                });
-            });
-            updateProgress();
-        }, 100);
-        
-        function updateProgress() {
-            const total = 5;
-            const checked = ['t1','t2','t3','t4','t5'].filter(id => document.getElementById(id)?.checked).length;
-            const pct = Math.round(checked / total * 100);
-            document.querySelector('.progress-fill').style.width = pct + '%';
-            document.querySelector('.progress-text').textContent = checked + ' of ' + total + ' complete';
-        }
-    </script>
+<div class="container">
+<div class="header">
+<h1>☕ Good Morning, Chris</h1>
+<p id="date"></p>
+<div id="weather"></div>
+<button id="refresh-btn">🔄 Refresh</button>
+</div>
+
+<div class="section">
+<h2>⭐ News</h2>
+<div id="news"></div>
+</div>
+
+<div class="section">
+<h2>🌴 Miami & Florida</h2>
+<div id="miami"></div>
+</div>
+
+<div class="section" id="celeb-sec" style="display:none">
+<h2>🎉 Today</h2>
+<p id="celeb"></p>
+</div>
+
+<div class="section">
+<h2>📅 Coming Up</h2>
+<div id="upcoming"></div>
+</div>
+
+<div class="section">
+<h2>💡 Tip</h2>
+<div class="tip">
+<h3 id="tip-title"></h3>
+<p id="tip-body"></p>
+</div>
+</div>
+
+<div class="section">
+<h2>✅ Today</h2>
+<div id="actions"></div>
+</div>
+
+<div class="section">
+<h2>📖 Read</h2>
+<h3 id="art-title" style="color:#1abc9c;margin-bottom:10px"></h3>
+<p id="art-why" style="margin-bottom:10px;font-size:13px;color:#666"></p>
+<a id="art-link" target="_blank" style="display:inline-block;background:#1abc9c;color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:13px">Open</a>
+</div>
+</div>
+
+<script>
+function render(d) {
+  document.getElementById('date').textContent = d.dayOfWeek + ', ' + d.date;
+  
+  if (d.weather) {
+    const w = d.weather;
+    document.getElementById('weather').innerHTML = 
+      '<strong>Miami:</strong> ' + w.temp_range + 'F, ' + w.condition + '<br>' +
+      'Wind: ' + w.wind + ' | Rain: ' + w.chance_rain + ' | Humidity: ' + w.humidity;
+  }
+  
+  document.getElementById('news').innerHTML = (d.usNews || [])
+    .map(n => '<div class="item"><h3>' + n.title + '</h3><p>' + n.description + '</p></div>')
+    .join('');
+  
+  document.getElementById('miami').innerHTML = (d.miamiNews || [])
+    .map(n => '<div class="item"><h3>' + n.title + '</h3><p>' + n.description + '</p></div>')
+    .join('');
+  
+  if (d.celebration) {
+    document.getElementById('celeb-sec').style.display = 'block';
+    document.getElementById('celeb').textContent = 'Today is ' + d.celebration + '!';
+  }
+  
+  document.getElementById('upcoming').innerHTML = (d.upcoming || [])
+    .map(u => '<div class="upcoming"><strong>' + u.event + '</strong><br>' + u.daysUntil + ' days away</div>')
+    .join('');
+  
+  if (d.tip) {
+    document.getElementById('tip-title').textContent = d.tip.title;
+    document.getElementById('tip-body').textContent = d.tip.content;
+  }
+  
+  document.getElementById('actions').innerHTML = (d.actions || [])
+    .map((a, i) => '<div class="action"><h4>' + (i+1) + '. ' + a.action + '</h4><p><strong>' + a.time + '</strong> • ' + a.description + '</p></div>')
+    .join('');
+  
+  if (d.article) {
+    document.getElementById('art-title').textContent = '"' + d.article.title + '" — ' + d.article.source;
+    document.getElementById('art-why').textContent = d.article.reason;
+    document.getElementById('art-link').href = d.article.url;
+  }
+}
+
+function load() {
+  const base = window.location.pathname.split('/').filter(x => x).pop() || '';
+  const path = base ? '/' + base + '/data.json' : '/data.json';
+  const url = window.location.origin + path + '?t=' + Date.now();
+  
+  console.log('Loading from:', url);
+  fetch(url, { cache: 'no-store' })
+    .then(r => r.json())
+    .then(d => {
+      console.log('Got data, rendering...');
+      render(d);
+    })
+    .catch(e => {
+      console.error('Error:', e);
+      document.getElementById('news').textContent = 'Error: ' + e.message;
+    });
+}
+
+document.getElementById('refresh-btn').addEventListener('click', load);
+load();
+</script>
 </body>
 </html>
