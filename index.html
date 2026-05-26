@@ -10,209 +10,44 @@
     <link rel="manifest" href="./manifest.json">
     <title>Diem - Daily Dashboard</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
-        
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-        }
-        
-        .header {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            margin-bottom: 20px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        
-        .header h1 {
-            color: #333;
-            font-size: 28px;
-            margin-bottom: 5px;
-        }
-        
-        .header p {
-            color: #666;
-            font-size: 14px;
-        }
-        
-        .section {
-            background: white;
-            padding: 25px;
-            border-radius: 12px;
-            margin-bottom: 20px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        
-        .section h2 {
-            color: #667eea;
-            font-size: 18px;
-            margin-bottom: 15px;
-            border-bottom: 2px solid #667eea;
-            padding-bottom: 10px;
-        }
-        
-        .news-item, .action-item {
-            margin-bottom: 15px;
-            padding-bottom: 15px;
-            border-bottom: 1px solid #eee;
-        }
-        
-        .news-item:last-child, .action-item:last-child {
-            border-bottom: none;
-            margin-bottom: 0;
-            padding-bottom: 0;
-        }
-        
-        .news-item h3, .action-item h4 {
-            color: #333;
-            font-size: 15px;
-            margin-bottom: 5px;
-        }
-        
-        .news-item p, .action-item p {
-            color: #666;
-            font-size: 13px;
-            line-height: 1.5;
-        }
-        
-        .tip-box {
-            background: #f0f4ff;
-            padding: 20px;
-            border-left: 4px solid #667eea;
-            border-radius: 6px;
-        }
-        
-        .tip-box h3 {
-            color: #667eea;
-            font-size: 14px;
-            margin-bottom: 8px;
-            font-weight: 600;
-        }
-        
-        .tip-box p {
-            color: #333;
-            font-size: 14px;
-            line-height: 1.6;
-        }
-        
-        .article-rec {
-            background: #f0f8f4;
-            padding: 20px;
-            border-left: 4px solid #1abc9c;
-            border-radius: 6px;
-        }
-        
-        .article-rec h3 {
-            color: #1abc9c;
-            font-size: 14px;
-            margin-bottom: 8px;
-        }
-        
-        .article-rec p {
-            color: #333;
-            font-size: 13px;
-            margin-bottom: 10px;
-            line-height: 1.5;
-        }
-        
-        .article-rec a {
-            display: inline-block;
-            background: #1abc9c;
-            color: white;
-            padding: 8px 16px;
-            border-radius: 6px;
-            text-decoration: none;
-            font-size: 13px;
-            font-weight: 600;
-        }
-        
-        .article-rec a:hover {
-            background: #16a085;
-        }
-        
-        .goal-header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 15px;
-            border-radius: 8px 8px 0 0;
-            font-weight: 600;
-            font-size: 15px;
-        }
-        
-        .goal-body {
-            background: #fafafa;
-            padding: 15px;
-            border-radius: 0 0 8px 8px;
-        }
-        
-        .task {
-            display: flex;
-            align-items: center;
-            padding: 10px;
-            margin-bottom: 8px;
-            background: white;
-            border-radius: 6px;
-            border-left: 3px solid #ddd;
-        }
-        
-        .task.completed {
-            border-left-color: #2ecc71;
-            opacity: 0.7;
-        }
-        
-        .task input[type="checkbox"] {
-            width: 18px;
-            height: 18px;
-            margin-right: 12px;
-            cursor: pointer;
-        }
-        
-        .task label {
-            cursor: pointer;
-            flex: 1;
-            color: #333;
-            font-size: 14px;
-        }
-        
-        .task.completed label {
-            text-decoration: line-through;
-            color: #999;
-        }
-        
-        .progress-bar {
-            width: 100%;
-            height: 8px;
-            background: #e0e0e0;
-            border-radius: 4px;
-            overflow: hidden;
-            margin-top: 12px;
-        }
-        
-        .progress-fill {
-            height: 100%;
-            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
-            width: 0%;
-            transition: width 0.3s ease;
-        }
-        
-        .progress-text {
-            font-size: 12px;
-            color: #666;
-            margin-top: 6px;
-            text-align: right;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; padding: 20px; }
+        .container { max-width: 900px; margin: 0 auto; }
+        .header { background: white; padding: 30px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,.1); }
+        .header h1 { color: #333; font-size: 28px; margin-bottom: 5px; }
+        .header p { color: #666; font-size: 14px; }
+        .section { background: white; padding: 25px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,.1); }
+        .section h2 { color: #667eea; font-size: 18px; margin-bottom: 15px; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+        .news-item, .action-item { margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px solid #eee; }
+        .news-item:last-child, .action-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+        .news-item h3, .action-item h4 { color: #333; font-size: 15px; margin-bottom: 5px; }
+        .news-item p, .action-item p { color: #666; font-size: 13px; line-height: 1.5; }
+        .tip-box { background: #f0f4ff; padding: 20px; border-left: 4px solid #667eea; border-radius: 6px; }
+        .tip-box h3 { color: #667eea; font-size: 14px; margin-bottom: 8px; font-weight: 600; }
+        .tip-box p { color: #333; font-size: 14px; line-height: 1.6; }
+        .article-rec { background: #f0f8f4; padding: 20px; border-left: 4px solid #1abc9c; border-radius: 6px; }
+        .article-rec h3 { color: #1abc9c; font-size: 14px; margin-bottom: 8px; }
+        .article-rec p { color: #333; font-size: 13px; margin-bottom: 10px; line-height: 1.5; }
+        .article-rec a { display: inline-block; background: #1abc9c; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 13px; font-weight: 600; }
+        .article-rec a:hover { background: #16a085; }
+        .goal-header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; border-radius: 8px 8px 0 0; font-weight: 600; font-size: 15px; }
+        .goal-body { background: #fafafa; padding: 15px; border-radius: 0 0 8px 8px; }
+        .task { display: flex; align-items: center; padding: 10px; margin-bottom: 8px; background: white; border-radius: 6px; border-left: 3px solid #ddd; }
+        .task.completed { border-left-color: #2ecc71; opacity: 0.7; }
+        .task input[type="checkbox"] { width: 18px; height: 18px; margin-right: 12px; cursor: pointer; }
+        .task label { cursor: pointer; flex: 1; color: #333; font-size: 14px; }
+        .task.completed label { text-decoration: line-through; color: #999; }
+        .progress-bar { width: 100%; height: 8px; background: #e0e0e0; border-radius: 4px; overflow: hidden; margin-top: 12px; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); width: 0%; transition: width .3s ease; }
+        .progress-text { font-size: 12px; color: #666; margin-top: 6px; text-align: right; }
+        #refresh-btn { margin-top: 15px; padding: 8px 16px; background: #667eea; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; }
+        #refresh-btn:hover { background: #764ba2; }
+        #celebration-section { display: none; }
+        #celebration-section.show { display: block; }
+        .upcoming-item { padding: 10px 0; border-bottom: 1px solid #eee; }
+        .upcoming-item:last-child { border-bottom: none; }
+        .upcoming-item strong { color: #667eea; }
+        .weather-line { margin: 8px 0; font-size: 13px; color: #666; }
     </style>
 </head>
 <body>
@@ -220,12 +55,12 @@
         <div class="header">
             <h1>☕ Good Morning, Chris</h1>
             <p id="date-display">Loading...</p>
-            <div id="weather-section" style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #eee; font-size: 13px; color: #666;"></div>
-            <button id="refresh-btn" style="margin-top: 15px; padding: 8px 16px; background: #667eea; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px;">🔄 Refresh</button>
+            <div id="weather-section" style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #eee;"></div>
+            <button id="refresh-btn">🔄 Refresh</button>
         </div>
         
         <div class="section">
-            <h2>🌟 News</h2>
+            <h2>⭐ News</h2>
             <div id="news-section">Loading...</div>
         </div>
         
@@ -234,8 +69,8 @@
             <div id="miami-news-section">Loading...</div>
         </div>
         
-        <div class="section" id="celebration-section" style="display: none;">
-            <h2>🎆 Today's Celebration</h2>
+        <div class="section" id="celebration-section">
+            <h2>🎉 Today's Celebration</h2>
             <p id="celebration-text"></p>
         </div>
         
@@ -303,39 +138,69 @@
           fetch('./data.json?t=' + Date.now())
             .then(r => r.json())
             .then(data => {
-                const { date, dayOfWeek, news, tip, actions, article } = data;
+                const { date, dayOfWeek, usNews, miamiNews, tip, actions, article, weather, celebration, upcoming } = data;
                 
-                // Update date
+                // Date
                 document.getElementById('date-display').textContent = dayOfWeek + ', ' + date + ' • Your daily dashboard';
                 
-                // Update weather
-                if (data.weather) {
-                  const w = data.weather;
-                  document.getElementById('weather-section').innerHTML = 
-                    w.icon + ' <strong>Miami Weather:</strong> ' + w.temp + ', ' + w.condition + '<br>' +
-                    'Wind: ' + w.wind + ' | Rain: ' + w.chance_rain + ' | Humidity: ' + w.humidity;
+                // Weather
+                if (weather) {
+                    const w = weather;
+                    const weatherHTML = '<div class="weather-line"><strong>Miami Weather:</strong> ' + w.temp_range + 'F, ' + w.condition + '</div>' +
+                        '<div class="weather-line">Wind: ' + w.wind + ' | Rain: ' + w.chance_rain + ' | Humidity: ' + w.humidity + '</div>';
+                    document.getElementById('weather-section').innerHTML = weatherHTML;
                 }
                 
-                // Update news
-                let newsHTML = news.map(item => 
-                    '<div class="news-item"><h3>' + item.title + '</h3><p>' + item.description + '</p></div>'
-                ).join('');
-                document.getElementById('news-section').innerHTML = newsHTML;
+                // News
+                if (usNews && usNews.length > 0) {
+                    const newsHTML = usNews.map(n => 
+                        '<div class="news-item"><h3>' + (n.title || 'News') + '</h3><p>' + (n.description || '') + '</p></div>'
+                    ).join('');
+                    document.getElementById('news-section').innerHTML = newsHTML;
+                }
                 
-                // Update tip
-                document.getElementById('tip-title').textContent = tip.title;
-                document.getElementById('tip-content').textContent = tip.content;
+                // Miami News
+                if (miamiNews && miamiNews.length > 0) {
+                    const miamiHTML = miamiNews.map(n => 
+                        '<div class="news-item"><h3>' + (n.title || 'News') + '</h3><p>' + (n.description || '') + '</p></div>'
+                    ).join('');
+                    document.getElementById('miami-news-section').innerHTML = miamiHTML;
+                }
                 
-                // Update actions
-                let actionsHTML = actions.map((item, i) =>
-                    '<div class="action-item"><h4>' + (i+1) + '. ' + item.action + '</h4><p><strong>' + item.time + '</strong> • ' + item.description + '</p></div>'
-                ).join('');
-                document.getElementById('actions-section').innerHTML = actionsHTML;
+                // Celebration
+                if (celebration) {
+                    document.getElementById('celebration-section').classList.add('show');
+                    document.getElementById('celebration-text').textContent = 'Today is ' + celebration + '!';
+                }
                 
-                // Update article
-                document.getElementById('article-title').textContent = '"' + article.title + '" — ' + article.source;
-                document.getElementById('article-reason').textContent = 'Why read it: ' + article.reason;
-                document.getElementById('article-link').href = article.url;
+                // Upcoming
+                if (upcoming && upcoming.length > 0) {
+                    const upcomingHTML = upcoming.map(u => 
+                        '<div class="upcoming-item"><strong>' + u.event + '</strong><br><span style="font-size:12px;color:#999;">' + u.daysUntil + ' days away</span></div>'
+                    ).join('');
+                    document.getElementById('upcoming-section').innerHTML = upcomingHTML;
+                }
+                
+                // Tip
+                if (tip) {
+                    document.getElementById('tip-title').textContent = tip.title;
+                    document.getElementById('tip-content').textContent = tip.content;
+                }
+                
+                // Actions
+                if (actions && actions.length > 0) {
+                    const actionsHTML = actions.map((a, i) =>
+                        '<div class="action-item"><h4>' + (i+1) + '. ' + a.action + '</h4><p><strong>' + a.time + '</strong> • ' + a.description + '</p></div>'
+                    ).join('');
+                    document.getElementById('actions-section').innerHTML = actionsHTML;
+                }
+                
+                // Article
+                if (article) {
+                    document.getElementById('article-title').textContent = '"' + article.title + '" — ' + article.source;
+                    document.getElementById('article-reason').textContent = 'Why read it: ' + article.reason;
+                    document.getElementById('article-link').href = article.url;
+                }
             })
             .catch(e => console.error('Error loading content:', e));
         }
