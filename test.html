@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Test</title>
+</head>
+<body>
+<h1>If you see this, JavaScript works</h1>
+<p>data.json path test:</p>
+<button onclick="testFetch()">Test Fetch data.json</button>
+<div id="output"></div>
+
+<script>
+function testFetch() {
+  const url = '/data.json?t=' + Date.now();
+  document.getElementById('output').textContent = 'Trying to fetch: ' + url;
+  
+  fetch(url)
+    .then(r => {
+      document.getElementById('output').textContent = 'Response status: ' + r.status;
+      return r.text();
+    })
+    .then(text => {
+      document.getElementById('output').textContent = 'Got text, length: ' + text.length + ', first 100 chars: ' + text.substring(0, 100);
+    })
+    .catch(e => {
+      document.getElementById('output').textContent = 'Error: ' + e.message;
+    });
+}
+</script>
+</body>
+</html>
