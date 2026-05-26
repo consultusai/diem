@@ -3,26 +3,22 @@
   "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Cyannova Capital announces global launch at its first strategic reception in Hong Kong",
-      "description": "Cyannova Capital (“Cyannova” or the “Company”), a New York-based investment firm, announces its inaugural investment fund, Cyannova Capital, LP, at its private industry reception held in Hong Kong.",
-      "url": "https://cointelegraph.com/press-releases/cyannova-capital-announces-global-launch-at-its-first-strategic-reception-in-hong-kong",
-      "source": "Cointelegraph"
+      "title": "Expert.ai and Fincons Group Join Forces to Bring Neuro-Symbolic AI to Data-Driven Businesses",
+      "description": "The expanded partnership combines domain expertise, AI excellence and deep experience in architectures and systems integration to bring neuro-symbolic AI into core business processes. ROCKVILLE, Md., May 25, 2026 /PRNewswire/ -- Expert.ai, a leading provider …",
+      "url": "https://www.prnewswire.com/news-releases/expertai-and-fincons-group-join-forces-to-bring-neuro-symbolic-ai-to-data-driven-businesses-302780037.html"
     },
     {
-      "title": "Top 5 Performance Marketing Agencies in Gurgaon (2026)",
-      "description": "Discover the top 5 performance marketing agencies in Gurgaon, including I Create Brand. Compare services, ROI strategies.",
-      "url": "https://icreatebrand.com/top-performance-marketing-agencies-in-gurgaon-2026/",
-      "source": "Icreatebrand.com"
-    }
-  ],
-  "miamiNews": [
+      "title": "AI in Animal Health Market Size is Expected to Reach USD 12.8 Billion by 2035; Growth is Driven by Rapid Adoption of AI Tools for Productivity Pressure Globally | SNS Insider",
+      "description": "AI in Animal Health Market Size is Expected to Reach USD 12.8 Billion by 2035; Growth is Driven by Rapid Adoption of AI Tools for Productivity Pressure Globally | SNS Insiderbusinessupturn.com",
+      "url": "https://www.businessupturn.com/brand-post/ai-in-animal-health-market-size-is-expected-to-reach-usd-12-8-billion-by-2035-growth-is-driven-by-rapid-adoption-of-ai-tools-for-productivity-pressure-globally-sns-insider/"
+    },
     {
-      "title": "Florida State Finally Offers Talented Local Prospect",
-      "description": "The Seminoles have offered a recruit from just down the road.",
-      "url": "https://www.si.com/college/fsu/florida-state-seminoles-recruiting/florida-state-finally-offers-talented-local-prospect-cyion-smith-",
-      "source": "Sports Illustrated"
+      "title": "AI Bubble Fears Grow as Big Tech Allegedly Pays Itself in Cloud Loop",
+      "description": "AI bubble fears grow as Big Tech allegedly recycles AI investments into cloud revenue, fueling dot-com style worries.",
+      "url": "https://beincrypto.com/ai-boom-fake-revenue-bubble/"
     }
   ],
+  "miamiNews": [],
   "tip": {
     "title": "The 80/20 Rule for Relationships",
     "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
@@ -45,10 +41,10 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
     "temp_range": "77-87",
@@ -75,5 +71,5 @@
       "daysUntil": 17
     }
   ],
-  "generatedAt": "2026-05-26T13:22:48.571Z"
+  "generatedAt": "2026-05-26T13:29:08.715Z"
 }

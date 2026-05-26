@@ -85,10 +85,46 @@ function getTodaysCelebration() {
   return holidays[key] || null;
 }
 
-function fetchNews(query, resultCount = 5) {
+function getYesterdayDate() {
+  const d = new Date();
+  d.setDate(d.getDate() - 1);
+  return d.toISOString().split('T')[0];
+}
+
+function scoreArticle(article) {
+  const keywords = {
+    ai: 5,
+    'machine learning': 5,
+    data: 4,
+    startup: 4,
+    founder: 4,
+    automation: 4,
+    algorithm: 3,
+    bigquery: 4,
+    analytics: 3,
+    tech: 2,
+    business: 2,
+    innovation: 2,
+    api: 3,
+    cloud: 2,
+    software: 2
+  };
+  
+  let score = 0;
+  const text = (article.title + ' ' + (article.description || '')).toLowerCase();
+  
+  Object.entries(keywords).forEach(([keyword, points]) => {
+    if (text.includes(keyword)) score += points;
+  });
+  
+  return score;
+}
+
+function fetchNews(query, resultCount = 15) {
   return new Promise((resolve) => {
     const searchQuery = encodeURIComponent(query);
-    const url = `https://newsapi.org/v2/everything?q=${searchQuery}&sortBy=publishedAt&language=en&apiKey=${NEWSAPI_KEY}&pageSize=${resultCount}`;
+    const yesterday = getYesterdayDate();
+    const url = `https://newsapi.org/v2/everything?q=${searchQuery}&from=${yesterday}&sortBy=publishedAt&language=en&apiKey=${NEWSAPI_KEY}&pageSize=${resultCount}`;
     
     const urlObj = new URL(url);
     const options = {
@@ -97,6 +133,7 @@ function fetchNews(query, resultCount = 5) {
       method: 'GET',
       headers: { 'User-Agent': 'Diem Dashboard' }
     };
+    
     https.request(options, (res) => {
       let data = '';
       res.on('data', chunk => data += chunk);
@@ -201,17 +238,38 @@ async function generateDashboard() {
   const dayOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][now.getDay()];
   const dateStr = now.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
   
-  console.log('Fetching news and weather...');
+  console.log('Fetching news from yesterday...');
   
-  const [usNewsRaw, miamiNewsRaw, weather] = await Promise.all([
-    fetchNews('AI technology automation business', 3),
-    fetchNews('Miami Florida news', 2),
+  const [aiNewsRaw, dataNewsRaw, startupNewsRaw, weather] = await Promise.all([
+    fetchNews('artificial intelligence AI', 15),
+    fetchNews('data analytics BigQuery', 15),
+    fetchNews('startup founder automation', 15),
     fetchWeather()
   ]);
   
-  // Take top 2 from US news, top 1 from Miami
-  const usNews = usNewsRaw.slice(0, 2);
-  const miamiNews = miamiNewsRaw.slice(0, 1);
+  // Combine all news
+  const allNews = [...aiNewsRaw, ...dataNewsRaw, ...startupNewsRaw];
+  
+  // Score and filter
+  const scored = allNews
+    .map(a => ({ ...a, score: scoreArticle(a) }))
+    .filter(a => a.score > 0)
+    .sort((a, b) => b.score - a.score);
+  
+  // Dedupe by title and take top 3
+  const seen = new Set();
+  const finalNews = [];
+  
+  for (const article of scored) {
+    if (seen.has(article.title)) continue;
+    if (finalNews.length >= 3) break;
+    seen.add(article.title);
+    finalNews.push({
+      title: article.title,
+      description: article.description,
+      url: article.url
+    });
+  }
   
   const todayTip = tips[Math.floor(Math.random() * tips.length)];
   const todayArticle = articles[Math.floor(Math.random() * articles.length)];
@@ -221,8 +279,8 @@ async function generateDashboard() {
   const data = {
     date: dateStr,
     dayOfWeek: dayOfWeek,
-    usNews: usNews,
-    miamiNews: miamiNews,
+    usNews: finalNews,
+    miamiNews: [],
     tip: todayTip,
     actions: dailyActions,
     article: todayArticle,
@@ -234,7 +292,7 @@ async function generateDashboard() {
   
   fs.writeFileSync('data.json', JSON.stringify(data, null, 2));
   console.log('OK - Dashboard generated:', dateStr);
-  console.log('US News:', usNews.length, 'Miami News:', miamiNews.length);
+  console.log('Final news count:', finalNews.length);
 }
 
 generateDashboard().catch(e => console.error('Error:', e.message));
