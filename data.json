@@ -3,9 +3,9 @@
   "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Expert.ai and Fincons Group Join Forces to Bring Neuro-Symbolic AI to Data-Driven Businesses",
-      "description": "The expanded partnership combines domain expertise, AI excellence and deep experience in architectures and systems integration to bring neuro-symbolic AI into core business processes. ROCKVILLE, Md., May 25, 2026 /PRNewswire/ -- Expert.ai, a leading provider …",
-      "url": "https://www.prnewswire.com/news-releases/expertai-and-fincons-group-join-forces-to-bring-neuro-symbolic-ai-to-data-driven-businesses-302780037.html"
+      "title": "FREE ISN'T FREE: NEW REPORT BY WEB3 FOUNDATION FINDS BIG TECH AND AI EARN UP TO $831,000 IN LIFETIME VALUE FROM THE DATA OF EACH U.S. INTERNET USER",
+      "description": "ZUG, Switzerland, May 25, 2026 /PRNewswire/ -- A groundbreaking new report published today revealed that Big Tech and AI companies earn up to $831,497 in commercial value from each American internet user over a digital lifetime. This equates to a staggering $…",
+      "url": "https://www.prnewswire.com/news-releases/free-isnt-free-new-report-by-web3-foundation-finds-big-tech-and-ai-earn-up-to-831-000-in-lifetime-value-from-the-data-of-each-us-internet-user-302781133.html"
     },
     {
       "title": "AI in Animal Health Market Size is Expected to Reach USD 12.8 Billion by 2035; Growth is Driven by Rapid Adoption of AI Tools for Productivity Pressure Globally | SNS Insider",
@@ -18,10 +18,16 @@
       "url": "https://beincrypto.com/ai-boom-fake-revenue-bubble/"
     }
   ],
-  "miamiNews": [],
+  "miamiNews": [
+    {
+      "title": "U.S. attorney in Miami sends ‘message’ to deep state with indictment against ex-prosecutor",
+      "description": "Charges against former Assistant U.S. Attorney Carmen Mercedes Lineberger carry more than 20 years in prison. Article Dig Deeper In less than a week, the U.S. attorney in Miami supervising the probe of Obama-Biden era government weaponization secured indictme…",
+      "url": "https://freerepublic.com/focus/f-news/4380866/posts"
+    }
+  ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -41,10 +47,10 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
     "temp_range": "77-87",
@@ -53,7 +59,10 @@
     "humidity": "74%",
     "chance_rain": "100%"
   },
-  "celebration": "Memorial Day (observed)",
+  "celebration": {
+    "holiday": "Memorial Day (observed)",
+    "event": "In 1993, the first website was published on the internet (www.info.cern.ch) - celebrating the birth of the web."
+  },
   "upcoming": [
     {
       "date": "2026-06-05",
@@ -71,5 +80,5 @@
       "daysUntil": 17
     }
   ],
-  "generatedAt": "2026-05-26T13:29:08.715Z"
+  "generatedAt": "2026-05-26T13:35:07.104Z"
 }

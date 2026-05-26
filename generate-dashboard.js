@@ -8,10 +8,14 @@ const importantDates = [
   { date: '2026-06-07', event: 'Guest bedroom ready (friends arriving)' },
   { date: '2026-06-12', event: 'Jennies mom here' },
   { date: '2026-06-18', event: 'NYC for US Open' },
+  { date: '2026-06-19', event: 'Juneteenth' },
   { date: '2026-06-28', event: 'Key West' },
-  { date: '2026-07-04', event: 'Puerto Rico' },
+  { date: '2026-07-04', event: 'Puerto Rico & Independence Day' },
   { date: '2026-07-24', event: 'MF birthday weekend' },
-  { date: '2026-09-16', event: 'Bruno Mars concert (Charlie + Hayley)' }
+  { date: '2026-09-01', event: 'Labor Day' },
+  { date: '2026-09-16', event: 'Bruno Mars concert (Charlie + Hayley)' },
+  { date: '2026-11-26', event: 'Thanksgiving' },
+  { date: '2026-12-25', event: 'Christmas' }
 ];
 
 const tips = [
@@ -77,12 +81,29 @@ const holidays = {
   '12-25': 'Christmas'
 };
 
+const historicalEvents = {
+  '05-26': 'In 1993, the first website was published on the internet (www.info.cern.ch) - celebrating the birth of the web.',
+  '06-19': 'In 1865, slaves in Galveston, Texas were finally freed, two years after the Emancipation Proclamation.',
+  '07-04': 'In 1776, the Declaration of Independence was adopted in Philadelphia.',
+  '12-25': 'In 1 AD (traditional date), Jesus Christ was born.'
+};
+
 function getTodaysCelebration() {
   const now = new Date();
   const month = String(now.getMonth() + 1).padStart(2, '0');
   const day = String(now.getDate()).padStart(2, '0');
   const key = month + '-' + day;
-  return holidays[key] || null;
+  const holiday = holidays[key];
+  const event = historicalEvents[key];
+  
+  if (holiday && event) {
+    return { holiday, event };
+  } else if (holiday) {
+    return { holiday, event: null };
+  } else if (event) {
+    return { holiday: null, event };
+  }
+  return null;
 }
 
 function getYesterdayDate() {
@@ -240,15 +261,20 @@ async function generateDashboard() {
   
   console.log('Fetching news from yesterday...');
   
-  const [aiNewsRaw, dataNewsRaw, startupNewsRaw, weather] = await Promise.all([
+  const [aiNewsRaw, dataNewsRaw, startupNewsRaw, miamiNewsRaw, weather] = await Promise.all([
     fetchNews('artificial intelligence AI', 15),
     fetchNews('data analytics BigQuery', 15),
     fetchNews('startup founder automation', 15),
+    fetchNews('Miami Florida', 20),
     fetchWeather()
   ]);
   
-  // Combine all news
+  // Combine all news (keep Miami separate)
   const allNews = [...aiNewsRaw, ...dataNewsRaw, ...startupNewsRaw];
+  const miamiScored = miamiNewsRaw
+    .map(a => ({ ...a, score: scoreArticle(a) }))
+    .filter(a => a.score > 0)
+    .sort((a, b) => b.score - a.score);
   
   // Score and filter
   const scored = allNews
@@ -273,26 +299,58 @@ async function generateDashboard() {
   
   const todayTip = tips[Math.floor(Math.random() * tips.length)];
   const todayArticle = articles[Math.floor(Math.random() * articles.length)];
-  const celebration = getTodaysCelebration();
+  const celebrationObj = getTodaysCelebration();
+  const celebration = celebrationObj ? JSON.stringify(celebrationObj) : null;
   const upcoming = getUpcomingEvents();
+  
+  // Get top Miami news (be more lenient, take first non-scored if needed)
+  const seen2 = new Set();
+  let finalMiamiNews = [];
+  
+  // First try scored articles
+  for (const article of miamiScored) {
+    if (seen2.has(article.title)) continue;
+    if (finalMiamiNews.length >= 1) break;
+    seen2.add(article.title);
+    finalMiamiNews.push({
+      title: article.title,
+      description: article.description,
+      url: article.url
+    });
+  }
+  
+  // If no scored articles, take first Miami article regardless
+  if (finalMiamiNews.length === 0 && miamiNewsRaw.length > 0) {
+    console.log('Taking unscored Miami article, raw count:', miamiNewsRaw.length);
+    finalMiamiNews.push({
+      title: miamiNewsRaw[0].title,
+      description: miamiNewsRaw[0].description,
+      url: miamiNewsRaw[0].url
+    });
+  }
+  
+  if (finalMiamiNews.length === 0) {
+    console.log('No Miami news found. Raw count:', miamiNewsRaw.length);
+    // If truly no Miami news, just show a friendly message
+  }
   
   const data = {
     date: dateStr,
     dayOfWeek: dayOfWeek,
     usNews: finalNews,
-    miamiNews: [],
+    miamiNews: finalMiamiNews,
     tip: todayTip,
     actions: dailyActions,
     article: todayArticle,
     weather: weather,
-    celebration: celebration,
+    celebration: celebrationObj ? { holiday: celebrationObj.holiday, event: celebrationObj.event } : null,
     upcoming: upcoming,
     generatedAt: now.toISOString()
   };
   
   fs.writeFileSync('data.json', JSON.stringify(data, null, 2));
   console.log('OK - Dashboard generated:', dateStr);
-  console.log('Final news count:', finalNews.length);
+  console.log('Final news count:', finalNews.length, '| Miami:', finalMiamiNews.length);
 }
 
 generateDashboard().catch(e => console.error('Error:', e.message));
