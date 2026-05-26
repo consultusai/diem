@@ -3,26 +3,29 @@
   "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "OpenAI Announces New AI Model",
-      "description": "Latest advances in artificial intelligence continue to shape the tech landscape.",
-      "url": "https://openai.com"
+      "title": "Cyannova Capital announces global launch at its first strategic reception in Hong Kong",
+      "description": "Cyannova Capital (“Cyannova” or the “Company”), a New York-based investment firm, announces its inaugural investment fund, Cyannova Capital, LP, at its private industry reception held in Hong Kong.",
+      "url": "https://cointelegraph.com/press-releases/cyannova-capital-announces-global-launch-at-its-first-strategic-reception-in-hong-kong",
+      "source": "Cointelegraph"
     },
     {
-      "title": "Tech Companies Report Strong Q2 Earnings",
-      "description": "Major tech firms exceed expectations as cloud adoption accelerates.",
-      "url": "https://techcrunch.com"
+      "title": "Top 5 Performance Marketing Agencies in Gurgaon (2026)",
+      "description": "Discover the top 5 performance marketing agencies in Gurgaon, including I Create Brand. Compare services, ROI strategies.",
+      "url": "https://icreatebrand.com/top-performance-marketing-agencies-in-gurgaon-2026/",
+      "source": "Icreatebrand.com"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami Hosts Major Tech Conference",
-      "description": "South Florida emerging as a hub for technology innovation and startups.",
-      "url": "https://local.miami"
+      "title": "Florida State Finally Offers Talented Local Prospect",
+      "description": "The Seminoles have offered a recruit from just down the road.",
+      "url": "https://www.si.com/college/fsu/florida-state-seminoles-recruiting/florida-state-finally-offers-talented-local-prospect-cyion-smith-",
+      "source": "Sports Illustrated"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -31,14 +34,14 @@
       "description": "You have 94 drafts ready. Start with 10 - use Green Tiger password. Track opens in BigQuery."
     },
     {
-      "action": "Debug NewsAPI Key",
-      "time": "15 min",
-      "description": "Test NewsAPI key at newsapi.org. Verify account and key are active. Report back once confirmed."
-    },
-    {
       "action": "Review Bed Options Online",
       "time": "20 min",
       "description": "Check Wayfair, Article, West Elm for full-size beds in gray/navy. Save 3 options with prices."
+    },
+    {
+      "action": "Check on Mattress Delivery",
+      "time": "10 min",
+      "description": "Confirm delivery timeline. Mattress should arrive before June 7 when friends arrive."
     }
   ],
   "article": {
@@ -50,8 +53,8 @@
   "weather": {
     "temp_range": "77-87",
     "condition": "Partly cloudy",
-    "wind": "18 mph",
-    "humidity": "79%",
+    "wind": "19 mph",
+    "humidity": "74%",
     "chance_rain": "100%"
   },
   "celebration": "Memorial Day (observed)",
@@ -72,5 +75,5 @@
       "daysUntil": 17
     }
   ],
-  "generatedAt": "2026-05-26T12:03:28.168Z"
+  "generatedAt": "2026-05-26T13:22:48.571Z"
 }

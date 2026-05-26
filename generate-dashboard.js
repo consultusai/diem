@@ -1,6 +1,8 @@
 const fs = require('fs');
 const https = require('https');
 
+const NEWSAPI_KEY = '46d50d8790614a478c6fb3ca6ea2d2f0';
+
 const importantDates = [
   { date: '2026-06-05', event: 'Clay and Maura coming to Miami' },
   { date: '2026-06-07', event: 'Guest bedroom ready (friends arriving)' },
@@ -11,29 +13,6 @@ const importantDates = [
   { date: '2026-07-24', event: 'MF birthday weekend' },
   { date: '2026-09-16', event: 'Bruno Mars concert (Charlie + Hayley)' }
 ];
-
-// Manually curated news - update each morning
-const newsStories = {
-  usNews: [
-    {
-      title: "OpenAI Announces New AI Model",
-      description: "Latest advances in artificial intelligence continue to shape the tech landscape.",
-      url: "https://openai.com"
-    },
-    {
-      title: "Tech Companies Report Strong Q2 Earnings",
-      description: "Major tech firms exceed expectations as cloud adoption accelerates.",
-      url: "https://techcrunch.com"
-    }
-  ],
-  miamiNews: [
-    {
-      title: "Miami Hosts Major Tech Conference",
-      description: "South Florida emerging as a hub for technology innovation and startups.",
-      url: "https://local.miami"
-    }
-  ]
-};
 
 const tips = [
   {
@@ -61,14 +40,14 @@ const dailyActions = [
     description: "You have 94 drafts ready. Start with 10 - use Green Tiger password. Track opens in BigQuery."
   },
   {
-    action: "Debug NewsAPI Key",
-    time: "15 min",
-    description: "Test NewsAPI key at newsapi.org. Verify account and key are active. Report back once confirmed."
-  },
-  {
     action: "Review Bed Options Online",
     time: "20 min",
     description: "Check Wayfair, Article, West Elm for full-size beds in gray/navy. Save 3 options with prices."
+  },
+  {
+    action: "Check on Mattress Delivery",
+    time: "10 min",
+    description: "Confirm delivery timeline. Mattress should arrive before June 7 when friends arrive."
   }
 ];
 
@@ -104,6 +83,50 @@ function getTodaysCelebration() {
   const day = String(now.getDate()).padStart(2, '0');
   const key = month + '-' + day;
   return holidays[key] || null;
+}
+
+function fetchNews(query, resultCount = 5) {
+  return new Promise((resolve) => {
+    const searchQuery = encodeURIComponent(query);
+    const url = `https://newsapi.org/v2/everything?q=${searchQuery}&sortBy=publishedAt&language=en&apiKey=${NEWSAPI_KEY}&pageSize=${resultCount}`;
+    
+    const urlObj = new URL(url);
+    const options = {
+      hostname: urlObj.hostname,
+      path: urlObj.pathname + urlObj.search,
+      method: 'GET',
+      headers: { 'User-Agent': 'Diem Dashboard' }
+    };
+    https.request(options, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try {
+          const json = JSON.parse(data);
+          if (json.status !== 'ok' || !json.articles) {
+            console.log('NewsAPI error:', json.message || 'Unknown error');
+            resolve([]);
+            return;
+          }
+          
+          const articles = json.articles.map(a => ({
+            title: a.title || 'News',
+            description: a.description || a.content || 'Read more',
+            url: a.url || '',
+            source: a.source.name || 'News'
+          }));
+          
+          resolve(articles);
+        } catch (e) {
+          console.log('Parse error:', e.message);
+          resolve([]);
+        }
+      });
+    }).on('error', (e) => {
+      console.log('Request error:', e.message);
+      resolve([]);
+    }).end();
+  });
 }
 
 function fetchWeather() {
@@ -155,7 +178,7 @@ function fetchWeather() {
         humidity: '--',
         chance_rain: '--'
       });
-    });
+    }).end();
   });
 }
 
@@ -178,7 +201,17 @@ async function generateDashboard() {
   const dayOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][now.getDay()];
   const dateStr = now.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
   
-  const weather = await fetchWeather();
+  console.log('Fetching news and weather...');
+  
+  const [usNewsRaw, miamiNewsRaw, weather] = await Promise.all([
+    fetchNews('AI technology automation business', 3),
+    fetchNews('Miami Florida news', 2),
+    fetchWeather()
+  ]);
+  
+  // Take top 2 from US news, top 1 from Miami
+  const usNews = usNewsRaw.slice(0, 2);
+  const miamiNews = miamiNewsRaw.slice(0, 1);
   
   const todayTip = tips[Math.floor(Math.random() * tips.length)];
   const todayArticle = articles[Math.floor(Math.random() * articles.length)];
@@ -188,8 +221,8 @@ async function generateDashboard() {
   const data = {
     date: dateStr,
     dayOfWeek: dayOfWeek,
-    usNews: newsStories.usNews,
-    miamiNews: newsStories.miamiNews,
+    usNews: usNews,
+    miamiNews: miamiNews,
     tip: todayTip,
     actions: dailyActions,
     article: todayArticle,
@@ -201,6 +234,7 @@ async function generateDashboard() {
   
   fs.writeFileSync('data.json', JSON.stringify(data, null, 2));
   console.log('OK - Dashboard generated:', dateStr);
+  console.log('US News:', usNews.length, 'Miami News:', miamiNews.length);
 }
 
 generateDashboard().catch(e => console.error('Error:', e.message));
