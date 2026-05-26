@@ -42,17 +42,17 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "77-88",
+    "temp_range": "77-87",
     "condition": "Partly cloudy",
-    "wind": "16 mph",
+    "wind": "18 mph",
     "humidity": "79%",
-    "chance_rain": "0%"
+    "chance_rain": "100%"
   },
   "celebration": "Memorial Day (observed)",
   "upcoming": [
@@ -72,5 +72,5 @@
       "daysUntil": 17
     }
   ],
-  "generatedAt": "2026-05-26T03:56:08.898Z"
+  "generatedAt": "2026-05-26T12:03:28.168Z"
 }
