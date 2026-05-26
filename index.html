@@ -220,6 +220,7 @@
         <div class="header">
             <h1>☕ Good Morning, Will</h1>
             <p id="date-display">Loading...</p>
+            <div id="weather-section" style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #eee; font-size: 13px; color: #666;"></div>
         </div>
         
         <div class="section">
@@ -290,6 +291,14 @@
                 
                 // Update date
                 document.getElementById('date-display').textContent = dayOfWeek + ', ' + date + ' • Your daily dashboard';
+                
+                // Update weather
+                if (data.weather) {
+                  const w = data.weather;
+                  document.getElementById('weather-section').innerHTML = 
+                    w.icon + ' <strong>Miami Weather:</strong> ' + w.temp + ', ' + w.condition + '<br>' +
+                    'Wind: ' + w.wind + ' | Rain: ' + w.chance_rain + ' | Humidity: ' + w.humidity;
+                }
                 
                 // Update news
                 let newsHTML = news.map(item => 

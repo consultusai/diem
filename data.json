@@ -37,10 +37,18 @@
     }
   ],
   "article": {
-    "title": "The Art of Saying No",
-    "source": "Harvard Business Review",
-    "reason": "As you scale your consulting practice, saying no to the wrong clients matters more. Filter before you burn out.",
-    "url": "https://hbr.org"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, this is a good reminder to set expectations early. Avoid resentment before it starts.",
+    "url": "https://www.theatlantic.com"
   },
-  "generatedAt": "2026-05-26T00:56:04.464Z"
+  "weather": {
+    "temp": "80°F",
+    "condition": "Partly cloudy",
+    "wind": "18 mph",
+    "humidity": "85%",
+    "chance_rain": "0%",
+    "icon": "☁️"
+  },
+  "generatedAt": "2026-05-26T01:30:34.710Z"
 }

@@ -1,4 +1,5 @@
 const fs = require('fs');
+const https = require('https');
 
 const aiNews = [
   {
@@ -81,7 +82,50 @@ const articles = [
   }
 ];
 
-function generateDashboard() {
+function fetchWeather() {
+  return new Promise((resolve) => {
+    https.get('https://wttr.in/Miami?format=j1', (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try {
+          const weather = JSON.parse(data);
+          const current = weather.current_condition[0];
+          const today = weather.weather[0];
+          
+          resolve({
+            temp: current.temp_F + '°F',
+            condition: current.weatherDesc[0].value,
+            wind: current.windspeedMiles + ' mph',
+            humidity: current.humidity + '%',
+            chance_rain: today.hourly[0].chanceofrain + '%',
+            icon: current.weatherCode === 1000 ? '☀️' : current.weatherCode < 1000 ? '☁️' : '🌧️'
+          });
+        } catch (e) {
+          resolve({
+            temp: '--',
+            condition: 'Unable to fetch',
+            wind: '--',
+            humidity: '--',
+            chance_rain: '--',
+            icon: '❓'
+          });
+        }
+      });
+    }).on('error', () => {
+      resolve({
+        temp: '--',
+        condition: 'Unable to fetch',
+        wind: '--',
+        humidity: '--',
+        chance_rain: '--',
+        icon: '❓'
+      });
+    });
+  });
+}
+
+async function generateDashboard() {
   const now = new Date();
   const dayOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][now.getDay()];
   const dateStr = now.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -90,6 +134,7 @@ function generateDashboard() {
   const todayTip = tips[Math.floor(Math.random() * tips.length)];
   const todayActions = dailyActions;
   const todayArticle = articles[Math.floor(Math.random() * articles.length)];
+  const weather = await fetchWeather();
   
   const data = {
     date: dateStr,
@@ -98,6 +143,7 @@ function generateDashboard() {
     tip: todayTip,
     actions: todayActions,
     article: todayArticle,
+    weather: weather,
     generatedAt: now.toISOString()
   };
   
