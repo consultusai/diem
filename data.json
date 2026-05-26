@@ -1,11 +1,28 @@
 {
   "date": "May 26, 2026",
   "dayOfWeek": "Tuesday",
-  "usNews": [],
-  "miamiNews": [],
+  "usNews": [
+    {
+      "title": "OpenAI Announces New AI Model",
+      "description": "Latest advances in artificial intelligence continue to shape the tech landscape.",
+      "url": "https://openai.com"
+    },
+    {
+      "title": "Tech Companies Report Strong Q2 Earnings",
+      "description": "Major tech firms exceed expectations as cloud adoption accelerates.",
+      "url": "https://techcrunch.com"
+    }
+  ],
+  "miamiNews": [
+    {
+      "title": "Miami Hosts Major Tech Conference",
+      "description": "South Florida emerging as a hub for technology innovation and startups.",
+      "url": "https://local.miami"
+    }
+  ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work. Apply this to your PMC outreach tracking."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -14,14 +31,14 @@
       "description": "You have 94 drafts ready. Start with 10 - use Green Tiger password. Track opens in BigQuery."
     },
     {
+      "action": "Debug NewsAPI Key",
+      "time": "15 min",
+      "description": "Test NewsAPI key at newsapi.org. Verify account and key are active. Report back once confirmed."
+    },
+    {
       "action": "Review Bed Options Online",
       "time": "20 min",
       "description": "Check Wayfair, Article, West Elm for full-size beds in gray/navy. Save 3 options with prices."
-    },
-    {
-      "action": "Confirm Mattress Dimensions",
-      "time": "10 min",
-      "description": "Full-size mattress specs: 54 x 75 inches. Check delivery timelines. Order by Thursday."
     }
   ],
   "article": {
@@ -31,12 +48,11 @@
     "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "77-88F",
+    "temp_range": "77-88",
     "condition": "Partly cloudy",
     "wind": "16 mph",
     "humidity": "79%",
-    "chance_rain": "0%",
-    "icon": "cloudy"
+    "chance_rain": "0%"
   },
   "celebration": "Memorial Day (observed)",
   "upcoming": [
@@ -56,5 +72,5 @@
       "daysUntil": 17
     }
   ],
-  "generatedAt": "2026-05-26T03:46:29.143Z"
+  "generatedAt": "2026-05-26T03:56:08.898Z"
 }
