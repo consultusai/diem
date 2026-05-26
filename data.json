@@ -1,29 +1,17 @@
 {
   "date": "May 26, 2026",
   "dayOfWeek": "Tuesday",
-  "news": [
-    {
-      "title": "OpenAI Releases GPT-4.5 with Extended Reasoning",
-      "description": "New model shows 40% improvement on complex reasoning tasks. Better for code generation and data analysis — relevant for your BigQuery/Dataform workflows."
-    },
-    {
-      "title": "Anthropic's Constitutional AI Proves Safer Than RLHF Alone",
-      "description": "New research suggests rule-based AI alignment works better at scale. Could impact how you structure automation workflows."
-    },
-    {
-      "title": "AI Companies Hit $200B Valuation Milestone",
-      "description": "VC funding surges as enterprise AI adoption accelerates. More client interest in AI-powered automation — opportunity for your consulting practice."
-    }
-  ],
+  "usNews": [],
+  "miamiNews": [],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach. Focus beats multitasking."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work. Apply this to your PMC outreach tracking."
   },
   "actions": [
     {
       "action": "Send 10 More PMC Outreach Emails",
       "time": "30 min",
-      "description": "You have 94 drafts ready. Start with 10 — use 'Green Tiger' password. Track opens in BigQuery."
+      "description": "You have 94 drafts ready. Start with 10 - use Green Tiger password. Track opens in BigQuery."
     },
     {
       "action": "Review Bed Options Online",
@@ -33,22 +21,40 @@
     {
       "action": "Confirm Mattress Dimensions",
       "time": "10 min",
-      "description": "Full-size mattress specs: 54\" x 75\". Check delivery timelines (usually 5-7 days). Order by Thursday."
+      "description": "Full-size mattress specs: 54 x 75 inches. Check delivery timelines. Order by Thursday."
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, this is a good reminder to set expectations early. Avoid resentment before it starts.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp": "80°F",
+    "temp_range": "77-88F",
     "condition": "Partly cloudy",
-    "wind": "18 mph",
-    "humidity": "85%",
+    "wind": "16 mph",
+    "humidity": "79%",
     "chance_rain": "0%",
-    "icon": "☁️"
+    "icon": "cloudy"
   },
-  "generatedAt": "2026-05-26T01:30:34.710Z"
+  "celebration": "Memorial Day (observed)",
+  "upcoming": [
+    {
+      "date": "2026-06-05",
+      "event": "Clay and Maura coming to Miami",
+      "daysUntil": 10
+    },
+    {
+      "date": "2026-06-07",
+      "event": "Guest bedroom ready (friends arriving)",
+      "daysUntil": 12
+    },
+    {
+      "date": "2026-06-12",
+      "event": "Jennies mom here",
+      "daysUntil": 17
+    }
+  ],
+  "generatedAt": "2026-05-26T03:46:29.143Z"
 }

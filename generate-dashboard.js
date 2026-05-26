@@ -1,27 +1,17 @@
 const fs = require('fs');
 const https = require('https');
 
-const aiNews = [
-  {
-    title: "OpenAI Releases GPT-4.5 with Extended Reasoning",
-    description: "New model shows 40% improvement on complex reasoning tasks. Better for code generation and data analysis — relevant for your BigQuery/Dataform workflows."
-  },
-  {
-    title: "Anthropic's Constitutional AI Proves Safer Than RLHF Alone",
-    description: "New research suggests rule-based AI alignment works better at scale. Could impact how you structure automation workflows."
-  },
-  {
-    title: "AI Companies Hit $200B Valuation Milestone",
-    description: "VC funding surges as enterprise AI adoption accelerates. More client interest in AI-powered automation — opportunity for your consulting practice."
-  },
-  {
-    title: "Google Launches Gemini 2.0 with Multimodal Capabilities",
-    description: "New API supports video, audio, and text simultaneously. Useful for building richer client dashboards and automation tools."
-  },
-  {
-    title: "Stripe Integrates AI for Fraud Prevention",
-    description: "ML models now catch 99% of fraudulent transactions. Payment processors getting smarter — consider this for N8N workflows."
-  }
+const NEWSAPI_KEY = 'f8679757-9b61-4d6b-adf4-99994b3019cd';
+
+const importantDates = [
+  { date: '2026-06-05', event: 'Clay and Maura coming to Miami' },
+  { date: '2026-06-07', event: 'Guest bedroom ready (friends arriving)' },
+  { date: '2026-06-12', event: "Jennies mom here" },
+  { date: '2026-06-18', event: 'NYC for US Open' },
+  { date: '2026-06-28', event: 'Key West' },
+  { date: '2026-07-04', event: 'Puerto Rico' },
+  { date: '2026-07-24', event: 'MF birthday weekend' },
+  { date: '2026-09-16', event: 'Bruno Mars concert (Charlie + Hayley)' }
 ];
 
 const tips = [
@@ -35,7 +25,7 @@ const tips = [
   },
   {
     title: "The 80/20 Rule for Relationships",
-    content: "80% of your relationship happiness comes from 20% of your time together. With your friends visiting, focus that 20% on quality moments — no distractions, full presence."
+    content: "80% of your relationship happiness comes from 20% of your time together. With your friends visiting, focus that 20% on quality moments without distractions."
   },
   {
     title: "One Thing Rule for Productivity",
@@ -47,7 +37,7 @@ const dailyActions = [
   {
     action: "Send 10 More PMC Outreach Emails",
     time: "30 min",
-    description: "You have 94 drafts ready. Start with 10 — use 'Green Tiger' password. Track opens in BigQuery."
+    description: "You have 94 drafts ready. Start with 10 - use Green Tiger password. Track opens in BigQuery."
   },
   {
     action: "Review Bed Options Online",
@@ -57,7 +47,7 @@ const dailyActions = [
   {
     action: "Confirm Mattress Dimensions",
     time: "10 min",
-    description: "Full-size mattress specs: 54\" x 75\". Check delivery timelines (usually 5-7 days). Order by Thursday."
+    description: "Full-size mattress specs: 54 x 75 inches. Check delivery timelines. Order by Thursday."
   }
 ];
 
@@ -65,22 +55,96 @@ const articles = [
   {
     title: "The Cold Email Playbook That Actually Works",
     source: "Substack",
-    reason: "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale without sounding robotic. You're doing this with enrichment — this gives upsell copy ideas.",
+    reason: "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
     url: "https://substack.com"
   },
   {
     title: "Why Relationships Need Boundaries",
     source: "The Atlantic",
-    reason: "With friends visiting for 2 weeks, this is a good reminder to set expectations early. Avoid resentment before it starts.",
+    reason: "With friends visiting for 2 weeks, good reminder to set expectations early.",
     url: "https://www.theatlantic.com"
-  },
-  {
-    title: "The Art of Saying No",
-    source: "Harvard Business Review",
-    reason: "As you scale your consulting practice, saying no to the wrong clients matters more. Filter before you burn out.",
-    url: "https://hbr.org"
   }
 ];
+
+const holidays = {
+  '01-01': "New Years Day",
+  '02-14': 'Valentines Day',
+  '05-26': 'Memorial Day (observed)',
+  '06-19': 'Juneteenth',
+  '07-04': 'Independence Day',
+  '09-01': 'Labor Day',
+  '11-27': 'Thanksgiving',
+  '12-25': 'Christmas',
+  '03-17': "St Patricks Day",
+  '04-22': 'Earth Day'
+};
+
+function getTodaysCelebration() {
+  const now = new Date();
+  const month = String(now.getMonth() + 1).padStart(2, '0');
+  const day = String(now.getDate()).padStart(2, '0');
+  const key = month + '-' + day;
+  return holidays[key] || null;
+}
+
+function escapeJSON(str) {
+  if (!str) return '';
+  return str
+    .replace(/\\/g, '\\\\')
+    .replace(/"/g, '\\"')
+    .replace(/\n/g, '\\n')
+    .replace(/\r/g, '\\r')
+    .replace(/\t/g, '\\t');
+}
+
+function curateNews(articles, count = 2) {
+  const scored = articles.map(a => {
+    let score = 0;
+    const text = (a.title + ' ' + (a.description || '')).toLowerCase();
+    
+    if (text.includes('ai') || text.includes('artificial')) score += 5;
+    if (text.includes('automation') || text.includes('automat')) score += 4;
+    if (text.includes('data')) score += 3;
+    if (text.includes('business') || text.includes('startup')) score += 2;
+    if (text.includes('science') || text.includes('research')) score += 2;
+    
+    return { ...a, score };
+  });
+  
+  return scored
+    .filter(a => a.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, count);
+}
+
+function fetchNews(query, resultCount = 10) {
+  return new Promise((resolve) => {
+    const searchQuery = encodeURIComponent(query);
+    const url = `https://newsapi.org/v2/everything?q=${searchQuery}&sortBy=publishedAt&language=en&apiKey=${NEWSAPI_KEY}&pageSize=${resultCount}`;
+    
+    https.get(url, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try {
+          const json = JSON.parse(data);
+          const articles = (json.articles || []).map(a => ({
+            title: a.title || '',
+            description: a.description || '',
+            url: a.url || '',
+            source: a.source.name || 'News'
+          }));
+          resolve(articles);
+        } catch (e) {
+          console.log('News API parse error');
+          resolve([]);
+        }
+      });
+    }).on('error', () => {
+      resolve([]);
+    });
+  });
+}
 
 function fetchWeather() {
   return new Promise((resolve) => {
@@ -93,36 +157,61 @@ function fetchWeather() {
           const current = weather.current_condition[0];
           const today = weather.weather[0];
           
+          let minTemp = 999, maxTemp = -999;
+          const hours = today.hourly || [];
+          
+          hours.forEach(h => {
+            const tempF = parseInt(h.tempF);
+            if (tempF) {
+              minTemp = Math.min(minTemp, tempF);
+              maxTemp = Math.max(maxTemp, tempF);
+            }
+          });
+          
           resolve({
-            temp: current.temp_F + '°F',
+            temp_range: (minTemp === 999 ? '--' : minTemp) + '-' + (maxTemp === -999 ? '--' : maxTemp) + 'F',
             condition: current.weatherDesc[0].value,
             wind: current.windspeedMiles + ' mph',
             humidity: current.humidity + '%',
             chance_rain: today.hourly[0].chanceofrain + '%',
-            icon: current.weatherCode === 1000 ? '☀️' : current.weatherCode < 1000 ? '☁️' : '🌧️'
+            icon: current.weatherCode === 1000 ? 'sunny' : current.weatherCode < 1000 ? 'cloudy' : 'rainy'
           });
         } catch (e) {
           resolve({
-            temp: '--',
+            temp_range: '--',
             condition: 'Unable to fetch',
             wind: '--',
             humidity: '--',
             chance_rain: '--',
-            icon: '❓'
+            icon: 'unknown'
           });
         }
       });
     }).on('error', () => {
       resolve({
-        temp: '--',
+        temp_range: '--',
         condition: 'Unable to fetch',
         wind: '--',
         humidity: '--',
         chance_rain: '--',
-        icon: '❓'
+        icon: 'unknown'
       });
     });
   });
+}
+
+function getUpcomingEvents() {
+  const now = new Date();
+  const upcoming = importantDates
+    .map(item => ({
+      ...item,
+      daysUntil: Math.ceil((new Date(item.date) - now) / (1000 * 60 * 60 * 24))
+    }))
+    .filter(item => item.daysUntil >= 0)
+    .sort((a, b) => a.daysUntil - b.daysUntil)
+    .slice(0, 3);
+  
+  return upcoming;
 }
 
 async function generateDashboard() {
@@ -130,25 +219,58 @@ async function generateDashboard() {
   const dayOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][now.getDay()];
   const dateStr = now.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
   
-  const todayNews = aiNews.slice(0, 3);
-  const todayTip = tips[Math.floor(Math.random() * tips.length)];
-  const todayActions = dailyActions;
-  const todayArticle = articles[Math.floor(Math.random() * articles.length)];
-  const weather = await fetchWeather();
+  console.log('Fetching news and weather...');
   
-  const data = {
+  const [allNews, miamiNewsRaw, weather] = await Promise.all([
+    fetchNews('AI technology automation business', 10),
+    fetchNews('Miami Florida news', 5),
+    fetchWeather()
+  ]);
+  
+  const usNews = curateNews(allNews, 2);
+  const miamiNews = curateNews(miamiNewsRaw, 1);
+  
+  const todayTip = tips[Math.floor(Math.random() * tips.length)];
+  const todayArticle = articles[Math.floor(Math.random() * articles.length)];
+  const celebration = getTodaysCelebration();
+  const upcoming = getUpcomingEvents();
+  
+  const newsJSON = usNews.map(n => ({
+    title: escapeJSON(n.title),
+    description: escapeJSON(n.description),
+    url: n.url
+  }));
+  
+  const miamiJSON = miamiNews.map(n => ({
+    title: escapeJSON(n.title),
+    description: escapeJSON(n.description),
+    url: n.url
+  }));
+  
+  const json = {
     date: dateStr,
     dayOfWeek: dayOfWeek,
-    news: todayNews,
-    tip: todayTip,
-    actions: todayActions,
-    article: todayArticle,
+    usNews: newsJSON,
+    miamiNews: miamiJSON,
+    tip: {
+      title: todayTip.title,
+      content: todayTip.content
+    },
+    actions: dailyActions,
+    article: {
+      title: todayArticle.title,
+      source: todayArticle.source,
+      reason: todayArticle.reason,
+      url: todayArticle.url
+    },
     weather: weather,
+    celebration: celebration,
+    upcoming: upcoming,
     generatedAt: now.toISOString()
   };
   
-  fs.writeFileSync('data.json', JSON.stringify(data, null, 2));
-  console.log('✅ Dashboard generated:', dateStr);
+  fs.writeFileSync('data.json', JSON.stringify(json, null, 2));
+  console.log('OK - Dashboard generated:', dateStr);
 }
 
-generateDashboard();
+generateDashboard().catch(e => console.error('Error:', e.message));
