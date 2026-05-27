@@ -75,6 +75,24 @@ const articles = [
     source: "The Atlantic",
     reason: "With friends visiting for 2 weeks, good reminder to set expectations early.",
     url: "https://www.theatlantic.com"
+  },
+  {
+    title: "How to Build a $1M Consulting Business",
+    source: "First Round Review",
+    reason: "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    url: "https://firstround.com"
+  },
+  {
+    title: "The Founder's Guide to Hiring Your First Team",
+    source: "Paul Graham Essays",
+    reason: "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    url: "http://paulgraham.com"
+  },
+  {
+    title: "Data-Driven Decision Making for Startups",
+    source: "Andreessen Horowitz",
+    reason: "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    url: "https://a16z.com"
   }
 ];
 
