@@ -34,6 +34,14 @@ const tips = [
   {
     title: "One Thing Rule for Productivity",
     content: "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+  },
+  {
+    title: "Date Night Idea: Swap Bucket Lists",
+    content: "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+  },
+  {
+    title: "Team Connection Hack",
+    content: "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   }
 ];
 
@@ -297,6 +305,7 @@ async function generateDashboard() {
     });
   }
   
+  // Pick random tip (now 6 total)
   const todayTip = tips[Math.floor(Math.random() * tips.length)];
   const todayArticle = articles[Math.floor(Math.random() * articles.length)];
   const celebrationObj = getTodaysCelebration();
@@ -349,6 +358,7 @@ async function generateDashboard() {
   
   fs.writeFileSync('data.json', JSON.stringify(data, null, 2));
   console.log('OK - Dashboard generated:', dateStr);
+  console.log('Tip:', todayTip.title.substring(0, 30));
   console.log('News:', finalNews.length, '| Miami:', finalMiamiNews.length, '| Upcoming:', upcoming.length);
 }
 

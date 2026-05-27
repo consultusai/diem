@@ -3,25 +3,31 @@
   "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "ADATA outlines cloud-to-edge AI ecosystem and cost-cutting AI Scaler at COMPUTEX 2026",
-      "description": "ADATA Technology said it will present a cloud-to-edge artificial intelligence ecosystem at COMPUTEX 2026, bringing together its enterprise storage brand TRUSTA, ADATA Industrial, gaming brand XPG, and AIoT unit ATrack to showcase hardware and software integra…",
-      "url": "https://www.digitimes.com/news/a20260526PD203/2026-adata-brand-data-intel-nvidia.html"
+      "title": "Former AWS Chief Solutions Architect for the Worldwide Public Sector to Lead Istari Digital's Agentic AI Push",
+      "description": "30-year cloud security and enterprise software veteran Mark Ryland joins Istari Digital to accelerate secure AI agent infrastructure for no-fail industries. ARLINGTON, Va., May 26, 2026 /PRNewswire/ -- Istari Digital, Inc., the agentic AI infrastructure compa…",
+      "url": "https://www.prnewswire.com/news-releases/former-aws-chief-solutions-architect-for-the-worldwide-public-sector-to-lead-istari-digitals-agentic-ai-push-302781455.html"
     },
     {
-      "title": "Python in the grass: IT freshers must speak ‘AI’ to stay on par",
-      "description": "The share of entry-level hiring in the sector has fallen to around 15% in 2025 from 28% in 2024 as companies focus more on AI, cloud, cybersecurity and automation-focused roles. Emerging technology roles account for nearly 52% of hiring demand and are expecte…",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/python-in-the-grass-it-freshers-must-speak-ai-to-stay-on-par/articleshow/131314611.cms"
+      "title": "One of Australia's biggest banks hopes to see customers apply for home loans using an AI tool",
+      "description": "The day is coming when Australians will be able to apply for a home or business loan via artificial intelligence.",
+      "url": "https://www.dailymail.com/news/article-15848011/Bank-customers-loans-using-AI.html"
     },
     {
-      "title": "Smile! Your chores are going viral in a global robotics lab",
-      "description": "Companies such as HumynAI Labs, Egodata, Neo Cambrian, XP Robotics, and Objectways have deployed people on the ground starting early this year. They are collecting data on everything from household chores like washing dishes and folding laundry to the manufac…",
-      "url": "https://economictimes.indiatimes.com/tech/startups/smile-your-chores-are-going-viral-in-a-global-robotics-lab/articleshow/131315474.cms"
+      "title": "Students showcase AI innovations at DeepFunding hackathon",
+      "description": "Nigerian students showcased groundbreaking AI innovations at the DeepFunding hackathon, addressing local challenges in healthcare, language, and assistive\n\nRead More: https://punchng.com/students-showcase-ai-innovations-at-deepfunding-hackathon/",
+      "url": "https://punchng.com/students-showcase-ai-innovations-at-deepfunding-hackathon/"
     }
   ],
-  "miamiNews": [],
+  "miamiNews": [
+    {
+      "title": "‘Fatigued’ Lionel Messi facing injury worry as Argentina’s World Cup decision looms",
+      "description": "Messi has not stated officially whether he will play in the World Cup and Argentina has not announced its final roster yet prior to the June 1 deadline set by FIFA.",
+      "url": "https://nypost.com/2026/05/25/sports/lionel-messi-facing-injury-worry-as-argentinas-world-cup-decision-looms/"
+    }
+  ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -49,8 +55,8 @@
   "weather": {
     "temp_range": "77-87",
     "condition": "Partly cloudy",
-    "wind": "13 mph",
-    "humidity": "77%",
+    "wind": "14 mph",
+    "humidity": "74%",
     "chance_rain": "100%"
   },
   "celebration": null,
@@ -71,5 +77,5 @@
       "daysUntil": 16
     }
   ],
-  "generatedAt": "2026-05-27T01:24:57.002Z"
+  "generatedAt": "2026-05-27T04:16:25.391Z"
 }
