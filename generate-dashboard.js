@@ -5,7 +5,7 @@ const NEWSAPI_KEY = '46d50d8790614a478c6fb3ca6ea2d2f0';
 
 const importantDates = [
   { date: '2026-06-05', event: 'Clay and Maura coming to Miami' },
-  { date: '2026-06-07', event: 'Guest bedroom ready (friends arriving)' },
+  { date: '2026-06-07', event: 'Art & rug installation complete + Friends arrive' },
   { date: '2026-06-12', event: 'Jennies mom here' },
   { date: '2026-06-18', event: 'NYC for US Open' },
   { date: '2026-06-19', event: 'Juneteenth' },
@@ -44,14 +44,14 @@ const dailyActions = [
     description: "You have 94 drafts ready. Start with 10 - use Green Tiger password. Track opens in BigQuery."
   },
   {
-    action: "Review Bed Options Online",
+    action: "Browse Art for Office",
     time: "20 min",
-    description: "Check Wayfair, Article, West Elm for full-size beds in gray/navy. Save 3 options with prices."
+    description: "Check Etsy, Minted, or local galleries. Save 3 options that match your aesthetic."
   },
   {
-    action: "Check on Mattress Delivery",
-    time: "10 min",
-    description: "Confirm delivery timeline. Mattress should arrive before June 7 when friends arrive."
+    action: "Browse Art & Rugs for Entryway",
+    time: "20 min",
+    description: "Find cohesive pieces - entryway rug, wall art. Save options with prices before purchasing."
   }
 ];
 
@@ -331,7 +331,6 @@ async function generateDashboard() {
   
   if (finalMiamiNews.length === 0) {
     console.log('No Miami news found. Raw count:', miamiNewsRaw.length);
-    // If truly no Miami news, just show a friendly message
   }
   
   const data = {
@@ -350,7 +349,7 @@ async function generateDashboard() {
   
   fs.writeFileSync('data.json', JSON.stringify(data, null, 2));
   console.log('OK - Dashboard generated:', dateStr);
-  console.log('Final news count:', finalNews.length, '| Miami:', finalMiamiNews.length);
+  console.log('News:', finalNews.length, '| Miami:', finalMiamiNews.length, '| Upcoming:', upcoming.length);
 }
 
 generateDashboard().catch(e => console.error('Error:', e.message));

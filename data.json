@@ -1,33 +1,27 @@
 {
-  "date": "May 26, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "May 27, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "FREE ISN'T FREE: NEW REPORT BY WEB3 FOUNDATION FINDS BIG TECH AND AI EARN UP TO $831,000 IN LIFETIME VALUE FROM THE DATA OF EACH U.S. INTERNET USER",
-      "description": "ZUG, Switzerland, May 25, 2026 /PRNewswire/ -- A groundbreaking new report published today revealed that Big Tech and AI companies earn up to $831,497 in commercial value from each American internet user over a digital lifetime. This equates to a staggering $…",
-      "url": "https://www.prnewswire.com/news-releases/free-isnt-free-new-report-by-web3-foundation-finds-big-tech-and-ai-earn-up-to-831-000-in-lifetime-value-from-the-data-of-each-us-internet-user-302781133.html"
+      "title": "ADATA outlines cloud-to-edge AI ecosystem and cost-cutting AI Scaler at COMPUTEX 2026",
+      "description": "ADATA Technology said it will present a cloud-to-edge artificial intelligence ecosystem at COMPUTEX 2026, bringing together its enterprise storage brand TRUSTA, ADATA Industrial, gaming brand XPG, and AIoT unit ATrack to showcase hardware and software integra…",
+      "url": "https://www.digitimes.com/news/a20260526PD203/2026-adata-brand-data-intel-nvidia.html"
     },
     {
-      "title": "AI in Animal Health Market Size is Expected to Reach USD 12.8 Billion by 2035; Growth is Driven by Rapid Adoption of AI Tools for Productivity Pressure Globally | SNS Insider",
-      "description": "AI in Animal Health Market Size is Expected to Reach USD 12.8 Billion by 2035; Growth is Driven by Rapid Adoption of AI Tools for Productivity Pressure Globally | SNS Insiderbusinessupturn.com",
-      "url": "https://www.businessupturn.com/brand-post/ai-in-animal-health-market-size-is-expected-to-reach-usd-12-8-billion-by-2035-growth-is-driven-by-rapid-adoption-of-ai-tools-for-productivity-pressure-globally-sns-insider/"
+      "title": "Python in the grass: IT freshers must speak ‘AI’ to stay on par",
+      "description": "The share of entry-level hiring in the sector has fallen to around 15% in 2025 from 28% in 2024 as companies focus more on AI, cloud, cybersecurity and automation-focused roles. Emerging technology roles account for nearly 52% of hiring demand and are expecte…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/python-in-the-grass-it-freshers-must-speak-ai-to-stay-on-par/articleshow/131314611.cms"
     },
     {
-      "title": "AI Bubble Fears Grow as Big Tech Allegedly Pays Itself in Cloud Loop",
-      "description": "AI bubble fears grow as Big Tech allegedly recycles AI investments into cloud revenue, fueling dot-com style worries.",
-      "url": "https://beincrypto.com/ai-boom-fake-revenue-bubble/"
+      "title": "Smile! Your chores are going viral in a global robotics lab",
+      "description": "Companies such as HumynAI Labs, Egodata, Neo Cambrian, XP Robotics, and Objectways have deployed people on the ground starting early this year. They are collecting data on everything from household chores like washing dishes and folding laundry to the manufac…",
+      "url": "https://economictimes.indiatimes.com/tech/startups/smile-your-chores-are-going-viral-in-a-global-robotics-lab/articleshow/131315474.cms"
     }
   ],
-  "miamiNews": [
-    {
-      "title": "U.S. attorney in Miami sends ‘message’ to deep state with indictment against ex-prosecutor",
-      "description": "Charges against former Assistant U.S. Attorney Carmen Mercedes Lineberger carry more than 20 years in prison. Article Dig Deeper In less than a week, the U.S. attorney in Miami supervising the probe of Obama-Biden era government weaponization secured indictme…",
-      "url": "https://freerepublic.com/focus/f-news/4380866/posts"
-    }
-  ],
+  "miamiNews": [],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -36,14 +30,14 @@
       "description": "You have 94 drafts ready. Start with 10 - use Green Tiger password. Track opens in BigQuery."
     },
     {
-      "action": "Review Bed Options Online",
+      "action": "Browse Art for Office",
       "time": "20 min",
-      "description": "Check Wayfair, Article, West Elm for full-size beds in gray/navy. Save 3 options with prices."
+      "description": "Check Etsy, Minted, or local galleries. Save 3 options that match your aesthetic."
     },
     {
-      "action": "Check on Mattress Delivery",
-      "time": "10 min",
-      "description": "Confirm delivery timeline. Mattress should arrive before June 7 when friends arrive."
+      "action": "Browse Art & Rugs for Entryway",
+      "time": "20 min",
+      "description": "Find cohesive pieces - entryway rug, wall art. Save options with prices before purchasing."
     }
   ],
   "article": {
@@ -55,30 +49,27 @@
   "weather": {
     "temp_range": "77-87",
     "condition": "Partly cloudy",
-    "wind": "19 mph",
-    "humidity": "74%",
+    "wind": "13 mph",
+    "humidity": "77%",
     "chance_rain": "100%"
   },
-  "celebration": {
-    "holiday": "Memorial Day (observed)",
-    "event": "In 1993, the first website was published on the internet (www.info.cern.ch) - celebrating the birth of the web."
-  },
+  "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-05",
       "event": "Clay and Maura coming to Miami",
-      "daysUntil": 10
+      "daysUntil": 9
     },
     {
       "date": "2026-06-07",
-      "event": "Guest bedroom ready (friends arriving)",
-      "daysUntil": 12
+      "event": "Art & rug installation complete + Friends arrive",
+      "daysUntil": 11
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 17
+      "daysUntil": 16
     }
   ],
-  "generatedAt": "2026-05-26T13:35:07.104Z"
+  "generatedAt": "2026-05-27T01:24:57.002Z"
 }
