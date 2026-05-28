@@ -1,33 +1,33 @@
 {
-  "date": "May 27, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "May 28, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Medical malpractice lawsuits cost $56 billion a year",
-      "description": "Medical malpractice is big business in the United States. The only database monitoring medical malpractice is the National Practitioner Data Bank (NPDB). The NPDB’s annual report claims only 13,000 medical malpractice lawsuits. The NPDB was first established …",
-      "url": "https://kevinmd.com/2026/05/medical-malpractice-lawsuits-cost-56-billion-a-year.html"
+      "title": "Data centre energy rules will boost green power says Amazon chief",
+      "description": "Corporate deals will aid renewable projects raise cash, conference told",
+      "url": "https://www.irishtimes.com/business/2026/05/27/data-centre-energy-rules-will-boost-green-power-says-amazon-chief/"
     },
     {
-      "title": "Logistics startup Stord raises $250 million at $3 billion valuation",
-      "description": "Stord, a logistics startup, has secured nearly $250 million in funding, valuing the company at $3 billion. This investment underscores confidence in technology platforms empowering independent brands. Stord also launched Stord Labs to research AI and robotics…",
-      "url": "https://economictimes.indiatimes.com/tech/funding/logistics-startup-stord-raises-250-million-at-3-billion-valuation/articleshow/131331545.cms"
+      "title": "Hoth Therapeutics Becomes Rocket One Inc. (Nasdaq: RKTO), Targeting the Space Economy with Next-Generation Nanomagnetic AI Chip Technology and Ultra-Low-Power, Radiation-Tolerant Computing for Space and Defense Applications",
+      "description": "Company Adopts Space-Focused Identity, New Ticker \"RKTO,\" and Exclusive License of AI Chip Architecture Designed for Ultra-Low-Power, Radiation-Tolerant Computing in Space and Defense Applications HOBOKEN, N.J., May 27, 2026 /PRNewswire/ -- Hoth Therapeutics,…",
+      "url": "https://www.prnewswire.com/news-releases/hoth-therapeutics-becomes-rocket-one-inc-nasdaq-rkto-targeting-the-space-economy-with-next-generation-nanomagnetic-ai-chip-technology-and-ultra-low-power-radiation-tolerant-computing-for-space-and-defense-applications-302782323.html"
     },
     {
-      "title": "SpaceX Market Sizes Are Replatforming – AI and Space Are Replatforming Telecom, IT and Business",
-      "description": "In order to understand the addressable market case for many of the AI and space markets you must understand replatforming. Replatforming is when a fundamentally better technology platform displaces or layers on top of the old infrastructure and business model…",
-      "url": "https://www.nextbigfuture.com/2026/05/spacex-market-sizes-are-replatforming-ai-and-space-are-replatforming-telecom-it-and-business.html"
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the …",
+      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
     }
   ],
   "miamiNews": [
     {
-      "title": "At Stand, the Team Behind Shingo Trades Omakase for Sandos, Bento and Shokupan",
-      "description": "For Shingo Akikuni and Kenzie Motai, Stand is about going back to their roots and the food they enjoy eating day after day.",
-      "url": "https://observer.com/2026/05/stand-japanese-cafe-opens-miami-florida/"
+      "title": "Teen accused of murdering stepsister on Carnival cruise awaits judge’s decision on freedom",
+      "description": "A judge is expected to decide whether a teenager charged with sexually assaulting and killing his 18-year-old stepsister on a Carnival Cruise ship will remain free as he awaits trial",
+      "url": "https://www.the-independent.com/news/world/americas/crime/anne-kepner-timothy-hudson-carnvial-cruise-b2984423.html"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "78-88",
-    "condition": "Overcast",
-    "wind": "18 mph",
-    "humidity": "77%",
+    "temp_range": "78-84",
+    "condition": "Heavy Rain, Mist",
+    "wind": "13 mph",
+    "humidity": "90%",
     "chance_rain": "0%"
   },
   "celebration": null,
@@ -64,18 +64,18 @@
     {
       "date": "2026-06-05",
       "event": "Clay and Maura coming to Miami",
-      "daysUntil": 9
+      "daysUntil": 8
     },
     {
       "date": "2026-06-07",
       "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 11
+      "daysUntil": 10
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 16
+      "daysUntil": 15
     }
   ],
-  "generatedAt": "2026-05-27T15:33:20.388Z"
+  "generatedAt": "2026-05-28T12:31:52.406Z"
 }
