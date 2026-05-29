@@ -1,33 +1,27 @@
 {
-  "date": "May 28, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "May 29, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Data centre energy rules will boost green power says Amazon chief",
-      "description": "Corporate deals will aid renewable projects raise cash, conference told",
-      "url": "https://www.irishtimes.com/business/2026/05/27/data-centre-energy-rules-will-boost-green-power-says-amazon-chief/"
+      "title": "10 AI Startups That Drew Attention at BEYOND Expo 2026",
+      "description": "As AI moves from software into the physical world, BEYOND Expo 2026 offered a snapshot of what that transition looks like in practice — from humanoid robots and AI wearables to elder-care platforms and desktop manufacturing. BEYOND Expo 2026 opened on May 27 …",
+      "url": "https://besuccess.com/?p=183342"
     },
     {
-      "title": "Hoth Therapeutics Becomes Rocket One Inc. (Nasdaq: RKTO), Targeting the Space Economy with Next-Generation Nanomagnetic AI Chip Technology and Ultra-Low-Power, Radiation-Tolerant Computing for Space and Defense Applications",
-      "description": "Company Adopts Space-Focused Identity, New Ticker \"RKTO,\" and Exclusive License of AI Chip Architecture Designed for Ultra-Low-Power, Radiation-Tolerant Computing in Space and Defense Applications HOBOKEN, N.J., May 27, 2026 /PRNewswire/ -- Hoth Therapeutics,…",
-      "url": "https://www.prnewswire.com/news-releases/hoth-therapeutics-becomes-rocket-one-inc-nasdaq-rkto-targeting-the-space-economy-with-next-generation-nanomagnetic-ai-chip-technology-and-ultra-low-power-radiation-tolerant-computing-for-space-and-defense-applications-302782323.html"
+      "title": "Will AI Replace Junior Developers?",
+      "description": "Explore how AI is reshaping software development and the evolving role of junior developers. Learn essential skills to thrive in the age of AI and stay relevant.",
+      "url": "https://www.c-sharpcorner.com/article/will-ai-replace-junior-developers/"
     },
     {
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the …",
-      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
+      "title": "Cell and Gene Therapy (CGT) Scheduling Software Global Market Analysis Report 2026: $800 Mn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "The CGT scheduling software market offers opportunities in AI-driven platforms, cloud integration, automated workflow management, and personalized medicine. Key trends include seamless supply chain coordination, robust compliance tools, and unified orchestrat…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/28/3302726/28124/en/Cell-and-Gene-Therapy-CGT-Scheduling-Software-Global-Market-Analysis-Report-2026-800-Mn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-203.html"
     }
   ],
-  "miamiNews": [
-    {
-      "title": "Teen accused of murdering stepsister on Carnival cruise awaits judge’s decision on freedom",
-      "description": "A judge is expected to decide whether a teenager charged with sexually assaulting and killing his 18-year-old stepsister on a Carnival Cruise ship will remain free as he awaits trial",
-      "url": "https://www.the-independent.com/news/world/americas/crime/anne-kepner-timothy-hudson-carnvial-cruise-b2984423.html"
-    }
-  ],
+  "miamiNews": [],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -53,29 +47,29 @@
     "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "78-84",
-    "condition": "Heavy Rain, Mist",
-    "wind": "13 mph",
-    "humidity": "90%",
-    "chance_rain": "0%"
+    "temp_range": "74-85",
+    "condition": "Sunny",
+    "wind": "6 mph",
+    "humidity": "94%",
+    "chance_rain": "100%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-05",
       "event": "Clay and Maura coming to Miami",
-      "daysUntil": 8
+      "daysUntil": 7
     },
     {
       "date": "2026-06-07",
       "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 10
+      "daysUntil": 9
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 15
+      "daysUntil": 14
     }
   ],
-  "generatedAt": "2026-05-28T12:31:52.406Z"
+  "generatedAt": "2026-05-29T11:51:00.826Z"
 }

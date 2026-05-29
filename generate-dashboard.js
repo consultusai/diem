@@ -288,10 +288,10 @@ async function generateDashboard() {
   console.log('Fetching news from yesterday...');
   
   const [aiNewsRaw, dataNewsRaw, startupNewsRaw, miamiNewsRaw, weather] = await Promise.all([
-    fetchNews('artificial intelligence AI', 15),
-    fetchNews('data analytics BigQuery', 15),
-    fetchNews('startup founder automation', 15),
-    fetchNews('Miami Florida', 20),
+    fetchNews('artificial intelligence machine learning breakthrough', 20),
+    fetchNews('data engineering automation tools', 20),
+    fetchNews('startup founder SaaS consulting business', 20),
+    fetchNews('Miami Florida technology business', 20),
     fetchWeather()
   ]);
   
