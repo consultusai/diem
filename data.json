@@ -3,25 +3,31 @@
   "dayOfWeek": "Friday",
   "usNews": [
     {
+      "title": "Chinese AI models surge in 2026: Is JPMorgan data signaling a global shift away from US AI dominance?",
+      "description": "Chinese AI models are no longer just regional competitors. They are rapidly becoming a global artificial intelligence force. New JPMorgan data showed Chinese AI token consumption surging sharply between February and May 2026, signaling explosive AI adoption a…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/chinese-ai-models-surge-in-2026-is-jpmorgan-data-signaling-a-global-shift-away-from-us-ai-dominance/articleshow/131370432.cms"
+    },
+    {
       "title": "10 AI Startups That Drew Attention at BEYOND Expo 2026",
       "description": "As AI moves from software into the physical world, BEYOND Expo 2026 offered a snapshot of what that transition looks like in practice — from humanoid robots and AI wearables to elder-care platforms and desktop manufacturing. BEYOND Expo 2026 opened on May 27 …",
       "url": "https://besuccess.com/?p=183342"
     },
     {
-      "title": "Will AI Replace Junior Developers?",
-      "description": "Explore how AI is reshaping software development and the evolving role of junior developers. Learn essential skills to thrive in the age of AI and stay relevant.",
-      "url": "https://www.c-sharpcorner.com/article/will-ai-replace-junior-developers/"
-    },
-    {
-      "title": "Cell and Gene Therapy (CGT) Scheduling Software Global Market Analysis Report 2026: $800 Mn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
-      "description": "The CGT scheduling software market offers opportunities in AI-driven platforms, cloud integration, automated workflow management, and personalized medicine. Key trends include seamless supply chain coordination, robust compliance tools, and unified orchestrat…",
-      "url": "https://www.globenewswire.com/news-release/2026/05/28/3302726/28124/en/Cell-and-Gene-Therapy-CGT-Scheduling-Software-Global-Market-Analysis-Report-2026-800-Mn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-203.html"
+      "title": "The Rise of AI-Native Development Workflows",
+      "description": "AI-native development is transforming software engineering. Learn how AI is revolutionizing workflows, boosting productivity, and reshaping team collaboration.",
+      "url": "https://www.c-sharpcorner.com/article/the-rise-of-ai-native-development-workflows/"
     }
   ],
-  "miamiNews": [],
+  "miamiNews": [
+    {
+      "title": "CredFin, Inc. and The Agent Underground Join Forces to Pioneer the Insurance Industry Revolution",
+      "description": "CredFin, Inc. and The Agent Underground unveil funding initiative helping insurance agents grow, consolidate, and thrive amid era of AI disruption....",
+      "url": "https://www.globenewswire.com/news-release/2026/05/28/3302746/0/en/CredFin-Inc-and-The-Agent-Underground-Join-Forces-to-Pioneer-the-Insurance-Industry-Revolution.html"
+    }
+  ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -41,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
     "temp_range": "74-85",
-    "condition": "Sunny",
+    "condition": "Partly cloudy",
     "wind": "6 mph",
-    "humidity": "94%",
+    "humidity": "90%",
     "chance_rain": "100%"
   },
   "celebration": null,
@@ -71,5 +77,5 @@
       "daysUntil": 14
     }
   ],
-  "generatedAt": "2026-05-29T11:51:00.826Z"
+  "generatedAt": "2026-05-29T14:18:01.550Z"
 }
