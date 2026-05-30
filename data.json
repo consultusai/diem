@@ -1,33 +1,33 @@
 {
-  "date": "May 29, 2026",
-  "dayOfWeek": "Friday",
+  "date": "May 30, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "Chinese AI models surge in 2026: Is JPMorgan data signaling a global shift away from US AI dominance?",
-      "description": "Chinese AI models are no longer just regional competitors. They are rapidly becoming a global artificial intelligence force. New JPMorgan data showed Chinese AI token consumption surging sharply between February and May 2026, signaling explosive AI adoption a…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/chinese-ai-models-surge-in-2026-is-jpmorgan-data-signaling-a-global-shift-away-from-us-ai-dominance/articleshow/131370432.cms"
+      "title": "Director, Data Science, Foundation Model AI",
+      "description": "Job Description Our Artificial Intelligence and Machine Learning (AI/ML) capabilities are critical accelerators of our mission to invent new medicines that save and improve lives. Core to the Data, AI, and Genome Sciences (DAGS) function is an AI/ML-first app…",
+      "url": "https://nlppeople.com/job/director-data-science-foundation-model-ai/"
     },
     {
-      "title": "10 AI Startups That Drew Attention at BEYOND Expo 2026",
-      "description": "As AI moves from software into the physical world, BEYOND Expo 2026 offered a snapshot of what that transition looks like in practice — from humanoid robots and AI wearables to elder-care platforms and desktop manufacturing. BEYOND Expo 2026 opened on May 27 …",
-      "url": "https://besuccess.com/?p=183342"
+      "title": "CHCNAV Unveils Next Generation CoProcess for Point Cloud Processing and Survey Deliverables",
+      "description": "CHCNAV unveils next-gen Point Cloud Processing Software. It handles 300GB+ datasets in a single workflow, featuring AI classification and Scan-to-CAD tools",
+      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303377/0/en/CHCNAV-Unveils-Next-Generation-CoProcess-for-Point-Cloud-Processing-and-Survey-Deliverables.html"
     },
     {
-      "title": "The Rise of AI-Native Development Workflows",
-      "description": "AI-native development is transforming software engineering. Learn how AI is revolutionizing workflows, boosting productivity, and reshaping team collaboration.",
-      "url": "https://www.c-sharpcorner.com/article/the-rise-of-ai-native-development-workflows/"
+      "title": "Why Prompt Engineering Is Dying, and Context Engineering Is Taking Over",
+      "description": "Discover why Context Engineering is eclipsing Prompt Engineering in AI. Learn how memory, data, and APIs are shaping the future of AI and SEO content creation.",
+      "url": "https://www.c-sharpcorner.com/article/why-prompt-engineering-is-dying-and-context-engineering-is-taking-over/"
     }
   ],
   "miamiNews": [
     {
-      "title": "CredFin, Inc. and The Agent Underground Join Forces to Pioneer the Insurance Industry Revolution",
-      "description": "CredFin, Inc. and The Agent Underground unveil funding initiative helping insurance agents grow, consolidate, and thrive amid era of AI disruption....",
-      "url": "https://www.globenewswire.com/news-release/2026/05/28/3302746/0/en/CredFin-Inc-and-The-Agent-Underground-Join-Forces-to-Pioneer-the-Insurance-Industry-Revolution.html"
+      "title": "Heritage Distribution acquires AM Distributors",
+      "description": "ATLANTA, May 29, 2026 (GLOBE NEWSWIRE) -- Heritage Distribution Holdings (“HDH”), the U.S. platform for global HVAC/R wholesaler Beijer Ref, has signed an agreement to acquire AM Distributors, a well-established HVAC distributor serving contractors in the Gre…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303581/0/en/Heritage-Distribution-acquires-AM-Distributors.html"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "74-85",
-    "condition": "Partly cloudy",
-    "wind": "6 mph",
-    "humidity": "90%",
+    "temp_range": "75-89",
+    "condition": "Sunny",
+    "wind": "8 mph",
+    "humidity": "92%",
     "chance_rain": "100%"
   },
   "celebration": null,
@@ -64,18 +64,18 @@
     {
       "date": "2026-06-05",
       "event": "Clay and Maura coming to Miami",
-      "daysUntil": 7
+      "daysUntil": 6
     },
     {
       "date": "2026-06-07",
       "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 9
+      "daysUntil": 8
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 14
+      "daysUntil": 13
     }
   ],
-  "generatedAt": "2026-05-29T14:18:01.550Z"
+  "generatedAt": "2026-05-30T12:43:17.961Z"
 }
