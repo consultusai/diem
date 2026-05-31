@@ -1,33 +1,17 @@
 {
-  "date": "May 30, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "May 31, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Director, Data Science, Foundation Model AI",
-      "description": "Job Description Our Artificial Intelligence and Machine Learning (AI/ML) capabilities are critical accelerators of our mission to invent new medicines that save and improve lives. Core to the Data, AI, and Genome Sciences (DAGS) function is an AI/ML-first app…",
-      "url": "https://nlppeople.com/job/director-data-science-foundation-model-ai/"
-    },
-    {
-      "title": "CHCNAV Unveils Next Generation CoProcess for Point Cloud Processing and Survey Deliverables",
-      "description": "CHCNAV unveils next-gen Point Cloud Processing Software. It handles 300GB+ datasets in a single workflow, featuring AI classification and Scan-to-CAD tools",
-      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303377/0/en/CHCNAV-Unveils-Next-Generation-CoProcess-for-Point-Cloud-Processing-and-Survey-Deliverables.html"
-    },
-    {
-      "title": "Why Prompt Engineering Is Dying, and Context Engineering Is Taking Over",
-      "description": "Discover why Context Engineering is eclipsing Prompt Engineering in AI. Learn how memory, data, and APIs are shaping the future of AI and SEO content creation.",
-      "url": "https://www.c-sharpcorner.com/article/why-prompt-engineering-is-dying-and-context-engineering-is-taking-over/"
+      "title": "Q4 Results Today Live: Linde India, Patanjali Foods, Gujarat Gas, PTC Ind, Jupiter Wagons, Titagarh Rail Systems, Jindal Poly Films, Steelcast, Easy Trip to announce Q4 results",
+      "description": "Q4 Results Today, 30th May 2026 Live Updates: Find all the latest Q4 results 2026 updates of 3B Films, 3C IT Solutions and Telecoms (India), AAA Technologies, Aadhaar Ventures India, Aadi Industries, Aarnav Fashions, Aar Shyam India Investment Company, Accura…",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/q4-results-today-live-updates-linde-india-patanjali-foods-gujarat-gas-ptc-ind-jupiter-wagons-titagarh-rail-systems-jindal-poly-films-steelcast-easy-trip-planners-results-results-30-may-2026/article71040136.ece"
     }
   ],
-  "miamiNews": [
-    {
-      "title": "Heritage Distribution acquires AM Distributors",
-      "description": "ATLANTA, May 29, 2026 (GLOBE NEWSWIRE) -- Heritage Distribution Holdings (“HDH”), the U.S. platform for global HVAC/R wholesaler Beijer Ref, has signed an agreement to acquire AM Distributors, a well-established HVAC distributor serving contractors in the Gre…",
-      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303581/0/en/Heritage-Distribution-acquires-AM-Distributors.html"
-    }
-  ],
+  "miamiNews": [],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -47,35 +31,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "75-89",
+    "temp_range": "75-90",
     "condition": "Sunny",
-    "wind": "8 mph",
-    "humidity": "92%",
-    "chance_rain": "100%"
+    "wind": "5 mph",
+    "humidity": "90%",
+    "chance_rain": "0%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-05",
       "event": "Clay and Maura coming to Miami",
-      "daysUntil": 6
+      "daysUntil": 5
     },
     {
       "date": "2026-06-07",
       "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 8
+      "daysUntil": 7
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 13
+      "daysUntil": 12
     }
   ],
-  "generatedAt": "2026-05-30T12:43:17.961Z"
+  "generatedAt": "2026-05-31T12:53:36.293Z"
 }
