@@ -1,14 +1,25 @@
 {
-  "date": "May 31, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "June 1, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Q4 Results Today Live: Linde India, Patanjali Foods, Gujarat Gas, PTC Ind, Jupiter Wagons, Titagarh Rail Systems, Jindal Poly Films, Steelcast, Easy Trip to announce Q4 results",
-      "description": "Q4 Results Today, 30th May 2026 Live Updates: Find all the latest Q4 results 2026 updates of 3B Films, 3C IT Solutions and Telecoms (India), AAA Technologies, Aadhaar Ventures India, Aadi Industries, Aarnav Fashions, Aar Shyam India Investment Company, Accura…",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/q4-results-today-live-updates-linde-india-patanjali-foods-gujarat-gas-ptc-ind-jupiter-wagons-titagarh-rail-systems-jindal-poly-films-steelcast-easy-trip-planners-results-results-30-may-2026/article71040136.ece"
+      "title": "Building a LangGraph pipeline for production data engineering",
+      "description": "LangGraph is gaining real adoption for agentic AI workflows. But for most teams evaluating it, the question is not how to build a pipeline -- it is whether LangGraph is the right architecture for their problem, and what it actually takes to run in production.",
+      "url": "https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline"
+    },
+    {
+      "title": "Week in review: Infostealer dropped via FortiClient EMS flaw, exploited Trend Micro Apex One flaw",
+      "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Coinflow CISO on crypto payments security under AI pressure Crypto payment firms sit near the top of the target list for advanced persistent threat groups, and t…",
+      "url": "https://www.helpnetsecurity.com/2026/05/31/week-in-review-infostealer-dropped-via-forticlient-ems-flaw-exploited-trend-micro-apex-one-flaw/"
     }
   ],
-  "miamiNews": [],
+  "miamiNews": [
+    {
+      "title": "Disney is poised to ramp its already booming advertising business. Rita Ferro is behind the push",
+      "description": "Disney is selling ads for the Super Bowl, Oscars and Grammys in 2027, all major advertising revenue drivers. Global ad president Rita Ferro is leading the charge.",
+      "url": "https://www.cnbc.com/2026/05/31/disney-advertising-rita-ferro.html"
+    }
+  ],
   "tip": {
     "title": "One Thing Rule for Productivity",
     "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
@@ -31,35 +42,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "75-90",
+    "temp_range": "76-91",
     "condition": "Sunny",
-    "wind": "5 mph",
-    "humidity": "90%",
-    "chance_rain": "0%"
+    "wind": "6 mph",
+    "humidity": "73%",
+    "chance_rain": "5%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-05",
       "event": "Clay and Maura coming to Miami",
-      "daysUntil": 5
+      "daysUntil": 4
     },
     {
       "date": "2026-06-07",
       "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 7
+      "daysUntil": 6
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 12
+      "daysUntil": 11
     }
   ],
-  "generatedAt": "2026-05-31T12:53:36.293Z"
+  "generatedAt": "2026-06-01T16:59:18.771Z"
 }
