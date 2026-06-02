@@ -1,28 +1,33 @@
 {
-  "date": "June 1, 2026",
-  "dayOfWeek": "Monday",
+  "date": "June 2, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Building a LangGraph pipeline for production data engineering",
-      "description": "LangGraph is gaining real adoption for agentic AI workflows. But for most teams evaluating it, the question is not how to build a pipeline -- it is whether LangGraph is the right architecture for their problem, and what it actually takes to run in production.",
-      "url": "https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline"
+      "title": "How Microsoft's AI Strategy Is Reshaping Software Development",
+      "description": "Explore how Microsoft's AI strategy, with tools like GitHub Copilot and Azure AI, is revolutionizing software development, workflows, and enterprise solutions.",
+      "url": "https://www.c-sharpcorner.com/article/how-microsofts-ai-strategy-is-reshaping-software-development/"
     },
     {
-      "title": "Week in review: Infostealer dropped via FortiClient EMS flaw, exploited Trend Micro Apex One flaw",
-      "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Coinflow CISO on crypto payments security under AI pressure Crypto payment firms sit near the top of the target list for advanced persistent threat groups, and t…",
-      "url": "https://www.helpnetsecurity.com/2026/05/31/week-in-review-infostealer-dropped-via-forticlient-ems-flaw-exploited-trend-micro-apex-one-flaw/"
+      "title": "Beyond AI: What BEYOND Expo 2026 Revealed About Asia’s Next Innovation Phase",
+      "description": "As artificial intelligence moves from software into real-world deployment, BEYOND Expo 2026 highlighted a broader shift toward ecosystem-driven innovation, global commercialization, and cross-border collaboration. BEYOND Expo 2026 arrived in Macau at a moment…",
+      "url": "https://besuccess.com/?p=183451"
+    },
+    {
+      "title": "Article: The AI Productivity Paradox in Test Automation: Moving Beyond Structural Validation to Perception and Intent",
+      "description": "The AI productivity paradox states that AI scales whatever abstraction it is built on. If that abstraction is structurally brittle, it scales structural brittleness. This article shows how, to build a future of reliable, AI-driven test automation, we must sto…",
+      "url": "https://www.infoq.com/articles/solving-ai-productivity-paradox-test-automation/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Disney is poised to ramp its already booming advertising business. Rita Ferro is behind the push",
-      "description": "Disney is selling ads for the Super Bowl, Oscars and Grammys in 2027, all major advertising revenue drivers. Global ad president Rita Ferro is leading the charge.",
-      "url": "https://www.cnbc.com/2026/05/31/disney-advertising-rita-ferro.html"
+      "title": "2026 South Florida ORBIE Awards Recognize South Florida’s Top Technology Executives",
+      "description": "Leading CIOs honored for leadership, innovation and business impact at the South Florida ORBIE Awards on May 31, 2026, at The Diplomat Beach Resort....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304513/0/en/2026-South-Florida-ORBIE-Awards-Recognize-South-Florida-s-Top-Technology-Executives.html"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -42,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "76-91",
+    "temp_range": "75-89",
     "condition": "Sunny",
-    "wind": "6 mph",
-    "humidity": "73%",
+    "wind": "10 mph",
+    "humidity": "87%",
     "chance_rain": "5%"
   },
   "celebration": null,
@@ -59,18 +64,18 @@
     {
       "date": "2026-06-05",
       "event": "Clay and Maura coming to Miami",
-      "daysUntil": 4
+      "daysUntil": 3
     },
     {
       "date": "2026-06-07",
       "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 6
+      "daysUntil": 5
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 11
+      "daysUntil": 10
     }
   ],
-  "generatedAt": "2026-06-01T16:59:18.771Z"
+  "generatedAt": "2026-06-02T15:17:00.313Z"
 }
