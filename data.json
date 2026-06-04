@@ -1,33 +1,33 @@
 {
-  "date": "June 3, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "June 4, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Penetration Testing Autonomous AI Workflows",
-      "description": "Introduction\r\nAutonomous AI workflows are becoming increasingly common in modern software systems. AI agents can now analyze data, call APIs, automate business processes, manage cloud infrastructure,… [+6906 chars]",
-      "url": "https://www.c-sharpcorner.com/article/penetration-testing-autonomous-ai-workflows/"
+      "title": "Flawed AI, deepfakes and geopolitical conflicts pose major risks to business: Wipro",
+      "description": "IT major Wipro identifies Artificial Intelligence adoption as a significant risk. Flawed algorithms and biases could lead to legal and financial issues. Evolving regulations also pose threats. The company warns that AI's rapid integration into client offering…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/flawed-ai-deepfakes-and-geopolitical-conflicts-pose-major-risks-to-business-wipro/articleshow/131485175.cms"
     },
     {
-      "title": "DataStrike and Brainforge Partner to Help Mid-Market Companies Close the AI Execution Gap",
-      "description": "With only 28% of AI initiatives delivering ROI, DataStrike and Brainforge bring together the data infrastructure and AI implementation expertise mid-market companies need to turn AI vision into business value PITTSBURGH, June 2, 2026 /PRNewswire/ -- DataStrik…",
-      "url": "https://www.prnewswire.com/news-releases/datastrike-and-brainforge-partner-to-help-mid-market-companies-close-the-ai-execution-gap-302788149.html"
+      "title": "Scaling Enterprise Conversational Intelligence: Cross-industry Technology and Functional Solutions Powered by Databricks Genie",
+      "description": "* Innovative partner solutions built on the Databricks Genie by leading consulting and SI partners\r\n* Supports technology and function-specific use cases across sales, marketing, HR, finance, procurement, supply chain, customer service and IT operations.\r\n* F…",
+      "url": "https://www.databricks.com/blog/cross-industry-technology-and-functional-genie-partner-solutions"
     },
     {
-      "title": "LLM Input Sanitization: Preventing AI Exploits",
-      "description": "Introduction\r\nLarge Language Models (LLMs) are now widely used in chatbots, AI agents, customer support systems, enterprise automation, and developer tools. While these systems provide powerful capab… [+6585 chars]",
-      "url": "https://www.c-sharpcorner.com/article/llm-input-sanitization-preventing-ai-exploits/"
+      "title": "What Is Microsoft’s Majorana 2 Quantum Chip? How AI Is Reinventing Quantum Computing",
+      "description": "Microsoft’s new Majorana 2 quantum chip, designed with AI, could reshape computing forever. Learn how Majorana 2 works, why it matters, how AI helped build it, and what it means for developers and the future of technology.",
+      "url": "https://www.c-sharpcorner.com/article/what-is-microsofts-majorana-2-quantum-chip/"
     }
   ],
   "miamiNews": [
     {
-      "title": "These Black Families Are Worth Billions",
-      "description": "From chart-topping icons to secret corporate titans, we’ve gathered 13 Black families who have officially reached billionaire status!Read more...",
-      "url": "https://www.theroot.com/these-black-families-are-worth-billions-2000108837"
+      "title": "Vision Marine Technologies Expands South Florida Consumer Footprint with New Dania Beach Marine Technology and On-Water Experience Center",
+      "description": "Retail Execution / Nautical Ventures Platform Vision Marine's new Dania Beach location expands Nautical Ventures' South Florida consumer footprint by combining full-service retail, waterfront access, on-water demonstrations, service connectivity, and product …",
+      "url": "https://www.prnewswire.com/news-releases/vision-marine-technologies-expands-south-florida-consumer-footprint-with-new-dania-beach-marine-technology-and-on-water-experience-center-302789600.html"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "74-86",
-    "condition": "Overcast",
-    "wind": "6 mph",
+    "temp_range": "74-80",
+    "condition": "Partly cloudy",
+    "wind": "17 mph",
     "humidity": "72%",
-    "chance_rain": "5%"
+    "chance_rain": "91%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-05",
       "event": "Clay and Maura coming to Miami",
-      "daysUntil": 2
+      "daysUntil": 1
     },
     {
       "date": "2026-06-07",
       "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 4
+      "daysUntil": 3
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 9
+      "daysUntil": 8
     }
   ],
-  "generatedAt": "2026-06-03T15:56:32.983Z"
+  "generatedAt": "2026-06-04T14:12:01.516Z"
 }
