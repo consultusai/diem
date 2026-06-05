@@ -1,33 +1,33 @@
 {
-  "date": "June 4, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "June 5, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Flawed AI, deepfakes and geopolitical conflicts pose major risks to business: Wipro",
-      "description": "IT major Wipro identifies Artificial Intelligence adoption as a significant risk. Flawed algorithms and biases could lead to legal and financial issues. Evolving regulations also pose threats. The company warns that AI's rapid integration into client offering…",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/flawed-ai-deepfakes-and-geopolitical-conflicts-pose-major-risks-to-business-wipro/articleshow/131485175.cms"
+      "title": "What the Agentic Era Means for Data Science",
+      "description": "Learn how AI agents are reshaping data science workflows and which skills practitioners need in 2026.",
+      "url": "https://www.kdnuggets.com/what-the-agentic-era-means-for-data-science"
     },
     {
-      "title": "Scaling Enterprise Conversational Intelligence: Cross-industry Technology and Functional Solutions Powered by Databricks Genie",
-      "description": "* Innovative partner solutions built on the Databricks Genie by leading consulting and SI partners\r\n* Supports technology and function-specific use cases across sales, marketing, HR, finance, procurement, supply chain, customer service and IT operations.\r\n* F…",
-      "url": "https://www.databricks.com/blog/cross-industry-technology-and-functional-genie-partner-solutions"
+      "title": "Nvidia snaps up Kumo AI, a predictive AI startup known for its extreme accuracy",
+      "description": "Nvidia Corp. has bagged itself another artificial intelligence startup, acquiring four-year-old model maker Kumo AI Inc. The company designs AI models focused on making extremely accurate business predictions, and becomes the latest in a string of startups ac…",
+      "url": "https://siliconangle.com/2026/06/03/nvidia-snaps-kumo-ai-predictive-ai-startup-known-extreme-accuracy/"
     },
     {
-      "title": "What Is Microsoft’s Majorana 2 Quantum Chip? How AI Is Reinventing Quantum Computing",
-      "description": "Microsoft’s new Majorana 2 quantum chip, designed with AI, could reshape computing forever. Learn how Majorana 2 works, why it matters, how AI helped build it, and what it means for developers and the future of technology.",
-      "url": "https://www.c-sharpcorner.com/article/what-is-microsofts-majorana-2-quantum-chip/"
+      "title": "Beyond automation: Why the surge in AI-driven security vulnerabilities demands human technical advocacy",
+      "description": "Future historians will remember spring 2026 as the dawn of AI-driven security vulnerability reporting. On April 7, Anthropic announced a preview of its Claude Mythos AI model, made available to select companies as part of Project Glasswing. The initiative cla…",
+      "url": "https://www.redhat.com/en/blog/beyond-automation-why-surge-ai-driven-security-vulnerabilities-demands-human-technical-advocacy"
     }
   ],
   "miamiNews": [
     {
-      "title": "Vision Marine Technologies Expands South Florida Consumer Footprint with New Dania Beach Marine Technology and On-Water Experience Center",
-      "description": "Retail Execution / Nautical Ventures Platform Vision Marine's new Dania Beach location expands Nautical Ventures' South Florida consumer footprint by combining full-service retail, waterfront access, on-water demonstrations, service connectivity, and product …",
-      "url": "https://www.prnewswire.com/news-releases/vision-marine-technologies-expands-south-florida-consumer-footprint-with-new-dania-beach-marine-technology-and-on-water-experience-center-302789600.html"
+      "title": "Paige Spiranac stunned by the power & 'tempo' of pros ahead of women's U.S. Open, Barkley chair lifts & MEAT",
+      "description": "From a wild U.S. Open qualifier incident in Dayton to smart meter fury, readers sound off on utilities controlling power without warning homeowners.",
+      "url": "https://www.foxnews.com/outkick-culture/paige-spiranac-stunned-power-tempo-pros-ahead-womens-us-open-barkley-chair-lifts-meat"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -53,29 +53,29 @@
     "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "74-80",
+    "temp_range": "74-81",
     "condition": "Partly cloudy",
-    "wind": "17 mph",
-    "humidity": "72%",
-    "chance_rain": "91%"
+    "wind": "13 mph",
+    "humidity": "64%",
+    "chance_rain": "8%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-05",
       "event": "Clay and Maura coming to Miami",
-      "daysUntil": 1
+      "daysUntil": 0
     },
     {
       "date": "2026-06-07",
       "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 3
+      "daysUntil": 2
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 8
+      "daysUntil": 7
     }
   ],
-  "generatedAt": "2026-06-04T14:12:01.516Z"
+  "generatedAt": "2026-06-05T14:05:07.337Z"
 }
