@@ -1,33 +1,33 @@
 {
-  "date": "June 5, 2026",
-  "dayOfWeek": "Friday",
+  "date": "June 6, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "What the Agentic Era Means for Data Science",
-      "description": "Learn how AI agents are reshaping data science workflows and which skills practitioners need in 2026.",
-      "url": "https://www.kdnuggets.com/what-the-agentic-era-means-for-data-science"
+      "title": "Director, Data Science, Foundation Model AI",
+      "description": "Job Description Our Artificial Intelligence and Machine Learning (AI/ML) capabilities are critical accelerators of our mission to invent new medicines that save and improve lives. Core to the Data, AI, and Genome Sciences (DAGS) function is an AI/ML-first app…",
+      "url": "https://nlppeople.com/job/director-data-science-foundation-model-ai-2/"
     },
     {
-      "title": "Nvidia snaps up Kumo AI, a predictive AI startup known for its extreme accuracy",
-      "description": "Nvidia Corp. has bagged itself another artificial intelligence startup, acquiring four-year-old model maker Kumo AI Inc. The company designs AI models focused on making extremely accurate business predictions, and becomes the latest in a string of startups ac…",
-      "url": "https://siliconangle.com/2026/06/03/nvidia-snaps-kumo-ai-predictive-ai-startup-known-extreme-accuracy/"
+      "title": "Is AI reducing IT costs? Tech leaders weigh in",
+      "description": "IT leaders say AI is adding new costs faster than organizations can measure the benefits. This forces CIOs to weigh rising spending against uncertain productivity gains.",
+      "url": "https://www.techtarget.com/searchcio/feature/is-ai-reducing-it-costs-tech-leaders-weigh-in"
     },
     {
-      "title": "Beyond automation: Why the surge in AI-driven security vulnerabilities demands human technical advocacy",
-      "description": "Future historians will remember spring 2026 as the dawn of AI-driven security vulnerability reporting. On April 7, Anthropic announced a preview of its Claude Mythos AI model, made available to select companies as part of Project Glasswing. The initiative cla…",
-      "url": "https://www.redhat.com/en/blog/beyond-automation-why-surge-ai-driven-security-vulnerabilities-demands-human-technical-advocacy"
+      "title": "The Pentagon’s AI Edge Is Being Distilled Away",
+      "description": "Adversaries do not need to breach the Pentagon’s systems: They only need to harvest the logic of the publicly released frontier AI models that underpin them. This is a defining risk as the Department of Defense pivots to an “AI-first” warfighting machine. In …",
+      "url": "https://warontherocks.com/cogs-of-war/the-pentagons-ai-edge-is-being-distilled-away/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Paige Spiranac stunned by the power & 'tempo' of pros ahead of women's U.S. Open, Barkley chair lifts & MEAT",
-      "description": "From a wild U.S. Open qualifier incident in Dayton to smart meter fury, readers sound off on utilities controlling power without warning homeowners.",
-      "url": "https://www.foxnews.com/outkick-culture/paige-spiranac-stunned-power-tempo-pros-ahead-womens-us-open-barkley-chair-lifts-meat"
+      "title": "Pinnacle Food Group Limited Appoints Dr. Yunhao Chen as Chief Financial Officer",
+      "description": "VANCOUVER, BC, June 5, 2026 /PRNewswire/ -- Pinnacle Food Group Limited (Nasdaq: PFAI) (the \"Company\"), today announced the dismissal of Wencai Pan as Chief Financial Officer and appointment of Dr. Yunhao Chen as Chief Financial Officer of the Company, both e…",
+      "url": "https://www.prnewswire.com/news-releases/pinnacle-food-group-limited-appoints-dr-yunhao-chen-as-chief-financial-officer-302792448.html"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "74-81",
+    "temp_range": "74-83",
     "condition": "Partly cloudy",
     "wind": "13 mph",
-    "humidity": "64%",
-    "chance_rain": "8%"
+    "humidity": "69%",
+    "chance_rain": "3%"
   },
   "celebration": null,
   "upcoming": [
     {
-      "date": "2026-06-05",
-      "event": "Clay and Maura coming to Miami",
-      "daysUntil": 0
-    },
-    {
       "date": "2026-06-07",
       "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 2
+      "daysUntil": 1
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 7
+      "daysUntil": 6
+    },
+    {
+      "date": "2026-06-18",
+      "event": "NYC for US Open",
+      "daysUntil": 12
     }
   ],
-  "generatedAt": "2026-06-05T14:05:07.337Z"
+  "generatedAt": "2026-06-06T12:48:03.474Z"
 }
