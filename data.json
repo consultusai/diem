@@ -1,30 +1,8 @@
 {
-  "date": "June 6, 2026",
-  "dayOfWeek": "Saturday",
-  "usNews": [
-    {
-      "title": "Director, Data Science, Foundation Model AI",
-      "description": "Job Description Our Artificial Intelligence and Machine Learning (AI/ML) capabilities are critical accelerators of our mission to invent new medicines that save and improve lives. Core to the Data, AI, and Genome Sciences (DAGS) function is an AI/ML-first app…",
-      "url": "https://nlppeople.com/job/director-data-science-foundation-model-ai-2/"
-    },
-    {
-      "title": "Is AI reducing IT costs? Tech leaders weigh in",
-      "description": "IT leaders say AI is adding new costs faster than organizations can measure the benefits. This forces CIOs to weigh rising spending against uncertain productivity gains.",
-      "url": "https://www.techtarget.com/searchcio/feature/is-ai-reducing-it-costs-tech-leaders-weigh-in"
-    },
-    {
-      "title": "The Pentagon’s AI Edge Is Being Distilled Away",
-      "description": "Adversaries do not need to breach the Pentagon’s systems: They only need to harvest the logic of the publicly released frontier AI models that underpin them. This is a defining risk as the Department of Defense pivots to an “AI-first” warfighting machine. In …",
-      "url": "https://warontherocks.com/cogs-of-war/the-pentagons-ai-edge-is-being-distilled-away/"
-    }
-  ],
-  "miamiNews": [
-    {
-      "title": "Pinnacle Food Group Limited Appoints Dr. Yunhao Chen as Chief Financial Officer",
-      "description": "VANCOUVER, BC, June 5, 2026 /PRNewswire/ -- Pinnacle Food Group Limited (Nasdaq: PFAI) (the \"Company\"), today announced the dismissal of Wencai Pan as Chief Financial Officer and appointment of Dr. Yunhao Chen as Chief Financial Officer of the Company, both e…",
-      "url": "https://www.prnewswire.com/news-releases/pinnacle-food-group-limited-appoints-dr-yunhao-chen-as-chief-financial-officer-302792448.html"
-    }
-  ],
+  "date": "June 7, 2026",
+  "dayOfWeek": "Sunday",
+  "usNews": [],
+  "miamiNews": [],
   "tip": {
     "title": "Date Night Idea: Swap Bucket Lists",
     "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
@@ -47,35 +25,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "74-83",
+    "temp_range": "76-86",
     "condition": "Partly cloudy",
-    "wind": "13 mph",
-    "humidity": "69%",
-    "chance_rain": "3%"
+    "wind": "12 mph",
+    "humidity": "74%",
+    "chance_rain": "21%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-07",
       "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 1
+      "daysUntil": 0
     },
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 6
+      "daysUntil": 5
     },
     {
       "date": "2026-06-18",
       "event": "NYC for US Open",
-      "daysUntil": 12
+      "daysUntil": 11
     }
   ],
-  "generatedAt": "2026-06-06T12:48:03.474Z"
+  "generatedAt": "2026-06-07T12:54:38.476Z"
 }
