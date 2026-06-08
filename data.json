@@ -1,11 +1,28 @@
 {
-  "date": "June 7, 2026",
-  "dayOfWeek": "Sunday",
-  "usNews": [],
-  "miamiNews": [],
+  "date": "June 8, 2026",
+  "dayOfWeek": "Monday",
+  "usNews": [
+    {
+      "title": "Calciforge",
+      "description": "Calciforge Keep your castle secure and moving. A self-hosted safety layer for AI agents. Give each agent a clear contract: which models it may use, which commands it may run, where secrets may go, and what gets logged. The agent can ask for a secret by name; …",
+      "url": "https://calciforge.org/"
+    },
+    {
+      "title": "Why the market isn't buying Salesforce's AI story",
+      "description": "Salesforce is betting heavily on AI across its products, operations and acquisitions. The company is already seeing productivity gains, but investors are still waiting for proof that AI can drive durable growth.",
+      "url": "https://www.livemint.com/companies/news/salesforce-ai-strategy-investors-remain-unconvinced-11780657093855.html"
+    }
+  ],
+  "miamiNews": [
+    {
+      "title": "Glamorous Trump supporter who founded world's first 'anti-woke' PR agency says she was left 'devastated' at being 'falsely accused' over London racial hate crime incident",
+      "description": "Melissa Rein Lively, 40, hit the headlines earlier this week after she accepted a conditional caution over the incident outside Bond Street tube station in Mayfair last October.",
+      "url": "https://www.dailymail.com/news/article-15880507/Glamorous-Trump-falsely-accused-London-racial-hate-crime.html"
+    }
+  ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -25,35 +42,35 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "76-86",
+    "temp_range": "77-88",
     "condition": "Partly cloudy",
-    "wind": "12 mph",
-    "humidity": "74%",
-    "chance_rain": "21%"
+    "wind": "7 mph",
+    "humidity": "85%",
+    "chance_rain": "2%"
   },
   "celebration": null,
   "upcoming": [
     {
-      "date": "2026-06-07",
-      "event": "Art & rug installation complete + Friends arrive",
-      "daysUntil": 0
-    },
-    {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 5
+      "daysUntil": 4
     },
     {
       "date": "2026-06-18",
       "event": "NYC for US Open",
+      "daysUntil": 10
+    },
+    {
+      "date": "2026-06-19",
+      "event": "Juneteenth",
       "daysUntil": 11
     }
   ],
-  "generatedAt": "2026-06-07T12:54:38.476Z"
+  "generatedAt": "2026-06-08T12:09:47.611Z"
 }

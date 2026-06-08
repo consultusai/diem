@@ -297,6 +297,29 @@ async function generateDashboard() {
   
   // Combine all news (keep Miami separate)
   const allNews = [...aiNewsRaw, ...dataNewsRaw, ...startupNewsRaw];
+  
+  // If no news found, add fallback articles
+  if (allNews.length === 0) {
+    console.log('No news from API, using fallbacks');
+    allNews.push(
+      {
+        title: "Latest Developments in AI and Machine Learning",
+        description: "Stay updated with the newest breakthroughs in artificial intelligence, machine learning, and automation.",
+        url: "https://ai.google.com"
+      },
+      {
+        title: "Startup Trends and Business Insights",
+        description: "Learn about what's happening in the startup ecosystem and entrepreneur success stories.",
+        url: "https://techcrunch.com"
+      },
+      {
+        title: "Data Engineering and Analytics News",
+        description: "Explore the latest tools, techniques, and best practices in data engineering and business analytics.",
+        url: "https://www.dataengineeringweekly.com"
+      }
+    );
+  }
+  
   const miamiScored = miamiNewsRaw
     .map(a => ({ ...a, score: scoreArticle(a) }))
     .filter(a => a.score > 0)
@@ -357,7 +380,12 @@ async function generateDashboard() {
   }
   
   if (finalMiamiNews.length === 0) {
-    console.log('No Miami news found. Raw count:', miamiNewsRaw.length);
+    console.log('No Miami news found, using fallback');
+    finalMiamiNews.push({
+      title: "Miami & South Florida Business News",
+      description: "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      url: "https://www.miamigov.com"
+    });
   }
   
   const data = {
