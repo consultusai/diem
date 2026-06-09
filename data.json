@@ -1,28 +1,33 @@
 {
-  "date": "June 8, 2026",
-  "dayOfWeek": "Monday",
+  "date": "June 9, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Calciforge",
-      "description": "Calciforge Keep your castle secure and moving. A self-hosted safety layer for AI agents. Give each agent a clear contract: which models it may use, which commands it may run, where secrets may go, and what gets logged. The agent can ask for a secret by name; …",
-      "url": "https://calciforge.org/"
+      "title": "How GenAI is Rewriting Legacy Tech Modernization Rules?",
+      "description": "How GenAI is Rewriting Legacy Tech Modernization Rules? Most enterprise IT environments still depend on decades-old systems. McKinsey reports that 70% of the software powering Fortune 500 companies was developed 20+ years ago, and many of these systems still …",
+      "url": "https://socialnomics.net/2026/06/08/how-genai-is-rewriting-legacy-tech-modernization-rules/"
     },
     {
-      "title": "Why the market isn't buying Salesforce's AI story",
-      "description": "Salesforce is betting heavily on AI across its products, operations and acquisitions. The company is already seeing productivity gains, but investors are still waiting for proof that AI can drive durable growth.",
-      "url": "https://www.livemint.com/companies/news/salesforce-ai-strategy-investors-remain-unconvinced-11780657093855.html"
+      "title": "SEI and Accenture Release AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
+      "description": "Fortune 500 companies are already using the model to establish a baseline for adopting artificial intelligence technology and plan for future AI investments PITTSBURGH, June 8, 2026 /PRNewswire/ -- The Carnegie Mellon University Software Engineering Institute…",
+      "url": "https://www.prnewswire.com/news-releases/sei-and-accenture-release-ai-adoption-maturity-model-to-help-organizations-scale-ai-with-predictable-outcomes-302793088.html"
+    },
+    {
+      "title": "Article: Artificial Intelligence-Driven Phishing: How Phishing Technique Is Evolving and Implemented",
+      "description": "In this article, the author examines how AI is transforming phishing from a manual, targeted activity into an automated and scalable attack model. The article breaks down each stage of the phishing lifecycle, showing how AI improves reconnaissance, profiling,…",
+      "url": "https://www.infoq.com/articles/artificial-intelligence-driven-phishing/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Glamorous Trump supporter who founded world's first 'anti-woke' PR agency says she was left 'devastated' at being 'falsely accused' over London racial hate crime incident",
-      "description": "Melissa Rein Lively, 40, hit the headlines earlier this week after she accepted a conditional caution over the incident outside Bond Street tube station in Mayfair last October.",
-      "url": "https://www.dailymail.com/news/article-15880507/Glamorous-Trump-falsely-accused-London-racial-hate-crime.html"
+      "title": "Data Centers Are Plugging a Big Hole in the U.S. Construction Industry",
+      "description": "More apartment buildings might make housing more affordable. Fair enough. The U.S. construction industry, though, is building shelter much faster for robots and other AI-driven technology than for tenants.  In fact, the disparity is so great that if you were …",
+      "url": "http://commercialobserver.com/2026/06/data-center-construction-overall-market-us/"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -42,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "77-88",
+    "temp_range": "77-89",
     "condition": "Partly cloudy",
-    "wind": "9 mph",
-    "humidity": "68%",
-    "chance_rain": "2%"
+    "wind": "8 mph",
+    "humidity": "82%",
+    "chance_rain": "4%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 4
+      "daysUntil": 3
     },
     {
       "date": "2026-06-18",
       "event": "NYC for US Open",
-      "daysUntil": 10
+      "daysUntil": 9
     },
     {
       "date": "2026-06-19",
       "event": "Juneteenth",
-      "daysUntil": 11
+      "daysUntil": 10
     }
   ],
-  "generatedAt": "2026-06-08T14:53:57.557Z"
+  "generatedAt": "2026-06-09T13:57:41.045Z"
 }
