@@ -1,33 +1,33 @@
 {
-  "date": "June 9, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "June 10, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "How GenAI is Rewriting Legacy Tech Modernization Rules?",
-      "description": "How GenAI is Rewriting Legacy Tech Modernization Rules? Most enterprise IT environments still depend on decades-old systems. McKinsey reports that 70% of the software powering Fortune 500 companies was developed 20+ years ago, and many of these systems still …",
-      "url": "https://socialnomics.net/2026/06/08/how-genai-is-rewriting-legacy-tech-modernization-rules/"
+      "title": "Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research",
+      "description": "LONDON, June 9, 2026 /PRNewswire/ -- Persistence Market Research, a leading management consulting firm, has released this update on the robotic process automation market. These software-driven solutions automate repetitive, rule-based business processes, help…",
+      "url": "https://www.prnewswire.com/news-releases/global-robotic-process-automation-market-accelerates-enterprise-efficiency-through-ai-driven-automation--cagr-23-5--persistence-market-research-302795334.html"
     },
     {
-      "title": "SEI and Accenture Release AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
-      "description": "Fortune 500 companies are already using the model to establish a baseline for adopting artificial intelligence technology and plan for future AI investments PITTSBURGH, June 8, 2026 /PRNewswire/ -- The Carnegie Mellon University Software Engineering Institute…",
-      "url": "https://www.prnewswire.com/news-releases/sei-and-accenture-release-ai-adoption-maturity-model-to-help-organizations-scale-ai-with-predictable-outcomes-302793088.html"
+      "title": "Rubrik turns its platform into an AI agent and ships Agent Cloud for Claude",
+      "description": "Rubrik Inc. today turned its data security platform into an autonomous agent and made its control layer for Anthropic PBC’s Claude generally available, the headline items in a wave of announcements at its Rubrik Forward conference in Las Vegas. The releases s…",
+      "url": "https://siliconangle.com/2026/06/09/rubrik-brings-agent-cloud-claude-launches-rubrik-ai-automate-recovery/"
     },
     {
-      "title": "Article: Artificial Intelligence-Driven Phishing: How Phishing Technique Is Evolving and Implemented",
-      "description": "In this article, the author examines how AI is transforming phishing from a manual, targeted activity into an automated and scalable attack model. The article breaks down each stage of the phishing lifecycle, showing how AI improves reconnaissance, profiling,…",
-      "url": "https://www.infoq.com/articles/artificial-intelligence-driven-phishing/"
+      "title": "Boomi Adds Snowflake Cortex Agents Support to Agentstudio to Enable Unified AI Agent Governance",
+      "description": "Snowflake Cortex Agents support in Boomi Agentstudio enables joint customers to govern all their agents in a single, vendor-agnostic control tower CONSHOHOCKEN, Pa. — Boomi, the data activation company for AI and an Elite Snowflake partner, today announced th…",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/boomi-adds-snowflake-cortex-agents-support-to-agentstudio-to-enable-unified-ai-agent-governance"
     }
   ],
   "miamiNews": [
     {
-      "title": "Data Centers Are Plugging a Big Hole in the U.S. Construction Industry",
-      "description": "More apartment buildings might make housing more affordable. Fair enough. The U.S. construction industry, though, is building shelter much faster for robots and other AI-driven technology than for tenants.  In fact, the disparity is so great that if you were …",
-      "url": "http://commercialobserver.com/2026/06/data-center-construction-overall-market-us/"
+      "title": "Tampa Bay Wave Launches 9th Tech|X Accelerator Powered by the Nielsen Foundation, Welcoming 15 Purpose-Driven Founders",
+      "description": "Program alumni have raised $375 million and created 1,600 jobs since 2018; 2026 cohort includes founders from MIT, Harvard, Oxford, and veterans of Apple, Amazon, and Boeing Program alumni have raised $375 million and created 1,600 jobs since 2018; 2026 cohor…",
+      "url": "https://www.globenewswire.com/news-release/2026/06/09/3308947/0/en/Tampa-Bay-Wave-Launches-9th-Tech-X-Accelerator-Powered-by-the-Nielsen-Foundation-Welcoming-15-Purpose-Driven-Founders.html"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "77-89",
+    "temp_range": "78-87",
     "condition": "Partly cloudy",
-    "wind": "8 mph",
-    "humidity": "82%",
-    "chance_rain": "4%"
+    "wind": "11 mph",
+    "humidity": "74%",
+    "chance_rain": "7%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 3
+      "daysUntil": 2
     },
     {
       "date": "2026-06-18",
       "event": "NYC for US Open",
-      "daysUntil": 9
+      "daysUntil": 8
     },
     {
       "date": "2026-06-19",
       "event": "Juneteenth",
-      "daysUntil": 10
+      "daysUntil": 9
     }
   ],
-  "generatedAt": "2026-06-09T13:57:41.045Z"
+  "generatedAt": "2026-06-10T14:31:43.004Z"
 }
