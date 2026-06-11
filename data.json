@@ -1,33 +1,33 @@
 {
-  "date": "June 10, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "June 11, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research",
-      "description": "LONDON, June 9, 2026 /PRNewswire/ -- Persistence Market Research, a leading management consulting firm, has released this update on the robotic process automation market. These software-driven solutions automate repetitive, rule-based business processes, help…",
-      "url": "https://www.prnewswire.com/news-releases/global-robotic-process-automation-market-accelerates-enterprise-efficiency-through-ai-driven-automation--cagr-23-5--persistence-market-research-302795334.html"
+      "title": "How AI is powering the next wave of micro-SaaS entrepreneurs",
+      "description": "Artificial intelligence is reshaping how software businesses are built, launched, and scaled. In particular, it is driving a surge in micro-SaaS startups, small, highly focused software-as-a-service companies often built by solo founders or tiny teams. What o…",
+      "url": "https://thenextweb.com/news/ai-powering-micro-saas-entrepreneurs/"
     },
     {
-      "title": "Rubrik turns its platform into an AI agent and ships Agent Cloud for Claude",
-      "description": "Rubrik Inc. today turned its data security platform into an autonomous agent and made its control layer for Anthropic PBC’s Claude generally available, the headline items in a wave of announcements at its Rubrik Forward conference in Las Vegas. The releases s…",
-      "url": "https://siliconangle.com/2026/06/09/rubrik-brings-agent-cloud-claude-launches-rubrik-ai-automate-recovery/"
+      "title": "Karnataka concludes Elevate Nxt 2026, selects 256 deeptech startups",
+      "description": "Karnataka's IT/BT department has concluded its Elevate Nxt 2026 deeptech startup support program, selecting 256 firms from 983 national applicants. The initiative, which expanded its scope this year, offers up to Rs 1 crore in grant-in-aid, mentorship, and ec…",
+      "url": "https://economictimes.indiatimes.com/tech/startups/karnataka-concludes-elevate-nxt-2026-selects-256-deeptech-startups/articleshow/131635954.cms"
     },
     {
-      "title": "Boomi Adds Snowflake Cortex Agents Support to Agentstudio to Enable Unified AI Agent Governance",
-      "description": "Snowflake Cortex Agents support in Boomi Agentstudio enables joint customers to govern all their agents in a single, vendor-agnostic control tower CONSHOHOCKEN, Pa. — Boomi, the data activation company for AI and an Elite Snowflake partner, today announced th…",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/boomi-adds-snowflake-cortex-agents-support-to-agentstudio-to-enable-unified-ai-agent-governance"
+      "title": "Exclusive: MotherDuck adds agentic data ingestion to its cloud analytics service",
+      "description": "MotherDuck Corp., the maker of a cloud-native data warehouse based on the open-source DuckDB analytical engine, is betting that artificial intelligence agents will reshape how data pipelines are built and managed. Today, it unveiled a new capability called Fl…",
+      "url": "https://siliconangle.com/2026/06/10/exclusive-motherduck-adds-agentic-data-ingestion-cloud-analytics-service/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Tampa Bay Wave Launches 9th Tech|X Accelerator Powered by the Nielsen Foundation, Welcoming 15 Purpose-Driven Founders",
-      "description": "Program alumni have raised $375 million and created 1,600 jobs since 2018; 2026 cohort includes founders from MIT, Harvard, Oxford, and veterans of Apple, Amazon, and Boeing Program alumni have raised $375 million and created 1,600 jobs since 2018; 2026 cohor…",
-      "url": "https://www.globenewswire.com/news-release/2026/06/09/3308947/0/en/Tampa-Bay-Wave-Launches-9th-Tech-X-Accelerator-Powered-by-the-Nielsen-Foundation-Welcoming-15-Purpose-Driven-Founders.html"
+      "title": "AI will help young workers 'mature' faster by automating grunt work, Thoma Bravo says, amid youth job crisis",
+      "description": "\"If you look at our associates, they're spending a lot less time doing models or comparables than before,\" Orlando Bravo, founder of Thoma Bravo, told CNBC.",
+      "url": "https://www.cnbc.com/2026/06/10/ai-youth-uneployment-automation-thoma-bravo.html"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "78-87",
+    "temp_range": "76-91",
     "condition": "Partly cloudy",
-    "wind": "11 mph",
-    "humidity": "74%",
-    "chance_rain": "7%"
+    "wind": "10 mph",
+    "humidity": "63%",
+    "chance_rain": "6%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 2
+      "daysUntil": 1
     },
     {
       "date": "2026-06-18",
       "event": "NYC for US Open",
-      "daysUntil": 8
+      "daysUntil": 7
     },
     {
       "date": "2026-06-19",
       "event": "Juneteenth",
-      "daysUntil": 9
+      "daysUntil": 8
     }
   ],
-  "generatedAt": "2026-06-10T14:31:43.004Z"
+  "generatedAt": "2026-06-11T15:00:26.247Z"
 }
