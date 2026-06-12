@@ -1,33 +1,33 @@
 {
-  "date": "June 11, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "June 12, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "How AI is powering the next wave of micro-SaaS entrepreneurs",
-      "description": "Artificial intelligence is reshaping how software businesses are built, launched, and scaled. In particular, it is driving a surge in micro-SaaS startups, small, highly focused software-as-a-service companies often built by solo founders or tiny teams. What o…",
-      "url": "https://thenextweb.com/news/ai-powering-micro-saas-entrepreneurs/"
+      "title": "Best Python AI Frameworks in 2026",
+      "description": "Whether you’re building chatbots, training computer vision models, or analyzing business data, choosing the right AI framework can make or break your project. Python has become the dominant language for AI and machine learning development, and the ecosystem o…",
+      "url": "https://blog.jetbrains.com/pycharm/2026/06/best-python-ai-frameworks-in-2026/"
     },
     {
-      "title": "Karnataka concludes Elevate Nxt 2026, selects 256 deeptech startups",
-      "description": "Karnataka's IT/BT department has concluded its Elevate Nxt 2026 deeptech startup support program, selecting 256 firms from 983 national applicants. The initiative, which expanded its scope this year, offers up to Rs 1 crore in grant-in-aid, mentorship, and ec…",
-      "url": "https://economictimes.indiatimes.com/tech/startups/karnataka-concludes-elevate-nxt-2026-selects-256-deeptech-startups/articleshow/131635954.cms"
+      "title": "Vector Institute and Helmholtz Munich Sign MOU to Advance International AI and Machine Learning Research",
+      "description": "Partnership to accelerate researcher mobility, joint scientific collaboration, and German-Canadian innovation – with Vector researcher Shaina Raza set to speak at HAICON 2026 TORONTO, June 11, 2026 (GLOBE NEWSWIRE) — The Vector Institute today announced the s…",
+      "url": "https://financialpost.com/globe-newswire/vector-institute-and-helmholtz-munich-sign-mou-to-advance-international-ai-and-machine-learning-research"
     },
     {
-      "title": "Exclusive: MotherDuck adds agentic data ingestion to its cloud analytics service",
-      "description": "MotherDuck Corp., the maker of a cloud-native data warehouse based on the open-source DuckDB analytical engine, is betting that artificial intelligence agents will reshape how data pipelines are built and managed. Today, it unveiled a new capability called Fl…",
-      "url": "https://siliconangle.com/2026/06/10/exclusive-motherduck-adds-agentic-data-ingestion-cloud-analytics-service/"
+      "title": "India’s Own AI Server: What It Is and How India Can Build a Self-Reliant AI Infrastructure",
+      "description": "Learn what India’s own AI server means, how AI servers work, why India needs sovereign AI infrastructure, and how Indian organizations can build and scale AI-ready data centers.",
+      "url": "https://www.c-sharpcorner.com/article/indias-own-ai-server-what-it-is-and-how-india-can-build-a-self-reliant-ai-infr/"
     }
   ],
   "miamiNews": [
     {
-      "title": "AI will help young workers 'mature' faster by automating grunt work, Thoma Bravo says, amid youth job crisis",
-      "description": "\"If you look at our associates, they're spending a lot less time doing models or comparables than before,\" Orlando Bravo, founder of Thoma Bravo, told CNBC.",
-      "url": "https://www.cnbc.com/2026/06/10/ai-youth-uneployment-automation-thoma-bravo.html"
+      "title": "Orbital unveils plans for US expansion as demand grows for stablecoin and cross-border payment infrastructure",
+      "description": "A Miami base will support US institutions building global stablecoin and multi-currency payment rails LONDON, TAALLINN, Estonia and GIBRALTAR , June 11, 2026 /PRNewswire/ -- Orbital, a global payment orchestration platform across digital assets (including sta…",
+      "url": "https://www.prnewswire.com/news-releases/orbital-unveils-plans-for-us-expansion-as-demand-grows-for-stablecoin-and-cross-border-payment-infrastructure-302796563.html"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "76-91",
+    "temp_range": "77-90",
     "condition": "Partly cloudy",
-    "wind": "10 mph",
-    "humidity": "63%",
-    "chance_rain": "6%"
+    "wind": "8 mph",
+    "humidity": "74%",
+    "chance_rain": "7%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-12",
       "event": "Jennies mom here",
-      "daysUntil": 1
+      "daysUntil": 0
     },
     {
       "date": "2026-06-18",
       "event": "NYC for US Open",
-      "daysUntil": 7
+      "daysUntil": 6
     },
     {
       "date": "2026-06-19",
       "event": "Juneteenth",
-      "daysUntil": 8
+      "daysUntil": 7
     }
   ],
-  "generatedAt": "2026-06-11T15:00:26.247Z"
+  "generatedAt": "2026-06-12T14:17:59.413Z"
 }
