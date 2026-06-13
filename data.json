@@ -1,33 +1,33 @@
 {
-  "date": "June 12, 2026",
-  "dayOfWeek": "Friday",
+  "date": "June 13, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "Best Python AI Frameworks in 2026",
-      "description": "Whether you’re building chatbots, training computer vision models, or analyzing business data, choosing the right AI framework can make or break your project. Python has become the dominant language for AI and machine learning development, and the ecosystem o…",
-      "url": "https://blog.jetbrains.com/pycharm/2026/06/best-python-ai-frameworks-in-2026/"
+      "title": "Pleo layoffs hit engineers a day after it launched finance AI agents",
+      "description": "On 11 June, Pleo told finance teams that AI agents would soon free them from administrative work. The next day came the Pleo layoffs: the Danish spend-management fintech had cut around 50 of its own staff, most of them in engineering and data. The product lau…",
+      "url": "https://thenextweb.com/news/pleo-layoffs-ai-agents-finance/"
     },
     {
-      "title": "Vector Institute and Helmholtz Munich Sign MOU to Advance International AI and Machine Learning Research",
-      "description": "Partnership to accelerate researcher mobility, joint scientific collaboration, and German-Canadian innovation – with Vector researcher Shaina Raza set to speak at HAICON 2026 TORONTO, June 11, 2026 (GLOBE NEWSWIRE) — The Vector Institute today announced the s…",
-      "url": "https://financialpost.com/globe-newswire/vector-institute-and-helmholtz-munich-sign-mou-to-advance-international-ai-and-machine-learning-research"
+      "title": "AI / Machine Learning Engineer — GenAI, LLMs & Applied AI",
+      "description": "Job Overview We are seeking a highly skilled AI / Machine Learning Engineer specialising in Generative AI (GenAI), Large Language Models (LLMs), and applied artificial intelligence. This role offers an exciting opportunity to develop innovative solutions leve…",
+      "url": "https://nlppeople.com/job/ai-machine-learning-engineer-genai-llms-applied-ai/"
     },
     {
-      "title": "India’s Own AI Server: What It Is and How India Can Build a Self-Reliant AI Infrastructure",
-      "description": "Learn what India’s own AI server means, how AI servers work, why India needs sovereign AI infrastructure, and how Indian organizations can build and scale AI-ready data centers.",
-      "url": "https://www.c-sharpcorner.com/article/indias-own-ai-server-what-it-is-and-how-india-can-build-a-self-reliant-ai-infr/"
+      "title": "Building AI-Powered Root Cause Analysis Systems for Production Incidents",
+      "description": "Leverage AI for faster production incident root cause analysis. Discover how AI systems analyze data, correlate events, and improve MTTR.",
+      "url": "https://www.c-sharpcorner.com/article/building-ai-powered-root-cause-analysis-systems-for-production-incidents/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Orbital unveils plans for US expansion as demand grows for stablecoin and cross-border payment infrastructure",
-      "description": "A Miami base will support US institutions building global stablecoin and multi-currency payment rails LONDON, TAALLINN, Estonia and GIBRALTAR , June 11, 2026 /PRNewswire/ -- Orbital, a global payment orchestration platform across digital assets (including sta…",
-      "url": "https://www.prnewswire.com/news-releases/orbital-unveils-plans-for-us-expansion-as-demand-grows-for-stablecoin-and-cross-border-payment-infrastructure-302796563.html"
+      "title": "Ken Griffin has Miami. Stephen Ross has West Palm Beach. Fort Lauderdale had Wayne Huizenga — and it’s been winning ever since",
+      "description": "I've spent spent 26 years building Fort Lauderdale's future and we don't need a billionaire champion — we already had one.",
+      "url": "https://finance.yahoo.com/economy/articles/ken-griffin-miami-stephen-ross-110000577.html"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -53,29 +53,29 @@
     "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "77-90",
+    "temp_range": "74-92",
     "condition": "Partly cloudy",
-    "wind": "8 mph",
-    "humidity": "74%",
-    "chance_rain": "7%"
+    "wind": "5 mph",
+    "humidity": "82%",
+    "chance_rain": "9%"
   },
   "celebration": null,
   "upcoming": [
     {
-      "date": "2026-06-12",
-      "event": "Jennies mom here",
-      "daysUntil": 0
-    },
-    {
       "date": "2026-06-18",
       "event": "NYC for US Open",
-      "daysUntil": 6
+      "daysUntil": 5
     },
     {
       "date": "2026-06-19",
       "event": "Juneteenth",
-      "daysUntil": 7
+      "daysUntil": 6
+    },
+    {
+      "date": "2026-06-28",
+      "event": "Key West",
+      "daysUntil": 15
     }
   ],
-  "generatedAt": "2026-06-12T14:17:59.413Z"
+  "generatedAt": "2026-06-13T13:00:06.903Z"
 }
