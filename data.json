@@ -1,33 +1,23 @@
 {
-  "date": "June 13, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "June 14, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Pleo layoffs hit engineers a day after it launched finance AI agents",
-      "description": "On 11 June, Pleo told finance teams that AI agents would soon free them from administrative work. The next day came the Pleo layoffs: the Danish spend-management fintech had cut around 50 of its own staff, most of them in engineering and data. The product lau…",
-      "url": "https://thenextweb.com/news/pleo-layoffs-ai-agents-finance/"
-    },
-    {
-      "title": "AI / Machine Learning Engineer — GenAI, LLMs & Applied AI",
-      "description": "Job Overview We are seeking a highly skilled AI / Machine Learning Engineer specialising in Generative AI (GenAI), Large Language Models (LLMs), and applied artificial intelligence. This role offers an exciting opportunity to develop innovative solutions leve…",
-      "url": "https://nlppeople.com/job/ai-machine-learning-engineer-genai-llms-applied-ai/"
-    },
-    {
-      "title": "Building AI-Powered Root Cause Analysis Systems for Production Incidents",
-      "description": "Leverage AI for faster production incident root cause analysis. Discover how AI systems analyze data, correlate events, and improve MTTR.",
-      "url": "https://www.c-sharpcorner.com/article/building-ai-powered-root-cause-analysis-systems-for-production-incidents/"
+      "title": "AI Marketing Intelligence: June 2026 Weekly Briefing",
+      "description": "Claude Fable 5 autonomously produced a full video from one prompt — then the U.S. government shut it down. Plus: bots are now your primary audience, Google made brand trust a hard performance variable, and OpenAI entered the credentialing market.",
+      "url": "https://rafalreyzer.com/ai-marketing-intelligence-june-2026-weekly-briefing/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Ken Griffin has Miami. Stephen Ross has West Palm Beach. Fort Lauderdale had Wayne Huizenga — and it’s been winning ever since",
-      "description": "I've spent spent 26 years building Fort Lauderdale's future and we don't need a billionaire champion — we already had one.",
-      "url": "https://finance.yahoo.com/economy/articles/ken-griffin-miami-stephen-ross-110000577.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -53,29 +43,29 @@
     "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "74-92",
-    "condition": "Partly cloudy",
-    "wind": "5 mph",
+    "temp_range": "77-85",
+    "condition": "Sunny",
+    "wind": "3 mph",
     "humidity": "82%",
-    "chance_rain": "9%"
+    "chance_rain": "5%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-18",
       "event": "NYC for US Open",
-      "daysUntil": 5
+      "daysUntil": 4
     },
     {
       "date": "2026-06-19",
       "event": "Juneteenth",
-      "daysUntil": 6
+      "daysUntil": 5
     },
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 15
+      "daysUntil": 14
     }
   ],
-  "generatedAt": "2026-06-13T13:00:06.903Z"
+  "generatedAt": "2026-06-14T13:10:05.100Z"
 }
