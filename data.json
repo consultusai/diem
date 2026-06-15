@@ -1,11 +1,21 @@
 {
-  "date": "June 14, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "June 15, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "AI Marketing Intelligence: June 2026 Weekly Briefing",
-      "description": "Claude Fable 5 autonomously produced a full video from one prompt — then the U.S. government shut it down. Plus: bots are now your primary audience, Google made brand trust a hard performance variable, and OpenAI entered the credentialing market.",
-      "url": "https://rafalreyzer.com/ai-marketing-intelligence-june-2026-weekly-briefing/"
+      "title": "Latest Developments in AI and Machine Learning",
+      "description": "Stay updated with the newest breakthroughs in artificial intelligence, machine learning, and automation.",
+      "url": "https://ai.google.com"
+    },
+    {
+      "title": "Data Engineering and Analytics News",
+      "description": "Explore the latest tools, techniques, and best practices in data engineering and business analytics.",
+      "url": "https://www.dataengineeringweekly.com"
+    },
+    {
+      "title": "Startup Trends and Business Insights",
+      "description": "Learn about what's happening in the startup ecosystem and entrepreneur success stories.",
+      "url": "https://techcrunch.com"
     }
   ],
   "miamiNews": [
@@ -16,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -37,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "77-85",
-    "condition": "Sunny",
-    "wind": "3 mph",
-    "humidity": "82%",
+    "temp_range": "76-91",
+    "condition": "Partly cloudy",
+    "wind": "8 mph",
+    "humidity": "52%",
     "chance_rain": "5%"
   },
   "celebration": null,
@@ -54,18 +64,18 @@
     {
       "date": "2026-06-18",
       "event": "NYC for US Open",
-      "daysUntil": 4
+      "daysUntil": 3
     },
     {
       "date": "2026-06-19",
       "event": "Juneteenth",
-      "daysUntil": 5
+      "daysUntil": 4
     },
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 14
+      "daysUntil": 13
     }
   ],
-  "generatedAt": "2026-06-14T13:10:05.100Z"
+  "generatedAt": "2026-06-15T16:23:24.406Z"
 }
