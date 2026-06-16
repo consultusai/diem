@@ -1,21 +1,21 @@
 {
-  "date": "June 15, 2026",
-  "dayOfWeek": "Monday",
+  "date": "June 16, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Latest Developments in AI and Machine Learning",
-      "description": "Stay updated with the newest breakthroughs in artificial intelligence, machine learning, and automation.",
-      "url": "https://ai.google.com"
+      "title": "AI Infrastructure Boom Drives Demand for Semiconductor, Pharmaceutical Automation",
+      "description": "AUSTIN, Texas, June 15, 2026 (GLOBE NEWSWIRE) -- AINewsWire Editorial Coverage\r\n: The global race to build artificial intelligence infrastructure has triggered a capital spending surge unlike anything the technology sector has seen in a generation. Hyperscale…",
+      "url": "https://www.globenewswire.com/news-release/2026/06/15/3311787/0/en/AI-Infrastructure-Boom-Drives-Demand-for-Semiconductor-Pharmaceutical-Automation.html"
     },
     {
-      "title": "Data Engineering and Analytics News",
-      "description": "Explore the latest tools, techniques, and best practices in data engineering and business analytics.",
-      "url": "https://www.dataengineeringweekly.com"
+      "title": "Article: Governing AI in the Cloud: A Practical Guide for Architects",
+      "description": "In this article, the author outlines a practical approach to AI governance in the cloud, covering discovery of shadow AI, data classification at creation, IAM-based enforcement, policy-as-code, and operational controls. The article shows how organizations can…",
+      "url": "https://www.infoq.com/articles/governing-ai-cloud-guide/"
     },
     {
-      "title": "Startup Trends and Business Insights",
-      "description": "Learn about what's happening in the startup ecosystem and entrepreneur success stories.",
-      "url": "https://techcrunch.com"
+      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
+      "description": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challenges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "76-91",
+    "temp_range": "79-94",
     "condition": "Partly cloudy",
-    "wind": "8 mph",
-    "humidity": "52%",
+    "wind": "11 mph",
+    "humidity": "56%",
     "chance_rain": "5%"
   },
   "celebration": null,
@@ -64,18 +64,18 @@
     {
       "date": "2026-06-18",
       "event": "NYC for US Open",
-      "daysUntil": 3
+      "daysUntil": 2
     },
     {
       "date": "2026-06-19",
       "event": "Juneteenth",
-      "daysUntil": 4
+      "daysUntil": 3
     },
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 13
+      "daysUntil": 12
     }
   ],
-  "generatedAt": "2026-06-15T16:23:24.406Z"
+  "generatedAt": "2026-06-16T16:08:23.953Z"
 }
