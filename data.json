@@ -1,33 +1,33 @@
 {
-  "date": "June 16, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "June 17, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "AI Infrastructure Boom Drives Demand for Semiconductor, Pharmaceutical Automation",
-      "description": "AUSTIN, Texas, June 15, 2026 (GLOBE NEWSWIRE) -- AINewsWire Editorial Coverage\r\n: The global race to build artificial intelligence infrastructure has triggered a capital spending surge unlike anything the technology sector has seen in a generation. Hyperscale…",
-      "url": "https://www.globenewswire.com/news-release/2026/06/15/3311787/0/en/AI-Infrastructure-Boom-Drives-Demand-for-Semiconductor-Pharmaceutical-Automation.html"
+      "title": "Limitless Labs lands $20M to build AI agents for precision manufacturing",
+      "description": "Limitless Labs, operating as LimitlessCNC Ltd., today announced it has raised $20 million in early-stage funding to support agentic artificial intelligence in computer-aided manufacturing. Dell Technologies Capital and Square Peg co-led the Series A funding r…",
+      "url": "https://siliconangle.com/2026/06/16/limitless-labs-lands-20m-build-ai-agents-precision-manufacturing/"
     },
     {
-      "title": "Article: Governing AI in the Cloud: A Practical Guide for Architects",
-      "description": "In this article, the author outlines a practical approach to AI governance in the cloud, covering discovery of shadow AI, data classification at creation, IAM-based enforcement, policy-as-code, and operational controls. The article shows how organizations can…",
-      "url": "https://www.infoq.com/articles/governing-ai-cloud-guide/"
+      "title": "Exclusive: Mindbeam touts dramatic performance improvements in CPU-based AI inference",
+      "description": "Two-year-old startup Mindbeam AI Inc. today released an open-source artificial intelligence inference framework designed to make large language models run more efficiently on standard consumer processors, a move the company says could reduce reliance on expen…",
+      "url": "https://siliconangle.com/2026/06/16/exclusive-mindbeam-touts-dramatic-performance-improvements-cpu-based-ai-inference/"
     },
     {
-      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
-      "description": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challenges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/"
+      "title": "Databricks declares the end of pipelines with a unified platform for operational and analytical data",
+      "description": "Databricks Inc. is using its Data + AI Summit today in San Francisco to unveil a new data architecture designed to eliminate one of enterprise computing’s oldest bottlenecks: the separation between transactional databases and analytical systems. The company i…",
+      "url": "https://siliconangle.com/2026/06/16/databricks-declares-end-pipelines-unified-platform-operational-analytical-data/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Dreamology Labs Sues MSC Cruises, Seeking Nearly $1.9 Billion Over Alleged IP Theft",
+      "description": "Complaint alleges abuse of power by Executive Chairman Pierfrancesco Vago and a years-long pattern of fraudulent inducement and NDA-protected IP misuse MIAMI, June 16, 2026 /PRNewswire/ -- Alessandra Maderni, founder and CEO of Dreamology Labs, Inc., filed a …",
+      "url": "https://www.prnewswire.com/news-releases/dreamology-labs-sues-msc-cruises-seeking-nearly-1-9-billion-over-alleged-ip-theft-302801095.html"
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -56,26 +56,26 @@
     "temp_range": "79-94",
     "condition": "Partly cloudy",
     "wind": "11 mph",
-    "humidity": "56%",
-    "chance_rain": "5%"
+    "humidity": "72%",
+    "chance_rain": "9%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-18",
       "event": "NYC for US Open",
-      "daysUntil": 2
+      "daysUntil": 1
     },
     {
       "date": "2026-06-19",
       "event": "Juneteenth",
-      "daysUntil": 3
+      "daysUntil": 2
     },
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 12
+      "daysUntil": 11
     }
   ],
-  "generatedAt": "2026-06-16T16:08:23.953Z"
+  "generatedAt": "2026-06-17T14:30:43.414Z"
 }
