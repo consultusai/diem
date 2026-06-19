@@ -1,28 +1,28 @@
 {
-  "date": "June 18, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "June 19, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "AI Infrastructure Boom Creates Skyrocketing Demand for Automation, Robotics Solutions Across Industries",
-      "description": "AUSTIN, Texas, June 17, 2026 (GLOBE NEWSWIRE) -- AINewsWire Editorial Coverage\r\n: The worldwide push to build out artificial intelligence infrastructure has set off a wave of capital spending across the tech industry unmatched in recent memory. Major cloud co…",
-      "url": "https://www.globenewswire.com/news-release/2026/06/17/3313415/0/en/AI-Infrastructure-Boom-Creates-Skyrocketing-Demand-for-Automation-Robotics-Solutions-Across-Industries.html"
+      "title": "9 themes defining the unified data and AI platform at the Databricks Data + AI Summit",
+      "description": "Enterprise AI is moving beyond experimentation as organizations focus on deploying governed, cost-effective systems that deliver measurable business value. Meanwhile, companies are increasingly investing in a unified enterprise data platform to bring together…",
+      "url": "https://siliconangle.com/2026/06/18/enterprise-data-platform-databrickssummit/"
     },
     {
-      "title": "What Separates Scalable AI-Driven Innovation From Promising Experiments",
-      "description": "Forrester’s recent discussions with leaders from Google Cloud, APPLY, and Aptar highlight that scaling AI depends less on model capability alone and more on usability, co-created workflow redesign, and focusing on minimum viable data rather than waiting for f…",
-      "url": "https://www.forrester.com/blogs/what-separates-scalable-ai-driven-innovation-from-promising-experiments/"
+      "title": "Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model",
+      "description": "Cisco Talos detailed a new approach to reverse engineering that pairs local AI agents with traditional analysis tools like the VB6 disassembler vbdec. Instead of awkwardly bolting AI onto the software, vbdec exposes its parsed data through a live COM interfac…",
+      "url": "https://blog.talosintelligence.com/scripting-the-disassembler/"
     },
     {
-      "title": "What CFOs Should Be Learning From Private Equity Firms",
-      "description": "Every major technological shift creates a new category of business data. The internet created clickstream data, smartphones created location data and cloud software generated operational data at unprecedented scale. Fast forward to today, and artificial intel…",
-      "url": "https://www.pymnts.com/news/b2b-payments/2026/what-cfos-should-be-learning-from-private-equity-firms/"
+      "title": "Sifted Wins \"Artificial Intelligence Innovation Award\" in 2026 SupplyTech Breakthrough Awards Program",
+      "description": "Annual Awards Program Recognizes Innovation in the Global Supply Chain Technology and Logistics Industry OVERLAND PARK, Kan., June 18, 2026 /PRNewswire/ -- Sifted, the leader in parcel spend management powered by Logistics Intelligence technology, today annou…",
+      "url": "https://www.prnewswire.com/news-releases/sifted-wins-artificial-intelligence-innovation-award-in-2026-supplytech-breakthrough-awards-program-302803377.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "AI Loves Data Launches Enterprise AI Awards & Showcase 2027 to Recognize Real-World AI Innovation and Business Impact",
-      "description": "New practitioner-led initiative will celebrate the leaders, teams, and organizations transforming industries through artificial intelligence. MIAMI, June 17, 2026 (GLOBE NEWSWIRE) — AI Loves Data, one of North America’s largest vendor-neutral communities for …",
-      "url": "https://financialpost.com/globe-newswire/ai-loves-data-launches-enterprise-ai-awards-showcase-2027-to-recognize-real-world-ai-innovation-and-business-impact"
+      "title": "eCapital CEO Marius Silvasan Wins EY US Entrepreneur Of The Year® 2026 Florida Award",
+      "description": "MIAMI, June 18, 2026 /PRNewswire/ -- eCapital Corp. (\"eCapital\"), an AI-powered fintech company building the next generation of specialty finance, today announced that CEO Marius Silvasan has been named an Entrepreneur Of The Year® US 2026 Florida Award winne…",
+      "url": "https://www.prnewswire.com/news-releases/ecapital-ceo-marius-silvasan-wins-ey-us-entrepreneur-of-the-year-2026-florida-award-302804004.html"
     }
   ],
   "tip": {
@@ -53,29 +53,32 @@
     "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "81-93",
+    "temp_range": "81-91",
     "condition": "Partly cloudy",
-    "wind": "10 mph",
-    "humidity": "66%",
-    "chance_rain": "12%"
+    "wind": "14 mph",
+    "humidity": "72%",
+    "chance_rain": "9%"
   },
-  "celebration": null,
+  "celebration": {
+    "holiday": "Juneteenth",
+    "event": "In 1865, slaves in Galveston, Texas were finally freed, two years after the Emancipation Proclamation."
+  },
   "upcoming": [
-    {
-      "date": "2026-06-18",
-      "event": "NYC for US Open",
-      "daysUntil": 0
-    },
     {
       "date": "2026-06-19",
       "event": "Juneteenth",
-      "daysUntil": 1
+      "daysUntil": 0
     },
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 10
+      "daysUntil": 9
+    },
+    {
+      "date": "2026-07-04",
+      "event": "Puerto Rico & Independence Day",
+      "daysUntil": 15
     }
   ],
-  "generatedAt": "2026-06-18T14:26:39.288Z"
+  "generatedAt": "2026-06-19T14:23:49.862Z"
 }
