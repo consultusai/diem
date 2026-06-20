@@ -1,33 +1,33 @@
 {
-  "date": "June 19, 2026",
-  "dayOfWeek": "Friday",
+  "date": "June 20, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "9 themes defining the unified data and AI platform at the Databricks Data + AI Summit",
-      "description": "Enterprise AI is moving beyond experimentation as organizations focus on deploying governed, cost-effective systems that deliver measurable business value. Meanwhile, companies are increasingly investing in a unified enterprise data platform to bring together…",
-      "url": "https://siliconangle.com/2026/06/18/enterprise-data-platform-databrickssummit/"
+      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
+      "description": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time…",
+      "url": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html"
     },
     {
-      "title": "Scripting the disassembler: Local agentic reverse engineering through vbdec’s live COM object model",
-      "description": "Cisco Talos detailed a new approach to reverse engineering that pairs local AI agents with traditional analysis tools like the VB6 disassembler vbdec. Instead of awkwardly bolting AI onto the software, vbdec exposes its parsed data through a live COM interfac…",
-      "url": "https://blog.talosintelligence.com/scripting-the-disassembler/"
+      "title": "AI collaboration: A data leader’s advice for CIOs",
+      "description": "AI is touching many parts of the enterprise, and now is the time for CIOs to lean in and partner across functions, according to data leader Bharath Krishnamachari.",
+      "url": "https://www.techtarget.com/searchcio/feature/AI-collaboration-A-data-leaders-advice-for-CIOs"
     },
     {
-      "title": "Sifted Wins \"Artificial Intelligence Innovation Award\" in 2026 SupplyTech Breakthrough Awards Program",
-      "description": "Annual Awards Program Recognizes Innovation in the Global Supply Chain Technology and Logistics Industry OVERLAND PARK, Kan., June 18, 2026 /PRNewswire/ -- Sifted, the leader in parcel spend management powered by Logistics Intelligence technology, today annou…",
-      "url": "https://www.prnewswire.com/news-releases/sifted-wins-artificial-intelligence-innovation-award-in-2026-supplytech-breakthrough-awards-program-302803377.html"
+      "title": "Building AI-Enhanced Engineering Metrics Dashboards with Blazor",
+      "description": "Build AI-enhanced engineering metrics dashboards with Blazor & .NET. Gain predictive insights, detect anomalies, and improve software delivery.",
+      "url": "https://www.c-sharpcorner.com/article/building-ai-enhanced-engineering-metrics-dashboards-with-blazor/"
     }
   ],
   "miamiNews": [
     {
-      "title": "eCapital CEO Marius Silvasan Wins EY US Entrepreneur Of The Year® 2026 Florida Award",
-      "description": "MIAMI, June 18, 2026 /PRNewswire/ -- eCapital Corp. (\"eCapital\"), an AI-powered fintech company building the next generation of specialty finance, today announced that CEO Marius Silvasan has been named an Entrepreneur Of The Year® US 2026 Florida Award winne…",
-      "url": "https://www.prnewswire.com/news-releases/ecapital-ceo-marius-silvasan-wins-ey-us-entrepreneur-of-the-year-2026-florida-award-302804004.html"
+      "title": "They bought World Cup tickets months ago. Now they're out of luck.",
+      "description": "Over a dozen fans said that they bought tickets to attend the World Cup on sites like Stubhub. But the day of the game the sellers didn't deliver.",
+      "url": "https://www.businessinsider.com/world-cup-tickets-disappearing-ghost-stubhub-sellers-fans-prices-2026-6#article"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,38 +47,35 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "81-91",
+    "temp_range": "77-93",
     "condition": "Partly cloudy",
-    "wind": "14 mph",
-    "humidity": "72%",
-    "chance_rain": "9%"
+    "wind": "5 mph",
+    "humidity": "80%",
+    "chance_rain": "27%"
   },
-  "celebration": {
-    "holiday": "Juneteenth",
-    "event": "In 1865, slaves in Galveston, Texas were finally freed, two years after the Emancipation Proclamation."
-  },
+  "celebration": null,
   "upcoming": [
-    {
-      "date": "2026-06-19",
-      "event": "Juneteenth",
-      "daysUntil": 0
-    },
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 9
+      "daysUntil": 8
     },
     {
       "date": "2026-07-04",
       "event": "Puerto Rico & Independence Day",
-      "daysUntil": 15
+      "daysUntil": 14
+    },
+    {
+      "date": "2026-07-24",
+      "event": "MF birthday weekend",
+      "daysUntil": 34
     }
   ],
-  "generatedAt": "2026-06-19T14:23:49.862Z"
+  "generatedAt": "2026-06-20T13:01:12.831Z"
 }
