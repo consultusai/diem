@@ -1,33 +1,28 @@
 {
-  "date": "June 21, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "June 22, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Latest Developments in AI and Machine Learning",
-      "description": "Stay updated with the newest breakthroughs in artificial intelligence, machine learning, and automation.",
-      "url": "https://ai.google.com"
+      "title": "Week in review: 74k Fortinet firewall credentials stolen, Splunk Enterprise RCE under active attack",
+      "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: A hardware neural network backdoor that hides in plain sight Deep learning systems on edge devices often rely on third-party-designed FPGAs and ASICs for perform…",
+      "url": "https://www.helpnetsecurity.com/2026/06/21/week-in-review-74k-fortinet-firewall-credentials-stolen-splunk-enterprise-rce-under-active-attack/"
     },
     {
-      "title": "Data Engineering and Analytics News",
-      "description": "Explore the latest tools, techniques, and best practices in data engineering and business analytics.",
-      "url": "https://www.dataengineeringweekly.com"
-    },
-    {
-      "title": "Startup Trends and Business Insights",
-      "description": "Learn about what's happening in the startup ecosystem and entrepreneur success stories.",
-      "url": "https://techcrunch.com"
+      "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
+      "description": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Americans are flocking to 'Goldilocks' city that has all the perks of major southern hubs... but homes are a fraction of the price",
+      "description": "A Southern hidden gem was recently named one of the best places to live - especially for families on a budget.",
+      "url": "https://www.dailymail.com/yourmoney/article-15905563/southern-city-best-place-live-perks-cheap-homes.html"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,35 +42,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "77-91",
+    "temp_range": "78-91",
     "condition": "Partly cloudy",
-    "wind": "8 mph",
-    "humidity": "85%",
-    "chance_rain": "46%"
+    "wind": "11 mph",
+    "humidity": "64%",
+    "chance_rain": "9%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 7
+      "daysUntil": 6
     },
     {
       "date": "2026-07-04",
       "event": "Puerto Rico & Independence Day",
-      "daysUntil": 13
+      "daysUntil": 12
     },
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 33
+      "daysUntil": 32
     }
   ],
-  "generatedAt": "2026-06-21T13:20:13.926Z"
+  "generatedAt": "2026-06-22T16:07:28.345Z"
 }
