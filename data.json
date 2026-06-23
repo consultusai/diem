@@ -1,23 +1,28 @@
 {
-  "date": "June 22, 2026",
-  "dayOfWeek": "Monday",
+  "date": "June 23, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Week in review: 74k Fortinet firewall credentials stolen, Splunk Enterprise RCE under active attack",
-      "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: A hardware neural network backdoor that hides in plain sight Deep learning systems on edge devices often rely on third-party-designed FPGAs and ASICs for perform…",
-      "url": "https://www.helpnetsecurity.com/2026/06/21/week-in-review-74k-fortinet-firewall-credentials-stolen-splunk-enterprise-rce-under-active-attack/"
+      "title": "AI startups fuel talent war as hiring surges across India",
+      "description": "India's AI startups are experiencing a hiring surge, outpacing the broader tech sector as companies transition from AI experiments to large-scale deployments. Driven by demand for generative AI and automation, recruitment is booming across engineering, produc…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startups-fuel-talent-war-as-hiring-surges-across-india/articleshow/131897020.cms"
     },
     {
-      "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
-      "description": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/"
+      "title": "Never Have to Miss Them Again: Inside the AI Startup Building the World’s First Immortal, Emotional Technology for Love and Connection",
+      "description": "Never Have to Miss Them Again: Inside the AI Startup Building the World’s First Immortal, Emotional Technology for Love and Connection",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/never-have-to-miss-them-again-inside-the-ai-startup-building-the-worlds-first-immortal-emotional-technology-for-love-and-connection/article71132912.ece"
+    },
+    {
+      "title": "Duetto and Triptease Launch Integration to Automate Marketing Activity Based on Occupancy.",
+      "description": "Duetto, a leading provider of revenue and profit software for hotels, today announced a new integration with Triptease, a data marketing platform for hotels. The new tool, Auto Date Boost, automatically adjusts paid marketing spend when occupancy forecasts ch…",
+      "url": "https://www.breakingtravelnews.com/news/article/duetto-and-triptease-launch-integration-to-automate-marketing-activity-base/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Americans are flocking to 'Goldilocks' city that has all the perks of major southern hubs... but homes are a fraction of the price",
-      "description": "A Southern hidden gem was recently named one of the best places to live - especially for families on a budget.",
-      "url": "https://www.dailymail.com/yourmoney/article-15905563/southern-city-best-place-live-perks-cheap-homes.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
@@ -42,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "78-91",
+    "temp_range": "79-90",
     "condition": "Partly cloudy",
-    "wind": "11 mph",
-    "humidity": "64%",
+    "wind": "8 mph",
+    "humidity": "80%",
     "chance_rain": "9%"
   },
   "celebration": null,
@@ -59,18 +64,18 @@
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 6
+      "daysUntil": 5
     },
     {
       "date": "2026-07-04",
       "event": "Puerto Rico & Independence Day",
-      "daysUntil": 12
+      "daysUntil": 11
     },
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 32
+      "daysUntil": 31
     }
   ],
-  "generatedAt": "2026-06-22T16:07:28.345Z"
+  "generatedAt": "2026-06-23T13:57:16.341Z"
 }
