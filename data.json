@@ -1,21 +1,21 @@
 {
-  "date": "June 23, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "June 24, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "AI startups fuel talent war as hiring surges across India",
-      "description": "India's AI startups are experiencing a hiring surge, outpacing the broader tech sector as companies transition from AI experiments to large-scale deployments. Driven by demand for generative AI and automation, recruitment is booming across engineering, produc…",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startups-fuel-talent-war-as-hiring-surges-across-india/articleshow/131897020.cms"
+      "title": "Komprise aims to make messy, unstructured data accessible without the hassle",
+      "description": "Big data management startup Komprise Inc. said today it’s introducing a major update to its platform with the launch of Komprise Transparent File Tables, an entirely new feature that enables a “structured view” of messy unstructured data, making it more acces…",
+      "url": "https://siliconangle.com/2026/06/23/komprise-takes-challenge-making-messy-unstructured-data-accessible-without-hassle/"
     },
     {
-      "title": "Never Have to Miss Them Again: Inside the AI Startup Building the World’s First Immortal, Emotional Technology for Love and Connection",
-      "description": "Never Have to Miss Them Again: Inside the AI Startup Building the World’s First Immortal, Emotional Technology for Love and Connection",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/never-have-to-miss-them-again-inside-the-ai-startup-building-the-worlds-first-immortal-emotional-technology-for-love-and-connection/article71132912.ece"
+      "title": "Is ARX Crypto Legit? What Is Arcium (ARX) and Why Is It the Hottest Solana AI Token in June 2026",
+      "description": "Arcium is a Solana-native decentralized confidential computing network that allows data to be processed in an encrypted form without exposing it to validators and third...\nThe post Is ARX Crypto Legit? What Is Arcium (ARX) and Why Is It the Hottest Solana AI …",
+      "url": "https://bitcoinfoundation.org/news/analysis/is-arx-crypto-legit-what-is-arcium-arx-and-why-is-it-the-hottest-solana-ai-token-in-june-2026/"
     },
     {
-      "title": "Duetto and Triptease Launch Integration to Automate Marketing Activity Based on Occupancy.",
-      "description": "Duetto, a leading provider of revenue and profit software for hotels, today announced a new integration with Triptease, a data marketing platform for hotels. The new tool, Auto Date Boost, automatically adjusts paid marketing spend when occupancy forecasts ch…",
-      "url": "https://www.breakingtravelnews.com/news/article/duetto-and-triptease-launch-integration-to-automate-marketing-activity-base/"
+      "title": "Software-hardware loop fuelling all new AI super cycle",
+      "description": "While energy and cooling challenges persist, a lot more hardware requirements are expected to emerge, Synopsys CIO Sriram Sitaraman told ET. While energy and cooling pose challenges, innovation is anticipated to overcome these. Enterprises are also seeing pro…",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/software-hardware-loop-fuelling-all-new-ai-super-cycle/articleshow/131919502.cms"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "79-90",
+    "temp_range": "77-93",
     "condition": "Partly cloudy",
-    "wind": "8 mph",
-    "humidity": "80%",
-    "chance_rain": "9%"
+    "wind": "4 mph",
+    "humidity": "75%",
+    "chance_rain": "11%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 5
+      "daysUntil": 4
     },
     {
       "date": "2026-07-04",
       "event": "Puerto Rico & Independence Day",
-      "daysUntil": 11
+      "daysUntil": 10
     },
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 31
+      "daysUntil": 30
     }
   ],
-  "generatedAt": "2026-06-23T13:57:16.341Z"
+  "generatedAt": "2026-06-24T13:32:38.590Z"
 }
