@@ -1,33 +1,33 @@
 {
-  "date": "June 24, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "June 25, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Komprise aims to make messy, unstructured data accessible without the hassle",
-      "description": "Big data management startup Komprise Inc. said today it’s introducing a major update to its platform with the launch of Komprise Transparent File Tables, an entirely new feature that enables a “structured view” of messy unstructured data, making it more acces…",
-      "url": "https://siliconangle.com/2026/06/23/komprise-takes-challenge-making-messy-unstructured-data-accessible-without-hassle/"
+      "title": "AI-Driven Automation Revenue to Surpass US$5 Billion by 2035 as Manufacturers Rebuild Control Engineering Around Virtualization",
+      "description": "Agentic AI, virtual controllers, and AI-optimized industrial PCs are reshaping software-defined automation and accelerating modernization across process and discrete industries Agentic AI, virtual controllers, and AI-optimized industrial PCs are reshaping sof…",
+      "url": "https://www.globenewswire.com/news-release/2026/06/24/3316757/0/en/AI-Driven-Automation-Revenue-to-Surpass-US-5-Billion-by-2035-as-Manufacturers-Rebuild-Control-Engineering-Around-Virtualization.html"
     },
     {
-      "title": "Is ARX Crypto Legit? What Is Arcium (ARX) and Why Is It the Hottest Solana AI Token in June 2026",
-      "description": "Arcium is a Solana-native decentralized confidential computing network that allows data to be processed in an encrypted form without exposing it to validators and third...\nThe post Is ARX Crypto Legit? What Is Arcium (ARX) and Why Is It the Hottest Solana AI …",
-      "url": "https://bitcoinfoundation.org/news/analysis/is-arx-crypto-legit-what-is-arcium-arx-and-why-is-it-the-hottest-solana-ai-token-in-june-2026/"
+      "title": "Open-source AI tools for automated research, security, and codebase indexing",
+      "description": "Dear Flow is an open-source agent harness designed to manage long-horizon tasks that may require hours or days of autonomous operation. It utilizes sub-agents, sandboxes, and memory to orchestrate complex research workflows and data pipeline automation. This …",
+      "url": "https://4sysops.com/archives/open-source-ai-tools-for-automated-research-security-and-codebase-indexing/"
     },
     {
-      "title": "Software-hardware loop fuelling all new AI super cycle",
-      "description": "While energy and cooling challenges persist, a lot more hardware requirements are expected to emerge, Synopsys CIO Sriram Sitaraman told ET. While energy and cooling pose challenges, innovation is anticipated to overcome these. Enterprises are also seeing pro…",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/software-hardware-loop-fuelling-all-new-ai-super-cycle/articleshow/131919502.cms"
+      "title": "Brinqa BYOAI lets organizations use any AI platform with trusted risk data",
+      "description": "Brinqa BYOAI (Bring Your Own AI), a capability that enables organizations to connect any AI agent, large language model (LLM), or automation platform to Brinqa’s exposure intelligence layer. As enterprises adopt AI, they need to ensure that AI systems use acc…",
+      "url": "https://www.helpnetsecurity.com/2026/06/24/brinqa-byoai/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Allied Property Group Goes Live on Vantaca to Modernize 115 Community Associations Across Florida",
+      "description": "Miami-based management company moves its entire portfolio onto Vantaca WILMINGTON, N.C., June 24, 2026 /PRNewswire/ -- Vantaca, an AI-first technology company purpose-built for community association management, today announced that Allied Property Group, Inc.…",
+      "url": "https://www.prnewswire.com/news-releases/allied-property-group-goes-live-on-vantaca-to-modernize-115-community-associations-across-florida-302808681.html"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "77-93",
-    "condition": "Partly cloudy",
-    "wind": "4 mph",
-    "humidity": "75%",
-    "chance_rain": "11%"
+    "temp_range": "76-91",
+    "condition": "Patchy rain nearby",
+    "wind": "9 mph",
+    "humidity": "79%",
+    "chance_rain": "13%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 4
+      "daysUntil": 3
     },
     {
       "date": "2026-07-04",
       "event": "Puerto Rico & Independence Day",
-      "daysUntil": 10
+      "daysUntil": 9
     },
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 30
+      "daysUntil": 29
     }
   ],
-  "generatedAt": "2026-06-24T13:32:38.590Z"
+  "generatedAt": "2026-06-25T13:30:49.091Z"
 }
