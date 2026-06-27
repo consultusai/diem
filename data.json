@@ -1,21 +1,21 @@
 {
-  "date": "June 26, 2026",
-  "dayOfWeek": "Friday",
+  "date": "June 27, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "LinkSquares Named Decision Management Solution of the Year in 9th Annual AI Breakthrough Awards Program",
-      "description": "The company and its new all-agentic CLM platform were recognized as an AI leader shaping the next era of global innovation BOSTON, June 25, 2026 /PRNewswire/ -- LinkSquares, the leading AI-powered Contract Lifecycle Management (CLM) platform, has been selecte…",
-      "url": "https://www.prnewswire.com/news-releases/linksquares-named-decision-management-solution-of-the-year-in-9th-annual-ai-breakthrough-awards-program-302810342.html"
+      "title": "Bitdeer AI Wins “AI Cloud Platform of the Year” in 2026 AI Breakthrough Awards, Recognized as a Global Leader in AI Cloud Infrastructure",
+      "description": "SINGAPORE, June 26, 2026 (GLOBE NEWSWIRE) -- Bitdeer AI\r\n, part of Bitdeer Technologies Group (NASDAQ: BTDR) and a preferred NVIDIA Cloud Partner, today announced it has been the winner of “AI Cloud Platform of the Year” in 2026 AI Breakthrough Awards. The aw…",
+      "url": "https://www.globenewswire.com/news-release/2026/06/26/3318021/0/en/Bitdeer-AI-Wins-AI-Cloud-Platform-of-the-Year-in-2026-AI-Breakthrough-Awards-Recognized-as-a-Global-Leader-in-AI-Cloud-Infrastructure.html"
     },
     {
-      "title": "Firstup AI Search Named \"Overall AI Search Platform of the Year\" in 2026 AI Breakthrough Awards Program",
-      "description": "Ninth Annual Program Honors the AI Innovators Shaping the Next Era of Global Innovation SAN FRANCISCO, June 25, 2026 /PRNewswire/ -- Firstup, the pioneer of intelligent communication and engagement platforms for the workforce, today announced that Firstup AI …",
-      "url": "https://www.prnewswire.com/news-releases/firstup-ai-search-named-overall-ai-search-platform-of-the-year-in-2026-ai-breakthrough-awards-program-302810351.html"
+      "title": "What is AI in Crypto? Complete Guide to AI Agents, Tokens & Use Cases",
+      "description": "Artificial intelligence (AI) in crypto means using artificial intelligence inside blockchain systems, trading platforms, decentralized apps, token economies, and wallet tools. Automation shows up in...\nThe post What is AI in Crypto? Complete Guide to AI Agent…",
+      "url": "https://bitcoinfoundation.org/news/ai-news/what-is-ai-in-crypto-complete-guide-to-ai-agents-tokens-use-cases/"
     },
     {
-      "title": "Applied Scientist, Amazon Robotics",
-      "description": "Are you interested in how to build AI reasoning systems that give provably correct answers? Are you excited by science at the interface of classical AI reasoning and Large Language Models (LLMs)? Would you like to apply your technology to serve operations cus…",
-      "url": "https://nlppeople.com/job/applied-scientist-amazon-robotics/"
+      "title": "Why network automation is creating an observability paradox",
+      "description": "In the past few years, several organisations have invested more in automation to enhance visibility, resilience and speed. This has been through a blend of intent-based networking, AI-driven tools and zero-touch provisioning",
+      "url": "https://www.computerweekly.com/feature/Why-network-automation-is-creating-an-observability-paradox"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "79-90",
-    "condition": "Sunny",
-    "wind": "13 mph",
-    "humidity": "77%",
-    "chance_rain": "8%"
+    "temp_range": "80-92",
+    "condition": "Partly cloudy",
+    "wind": "11 mph",
+    "humidity": "82%",
+    "chance_rain": "17%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 2
+      "daysUntil": 1
     },
     {
       "date": "2026-07-04",
       "event": "Puerto Rico & Independence Day",
-      "daysUntil": 8
+      "daysUntil": 7
     },
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 28
+      "daysUntil": 27
     }
   ],
-  "generatedAt": "2026-06-26T13:26:11.858Z"
+  "generatedAt": "2026-06-27T12:47:55.507Z"
 }
