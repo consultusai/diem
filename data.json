@@ -1,21 +1,11 @@
 {
-  "date": "June 27, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "June 28, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Bitdeer AI Wins “AI Cloud Platform of the Year” in 2026 AI Breakthrough Awards, Recognized as a Global Leader in AI Cloud Infrastructure",
-      "description": "SINGAPORE, June 26, 2026 (GLOBE NEWSWIRE) -- Bitdeer AI\r\n, part of Bitdeer Technologies Group (NASDAQ: BTDR) and a preferred NVIDIA Cloud Partner, today announced it has been the winner of “AI Cloud Platform of the Year” in 2026 AI Breakthrough Awards. The aw…",
-      "url": "https://www.globenewswire.com/news-release/2026/06/26/3318021/0/en/Bitdeer-AI-Wins-AI-Cloud-Platform-of-the-Year-in-2026-AI-Breakthrough-Awards-Recognized-as-a-Global-Leader-in-AI-Cloud-Infrastructure.html"
-    },
-    {
-      "title": "What is AI in Crypto? Complete Guide to AI Agents, Tokens & Use Cases",
-      "description": "Artificial intelligence (AI) in crypto means using artificial intelligence inside blockchain systems, trading platforms, decentralized apps, token economies, and wallet tools. Automation shows up in...\nThe post What is AI in Crypto? Complete Guide to AI Agent…",
-      "url": "https://bitcoinfoundation.org/news/ai-news/what-is-ai-in-crypto-complete-guide-to-ai-agents-tokens-use-cases/"
-    },
-    {
-      "title": "Why network automation is creating an observability paradox",
-      "description": "In the past few years, several organisations have invested more in automation to enhance visibility, resilience and speed. This has been through a blend of intent-based networking, AI-driven tools and zero-touch provisioning",
-      "url": "https://www.computerweekly.com/feature/Why-network-automation-is-creating-an-observability-paradox"
+      "title": "The next generation of AI won’t be powered by better models alone",
+      "description": "As thousands of engineers, founders and researchers gather in San Francisco for AI Engineer World’s Fair, much of the conversation is focused on increasingly capable models, autonomous agents and AI applications. According to Vytautas Savickas, CEO of Oxylabs…",
+      "url": "https://thenextweb.com/news/ai-infrastructure-oxylabs-vytautas-savickas-interview/"
     }
   ],
   "miamiNews": [
@@ -47,35 +37,35 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "80-92",
-    "condition": "Partly cloudy",
-    "wind": "11 mph",
-    "humidity": "82%",
-    "chance_rain": "17%"
+    "temp_range": "80-89",
+    "condition": "Sunny",
+    "wind": "12 mph",
+    "humidity": "79%",
+    "chance_rain": "23%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-06-28",
       "event": "Key West",
-      "daysUntil": 1
+      "daysUntil": 0
     },
     {
       "date": "2026-07-04",
       "event": "Puerto Rico & Independence Day",
-      "daysUntil": 7
+      "daysUntil": 6
     },
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 27
+      "daysUntil": 26
     }
   ],
-  "generatedAt": "2026-06-27T12:47:55.507Z"
+  "generatedAt": "2026-06-28T12:49:49.556Z"
 }
