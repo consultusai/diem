@@ -1,18 +1,23 @@
 {
-  "date": "June 28, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "June 29, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "The next generation of AI won’t be powered by better models alone",
-      "description": "As thousands of engineers, founders and researchers gather in San Francisco for AI Engineer World’s Fair, much of the conversation is focused on increasingly capable models, autonomous agents and AI applications. According to Vytautas Savickas, CEO of Oxylabs…",
-      "url": "https://thenextweb.com/news/ai-infrastructure-oxylabs-vytautas-savickas-interview/"
+      "title": "Top 7 Digital Marketing Automation Las Vegas Trends 2026",
+      "description": "Explore practical guidance for Top 7 Digital Marketing Automation Las Vegas Trends 2026 packed with data-backed advice curated by SEOPro AI.",
+      "url": "https://seoproai.co/blog/7-digital-marketing-automation-las"
+    },
+    {
+      "title": "AI Book Club discussion of The Infinity Machine by Sebastian Mallaby",
+      "description": "This is a recording of the AI Book Club discussion of Sebastian Mallaby's The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence. In the discussion, we talk about the complex character of Demis Hassabis (and comparisons to Ender's…",
+      "url": "https://idratherbewriting.com/blog/book-club-inifity-machine-mallaby"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "LinkedIn says real estate is one of the hottest industries for entry-level workers—One Gen Z sales agent made $75K his first year with no experience",
+      "description": "Real estate is the second fastest-growing sector for new grads. With the right grit and self-determination, Gen Zers can earn into the six figures.",
+      "url": "https://fortune.com/2026/06/28/linkedin-real-estate-hottest-industries-entry-level-workers-gen-z-sales-agent-made-75k-first-year/"
     }
   ],
   "tip": {
@@ -37,35 +42,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "80-89",
-    "condition": "Sunny",
-    "wind": "12 mph",
-    "humidity": "79%",
-    "chance_rain": "23%"
+    "temp_range": "79-92",
+    "condition": "Partly Cloudy ",
+    "wind": "9 mph",
+    "humidity": "66%",
+    "chance_rain": "7%"
   },
   "celebration": null,
   "upcoming": [
     {
-      "date": "2026-06-28",
-      "event": "Key West",
-      "daysUntil": 0
-    },
-    {
       "date": "2026-07-04",
       "event": "Puerto Rico & Independence Day",
-      "daysUntil": 6
+      "daysUntil": 5
     },
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 26
+      "daysUntil": 25
+    },
+    {
+      "date": "2026-09-01",
+      "event": "Labor Day",
+      "daysUntil": 64
     }
   ],
-  "generatedAt": "2026-06-28T12:49:49.556Z"
+  "generatedAt": "2026-06-29T14:54:39.934Z"
 }
