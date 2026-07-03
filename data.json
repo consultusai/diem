@@ -1,33 +1,33 @@
 {
-  "date": "July 2, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "July 3, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "The evolution of infrastructure automation in the age of AI: 4 key takeaways from Red Hat Summit 2026",
-      "description": "At Red Hat Summit 2026, the conversation centered on a critical reality: AI agents are arriving in enterprise IT faster than most environments can govern them. Across the keynotes and more than 50 technical sessions, Red Hat made its position clear—organizati…",
-      "url": "https://www.redhat.com/en/blog/evolution-infrastructure-automation-age-ai-4-key-takeaways-red-hat-summit-2026"
+      "title": "America at 250: Navigating U.S. AI Policy and the Digital Overhaul of the Textile Industry",
+      "description": "Discover how AI is transforming the textile industry with automation, sustainability, and evolving U.S. regulatory policies.",
+      "url": "http://wwd.com/sourcing-journal/industry-news/navigating-u-s-ai-policy-and-the-digital-transformation-1239025166/"
     },
     {
-      "title": "AI coding has split software engineers into tribes. Meet the fans, skeptics — and those in between.",
-      "description": "The discourse around AI often focuses on those who entirely embrace �� or deeply despise — the tech. For engineers, the truth can be more complicated.",
-      "url": "https://www.businessinsider.com/software-engineer-developer-ai-coding-views-2026-7#article"
+      "title": "n8n + LangChain: How to Build Agentic Workflows for SMBs in 2026",
+      "description": "For small and mid-sized businesses across the UK and Europe, the most pragmatic way to build agentic workflows in 2026 is to use n8n as the visual orchestration layer and bring in...",
+      "url": "https://flexi.ink/blog/business/n8n-langchain-how-to-build-agentic-workflows-for-smbs-in-2026"
     },
     {
-      "title": "Show HN: Agentic Data Engineering",
-      "description": "Agentic data engineering uses AI agents to build and maintain data pipelines from plain-English intent. How it works, the tools, and how to trust it.",
-      "url": "https://www.revos.ai/blog/agentic-data-engineering"
+      "title": "Global Autonomous Vehicle Safety Case Management Market Surges: Expected to Reach $2.75 Billion by 2030 at 17.1% CAGR",
+      "description": "The autonomous vehicle safety case management market offers opportunities driven by rising vehicle automation, investment in safety platforms, and adoption of software-defined vehicles. Key trends include advancements in safety assurance tools, compliance doc…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321357/28124/en/Global-Autonomous-Vehicle-Safety-Case-Management-Market-Surges-Expected-to-Reach-2-75-Billion-by-2030-at-17-1-CAGR.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "The case of the missing Tesla fatal crash data",
-      "description": "A fatal Tesla Autopilot crash led to a yearslong fight over missing data, becoming one of the most consequential lawsuits in self-driving history.",
-      "url": "https://www.businessinsider.com/tesla-autopilot-failure-fatal-crash-missing-data-2026-7#article"
+      "title": "ZenaTech to Showcase Drone as a Service Growth and ZenaDrone Defense Solutions at Series of U.S. and Global Investor and Defense Events",
+      "description": "ZenaTech to Showcase Drone as a Service Growth and ZenaDrone Defense Solutions at Series of U.S. and Global Investor and Defense Events...",
+      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321263/0/en/ZenaTech-to-Showcase-Drone-as-a-Service-Growth-and-ZenaDrone-Defense-Solutions-at-Series-of-U-S-and-Global-Investor-and-Defense-Events.html"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -53,29 +53,29 @@
     "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "77-89",
-    "condition": "Partly cloudy",
-    "wind": "4 mph",
-    "humidity": "87%",
-    "chance_rain": "11%"
+    "temp_range": "77-90",
+    "condition": "Sunny",
+    "wind": "6 mph",
+    "humidity": "94%",
+    "chance_rain": "10%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-07-04",
       "event": "Puerto Rico & Independence Day",
-      "daysUntil": 2
+      "daysUntil": 1
     },
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 22
+      "daysUntil": 21
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 61
+      "daysUntil": 60
     }
   ],
-  "generatedAt": "2026-07-02T13:13:26.742Z"
+  "generatedAt": "2026-07-03T13:17:27.609Z"
 }
