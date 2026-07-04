@@ -1,33 +1,33 @@
 {
-  "date": "July 3, 2026",
-  "dayOfWeek": "Friday",
+  "date": "July 4, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "America at 250: Navigating U.S. AI Policy and the Digital Overhaul of the Textile Industry",
-      "description": "Discover how AI is transforming the textile industry with automation, sustainability, and evolving U.S. regulatory policies.",
-      "url": "http://wwd.com/sourcing-journal/industry-news/navigating-u-s-ai-policy-and-the-digital-transformation-1239025166/"
+      "title": "Klaviyo moves two AI agents to public beta for marketing and customer service",
+      "description": "Klaviyo launched two AI agents in public beta to share data between marketing and service. The CRM supports retailers that generated over $9 billion in ecommerce sales.",
+      "url": "https://completeaitraining.com/news/klaviyo-moves-two-ai-agents-to-public-beta-for-marketing/"
     },
     {
-      "title": "n8n + LangChain: How to Build Agentic Workflows for SMBs in 2026",
-      "description": "For small and mid-sized businesses across the UK and Europe, the most pragmatic way to build agentic workflows in 2026 is to use n8n as the visual orchestration layer and bring in...",
-      "url": "https://flexi.ink/blog/business/n8n-langchain-how-to-build-agentic-workflows-for-smbs-in-2026"
+      "title": "Are AI deployment targets just another management fad? Ask Ford, Meta and Amazon",
+      "description": "The AI din is deafening as companies rush to gain from this wonder technology. Like other management fads before it, however, this one needs to be recognized for what it is. Amid all the cheering, listen closely to what early adopters are saying.",
+      "url": "https://www.livemint.com/opinion/online-views/ai-deployment-targets-management-fad-ford-meta-amazon-uber-artificial-intelligence-11783058528806.html"
     },
     {
-      "title": "Global Autonomous Vehicle Safety Case Management Market Surges: Expected to Reach $2.75 Billion by 2030 at 17.1% CAGR",
-      "description": "The autonomous vehicle safety case management market offers opportunities driven by rising vehicle automation, investment in safety platforms, and adoption of software-defined vehicles. Key trends include advancements in safety assurance tools, compliance doc…",
-      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321357/28124/en/Global-Autonomous-Vehicle-Safety-Case-Management-Market-Surges-Expected-to-Reach-2-75-Billion-by-2030-at-17-1-CAGR.html"
+      "title": "Exponential Growth Projected for AI in Nuclear Energy Market, Reaching $9.66 Billion by 2030 with a CAGR of 20.1%",
+      "description": "Key market opportunities in AI for nuclear energy revolve around enhancing nuclear safety through real-time monitoring and predictive maintenance, boosting operational efficiency with digital systems, leveraging AI for fuel cycle optimization, and strengtheni…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321684/28124/en/Exponential-Growth-Projected-for-AI-in-Nuclear-Energy-Market-Reaching-9-66-Billion-by-2030-with-a-CAGR-of-20-1.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "ZenaTech to Showcase Drone as a Service Growth and ZenaDrone Defense Solutions at Series of U.S. and Global Investor and Defense Events",
-      "description": "ZenaTech to Showcase Drone as a Service Growth and ZenaDrone Defense Solutions at Series of U.S. and Global Investor and Defense Events...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321263/0/en/ZenaTech-to-Showcase-Drone-as-a-Service-Growth-and-ZenaDrone-Defense-Solutions-at-Series-of-U-S-and-Global-Investor-and-Defense-Events.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,35 +47,38 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "77-90",
-    "condition": "Sunny",
+    "temp_range": "75-89",
+    "condition": "Partly cloudy",
     "wind": "6 mph",
-    "humidity": "94%",
-    "chance_rain": "10%"
+    "humidity": "90%",
+    "chance_rain": "11%"
   },
-  "celebration": null,
+  "celebration": {
+    "holiday": "Independence Day",
+    "event": "In 1776, the Declaration of Independence was adopted in Philadelphia."
+  },
   "upcoming": [
     {
       "date": "2026-07-04",
       "event": "Puerto Rico & Independence Day",
-      "daysUntil": 1
+      "daysUntil": 0
     },
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 21
+      "daysUntil": 20
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 60
+      "daysUntil": 59
     }
   ],
-  "generatedAt": "2026-07-03T13:17:27.609Z"
+  "generatedAt": "2026-07-04T12:38:19.556Z"
 }
