@@ -1,33 +1,28 @@
 {
-  "date": "July 4, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "July 5, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Klaviyo moves two AI agents to public beta for marketing and customer service",
-      "description": "Klaviyo launched two AI agents in public beta to share data between marketing and service. The CRM supports retailers that generated over $9 billion in ecommerce sales.",
-      "url": "https://completeaitraining.com/news/klaviyo-moves-two-ai-agents-to-public-beta-for-marketing/"
+      "title": "Autonomous vehicles in Canada: Navigating the road to a driverless future",
+      "description": "Canada's combination of advanced AI expertise, supportive regulatory frameworks, strong academic institutions, and challenging operating conditions positions it well to contribute to global autonomous vehicle development. \nThe post Autonomous vehicles in Cana…",
+      "url": "https://www.digitaljournal.com/article/autonomous-vehicles-in-canada-navigating-the-road-to-a-driverless-future/"
     },
     {
-      "title": "Are AI deployment targets just another management fad? Ask Ford, Meta and Amazon",
-      "description": "The AI din is deafening as companies rush to gain from this wonder technology. Like other management fads before it, however, this one needs to be recognized for what it is. Amid all the cheering, listen closely to what early adopters are saying.",
-      "url": "https://www.livemint.com/opinion/online-views/ai-deployment-targets-management-fad-ford-meta-amazon-uber-artificial-intelligence-11783058528806.html"
-    },
-    {
-      "title": "Exponential Growth Projected for AI in Nuclear Energy Market, Reaching $9.66 Billion by 2030 with a CAGR of 20.1%",
-      "description": "Key market opportunities in AI for nuclear energy revolve around enhancing nuclear safety through real-time monitoring and predictive maintenance, boosting operational efficiency with digital systems, leveraging AI for fuel cycle optimization, and strengtheni…",
-      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321684/28124/en/Exponential-Growth-Projected-for-AI-in-Nuclear-Energy-Market-Reaching-9-66-Billion-by-2030-with-a-CAGR-of-20-1.html"
+      "title": "Chandigarh University Uttar Pradesh Introduces 17 New-Age Academic Programs in Emerging Domains to Nurture a Futuristic Workforce",
+      "description": "Chandigarh University Uttar Pradesh Introduces 17 New-Age Academic Programs in Emerging Domains to Nurture a Futuristic Workforce",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/chandigarh-university-uttar-pradesh-introduces-17-new-age-academic-programs-in-emerging-domains-to-nurture-a-futuristic-workforce/article71182372.ece"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Weekend reading: No age pensioners",
+      "description": "Gen Z fears the won't see the state pension by the time they're due to claim it. Who can blame them, given the world they see?",
+      "url": "https://monevator.com/gen-z-pensioners/"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -53,32 +48,29 @@
     "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "75-89",
+    "temp_range": "79-92",
     "condition": "Partly cloudy",
     "wind": "6 mph",
-    "humidity": "90%",
-    "chance_rain": "11%"
+    "humidity": "88%",
+    "chance_rain": "8%"
   },
-  "celebration": {
-    "holiday": "Independence Day",
-    "event": "In 1776, the Declaration of Independence was adopted in Philadelphia."
-  },
+  "celebration": null,
   "upcoming": [
-    {
-      "date": "2026-07-04",
-      "event": "Puerto Rico & Independence Day",
-      "daysUntil": 0
-    },
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 20
+      "daysUntil": 19
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 59
+      "daysUntil": 58
+    },
+    {
+      "date": "2026-09-16",
+      "event": "Bruno Mars concert (Charlie + Hayley)",
+      "daysUntil": 73
     }
   ],
-  "generatedAt": "2026-07-04T12:38:19.556Z"
+  "generatedAt": "2026-07-05T12:45:05.589Z"
 }
