@@ -1,28 +1,28 @@
 {
-  "date": "July 7, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "July 8, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Apache Airflow Tutorial for Data Pipeline Automation",
-      "description": "Master Apache Airflow for data pipeline automation. Learn to schedule, monitor, and scale complex workflows with this comprehensive tutorial.",
-      "url": "https://www.c-sharpcorner.com/article/apache-airflow-tutorial-for-data-pipeline-automation/"
+      "title": "Explosive Growth in Generative AI: Design Market Forecasts a CAGR of 31.4% from 2025 to 2030",
+      "description": "Key market opportunities for generative AI in design include its integration in lifecycle management, cloud collaboration, AI-driven customization, and augmented reality experiences. Additionally, advancements in AI technology, rapid prototyping, and parametr…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322905/28124/en/Explosive-Growth-in-Generative-AI-Design-Market-Forecasts-a-CAGR-of-31-4-from-2025-to-2030.html"
     },
     {
-      "title": "Shadow AI Could Expose Sensitive Data Before Companies Know It",
-      "description": "As employees adopt public AI tools faster than companies can govern them, Magna5 says mid-market organizations need secure, sanctioned AI pathways before sensitive data leaves controlled environments. PITTSBURGH, July 6, 2026 /PRNewswire/ -- Employees are ado…",
-      "url": "https://www.prnewswire.com/news-releases/shadow-ai-could-expose-sensitive-data-before-companies-know-it-302817828.html"
+      "title": "The best AI requirements management software: 8 tools leading the shift in 2026",
+      "description": "AI requirements management software is changing how engineering teams write, review, and validate requirements. For decades, this work meant drafting specifications by hand, checking them for quality manually, and verifying test coverage the same way. Every p…",
+      "url": "https://thenextweb.com/news/best-ai-requirements-management-software-2026/"
     },
     {
-      "title": "AI can build the pipeline, but don’t trust it for security (building an app with an AI LLM, part three)",
-      "description": "Learn what happens when you let GitHub Copilot and VSCode set up database migrations and a GitHub Actions pipeline on Azure - featuring significant security risks.…\nThe post AI can build the pipeline, but don’t trust it for security (building an app with an A…",
-      "url": "https://www.red-gate.com/simple-talk/ai/ai-llm-app-why-ai-still-cant-be-trusted-for-security/"
+      "title": "Building an AI Code Governance Framework for Enterprises",
+      "description": "Build an AI Code Governance Framework to ensure secure, compliant, and maintainable AI-generated code, balancing innovation with accountability.",
+      "url": "https://www.c-sharpcorner.com/article/building-an-ai-code-governance-framework-for-enterprises/"
     }
   ],
   "miamiNews": [
     {
-      "title": "GuideAI Health Appoints Renowned Interventional Radiologist Dr. James Benenati to Advisory Board Following FDA 510(k) Clearance of VAOT",
-      "description": "Leading Vascular Specialist and Penumbra Chief Medical Officer Joins GuideAI to Help Advance Its Recently FDA-Cleared VAOT Triage Software BOSTON, July 06, 2026 (GLOBE NEWSWIRE) — GuideAI Health Corp. (Cboe CA: GDAI) (“GuideAI” or the “Company“) recently rece…",
-      "url": "https://financialpost.com/globe-newswire/guideai-health-appoints-renowned-interventional-radiologist-dr-james-benenati-to-advisory-board-following-fda-510k-clearance-of-vaot"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "78-94",
-    "condition": "Overcast ",
-    "wind": "5 mph",
-    "humidity": "91%",
-    "chance_rain": "12%"
+    "temp_range": "80-91",
+    "condition": "Partly cloudy",
+    "wind": "11 mph",
+    "humidity": "75%",
+    "chance_rain": "8%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 17
+      "daysUntil": 16
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 56
+      "daysUntil": 55
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 71
+      "daysUntil": 70
     }
   ],
-  "generatedAt": "2026-07-07T13:30:10.033Z"
+  "generatedAt": "2026-07-08T12:56:25.852Z"
 }
