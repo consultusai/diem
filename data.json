@@ -1,33 +1,33 @@
 {
-  "date": "July 8, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "July 9, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Explosive Growth in Generative AI: Design Market Forecasts a CAGR of 31.4% from 2025 to 2030",
-      "description": "Key market opportunities for generative AI in design include its integration in lifecycle management, cloud collaboration, AI-driven customization, and augmented reality experiences. Additionally, advancements in AI technology, rapid prototyping, and parametr…",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322905/28124/en/Explosive-Growth-in-Generative-AI-Design-Market-Forecasts-a-CAGR-of-31-4-from-2025-to-2030.html"
+      "title": "Enzymatic DNA Synthesis Technology Market - Global Forecast 2026-2032, Leading Companies Profiled",
+      "description": "Enzymatic DNA synthesis is growing due to demand for faster, sustainable DNA production. Key opportunities: integration, traceability, compliance, automation, and response to tariff impacts. Enzymatic DNA synthesis is growing due to demand for faster, sustain…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/08/3324186/28124/en/Enzymatic-DNA-Synthesis-Technology-Market-Global-Forecast-2026-2032-Leading-Companies-Profiled.html"
     },
     {
-      "title": "The best AI requirements management software: 8 tools leading the shift in 2026",
-      "description": "AI requirements management software is changing how engineering teams write, review, and validate requirements. For decades, this work meant drafting specifications by hand, checking them for quality manually, and verifying test coverage the same way. Every p…",
-      "url": "https://thenextweb.com/news/best-ai-requirements-management-software-2026/"
+      "title": "The AI handshake: More MCP interoperability for Salesforce's Slackbot",
+      "description": "MCP is now table stakes, just like APIs had to be back in the early era of microservices.",
+      "url": "https://www.techtarget.com/searchcustomerexperience/news/366645614/The-AI-handshake-More-MCP-interoperability-for-Salesforces-Slackbot"
     },
     {
-      "title": "Building an AI Code Governance Framework for Enterprises",
-      "description": "Build an AI Code Governance Framework to ensure secure, compliant, and maintainable AI-generated code, balancing innovation with accountability.",
-      "url": "https://www.c-sharpcorner.com/article/building-an-ai-code-governance-framework-for-enterprises/"
+      "title": "Gigamon 2026 Survey: 98 Percent of Breached Financial Services Organizations Report Material Impact as AI-Driven Threats Escalate",
+      "description": "Gigamon research finds financial services organizations accelerating AI adoption as 98% of breached organizations report material business impact....",
+      "url": "https://www.globenewswire.com/news-release/2026/07/08/3324220/0/en/Gigamon-2026-Survey-98-Percent-of-Breached-Financial-Services-Organizations-Report-Material-Impact-as-AI-Driven-Threats-Escalate.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "TOP FIVE THINGS TO KNOW ABOUT THE HOME CARE INDUSTRY",
+      "description": "Home Helpers® Home Care Shares What Families and Aspiring Franchise Owners Need to Understand About the $173.6 Billion Home Care Industry's Growth CINCINNATI, July 8, 2026 /PRNewswire/ -- The home care industry is growing faster than most people realize, and …",
+      "url": "https://www.prnewswire.com/news-releases/top-five-things-to-know-about-the-home-care-industry-302820023.html"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "80-91",
-    "condition": "Partly cloudy",
+    "temp_range": "79-92",
+    "condition": "Sunny",
     "wind": "11 mph",
-    "humidity": "75%",
-    "chance_rain": "8%"
+    "humidity": "72%",
+    "chance_rain": "10%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 16
+      "daysUntil": 15
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 55
+      "daysUntil": 54
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 70
+      "daysUntil": 69
     }
   ],
-  "generatedAt": "2026-07-08T12:56:25.852Z"
+  "generatedAt": "2026-07-09T14:01:21.546Z"
 }
