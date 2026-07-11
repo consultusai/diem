@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -55,8 +55,8 @@
   "weather": {
     "temp_range": "74-92",
     "condition": "Partly cloudy",
-    "wind": "10 mph",
-    "humidity": "90%",
+    "wind": "11 mph",
+    "humidity": "85%",
     "chance_rain": "10%"
   },
   "celebration": null,
@@ -77,5 +77,5 @@
       "daysUntil": 67
     }
   ],
-  "generatedAt": "2026-07-11T12:10:54.739Z"
+  "generatedAt": "2026-07-11T13:58:40.946Z"
 }
