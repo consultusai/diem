@@ -1,21 +1,21 @@
 {
-  "date": "July 10, 2026",
-  "dayOfWeek": "Friday",
+  "date": "July 11, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "A single malware file can outweigh an entire AI dataset",
-      "description": "Antivirus vendors and security startups keep shipping AI features that promise to read malware the way a seasoned analyst would. The results inside security teams tell a quieter story. A new paper argues that static analysis of software, the job of deciding w…",
-      "url": "https://www.helpnetsecurity.com/2026/07/09/research-ai-in-cybersecurity/"
+      "title": "Generative AI in Engineering Report Now Available; Features Leading Companies: Google, IBM, and 22 Others",
+      "description": "Generative AI in engineering presents key opportunities in automation, AI-driven design optimization, and cloud-based platforms, addressing demands for innovative, efficient solutions. Rapid growth is fueled by adoption of generative design tools, digital twi…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325381/28124/en/Generative-AI-in-Engineering-Report-Now-Available-Features-Leading-Companies-Google-IBM-and-22-Others.html"
     },
     {
-      "title": "Matillion Launches Maia Foundation on Google BigQuery",
-      "description": "Automating the Work Around the Data Warehouse Maia Foundation automates the construction and governance of the pipelines that feed BigQuery, so engineers review and approve the work rather than author it. MANCHESTER, England, July 9, 2026 /PRNewswire/ -- Mati…",
-      "url": "https://www.prnewswire.com/news-releases/matillion-launches-maia-foundation-on-google-bigquery-302821746.html"
+      "title": "News",
+      "description": "Learn how enterprise AI evolves from automation to trustworthy autonomous operations through AI infrastructure, governance, observability, and human oversight.",
+      "url": "https://hackernoon.com/from-automation-to-autonomous-operations-designing-trustworthy-ai-infrastructure-for-enterprise-ai"
     },
     {
-      "title": "Generative AI in Architecture Market Report 2026 Now Available — 250-Page Study Covers Design Automation, Urban Planning, and Cloud Collaboration",
-      "description": "Key market opportunities in generative AI for architecture include the rise in digital design workflows, urbanization, and faster design demands. Growth areas are smart city development, sustainability, cloud collaboration, and AI-powered design tools, driven…",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324586/28124/en/Generative-AI-in-Architecture-Market-Report-2026-Now-Available-250-Page-Study-Covers-Design-Automation-Urban-Planning-and-Cloud-Collaboration.html"
+      "title": "Generative AI in Oil & Gas Market to Surge: CAGR of 16.9% Expected by 2030",
+      "description": "Key opportunities in the generative AI market for oil and gas include integrating cloud-based solutions for real-time monitoring, expanding predictive modeling for asset performance, and adopting AI for drilling and exploration optimization. The industry's sh…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325391/28124/en/Generative-AI-in-Oil-amp-Gas-Market-to-Surge-CAGR-of-16-9-Expected-by-2030.html"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "78-90",
+    "temp_range": "74-92",
     "condition": "Partly cloudy",
-    "wind": "15 mph",
-    "humidity": "77%",
+    "wind": "10 mph",
+    "humidity": "90%",
     "chance_rain": "10%"
   },
   "celebration": null,
@@ -64,18 +64,18 @@
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 14
+      "daysUntil": 13
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 53
+      "daysUntil": 52
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 68
+      "daysUntil": 67
     }
   ],
-  "generatedAt": "2026-07-10T13:22:06.361Z"
+  "generatedAt": "2026-07-11T12:10:54.739Z"
 }
