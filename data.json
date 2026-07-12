@@ -16,8 +16,8 @@
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -37,15 +37,15 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
     "temp_range": "79-95",
     "condition": "Overcast",
-    "wind": "9 mph",
+    "wind": "10 mph",
     "humidity": "80%",
     "chance_rain": "10%"
   },
@@ -67,5 +67,5 @@
       "daysUntil": 66
     }
   ],
-  "generatedAt": "2026-07-12T12:09:56.117Z"
+  "generatedAt": "2026-07-12T13:59:56.676Z"
 }
