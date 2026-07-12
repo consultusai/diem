@@ -1,33 +1,23 @@
 {
-  "date": "July 11, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "July 12, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Generative AI in Engineering Report Now Available; Features Leading Companies: Google, IBM, and 22 Others",
-      "description": "Generative AI in engineering presents key opportunities in automation, AI-driven design optimization, and cloud-based platforms, addressing demands for innovative, efficient solutions. Rapid growth is fueled by adoption of generative design tools, digital twi…",
-      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325381/28124/en/Generative-AI-in-Engineering-Report-Now-Available-Features-Leading-Companies-Google-IBM-and-22-Others.html"
-    },
-    {
-      "title": "News",
-      "description": "Learn how enterprise AI evolves from automation to trustworthy autonomous operations through AI infrastructure, governance, observability, and human oversight.",
-      "url": "https://hackernoon.com/from-automation-to-autonomous-operations-designing-trustworthy-ai-infrastructure-for-enterprise-ai"
-    },
-    {
-      "title": "Generative AI in Oil & Gas Market to Surge: CAGR of 16.9% Expected by 2030",
-      "description": "Key opportunities in the generative AI market for oil and gas include integrating cloud-based solutions for real-time monitoring, expanding predictive modeling for asset performance, and adopting AI for drilling and exploration optimization. The industry's sh…",
-      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325391/28124/en/Generative-AI-in-Oil-amp-Gas-Market-to-Surge-CAGR-of-16-9-Expected-by-2030.html"
+      "title": "Show HN: AI Agent Audit for Free",
+      "description": "Security scanner MCP server for AI coding agents. Prompt injection firewall, package hallucination detection (4.3M+ packages), 1000+ vulnerability rules with AST &amp; taint analysis, auto-fix. - s...",
+      "url": "https://github.com/sinewaveai/agent-security-scanner-mcp"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "The superyachts of tech's richest billionaires, from Jeff Bezos' Koru to Sergey Brin's Dragonfly",
+      "description": "From Jeff Bezos to Mark Zuckerberg, tech billionaires have become some of the superyacht industry's biggest clients. Here's how their boats measure up.",
+      "url": "https://www.businessinsider.com/biggest-superyachts-owned-by-tech-billionaires-jeff-bezos-sergey-brin-2026-7#article"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,16 +37,16 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "74-92",
-    "condition": "Partly cloudy",
-    "wind": "11 mph",
-    "humidity": "85%",
+    "temp_range": "79-95",
+    "condition": "Overcast",
+    "wind": "9 mph",
+    "humidity": "80%",
     "chance_rain": "10%"
   },
   "celebration": null,
@@ -64,18 +54,18 @@
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 13
+      "daysUntil": 12
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 52
+      "daysUntil": 51
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 67
+      "daysUntil": 66
     }
   ],
-  "generatedAt": "2026-07-11T13:58:40.946Z"
+  "generatedAt": "2026-07-12T12:09:56.117Z"
 }
