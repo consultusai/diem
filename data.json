@@ -1,23 +1,28 @@
 {
-  "date": "July 12, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "July 13, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Show HN: AI Agent Audit for Free",
-      "description": "Security scanner MCP server for AI coding agents. Prompt injection firewall, package hallucination detection (4.3M+ packages), 1000+ vulnerability rules with AST &amp; taint analysis, auto-fix. - s...",
-      "url": "https://github.com/sinewaveai/agent-security-scanner-mcp"
+      "title": "The interface has left the building",
+      "description": "How chat, voice, and agentic AI are rewriting the first principles of UX design",
+      "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9"
+    },
+    {
+      "title": "The Agentic AI Revolution: Why Curiosity, Not Just Experience, Is Your Best Defense In The New Cybersecurity And Marketing + Video",
+      "description": "The Agentic AI Revolution: Why Curiosity, Not Just Experience, Is Your Best Defense in the New Cybersecurity and Marketing + Video - \"Undercode Testing\":",
+      "url": "https://undercodetesting.com/the-agentic-ai-revolution-why-curiosity-not-just-experience-is-your-best-defense-in-the-new-cybersecurity-and-marketing-video/"
     }
   ],
   "miamiNews": [
     {
-      "title": "The superyachts of tech's richest billionaires, from Jeff Bezos' Koru to Sergey Brin's Dragonfly",
-      "description": "From Jeff Bezos to Mark Zuckerberg, tech billionaires have become some of the superyacht industry's biggest clients. Here's how their boats measure up.",
-      "url": "https://www.businessinsider.com/biggest-superyachts-owned-by-tech-billionaires-jeff-bezos-sergey-brin-2026-7#article"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -37,14 +42,14 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "79-95",
-    "condition": "Overcast",
+    "temp_range": "78-96",
+    "condition": "Partly cloudy",
     "wind": "10 mph",
     "humidity": "80%",
     "chance_rain": "10%"
@@ -54,18 +59,18 @@
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 12
+      "daysUntil": 11
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 51
+      "daysUntil": 50
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 66
+      "daysUntil": 65
     }
   ],
-  "generatedAt": "2026-07-12T13:59:56.676Z"
+  "generatedAt": "2026-07-13T13:32:33.754Z"
 }
