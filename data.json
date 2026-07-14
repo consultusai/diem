@@ -1,28 +1,33 @@
 {
-  "date": "July 13, 2026",
-  "dayOfWeek": "Monday",
+  "date": "July 14, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "The interface has left the building",
-      "description": "How chat, voice, and agentic AI are rewriting the first principles of UX design",
-      "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9"
+      "title": "3 Leadership Skills AI Rewrote — and 2 That Didn’t Exist Five Years Ago",
+      "description": "The discussion at Coffee With Digital Trailblazers emphasized the need for mid-career leaders to reskill, focusing on leadership skills tailored for the AI era. Essential skills identified include change management, critical thinking, data governance, and AI …",
+      "url": "https://drive.starcio.com/2026/07/leadership-skills-ai-rewrote/"
     },
     {
-      "title": "The Agentic AI Revolution: Why Curiosity, Not Just Experience, Is Your Best Defense In The New Cybersecurity And Marketing + Video",
-      "description": "The Agentic AI Revolution: Why Curiosity, Not Just Experience, Is Your Best Defense in the New Cybersecurity and Marketing + Video - \"Undercode Testing\":",
-      "url": "https://undercodetesting.com/the-agentic-ai-revolution-why-curiosity-not-just-experience-is-your-best-defense-in-the-new-cybersecurity-and-marketing-video/"
+      "title": "AI-Powered Digital Marketing: The Cybersecurity Blind Spot Every Marketer Must Fix + Video - Undercode Testing",
+      "description": "AI-Powered Digital Marketing: The Cybersecurity Blind Spot Every Marketer Must Fix + Video - \"Undercode Testing\": Monitor hackers like a pro. Get real-time",
+      "url": "https://undercodetesting.com/ai-powered-digital-marketing-the-cybersecurity-blind-spot-every-marketer-must-fix-video/"
+    },
+    {
+      "title": "How to Build Internal AI Developer Portals with Azure AI Foundry",
+      "description": "Build internal AI developer portals with Azure AI Foundry to centralize resources, accelerate development, and enhance governance for AI adoption.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-build-internal-ai-developer-portals-with-azure-ai-foundry/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Podcasts That Help Us Deal With Life And Its Challenges",
+      "description": "Not as well known as some \"self-help\" podcasts, these shows support listeners, not through tips and tricks, but from detailing the experiences of people who experienced the worst life has to offer and overcame that challenge.",
+      "url": "https://www.forbes.com/sites/frankracioppi/2026/07/13/podcasts-that-help-us-deal-with-life-and-its-challenges/"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -42,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "78-96",
+    "temp_range": "77-96",
     "condition": "Partly cloudy",
     "wind": "10 mph",
-    "humidity": "80%",
+    "humidity": "67%",
     "chance_rain": "10%"
   },
   "celebration": null,
@@ -59,18 +64,18 @@
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 11
+      "daysUntil": 10
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 50
+      "daysUntil": 49
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 65
+      "daysUntil": 64
     }
   ],
-  "generatedAt": "2026-07-13T13:32:33.754Z"
+  "generatedAt": "2026-07-14T12:43:26.210Z"
 }
