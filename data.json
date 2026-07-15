@@ -1,33 +1,33 @@
 {
-  "date": "July 14, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "July 15, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "3 Leadership Skills AI Rewrote — and 2 That Didn’t Exist Five Years Ago",
-      "description": "The discussion at Coffee With Digital Trailblazers emphasized the need for mid-career leaders to reskill, focusing on leadership skills tailored for the AI era. Essential skills identified include change management, critical thinking, data governance, and AI …",
-      "url": "https://drive.starcio.com/2026/07/leadership-skills-ai-rewrote/"
+      "title": "Xebia Axis Now Available: An Agentic Data Foundation That Prepares Enterprise Data for AI",
+      "description": "Xebia launches Xebia Axis: Agentic Data Foundation, combining AI agents and engineers to assess, migrate, and govern enterprise data 3x faster....",
+      "url": "https://www.globenewswire.com/news-release/2026/07/14/3326658/0/en/Xebia-Axis-Now-Available-An-Agentic-Data-Foundation-That-Prepares-Enterprise-Data-for-AI.html"
     },
     {
-      "title": "AI-Powered Digital Marketing: The Cybersecurity Blind Spot Every Marketer Must Fix + Video - Undercode Testing",
-      "description": "AI-Powered Digital Marketing: The Cybersecurity Blind Spot Every Marketer Must Fix + Video - \"Undercode Testing\": Monitor hackers like a pro. Get real-time",
-      "url": "https://undercodetesting.com/ai-powered-digital-marketing-the-cybersecurity-blind-spot-every-marketer-must-fix-video/"
+      "title": "Cybersecurity jobs available right now: July 14, 2026",
+      "description": "Cyber Network Engineer Fiserv | USA | On-site – View job details As a Cyber Network Engineer, you will lead the design, governance, and security review of enterprise network architectures across on-premises and cloud environments. You will provide expertise i…",
+      "url": "https://www.helpnetsecurity.com/2026/07/14/cybersecurity-jobs-available-right-now-july-14-2026/"
     },
     {
-      "title": "How to Build Internal AI Developer Portals with Azure AI Foundry",
-      "description": "Build internal AI developer portals with Azure AI Foundry to centralize resources, accelerate development, and enhance governance for AI adoption.",
-      "url": "https://www.c-sharpcorner.com/article/how-to-build-internal-ai-developer-portals-with-azure-ai-foundry/"
+      "title": "What will be left for us to work on?",
+      "description": "Article URL: https://www.normaltech.ai/p/what-will-be-left-for-us-to-work\nComments URL: https://news.ycombinator.com/item?id=48901292\nPoints: 8\n# Comments: 0",
+      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work"
     }
   ],
   "miamiNews": [
     {
-      "title": "Podcasts That Help Us Deal With Life And Its Challenges",
-      "description": "Not as well known as some \"self-help\" podcasts, these shows support listeners, not through tips and tricks, but from detailing the experiences of people who experienced the worst life has to offer and overcame that challenge.",
-      "url": "https://www.forbes.com/sites/frankracioppi/2026/07/13/podcasts-that-help-us-deal-with-life-and-its-challenges/"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "77-96",
+    "temp_range": "75-96",
     "condition": "Partly cloudy",
-    "wind": "10 mph",
-    "humidity": "67%",
+    "wind": "9 mph",
+    "humidity": "69%",
     "chance_rain": "10%"
   },
   "celebration": null,
@@ -64,18 +64,18 @@
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 10
+      "daysUntil": 9
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 49
+      "daysUntil": 48
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 64
+      "daysUntil": 63
     }
   ],
-  "generatedAt": "2026-07-14T12:43:26.210Z"
+  "generatedAt": "2026-07-15T12:47:00.072Z"
 }
