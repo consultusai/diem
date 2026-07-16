@@ -1,28 +1,28 @@
 {
-  "date": "July 15, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "July 16, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Xebia Axis Now Available: An Agentic Data Foundation That Prepares Enterprise Data for AI",
-      "description": "Xebia launches Xebia Axis: Agentic Data Foundation, combining AI agents and engineers to assess, migrate, and govern enterprise data 3x faster....",
-      "url": "https://www.globenewswire.com/news-release/2026/07/14/3326658/0/en/Xebia-Axis-Now-Available-An-Agentic-Data-Foundation-That-Prepares-Enterprise-Data-for-AI.html"
+      "title": "Trace3 Says AI's Production Gap Is Not a Technology Problem",
+      "description": "As AI moves from pilots into production, Trace3 says the real test is no longer whether the technology works, but whether enterprises can define the right use cases, drive adoption, and prove business value. IRVINE, Calif., July 15, 2026 /PRNewswire/ -- Enter…",
+      "url": "https://www.prnewswire.com/news-releases/trace3-says-ais-production-gap-is-not-a-technology-problem-302825906.html"
     },
     {
-      "title": "Cybersecurity jobs available right now: July 14, 2026",
-      "description": "Cyber Network Engineer Fiserv | USA | On-site – View job details As a Cyber Network Engineer, you will lead the design, governance, and security review of enterprise network architectures across on-premises and cloud environments. You will provide expertise i…",
-      "url": "https://www.helpnetsecurity.com/2026/07/14/cybersecurity-jobs-available-right-now-july-14-2026/"
+      "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era | TechCrunch",
+      "description": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/"
     },
     {
-      "title": "What will be left for us to work on?",
-      "description": "Article URL: https://www.normaltech.ai/p/what-will-be-left-for-us-to-work\nComments URL: https://news.ycombinator.com/item?id=48901292\nPoints: 8\n# Comments: 0",
-      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work"
+      "title": "Moving from PoC to production: Delivering real business value with Red Hat AI 3.4",
+      "description": "Red Hat AI 3.4 is officially available. While it is packed with incredible engineering milestones, business leaders care less about the underlying code and more about one critical question: How does this platform help scale the business?For organizations curr…",
+      "url": "https://www.redhat.com/en/blog/moving-poc-production-delivering-real-business-value-red-hat-ai-34"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Milestone Scientific Launches First Phase of AI Strategy with Pilot Debut of Milo, an AI-enabled Digital Engagement Platform, at ASPN 2026",
+      "description": "AI-powered Initiative Aims to Enhance Customer Engagement, Accelerate Commercial Execution and Support Long-Term Growth  Visit booth #112 in the Sparkle...",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327717/15852/en/Milestone-Scientific-Launches-First-Phase-of-AI-Strategy-with-Pilot-Debut-of-Milo-an-AI-enabled-Digital-Engagement-Platform-at-ASPN-2026.html"
     }
   ],
   "tip": {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "75-96",
+    "temp_range": "77-97",
     "condition": "Partly cloudy",
-    "wind": "9 mph",
-    "humidity": "69%",
-    "chance_rain": "10%"
+    "wind": "2 mph",
+    "humidity": "74%",
+    "chance_rain": "7%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 9
+      "daysUntil": 8
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 48
+      "daysUntil": 47
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 63
+      "daysUntil": 62
     }
   ],
-  "generatedAt": "2026-07-15T12:47:00.072Z"
+  "generatedAt": "2026-07-16T12:56:16.766Z"
 }
