@@ -1,28 +1,28 @@
 {
-  "date": "July 16, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "July 17, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Trace3 Says AI's Production Gap Is Not a Technology Problem",
-      "description": "As AI moves from pilots into production, Trace3 says the real test is no longer whether the technology works, but whether enterprises can define the right use cases, drive adoption, and prove business value. IRVINE, Calif., July 15, 2026 /PRNewswire/ -- Enter…",
-      "url": "https://www.prnewswire.com/news-releases/trace3-says-ais-production-gap-is-not-a-technology-problem-302825906.html"
+      "title": "Inspirata AI Unveils Rebrand Backed by Two Decades of Cancer Registry Innovation and a Deepened Partnership with ONCO Inc.",
+      "description": "TAMPA, Fla., July 16, 2026 /PRNewswire/ -- Inspirata today announced it has rebranded as Inspirata AI, marking a new chapter powered by enhanced, native AI-driven cancer casefinding, data abstraction, and reporting capabilities and a strengthened partnership …",
+      "url": "https://www.prnewswire.com/news-releases/inspirata-ai-unveils-rebrand-backed-by-two-decades-of-cancer-registry-innovation-and-a-deepened-partnership-with-onco-inc-302826718.html"
     },
     {
-      "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era | TechCrunch",
-      "description": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/"
+      "title": "QumulusAI’s direct listing: Accelerating the neocloud for enterprise AI",
+      "description": "Neocloud provider QumulusAI said today that it will starting trading Thursday as a publicly traded company on Nasdaq under the ticker symbol QMLS via a direct listing. For those unfamiliar with the process, the typical initial public offering takes time and r…",
+      "url": "https://siliconangle.com/2026/07/15/qumulusais-direct-listing-accelerating-neocloud-enterprise-ai/"
     },
     {
-      "title": "Moving from PoC to production: Delivering real business value with Red Hat AI 3.4",
-      "description": "Red Hat AI 3.4 is officially available. While it is packed with incredible engineering milestones, business leaders care less about the underlying code and more about one critical question: How does this platform help scale the business?For organizations curr…",
-      "url": "https://www.redhat.com/en/blog/moving-poc-production-delivering-real-business-value-red-hat-ai-34"
+      "title": "Genesys CEO: We can see firsthand how AI is changing — not replacing — work",
+      "description": "Consumers expect AI to improve customer service. But not reaching a human agent is still one of the biggest frustrations that can drive them away.",
+      "url": "https://fortune.com/2026/07/16/genesys-ceo-ai-customer-service-jobs-debate/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Milestone Scientific Launches First Phase of AI Strategy with Pilot Debut of Milo, an AI-enabled Digital Engagement Platform, at ASPN 2026",
-      "description": "AI-powered Initiative Aims to Enhance Customer Engagement, Accelerate Commercial Execution and Support Long-Term Growth  Visit booth #112 in the Sparkle...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327717/15852/en/Milestone-Scientific-Launches-First-Phase-of-AI-Strategy-with-Pilot-Debut-of-Milo-an-AI-enabled-Digital-Engagement-Platform-at-ASPN-2026.html"
+      "title": "RapidPulse Secures Oversubscribed $48M Series B Financing to Advance Clinical Development of Next-Generation Stroke Aspiration Technology",
+      "description": "Round includes participation from Medtronic and top healthcare investors MIAMI, July 16, 2026 (GLOBE NEWSWIRE) — RapidPulse, Inc., a medical technology company developing next-generation aspiration technology for the treatment of acute ischemic stroke, today …",
+      "url": "https://financialpost.com/globe-newswire/rapidpulse-secures-oversubscribed-48m-series-b-financing-to-advance-clinical-development-of-next-generation-stroke-aspiration-technology"
     }
   ],
   "tip": {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "77-97",
+    "temp_range": "79-96",
     "condition": "Partly cloudy",
-    "wind": "2 mph",
-    "humidity": "74%",
-    "chance_rain": "7%"
+    "wind": "9 mph",
+    "humidity": "79%",
+    "chance_rain": "8%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 8
+      "daysUntil": 7
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 47
+      "daysUntil": 46
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 62
+      "daysUntil": 61
     }
   ],
-  "generatedAt": "2026-07-16T12:56:16.766Z"
+  "generatedAt": "2026-07-17T12:38:19.519Z"
 }
