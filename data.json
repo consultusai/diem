@@ -21,8 +21,8 @@
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -42,16 +42,16 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
     "temp_range": "78-91",
     "condition": "Partly cloudy",
-    "wind": "11 mph",
-    "humidity": "79%",
+    "wind": "10 mph",
+    "humidity": "88%",
     "chance_rain": "8%"
   },
   "celebration": null,
@@ -72,5 +72,5 @@
       "daysUntil": 60
     }
   ],
-  "generatedAt": "2026-07-18T12:08:58.945Z"
+  "generatedAt": "2026-07-18T13:54:23.989Z"
 }
