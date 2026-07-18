@@ -1,33 +1,28 @@
 {
-  "date": "July 17, 2026",
-  "dayOfWeek": "Friday",
+  "date": "July 18, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "Inspirata AI Unveils Rebrand Backed by Two Decades of Cancer Registry Innovation and a Deepened Partnership with ONCO Inc.",
-      "description": "TAMPA, Fla., July 16, 2026 /PRNewswire/ -- Inspirata today announced it has rebranded as Inspirata AI, marking a new chapter powered by enhanced, native AI-driven cancer casefinding, data abstraction, and reporting capabilities and a strengthened partnership …",
-      "url": "https://www.prnewswire.com/news-releases/inspirata-ai-unveils-rebrand-backed-by-two-decades-of-cancer-registry-innovation-and-a-deepened-partnership-with-onco-inc-302826718.html"
+      "title": "GPT-5.6 Sol vs. Terra vs. Luna: What They Do and How to Choose the Best Model",
+      "description": "Learn what GPT-5.6 Sol, Terra, and Luna are, how they compare in capability, speed, pricing, availability, and use cases, and how to choose the right OpenAI model for your workload.",
+      "url": "https://www.c-sharpcorner.com/article/gpt-5-6-sol-vs-terra-vs-luna-what-they-do-and-how-to-choose-the-best-model/"
     },
     {
-      "title": "QumulusAI’s direct listing: Accelerating the neocloud for enterprise AI",
-      "description": "Neocloud provider QumulusAI said today that it will starting trading Thursday as a publicly traded company on Nasdaq under the ticker symbol QMLS via a direct listing. For those unfamiliar with the process, the typical initial public offering takes time and r…",
-      "url": "https://siliconangle.com/2026/07/15/qumulusais-direct-listing-accelerating-neocloud-enterprise-ai/"
-    },
-    {
-      "title": "Genesys CEO: We can see firsthand how AI is changing — not replacing — work",
-      "description": "Consumers expect AI to improve customer service. But not reaching a human agent is still one of the biggest frustrations that can drive them away.",
-      "url": "https://fortune.com/2026/07/16/genesys-ceo-ai-customer-service-jobs-debate/"
+      "title": "I attended the Kiro and Amazon Quick Fiesta event in Malaysia",
+      "description": "AWS's first agentic AI event in Malaysia showcased Kiro and Amazon Quick — two products designed to turn AI agents from demos into production workflows. Here's what happened, what I learned, and why the workflow framing matters more than the speed-up promises.",
+      "url": "https://dev.classmethod.jp/articles/Kiro_and_Amazon_Quick_Fiesta_event_in_Malaysia/"
     }
   ],
   "miamiNews": [
     {
-      "title": "RapidPulse Secures Oversubscribed $48M Series B Financing to Advance Clinical Development of Next-Generation Stroke Aspiration Technology",
-      "description": "Round includes participation from Medtronic and top healthcare investors MIAMI, July 16, 2026 (GLOBE NEWSWIRE) — RapidPulse, Inc., a medical technology company developing next-generation aspiration technology for the treatment of acute ischemic stroke, today …",
-      "url": "https://financialpost.com/globe-newswire/rapidpulse-secures-oversubscribed-48m-series-b-financing-to-advance-clinical-development-of-next-generation-stroke-aspiration-technology"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -53,9 +48,9 @@
     "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "79-96",
+    "temp_range": "78-91",
     "condition": "Partly cloudy",
-    "wind": "9 mph",
+    "wind": "11 mph",
     "humidity": "79%",
     "chance_rain": "8%"
   },
@@ -64,18 +59,18 @@
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 7
+      "daysUntil": 6
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 46
+      "daysUntil": 45
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 61
+      "daysUntil": 60
     }
   ],
-  "generatedAt": "2026-07-17T12:38:19.519Z"
+  "generatedAt": "2026-07-18T12:08:58.945Z"
 }
