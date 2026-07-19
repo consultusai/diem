@@ -20,14 +20,14 @@
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Influencer marketing agency recommendations USA",
+      "description": "Compare the 10 best influencer marketing agencies in the USA for 2026. Verified results, pricing benchmarks, and expert selection criteria for brands.",
+      "url": "https://www.linkedin.com/pulse/influencer-marketing-agency-recommendations-usa-digital-marketing-5imjf"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
     "temp_range": "81-95",
     "condition": "Partly cloudy",
-    "wind": "12 mph",
-    "humidity": "75%",
+    "wind": "11 mph",
+    "humidity": "72%",
     "chance_rain": "6%"
   },
   "celebration": null,
@@ -77,5 +77,5 @@
       "daysUntil": 59
     }
   ],
-  "generatedAt": "2026-07-19T12:09:37.264Z"
+  "generatedAt": "2026-07-19T13:57:57.655Z"
 }
