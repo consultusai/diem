@@ -1,16 +1,21 @@
 {
-  "date": "July 18, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "July 19, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "GPT-5.6 Sol vs. Terra vs. Luna: What They Do and How to Choose the Best Model",
-      "description": "Learn what GPT-5.6 Sol, Terra, and Luna are, how they compare in capability, speed, pricing, availability, and use cases, and how to choose the right OpenAI model for your workload.",
-      "url": "https://www.c-sharpcorner.com/article/gpt-5-6-sol-vs-terra-vs-luna-what-they-do-and-how-to-choose-the-best-model/"
+      "title": "Best Data Labeling Workflow Strategies for AI Startups",
+      "description": "Data Annotation Best Practices for AI Startup Teams Every AI startup needs training data it can trust. Without accurate labels, even the best algorithms struggle. That’s where data annotation comes in; the process of tagging raw text, images, audio, or video …",
+      "url": "https://addicted2success.com/ai/data-annotation-best-practices-ai-startups/"
     },
     {
-      "title": "I attended the Kiro and Amazon Quick Fiesta event in Malaysia",
-      "description": "AWS's first agentic AI event in Malaysia showcased Kiro and Amazon Quick — two products designed to turn AI agents from demos into production workflows. Here's what happened, what I learned, and why the workflow framing matters more than the speed-up promises.",
-      "url": "https://dev.classmethod.jp/articles/Kiro_and_Amazon_Quick_Fiesta_event_in_Malaysia/"
+      "title": "Coinbase Says 95% of Its Code Is Now AI-Generated, Echoing Broader Tech Shift",
+      "description": "Over 95% of Coinbase’s Code Now Written Using AI, Executive Says More than 95% of the code produced by cryptocurrency exchange Coinbase is now generated using artificial intelligence, according to a company executive. The statement was made by Rob Witoff, a d…",
+      "url": "https://www.naturalnews.com/2026-07-18-coinbase-majority-of-code-now-ai-generated.html"
+    },
+    {
+      "title": "Beyond the Cat-and-Mouse Game: Why Lynote.ai is the Smarter Way to Write in the AI Era",
+      "description": "Beyond the Cat-and-Mouse Game: Why Lynote.ai is the Smarter Way to Write in the AI Era Artificial intelligence has disrupted the way we work faster than almost any technology in recent history. Today, writers draft articles in minutes, marketers spin up campa…",
+      "url": "https://addicted2success.com/ai/lynote-ai-detector-and-humanizer/"
     }
   ],
   "miamiNews": [
@@ -21,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -42,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "78-91",
+    "temp_range": "81-95",
     "condition": "Partly cloudy",
-    "wind": "10 mph",
-    "humidity": "88%",
-    "chance_rain": "8%"
+    "wind": "12 mph",
+    "humidity": "75%",
+    "chance_rain": "6%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 6
+      "daysUntil": 5
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 45
+      "daysUntil": 44
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 60
+      "daysUntil": 59
     }
   ],
-  "generatedAt": "2026-07-18T13:54:23.989Z"
+  "generatedAt": "2026-07-19T12:09:37.264Z"
 }
