@@ -1,33 +1,23 @@
 {
-  "date": "July 19, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "July 20, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Best Data Labeling Workflow Strategies for AI Startups",
-      "description": "Data Annotation Best Practices for AI Startup Teams Every AI startup needs training data it can trust. Without accurate labels, even the best algorithms struggle. That’s where data annotation comes in; the process of tagging raw text, images, audio, or video …",
-      "url": "https://addicted2success.com/ai/data-annotation-best-practices-ai-startups/"
-    },
-    {
-      "title": "Coinbase Says 95% of Its Code Is Now AI-Generated, Echoing Broader Tech Shift",
-      "description": "Over 95% of Coinbase’s Code Now Written Using AI, Executive Says More than 95% of the code produced by cryptocurrency exchange Coinbase is now generated using artificial intelligence, according to a company executive. The statement was made by Rob Witoff, a d…",
-      "url": "https://www.naturalnews.com/2026-07-18-coinbase-majority-of-code-now-ai-generated.html"
-    },
-    {
-      "title": "Beyond the Cat-and-Mouse Game: Why Lynote.ai is the Smarter Way to Write in the AI Era",
-      "description": "Beyond the Cat-and-Mouse Game: Why Lynote.ai is the Smarter Way to Write in the AI Era Artificial intelligence has disrupted the way we work faster than almost any technology in recent history. Today, writers draft articles in minutes, marketers spin up campa…",
-      "url": "https://addicted2success.com/ai/lynote-ai-detector-and-humanizer/"
+      "title": "Top 30 AI Companies to Watch Around the World in 2026 as the Global Spending Surpasses $2.5 Trillion",
+      "description": "AI spending is set to exceed $2.5 trillion by 2026, with key players like Nvidia, Microsoft, and OpenAI driving innovation across infrastructure, software, and frontier labs.",
+      "url": "https://www.ibtimes.com.au/ai-investment-surpass-2-5-trillion-2026-key-companies-1872540"
     }
   ],
   "miamiNews": [
     {
-      "title": "Influencer marketing agency recommendations USA",
-      "description": "Compare the 10 best influencer marketing agencies in the USA for 2026. Verified results, pricing benchmarks, and expert selection criteria for brands.",
-      "url": "https://www.linkedin.com/pulse/influencer-marketing-agency-recommendations-usa-digital-marketing-5imjf"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -53,10 +43,10 @@
     "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "81-95",
+    "temp_range": "82-95",
     "condition": "Partly cloudy",
-    "wind": "11 mph",
-    "humidity": "72%",
+    "wind": "12 mph",
+    "humidity": "80%",
     "chance_rain": "6%"
   },
   "celebration": null,
@@ -64,18 +54,18 @@
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 5
+      "daysUntil": 4
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 44
+      "daysUntil": 43
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 59
+      "daysUntil": 58
     }
   ],
-  "generatedAt": "2026-07-19T13:57:57.655Z"
+  "generatedAt": "2026-07-20T13:21:25.276Z"
 }
