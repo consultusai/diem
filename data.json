@@ -1,11 +1,21 @@
 {
-  "date": "July 20, 2026",
-  "dayOfWeek": "Monday",
+  "date": "July 21, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Top 30 AI Companies to Watch Around the World in 2026 as the Global Spending Surpasses $2.5 Trillion",
-      "description": "AI spending is set to exceed $2.5 trillion by 2026, with key players like Nvidia, Microsoft, and OpenAI driving innovation across infrastructure, software, and frontier labs.",
-      "url": "https://www.ibtimes.com.au/ai-investment-surpass-2-5-trillion-2026-key-companies-1872540"
+      "title": "AI-driven system discovers six new metal alloys that could reshape jet engines and nuclear power",
+      "description": "Researchers at the University of Toronto have used an AI-driven active learning platform to identify six new metal alloys that retain strength under extreme heat and pressure, with potential applications in jet engines and nuclear power plants. The system fun…",
+      "url": "https://www.naturalnews.com/2026-07-20-ai-driven-system-discovers-six-new-alloys.html"
+    },
+    {
+      "title": "Welding Machinery Market Growth Accelerates as Robotic Welding, Laser Systems and AI Inspection Gain Adoption",
+      "description": "Key opportunities include robotic and laser welding, inverter upgrades, AI inspection, predictive maintenance, digital traceability, fume control, workforce training and local service. Key opportunities include robotic and laser welding, inverter upgrades, AI…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/20/3329564/28124/en/Welding-Machinery-Market-Growth-Accelerates-as-Robotic-Welding-Laser-Systems-and-AI-Inspection-Gain-Adoption.html"
+    },
+    {
+      "title": "The Make-or-Buy Line has Moved",
+      "description": "The secretary of defense’s November announcement on acquisition reform laid out an unprecedented vision across the entire acquisition spectrum to improve the delivery speed of critical capabilities to our warfighters. One foundational pillar is the implementa…",
+      "url": "https://warontherocks.com/the-make-or-buy-line-has-moved/"
     }
   ],
   "miamiNews": [
@@ -16,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -37,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "82-95",
-    "condition": "Partly cloudy",
-    "wind": "12 mph",
-    "humidity": "80%",
+    "temp_range": "81-91",
+    "condition": "Rain",
+    "wind": "14 mph",
+    "humidity": "82%",
     "chance_rain": "6%"
   },
   "celebration": null,
@@ -54,18 +64,18 @@
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 4
+      "daysUntil": 3
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 43
+      "daysUntil": 42
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 58
+      "daysUntil": 57
     }
   ],
-  "generatedAt": "2026-07-20T13:21:25.276Z"
+  "generatedAt": "2026-07-21T12:48:32.909Z"
 }
