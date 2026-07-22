@@ -1,33 +1,33 @@
 {
-  "date": "July 21, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "July 22, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "AI-driven system discovers six new metal alloys that could reshape jet engines and nuclear power",
-      "description": "Researchers at the University of Toronto have used an AI-driven active learning platform to identify six new metal alloys that retain strength under extreme heat and pressure, with potential applications in jet engines and nuclear power plants. The system fun…",
-      "url": "https://www.naturalnews.com/2026-07-20-ai-driven-system-discovers-six-new-alloys.html"
+      "title": "Business Users Are Now the Fastest-Growing Users of AI Coding Agents",
+      "description": "New OpenAI data shows non-developers adopting its Codex coding agent three times faster than engineers. Complete.dev's founder built the platform around this pattern in 2023, well before this data existed to confirm it. SALT LAKE CITY, July 21, 2026 /PRNewswi…",
+      "url": "https://www.prnewswire.com/news-releases/business-users-are-now-the-fastest-growing-users-of-ai-coding-agents-302830811.html"
     },
     {
-      "title": "Welding Machinery Market Growth Accelerates as Robotic Welding, Laser Systems and AI Inspection Gain Adoption",
-      "description": "Key opportunities include robotic and laser welding, inverter upgrades, AI inspection, predictive maintenance, digital traceability, fume control, workforce training and local service. Key opportunities include robotic and laser welding, inverter upgrades, AI…",
-      "url": "https://www.globenewswire.com/news-release/2026/07/20/3329564/28124/en/Welding-Machinery-Market-Growth-Accelerates-as-Robotic-Welding-Laser-Systems-and-AI-Inspection-Gain-Adoption.html"
+      "title": "DataVisor Earns Triple Recognition for Real-Time AI-Driven Financial Crime Risk Decisioning",
+      "description": "Recognized by AI Breakthrough, PayTech Awards, and Celent for Leadership in AI-Driven Financial Crime Prevention DataVisor, the AI real-time decisioning platform for fraud and financial crime adaptive prevention, today announced a wave of industry validation …",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/datavisor-earns-triple-recognition-for-real-time-ai-driven-financial-crime-risk-decisioning"
     },
     {
-      "title": "The Make-or-Buy Line has Moved",
-      "description": "The secretary of defense’s November announcement on acquisition reform laid out an unprecedented vision across the entire acquisition spectrum to improve the delivery speed of critical capabilities to our warfighters. One foundational pillar is the implementa…",
-      "url": "https://warontherocks.com/the-make-or-buy-line-has-moved/"
+      "title": "How does Google Assistant identify a song?",
+      "description": "How Google Assistant Identifies a Song: Unlocking the Sound Recognition Magic Google Assistant identifies a song using a sophisticated fingerprinting process that creates a unique digital signature, then compares it against a vast database of known music to p…",
+      "url": "https://www.lifesciencesworld.com/how-does-google-assistant-identify-a-song/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Tesla cash burn to test investor faith in AI bets",
+      "description": "CEO Elon Musk has pivoted the ​electric-vehicle maker's focus from manufacturing cars to building so-called physical AI businesses such as self-driving taxis and humanoid robots. Much of Tesla's valuation hangs on that promise.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/tesla-cash-burn-to-test-investor-faith-in-ai-bets/articleshow/132533939.cms"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "81-91",
-    "condition": "Rain",
+    "temp_range": "80-90",
+    "condition": "Partly cloudy",
     "wind": "14 mph",
-    "humidity": "82%",
-    "chance_rain": "6%"
+    "humidity": "77%",
+    "chance_rain": "5%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 3
+      "daysUntil": 2
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 42
+      "daysUntil": 41
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 57
+      "daysUntil": 56
     }
   ],
-  "generatedAt": "2026-07-21T12:48:32.909Z"
+  "generatedAt": "2026-07-22T12:52:22.495Z"
 }
