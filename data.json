@@ -1,28 +1,28 @@
 {
-  "date": "July 22, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "July 23, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Business Users Are Now the Fastest-Growing Users of AI Coding Agents",
-      "description": "New OpenAI data shows non-developers adopting its Codex coding agent three times faster than engineers. Complete.dev's founder built the platform around this pattern in 2023, well before this data existed to confirm it. SALT LAKE CITY, July 21, 2026 /PRNewswi…",
-      "url": "https://www.prnewswire.com/news-releases/business-users-are-now-the-fastest-growing-users-of-ai-coding-agents-302830811.html"
+      "title": "10 Newsletters Keeping You Ahead in AI",
+      "description": "Cut through AI noise with 10 curated newsletters covering daily news, technical research, policy, and builder tools.",
+      "url": "https://www.kdnuggets.com/10-newsletters-keeping-you-ahead-in-ai"
     },
     {
-      "title": "DataVisor Earns Triple Recognition for Real-Time AI-Driven Financial Crime Risk Decisioning",
-      "description": "Recognized by AI Breakthrough, PayTech Awards, and Celent for Leadership in AI-Driven Financial Crime Prevention DataVisor, the AI real-time decisioning platform for fraud and financial crime adaptive prevention, today announced a wave of industry validation …",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/datavisor-earns-triple-recognition-for-real-time-ai-driven-financial-crime-risk-decisioning"
+      "title": "The Marketing Stack Is Broken. AI Operating Systems Are the Next Evolution",
+      "description": "The Marketing Stack Is Broken. AI Operating Systems Are the Next Evolutionsubstack.com",
+      "url": "https://drhainafatima.substack.com/p/the-marketing-stack-is-broken-ai"
     },
     {
-      "title": "How does Google Assistant identify a song?",
-      "description": "How Google Assistant Identifies a Song: Unlocking the Sound Recognition Magic Google Assistant identifies a song using a sophisticated fingerprinting process that creates a unique digital signature, then compares it against a vast database of known music to p…",
-      "url": "https://www.lifesciencesworld.com/how-does-google-assistant-identify-a-song/"
+      "title": "StructureCraft Scales Data-Driven Design on NetApp",
+      "description": "Structural engineering firm modernizes data infrastructure to support global collaboration SAN JOSE, Calif. — NetApp® (NASDAQ: NTAP), the Intelligent Data Infrastructure company, today announced that StructureCraft, an award-winning global structural engineer…",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/structurecraft-scales-data-driven-design-on-netapp"
     }
   ],
   "miamiNews": [
     {
-      "title": "Tesla cash burn to test investor faith in AI bets",
-      "description": "CEO Elon Musk has pivoted the ​electric-vehicle maker's focus from manufacturing cars to building so-called physical AI businesses such as self-driving taxis and humanoid robots. Much of Tesla's valuation hangs on that promise.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/tesla-cash-burn-to-test-investor-faith-in-ai-bets/articleshow/132533939.cms"
+      "title": "Mapping drivers of life expectancy change in Asia from 1990 to 2023",
+      "description": "Using the Global Burden of Disease Study data across Asian countries and territories, life expectancy trends and the effects of cause-specific mortality and risk factors on changes in these trends are analysed.",
+      "url": "https://www.nature.com/articles/s41586-026-10739-6"
     }
   ],
   "tip": {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "80-90",
+    "temp_range": "79-89",
     "condition": "Partly cloudy",
-    "wind": "14 mph",
-    "humidity": "77%",
-    "chance_rain": "5%"
+    "wind": "11 mph",
+    "humidity": "72%",
+    "chance_rain": "7%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-07-24",
       "event": "MF birthday weekend",
-      "daysUntil": 2
+      "daysUntil": 1
     },
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 41
+      "daysUntil": 40
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 56
+      "daysUntil": 55
     }
   ],
-  "generatedAt": "2026-07-22T12:52:22.495Z"
+  "generatedAt": "2026-07-23T12:52:59.737Z"
 }
