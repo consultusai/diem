@@ -1,28 +1,28 @@
 {
-  "date": "July 24, 2026",
-  "dayOfWeek": "Friday",
+  "date": "July 25, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "Why Enterprise AI Teams Abandon Web Scraping for Official APIs in 2026",
-      "description": "Why Enterprise AI Teams Abandon Web Scraping Marcus, a senior data engineer at a mid-sized logistics firm, spent three weeks building a scraping pipeline that pulled competitor pricing from a dozen public-facing websites. It worked beautifully in staging. The…",
-      "url": "https://cloudtweaks.com/2026/07/enterprise-ai-abandon-web-scraping-apis-2026/"
+      "title": "News",
+      "description": "The most valuable enterprise AI use cases are not flashy demos. They are anomaly detection, data lineage, entity resolution and governance.",
+      "url": "https://hackernoon.com/bad-data-doesnt-care-how-good-your-ai-model-is"
     },
     {
-      "title": "Senior White House official accuses Moonshot AI of copying Anthropic’s leading frontier model",
-      "description": "A senior White House official has accused Chinese artificial intelligence startup Moonshot AI of using so-called “distillation” techniques to essentially pirate the capabilities of Anthropic PBC’s most powerful models in its own, open-source AI systems. “We h…",
-      "url": "https://siliconangle.com/2026/07/23/senior-white-house-official-accuses-moonshot-ai-copying-anthropics-leading-frontier-model/"
+      "title": "AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform",
+      "description": "AMD has announced a range of new AI solutions at Advanced AI 2026, including 6th Gen AMD EPYC CPUs, AMD Instinct MI400 Series GPUs, and AMD Helios AI rackscale solutions designed for data centers. In this article, we'll focus instead on embedded and physical …",
+      "url": "https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/"
     },
     {
-      "title": "Vitria Technology Sets the Standard for Event Intelligence Solutions as Knowledge-Driven AIOps Reaches the Enterprise Mainstream",
-      "description": "Named a Sample Vendor for Event Intelligence Solutions across seven 2026 Gartner® Hype Cycle™ reports, Vitria is defining the category's next chapter: the shift from observability to autonomous, explainable operations built on a self-evolving knowledge plane.…",
-      "url": "https://www.prnewswire.com/news-releases/vitria-technology-sets-the-standard-for-event-intelligence-solutions-as-knowledge-driven-aiops-reaches-the-enterprise-mainstream-302832656.html"
+      "title": "From Reactive Monitoring to AI-Driven Operational Intelligence",
+      "description": "Traditional monitoring often meant chasing alerts and toggling between dashboards after an issue had already impacted users. AWS CloudWatch — long the backbone of metrics, logs and traces on AWS — is evolving past that reactive paradigm. The latest CloudWatch…",
+      "url": "https://devops.com/from-reactive-monitoring-to-ai-driven-operational-intelligence/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "The IBM PC, Part 1: Arrival",
+      "description": "In the early 1980s, the personal computer market was a raucous bazaar, teeming with variety. Each distinct type of personal computer—from Atari, Radio Shack, Apple, Commodore, Texas Instruments, an…",
+      "url": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/"
     }
   ],
   "tip": {
@@ -54,28 +54,28 @@
   },
   "weather": {
     "temp_range": "80-93",
-    "condition": "Partly cloudy",
-    "wind": "9 mph",
-    "humidity": "77%",
-    "chance_rain": "5%"
+    "condition": "Clear ",
+    "wind": "7 mph",
+    "humidity": "80%",
+    "chance_rain": "74%"
   },
   "celebration": null,
   "upcoming": [
     {
-      "date": "2026-07-24",
-      "event": "MF birthday weekend",
-      "daysUntil": 0
-    },
-    {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 39
+      "daysUntil": 38
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 54
+      "daysUntil": 53
+    },
+    {
+      "date": "2026-11-26",
+      "event": "Thanksgiving",
+      "daysUntil": 124
     }
   ],
-  "generatedAt": "2026-07-24T12:50:47.612Z"
+  "generatedAt": "2026-07-25T12:12:38.074Z"
 }
