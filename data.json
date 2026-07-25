@@ -3,19 +3,19 @@
   "dayOfWeek": "Saturday",
   "usNews": [
     {
+      "title": "JAMS Launches AI for Enterprise Job Scheduling: JAX and JAMS MCP",
+      "description": "A new AI agent and an open-standard connector let IT teams query, diagnose, and manage automation in plain language, on the model they choose, without sending operational data outside their own network MIDDLETOWN, Del., July 24, 2026 /PRNewswire/ -- JAMS Soft…",
+      "url": "https://www.prnewswire.com/news-releases/jams-launches-ai-for-enterprise-job-scheduling-jax-and-jams-mcp-302833745.html"
+    },
+    {
+      "title": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
+      "description": "Jörg Schad explains how to tame the complex \"data management hairball\" to build scalable, safe architectures for AI. He shares how autonomous data products act like containers for data, encapsulating pipelines, schemas, and metadata. Discover how progressive …",
+      "url": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/"
+    },
+    {
       "title": "News",
       "description": "The most valuable enterprise AI use cases are not flashy demos. They are anomaly detection, data lineage, entity resolution and governance.",
       "url": "https://hackernoon.com/bad-data-doesnt-care-how-good-your-ai-model-is"
-    },
-    {
-      "title": "AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform",
-      "description": "AMD has announced a range of new AI solutions at Advanced AI 2026, including 6th Gen AMD EPYC CPUs, AMD Instinct MI400 Series GPUs, and AMD Helios AI rackscale solutions designed for data centers. In this article, we'll focus instead on embedded and physical …",
-      "url": "https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/"
-    },
-    {
-      "title": "From Reactive Monitoring to AI-Driven Operational Intelligence",
-      "description": "Traditional monitoring often meant chasing alerts and toggling between dashboards after an issue had already impacted users. AWS CloudWatch — long the backbone of metrics, logs and traces on AWS — is evolving past that reactive paradigm. The latest CloudWatch…",
-      "url": "https://devops.com/from-reactive-monitoring-to-ai-driven-operational-intelligence/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
     "temp_range": "80-93",
-    "condition": "Clear ",
+    "condition": "Thunderstorm",
     "wind": "7 mph",
-    "humidity": "80%",
+    "humidity": "82%",
     "chance_rain": "74%"
   },
   "celebration": null,
@@ -77,5 +77,5 @@
       "daysUntil": 124
     }
   ],
-  "generatedAt": "2026-07-25T12:12:38.074Z"
+  "generatedAt": "2026-07-25T14:06:47.223Z"
 }
