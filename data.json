@@ -1,28 +1,18 @@
 {
-  "date": "July 25, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "July 26, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "JAMS Launches AI for Enterprise Job Scheduling: JAX and JAMS MCP",
-      "description": "A new AI agent and an open-standard connector let IT teams query, diagnose, and manage automation in plain language, on the model they choose, without sending operational data outside their own network MIDDLETOWN, Del., July 24, 2026 /PRNewswire/ -- JAMS Soft…",
-      "url": "https://www.prnewswire.com/news-releases/jams-launches-ai-for-enterprise-job-scheduling-jax-and-jams-mcp-302833745.html"
-    },
-    {
-      "title": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
-      "description": "Jörg Schad explains how to tame the complex \"data management hairball\" to build scalable, safe architectures for AI. He shares how autonomous data products act like containers for data, encapsulating pipelines, schemas, and metadata. Discover how progressive …",
-      "url": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/"
-    },
-    {
-      "title": "News",
-      "description": "The most valuable enterprise AI use cases are not flashy demos. They are anomaly detection, data lineage, entity resolution and governance.",
-      "url": "https://hackernoon.com/bad-data-doesnt-care-how-good-your-ai-model-is"
+      "title": "From Marketing Playbook To Cyber Weapon: How Claude AI Agents Are Redefining Offensive Security And IT Automation + Video",
+      "description": "From Marketing Playbook to Cyber Weapon: How Claude AI Agents Are Redefining Offensive Security and IT Automation + Video - \"Undercode Testing\": Monitor",
+      "url": "https://undercodetesting.com/from-marketing-playbook-to-cyber-weapon-how-claude-ai-agents-are-redefining-offensive-security-and-it-automation-video/"
     }
   ],
   "miamiNews": [
     {
-      "title": "The IBM PC, Part 1: Arrival",
-      "description": "In the early 1980s, the personal computer market was a raucous bazaar, teeming with variety. Each distinct type of personal computer—from Atari, Radio Shack, Apple, Commodore, Texas Instruments, an…",
-      "url": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
@@ -47,35 +37,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "80-93",
-    "condition": "Thunderstorm",
+    "temp_range": "78-91",
+    "condition": "Partly cloudy",
     "wind": "7 mph",
-    "humidity": "82%",
-    "chance_rain": "74%"
+    "humidity": "89%",
+    "chance_rain": "12%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 38
+      "daysUntil": 37
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 53
+      "daysUntil": 52
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 124
+      "daysUntil": 123
     }
   ],
-  "generatedAt": "2026-07-25T14:06:47.223Z"
+  "generatedAt": "2026-07-26T12:34:00.792Z"
 }
