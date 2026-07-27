@@ -1,11 +1,16 @@
 {
-  "date": "July 26, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "July 27, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "From Marketing Playbook To Cyber Weapon: How Claude AI Agents Are Redefining Offensive Security And IT Automation + Video",
-      "description": "From Marketing Playbook to Cyber Weapon: How Claude AI Agents Are Redefining Offensive Security and IT Automation + Video - \"Undercode Testing\": Monitor",
-      "url": "https://undercodetesting.com/from-marketing-playbook-to-cyber-weapon-how-claude-ai-agents-are-redefining-offensive-security-and-it-automation-video/"
+      "title": "How Klarna Slashed 0M In Marketing Costs With GenAI — And What It Means For Cybersecurity, IT, And Your Career",
+      "description": "How Klarna Slashed 0M in Marketing Costs with GenAI — and What It Means for Cybersecurity, IT, and Your Career - \"Undercode Testing\": Monitor hackers like a",
+      "url": "https://undercodetesting.com/how-klarna-slashed-0m-in-marketing-costs-with-genai-and-what-it-means-for-cybersecurity-it-and-your-career/"
+    },
+    {
+      "title": "We have proof automation now",
+      "description": "I've long had a soft spot for dependently-typed languages like Coq\r\n Rocq and Lean.\nThey offer the possibility of a type system capable of encoding and enforcing\narbitrarily subtle invariants. The so… [+22319 chars]",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html"
     }
   ],
   "miamiNews": [
@@ -16,8 +21,8 @@
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -37,35 +42,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "78-91",
-    "condition": "Partly cloudy",
-    "wind": "7 mph",
-    "humidity": "89%",
-    "chance_rain": "12%"
+    "temp_range": "76-89",
+    "condition": "Sunny",
+    "wind": "9 mph",
+    "humidity": "90%",
+    "chance_rain": "14%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 37
+      "daysUntil": 36
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 52
+      "daysUntil": 51
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 123
+      "daysUntil": 122
     }
   ],
-  "generatedAt": "2026-07-26T12:34:00.792Z"
+  "generatedAt": "2026-07-27T13:45:37.709Z"
 }
