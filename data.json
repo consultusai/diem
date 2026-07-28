@@ -1,16 +1,21 @@
 {
-  "date": "July 27, 2026",
-  "dayOfWeek": "Monday",
+  "date": "July 28, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "How Klarna Slashed 0M In Marketing Costs With GenAI — And What It Means For Cybersecurity, IT, And Your Career",
-      "description": "How Klarna Slashed 0M in Marketing Costs with GenAI — and What It Means for Cybersecurity, IT, and Your Career - \"Undercode Testing\": Monitor hackers like a",
-      "url": "https://undercodetesting.com/how-klarna-slashed-0m-in-marketing-costs-with-genai-and-what-it-means-for-cybersecurity-it-and-your-career/"
+      "title": "Nvidia is putting its Vera CPUs to work alongside AI agents to speed up chip design",
+      "description": "Nvidia Corp. says it’s now running the chip design software its engineers are using to design the next generation of its graphics processing units, on its own silicon. It’s partnering with Cadence Systems Inc. and Synopsys Inc., the two biggest providers of e…",
+      "url": "https://siliconangle.com/2026/07/26/nvidia-putting-vera-cpus-work-alongside-ai-agents-speed-chip-design/"
     },
     {
-      "title": "We have proof automation now",
-      "description": "I've long had a soft spot for dependently-typed languages like Coq\r\n Rocq and Lean.\nThey offer the possibility of a type system capable of encoding and enforcing\narbitrarily subtle invariants. The so… [+22319 chars]",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html"
+      "title": "Freight Hero Lands $5M to Prove Freight Brokerage Needs Fewer Tools, More Outcomes",
+      "description": "Betting on AI services over software, Freight Hero executes brokers' back-office work with AI Agents, backed by human Heroes DURHAM, N.C., July 27, 2026 /PRNewswire/ -- Freight Hero, an AI company that fully manages freight brokers' back-office operations, ha…",
+      "url": "https://www.prnewswire.com/news-releases/freight-hero-lands-5m-to-prove-freight-brokerage-needs-fewer-tools-more-outcomes-302835207.html"
+    },
+    {
+      "title": "BlackWolf Advisory Group and Authority Partners Team Up to Bring Custom AI Solutions to Mortgage Firms",
+      "description": "Partnership gives lenders and servicers a direct path to build AI platforms from the ground up or to expand existing technology without hiring an internal development team JACKSONVILLE, Fla., July 27, 2026 /PRNewswire/ -- Mortgage lenders and servicers are un…",
+      "url": "https://www.prnewswire.com/news-releases/blackwolf-advisory-group-and-authority-partners-team-up-to-bring-custom-ai-solutions-to-mortgage-firms-302833685.html"
     }
   ],
   "miamiNews": [
@@ -42,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "76-89",
-    "condition": "Sunny",
-    "wind": "9 mph",
-    "humidity": "90%",
-    "chance_rain": "14%"
+    "temp_range": "76-92",
+    "condition": "Cloudy",
+    "wind": "7 mph",
+    "humidity": "94%",
+    "chance_rain": "12%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 36
+      "daysUntil": 35
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 51
+      "daysUntil": 50
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 122
+      "daysUntil": 121
     }
   ],
-  "generatedAt": "2026-07-27T13:45:37.709Z"
+  "generatedAt": "2026-07-28T13:07:04.717Z"
 }
