@@ -1,33 +1,33 @@
 {
-  "date": "July 28, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "July 29, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Nvidia is putting its Vera CPUs to work alongside AI agents to speed up chip design",
-      "description": "Nvidia Corp. says it’s now running the chip design software its engineers are using to design the next generation of its graphics processing units, on its own silicon. It’s partnering with Cadence Systems Inc. and Synopsys Inc., the two biggest providers of e…",
-      "url": "https://siliconangle.com/2026/07/26/nvidia-putting-vera-cpus-work-alongside-ai-agents-speed-chip-design/"
+      "title": "Presentation: The Future of Engineering: Mindsets That Matter When Code Isn’t Enough",
+      "description": "Ben Greene discusses how software engineers can adapt and thrive in an era of rapid AI code automation. Drawing on his startup experience, he explains key mindsets like starting simple, maintaining code comprehension, attacking hard problems first, and focusi…",
+      "url": "https://www.infoq.com/presentations/ai-future-engineering/"
     },
     {
-      "title": "Freight Hero Lands $5M to Prove Freight Brokerage Needs Fewer Tools, More Outcomes",
-      "description": "Betting on AI services over software, Freight Hero executes brokers' back-office work with AI Agents, backed by human Heroes DURHAM, N.C., July 27, 2026 /PRNewswire/ -- Freight Hero, an AI company that fully manages freight brokers' back-office operations, ha…",
-      "url": "https://www.prnewswire.com/news-releases/freight-hero-lands-5m-to-prove-freight-brokerage-needs-fewer-tools-more-outcomes-302835207.html"
+      "title": "HeyDonto launches DFT Labs to pursue physics-based machine learning capabilities",
+      "description": "Artificial intelligence startup HeyDonto AI Technology today announced that it has established DFT Labs, a research subsidiary dedicated to pursuing a physics-based framework for machine learning. The launch of the new company follows the publication of the f…",
+      "url": "https://siliconangle.com/2026/07/28/heydonto-launches-dft-labs-pursue-physics-based-machine-learning-capabilities/"
     },
     {
-      "title": "BlackWolf Advisory Group and Authority Partners Team Up to Bring Custom AI Solutions to Mortgage Firms",
-      "description": "Partnership gives lenders and servicers a direct path to build AI platforms from the ground up or to expand existing technology without hiring an internal development team JACKSONVILLE, Fla., July 27, 2026 /PRNewswire/ -- Mortgage lenders and servicers are un…",
-      "url": "https://www.prnewswire.com/news-releases/blackwolf-advisory-group-and-authority-partners-team-up-to-bring-custom-ai-solutions-to-mortgage-firms-302833685.html"
+      "title": "Revizto expands connected project intelligence platform with enterprise AI integrations",
+      "description": "New Model Context Protocol (MCP) Server, API and Developer Portal lets AECO teams connect ChatGPT, Claude, Microsoft Copilot and enterprise AI directly to live project data in Revizto. The integrations enhance data sovereignty, reduce tool sprawl and boost au…",
+      "url": "https://www.prnewswire.com/news-releases/revizto-expands-connected-project-intelligence-platform-with-enterprise-ai-integrations-302835269.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Jeff Bezos, Mark Zuckerberg, Sergey Brin and Larry Page: Tech billionaires are flocking to America's second-most expensive metro area and it's not California or New York",
+      "description": "Tech billionaires such as Jeff Bezos, Mark Zuckerberg, Sergey Brin, and Larry Page are among high-profile names who are flocking to Miami despite soaring costs in the US city. Tax proposals in California and New York are pushing billionaires to Florida. No st…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/jeff-bezos-mark-zuckerberg-sergey-brin-and-larry-page-tech-billionaires-are-flocking-to-americas-second-most-expensive-metro-area-miami-and-its-not-california-or-new-york/articleshow/132684894.cms"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "76-92",
-    "condition": "Cloudy",
-    "wind": "7 mph",
-    "humidity": "94%",
-    "chance_rain": "12%"
+    "temp_range": "78-93",
+    "condition": "Sunny",
+    "wind": "10 mph",
+    "humidity": "87%",
+    "chance_rain": "10%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 35
+      "daysUntil": 34
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 50
+      "daysUntil": 49
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 121
+      "daysUntil": 120
     }
   ],
-  "generatedAt": "2026-07-28T13:07:04.717Z"
+  "generatedAt": "2026-07-29T13:11:05.807Z"
 }
