@@ -1,33 +1,33 @@
 {
-  "date": "July 29, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "July 30, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Presentation: The Future of Engineering: Mindsets That Matter When Code Isn’t Enough",
-      "description": "Ben Greene discusses how software engineers can adapt and thrive in an era of rapid AI code automation. Drawing on his startup experience, he explains key mindsets like starting simple, maintaining code comprehension, attacking hard problems first, and focusi…",
-      "url": "https://www.infoq.com/presentations/ai-future-engineering/"
+      "title": "What does a modern DBA actually do? 6 key points from a senior DBA",
+      "description": "The DBA role has changed. Senior DBA Lee Brownhill shares 6 honest insights on what database professionals are focused on today - AI, cloud costs, DevOps, and more.…\nThe post What does a modern DBA actually do? 6 key points from a senior DBA  appeared first o…",
+      "url": "https://www.red-gate.com/simple-talk/career/what-does-a-modern-dba-actually-do-6-key-points-from-a-senior-dba/"
     },
     {
-      "title": "HeyDonto launches DFT Labs to pursue physics-based machine learning capabilities",
-      "description": "Artificial intelligence startup HeyDonto AI Technology today announced that it has established DFT Labs, a research subsidiary dedicated to pursuing a physics-based framework for machine learning. The launch of the new company follows the publication of the f…",
-      "url": "https://siliconangle.com/2026/07/28/heydonto-launches-dft-labs-pursue-physics-based-machine-learning-capabilities/"
+      "title": "DataImpulse Proxy Service Review",
+      "description": "Can Dataimpulse's feature set and reliability compete with the industry's biggest names?",
+      "url": "https://www.techradar.com/pro/security/dataimpulse-proxy-service-review"
     },
     {
-      "title": "Revizto expands connected project intelligence platform with enterprise AI integrations",
-      "description": "New Model Context Protocol (MCP) Server, API and Developer Portal lets AECO teams connect ChatGPT, Claude, Microsoft Copilot and enterprise AI directly to live project data in Revizto. The integrations enhance data sovereignty, reduce tool sprawl and boost au…",
-      "url": "https://www.prnewswire.com/news-releases/revizto-expands-connected-project-intelligence-platform-with-enterprise-ai-integrations-302835269.html"
+      "title": "How Company 3 Streamlines Studio Image Management with EC2 Image Builder and AWS CDK",
+      "description": "Guest post in collaboration with Company 3 Director of New Technology, Phil Wortas, and Senior New Technology Engineer, Matthew Galloway Introduction Company 3 provides specialized services for the entertainment industry, including post-production services, v…",
+      "url": "https://aws.amazon.com/blogs/devops/how-company-3-streamlines-studio-image-management-with-ec2-image-builder-and-aws-cdk/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Jeff Bezos, Mark Zuckerberg, Sergey Brin and Larry Page: Tech billionaires are flocking to America's second-most expensive metro area and it's not California or New York",
-      "description": "Tech billionaires such as Jeff Bezos, Mark Zuckerberg, Sergey Brin, and Larry Page are among high-profile names who are flocking to Miami despite soaring costs in the US city. Tax proposals in California and New York are pushing billionaires to Florida. No st…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/jeff-bezos-mark-zuckerberg-sergey-brin-and-larry-page-tech-billionaires-are-flocking-to-americas-second-most-expensive-metro-area-miami-and-its-not-california-or-new-york/articleshow/132684894.cms"
+      "title": "Grip taps industry veteran to lead cold chain fulfillment",
+      "description": "Grip has shipped more than $3 billion in perishable goods since 2022. Now it hands its fulfillment operation to a 40-year veteran of frozen distribution. The...",
+      "url": "https://finance.yahoo.com/small-business/articles/grip-taps-industry-veteran-lead-110000286.html"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -55,7 +55,7 @@
   "weather": {
     "temp_range": "78-93",
     "condition": "Sunny",
-    "wind": "10 mph",
+    "wind": "9 mph",
     "humidity": "87%",
     "chance_rain": "10%"
   },
@@ -64,18 +64,18 @@
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 34
+      "daysUntil": 33
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 49
+      "daysUntil": 48
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 120
+      "daysUntil": 119
     }
   ],
-  "generatedAt": "2026-07-29T13:11:05.807Z"
+  "generatedAt": "2026-07-30T12:58:47.285Z"
 }
