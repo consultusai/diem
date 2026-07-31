@@ -1,33 +1,33 @@
 {
-  "date": "July 30, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "July 31, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "What does a modern DBA actually do? 6 key points from a senior DBA",
-      "description": "The DBA role has changed. Senior DBA Lee Brownhill shares 6 honest insights on what database professionals are focused on today - AI, cloud costs, DevOps, and more.…\nThe post What does a modern DBA actually do? 6 key points from a senior DBA  appeared first o…",
-      "url": "https://www.red-gate.com/simple-talk/career/what-does-a-modern-dba-actually-do-6-key-points-from-a-senior-dba/"
+      "title": "The Growing Challenge of Digital Identity Is Shaping IntegraTRACE’s Vision for Enterprise Visibility",
+      "description": "Enterprise technology has become significantly more interconnected over the past decade. Cloud platforms, automation, artificial intelligence, and software integrations have allowed organizations to operate with greater speed and flexibility, but they have al…",
+      "url": "https://thenextweb.com/news/integratrace-digital-identity-enterprise-visibility/"
     },
     {
-      "title": "DataImpulse Proxy Service Review",
-      "description": "Can Dataimpulse's feature set and reliability compete with the industry's biggest names?",
-      "url": "https://www.techradar.com/pro/security/dataimpulse-proxy-service-review"
+      "title": "Jscrambler Launches Unified Client-Side Security Platform for the AI Era",
+      "description": "First platform to unify software integrity and data governance at browser runtime, helping enterprises continuously enforce security against AI-powered threats and data harvesting risks PORTO, Portugal, July 30, 2026 /PRNewswire/ -- Jscrambler, the Client-Sid…",
+      "url": "https://www.prnewswire.co.uk/news-releases/jscrambler-launches-unified-client-side-security-platform-for-the-ai-era-302838750.html"
     },
     {
-      "title": "How Company 3 Streamlines Studio Image Management with EC2 Image Builder and AWS CDK",
-      "description": "Guest post in collaboration with Company 3 Director of New Technology, Phil Wortas, and Senior New Technology Engineer, Matthew Galloway Introduction Company 3 provides specialized services for the entertainment industry, including post-production services, v…",
-      "url": "https://aws.amazon.com/blogs/devops/how-company-3-streamlines-studio-image-management-with-ec2-image-builder-and-aws-cdk/"
+      "title": "Discern Security Raises $13 Million Series A and Launches Agentic Loops to Close Security Gaps",
+      "description": "Funding led by Forgepoint Capital will accelerate the Discern Security Loop, an agentic platform that continuously identifies and remediates security control gaps in the AI era SUNNYVALE, Calif., July 30, 2026 /PRNewswire/ -- Discern Security, the company tra…",
+      "url": "https://www.prnewswire.com/news-releases/discern-security-raises-13-million-series-a-and-launches-agentic-loops-to-close-security-gaps-302838556.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "Grip taps industry veteran to lead cold chain fulfillment",
-      "description": "Grip has shipped more than $3 billion in perishable goods since 2022. Now it hands its fulfillment operation to a 40-year veteran of frozen distribution. The...",
-      "url": "https://finance.yahoo.com/small-business/articles/grip-taps-industry-veteran-lead-110000286.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "78-93",
+    "temp_range": "77-95",
     "condition": "Sunny",
-    "wind": "9 mph",
-    "humidity": "87%",
+    "wind": "7 mph",
+    "humidity": "88%",
     "chance_rain": "10%"
   },
   "celebration": null,
@@ -64,18 +64,18 @@
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 33
+      "daysUntil": 32
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 48
+      "daysUntil": 47
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 119
+      "daysUntil": 118
     }
   ],
-  "generatedAt": "2026-07-30T12:58:47.285Z"
+  "generatedAt": "2026-07-31T13:10:02.858Z"
 }
