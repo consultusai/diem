@@ -1,28 +1,18 @@
 {
-  "date": "August 1, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "August 2, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "AI Agents vs AI Workflows: Architecture, Use Cases, and Best Practices",
-      "description": "AI Agents vs. Workflows: Understand architecture, use cases, and best practices for deterministic automation and goal-driven decision-making.",
-      "url": "https://www.c-sharpcorner.com/article/ai-agents-vs-ai-workflows-architecture-use-cases-and-best-practices/"
-    },
-    {
-      "title": "WPBeginner Spotlight 26: Form Analytics, More AI Tools, and Smarter SEO Monitoring",
-      "description": "The main theme of this month’s WordPress news is measurement. Most of what shipped in July shows you something that your site was already doing without telling you. WPForms can now show which form field people abandon, and AIOSEO can tell you the day a… Read …",
-      "url": "https://www.wpbeginner.com/news/wpbeginner-spotlight-26-form-analytics-more-ai-tools-and-smarter-seo-monitoring/"
-    },
-    {
-      "title": "Beyond Tokenmaxxing: the rising token tax on enterprise AI",
-      "description": "For years, LLM providers have spent billions of dollars building and training increasingly powerful models.",
-      "url": "https://www.techradar.com/pro/beyond-tokenmaxxing-the-rising-token-tax-on-enterprise-ai"
+      "title": "Choosing Cloud DevOps Tools: Which Stage Should You Solve First",
+      "description": "There is no single best DevOps tool. That statement sounds obvious, but the industry’s habit of treating toolchain decisions as popularity contests suggests the lesson hasn’t fully landed. The real question isn’t which tool is best in absolute terms – it’s wh…",
+      "url": "https://cloudtweaks.com/2026/08/cloud-devops-tools-stage/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Space-Eyes and McKinley Acquisition Corp. Announce Definitive Business Combination Agreement to Deliver AI-Driven Counter Drone Technology and Geospatial Intelligence Worldwide",
-      "description": "The transaction will bring Space-Eyes’ intelligence platforms to public markets with real-time situational awareness for governments and enterprises to monitor and respond to mission critical threats across land, sea and air",
-      "url": "https://www.globenewswire.com/news-release/2026/07/31/3336758/0/en/Space-Eyes-and-McKinley-Acquisition-Corp-Announce-Definitive-Business-Combination-Agreement-to-Deliver-AI-Driven-Counter-Drone-Technology-and-Geospatial-Intelligence-Worldwide.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
@@ -47,35 +37,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "75-95",
-    "condition": "Sunny",
-    "wind": "6 mph",
-    "humidity": "81%",
-    "chance_rain": "8%"
+    "temp_range": "78-88",
+    "condition": "Partly Cloudy ",
+    "wind": "10 mph",
+    "humidity": "84%",
+    "chance_rain": "12%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 31
+      "daysUntil": 30
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 46
+      "daysUntil": 45
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 117
+      "daysUntil": 116
     }
   ],
-  "generatedAt": "2026-08-01T12:32:22.394Z"
+  "generatedAt": "2026-08-02T12:31:56.615Z"
 }
