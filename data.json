@@ -1,11 +1,21 @@
 {
-  "date": "August 2, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "August 3, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Choosing Cloud DevOps Tools: Which Stage Should You Solve First",
-      "description": "There is no single best DevOps tool. That statement sounds obvious, but the industry’s habit of treating toolchain decisions as popularity contests suggests the lesson hasn’t fully landed. The real question isn’t which tool is best in absolute terms – it’s wh…",
-      "url": "https://cloudtweaks.com/2026/08/cloud-devops-tools-stage/"
+      "title": "IBM i (OS/400) the Database Operating System",
+      "description": "The IT world is changing rapidly – we keep up with it! IBM i, AIX, Linux, DevOps, and modern automation. Knowledge and experience in one place!",
+      "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/"
+    },
+    {
+      "title": "FET Crypto Price Prediction: Can Artificial Superintelligence Alliance Surge 300% by the End of 2026?",
+      "description": "The latest FET crypto price prediction is asking the critical question: can the AI token recover from a rapid decline? FET is currently trading at...\nThe post FET Crypto Price Prediction: Can Artificial Superintelligence Alliance Surge 300% by the End of 2026…",
+      "url": "https://bitcoinfoundation.org/news/altcoins/fet-crypto-price-prediction/"
+    },
+    {
+      "title": "Adopt AI or Die?",
+      "description": "Of Pascal’s famous wager on the existence of God, Denis Diderot dryly remarked, nearly a century later, “Pascal says: If your religion is false, you risk nothing in believing it true; if it’s true, you risk everything by believing it false. An imam could say …",
+      "url": "https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die"
     }
   ],
   "miamiNews": [
@@ -16,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -43,29 +53,29 @@
     "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "78-88",
-    "condition": "Partly Cloudy ",
-    "wind": "10 mph",
+    "temp_range": "78-92",
+    "condition": "Sunny",
+    "wind": "6 mph",
     "humidity": "84%",
-    "chance_rain": "12%"
+    "chance_rain": "10%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 30
+      "daysUntil": 29
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 45
+      "daysUntil": 44
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 116
+      "daysUntil": 115
     }
   ],
-  "generatedAt": "2026-08-02T12:31:56.615Z"
+  "generatedAt": "2026-08-03T13:56:13.546Z"
 }
