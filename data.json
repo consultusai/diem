@@ -1,33 +1,33 @@
 {
-  "date": "August 4, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "August 5, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Mercury Partners with Palantir to Enhance Factory Automation and Accelerate Production Timelines",
-      "description": "ANDOVER, Mass., Aug. 03, 2026 (GLOBE NEWSWIRE) -- Mercury Systems, Inc. (NASDAQ: MRCY, www.mrcy.com), and Palantir (NASDAQ: PLTR, www.palantir.com), a leading provider of AI software bringing commercial approaches to aerospace and defense, today announced a s…",
-      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337498/18849/en/Mercury-Partners-with-Palantir-to-Enhance-Factory-Automation-and-Accelerate-Production-Timelines.html"
+      "title": "Abilytics Joins the Databricks Brickbuilder Partner Network as a Bronze Tier Consulting Partner",
+      "description": "Abilytics joins the Databricks partner network, strengthening its data, analytics and AI offerings alongside their AWS, OpenAI and Anthropic expertise.",
+      "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-e5be2eb6495e7745795892673cc57f9d"
     },
     {
-      "title": "Databricks Completes Acquisition of Panther: Accelerating the Security Lakehouse Era",
-      "description": "* **What it is:** Databricks has officially completed the acquisition of Panther, combining its mature SOC workflows and software-driven detection engine with Lakewatch’s open security lakehouse foundation.\r\n* **The challenge it solves:** Traditional SIEMs fo…",
-      "url": "https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era"
+      "title": "“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI",
+      "description": "Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based AI.",
+      "url": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/"
     },
     {
-      "title": "How to Stop China from Freeriding on American AI",
-      "description": "The release of the Chinese open-weight AI model Kimi K3 has compressed a year’s worth of unresolved AI policy debate into a single news cycle. On July 21, Treasury Secretary Scott Bessent threatened sanctions against Chinese labs found to have built their mod…",
-      "url": "https://warontherocks.com/cogs-of-war/how-to-stop-china-from-freeriding-on-american-ai/"
+      "title": "Ethyca launches Astralis to govern enterprise AI agents in real time",
+      "description": "Data privacy engineering company Ethyca Inc. today launched Astralis, a platform that governs how enterprise artificial intelligence models and agents use company data in real time. The company is pitching the product as an answer to a widening gap between ho…",
+      "url": "https://siliconangle.com/2026/08/04/ethyca-launches-astralis-govern-enterprise-ai-agents-real-time/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
-      "description": "Electric low-speed vehicles, or LSVs, are a step above a traditional golf cart but below a typical light-duty car or truck sold in the U.S.",
-      "url": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "78-91",
+    "temp_range": "76-88",
     "condition": "Sunny",
-    "wind": "7 mph",
-    "humidity": "91%",
-    "chance_rain": "13%"
+    "wind": "12 mph",
+    "humidity": "85%",
+    "chance_rain": "12%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 28
+      "daysUntil": 27
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 43
+      "daysUntil": 42
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 114
+      "daysUntil": 113
     }
   ],
-  "generatedAt": "2026-08-04T13:12:48.823Z"
+  "generatedAt": "2026-08-05T13:07:31.082Z"
 }
