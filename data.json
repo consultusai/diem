@@ -1,33 +1,33 @@
 {
-  "date": "August 5, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "August 6, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Abilytics Joins the Databricks Brickbuilder Partner Network as a Bronze Tier Consulting Partner",
-      "description": "Abilytics joins the Databricks partner network, strengthening its data, analytics and AI offerings alongside their AWS, OpenAI and Anthropic expertise.",
-      "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-e5be2eb6495e7745795892673cc57f9d"
+      "title": "OBM Accelerates Momentum as Large Power Users Seek Better Energy Intelligence and Load Control",
+      "description": "Company growth reflects rising demand for more agile load control across Bitcoin mining and AI-driven data centers Company growth reflects rising demand for more agile load control across Bitcoin mining and AI-driven data centers",
+      "url": "https://www.globenewswire.com/news-release/2026/08/05/3339378/0/en/OBM-Accelerates-Momentum-as-Large-Power-Users-Seek-Better-Energy-Intelligence-and-Load-Control.html"
     },
     {
-      "title": "“Keep going, bro. You’ve got this!” A data-driven look at how adversaries are weaponizing AI",
-      "description": "Talos has collected prompt logs from threat actor endpoints running various applications, such as Claude Code, CodeX, Cursor, or Gemini. This blog is an analysis of the ways we've seen bad actors leveraging cloud-based AI.",
-      "url": "https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/"
+      "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
+      "description": "We built Cloudflare OS to equip our teams to safely rethink how they get work done with AI. The platform brings together the best of our technologies, from our Compute primitives to our Zero Trust suite. This post walks through our journey to give our users t…",
+      "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/"
     },
     {
-      "title": "Ethyca launches Astralis to govern enterprise AI agents in real time",
-      "description": "Data privacy engineering company Ethyca Inc. today launched Astralis, a platform that governs how enterprise artificial intelligence models and agents use company data in real time. The company is pitching the product as an answer to a widening gap between ho…",
-      "url": "https://siliconangle.com/2026/08/04/ethyca-launches-astralis-govern-enterprise-ai-agents-real-time/"
+      "title": "Ask your employees one question about AI. The silence will tell you everything",
+      "description": "AI has made building dramatically easier, yet most employees still aren't creating anything reusable. The hidden barrier is who your people think they are.",
+      "url": "https://fortune.com/2026/08/05/are-your-employees-actually-building-with-ai-agents/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Project Deepens South Florida Investment with New Delray Beach Creative Hub",
+      "description": "Project Worldwide today announced the upcoming launch of its newest Project Hub in Delray Beach, Florida. ...",
+      "url": "https://www.globenewswire.com/news-release/2026/08/05/3339384/0/en/Project-Deepens-South-Florida-Investment-with-New-Delray-Beach-Creative-Hub.html"
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "76-88",
+    "temp_range": "79-89",
     "condition": "Sunny",
-    "wind": "12 mph",
-    "humidity": "85%",
-    "chance_rain": "12%"
+    "wind": "13 mph",
+    "humidity": "79%",
+    "chance_rain": "10%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 27
+      "daysUntil": 26
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 42
+      "daysUntil": 41
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 113
+      "daysUntil": 112
     }
   ],
-  "generatedAt": "2026-08-05T13:07:31.082Z"
+  "generatedAt": "2026-08-06T13:07:18.457Z"
 }
