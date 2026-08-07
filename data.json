@@ -13,9 +13,9 @@
       "url": "https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026"
     },
     {
-      "title": "Google is expanding its AI empire — and losing the people who built it",
-      "description": "Google’s cloud boom is testing the company's commitment to frontier AI as commercial returns take priority.",
-      "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html"
+      "title": "Inevitable AI Group raises $6M to derail SaaS incumbents with more agile, AI-native software startups",
+      "description": "Aleph, one of Israel’s top funds, is backing a new artificial intelligence-native venture studio with $6 million in pre-seed funding so it can build and launch dozens of new software startups by the end of the year. The studio is called Inevitable AI Group, a…",
+      "url": "https://siliconangle.com/2026/08/06/inevitable-ai-group-raises-6m-take-saas-incumbents-agile-ai-native-software-startups/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -54,9 +54,9 @@
   },
   "weather": {
     "temp_range": "77-91",
-    "condition": "Cloudy ",
+    "condition": "Partly Cloudy ",
     "wind": "12 mph",
-    "humidity": "89%",
+    "humidity": "87%",
     "chance_rain": "17%"
   },
   "celebration": null,
@@ -77,5 +77,5 @@
       "daysUntil": 111
     }
   ],
-  "generatedAt": "2026-08-07T12:03:15.669Z"
+  "generatedAt": "2026-08-07T13:43:57.614Z"
 }
