@@ -1,28 +1,28 @@
 {
-  "date": "August 6, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "August 7, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "OBM Accelerates Momentum as Large Power Users Seek Better Energy Intelligence and Load Control",
-      "description": "Company growth reflects rising demand for more agile load control across Bitcoin mining and AI-driven data centers Company growth reflects rising demand for more agile load control across Bitcoin mining and AI-driven data centers",
-      "url": "https://www.globenewswire.com/news-release/2026/08/05/3339378/0/en/OBM-Accelerates-Momentum-as-Large-Power-Users-Seek-Better-Energy-Intelligence-and-Load-Control.html"
+      "title": "Data Pipeline Tools Market Expected to Hit $86.11 Billion by 2035 | SNS Insider",
+      "description": "The U.S. Data Pipeline Tools Market is Expected to Reach $16.26 Billion by 2035, While Europe is Projected to Hit $19.15 Billion, Driven by Rapid Cloud Adoption, AI-Powered Data Engineering, Real-Time Analytics, and Growing Enterprise Investments in Scalable …",
+      "url": "https://www.globenewswire.com/news-release/2026/08/06/3340034/0/en/Data-Pipeline-Tools-Market-Expected-to-Hit-86-11-Billion-by-2035-SNS-Insider.html"
     },
     {
-      "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
-      "description": "We built Cloudflare OS to equip our teams to safely rethink how they get work done with AI. The platform brings together the best of our technologies, from our Compute primitives to our Zero Trust suite. This post walks through our journey to give our users t…",
-      "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/"
+      "title": "7 Best Web Crawling Tools and APIs in 2026",
+      "description": "Learn about the best web crawling tools for collecting website content, crawling subpages, generating clean web data, and powering AI agents.",
+      "url": "https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026"
     },
     {
-      "title": "Ask your employees one question about AI. The silence will tell you everything",
-      "description": "AI has made building dramatically easier, yet most employees still aren't creating anything reusable. The hidden barrier is who your people think they are.",
-      "url": "https://fortune.com/2026/08/05/are-your-employees-actually-building-with-ai-agents/"
+      "title": "Google is expanding its AI empire — and losing the people who built it",
+      "description": "Google’s cloud boom is testing the company's commitment to frontier AI as commercial returns take priority.",
+      "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "Project Deepens South Florida Investment with New Delray Beach Creative Hub",
-      "description": "Project Worldwide today announced the upcoming launch of its newest Project Hub in Delray Beach, Florida. ...",
-      "url": "https://www.globenewswire.com/news-release/2026/08/05/3339384/0/en/Project-Deepens-South-Florida-Investment-with-New-Delray-Beach-Creative-Hub.html"
+      "title": "SAB BIO Reports Q2 2026 Financial Results and Provides Business Highlights",
+      "description": "Over 60 clinical sites activated in registrational SAFEGUARD study of SAB-142 in Stage 3 new onset type 1 diabetes; Enrollment remains on track for completion in Q4 2026, with topline data expected in 2H 2027",
+      "url": "https://www.globenewswire.com/news-release/2026/08/06/3340152/0/en/SAB-BIO-Reports-Q2-2026-Financial-Results-and-Provides-Business-Highlights.html"
     }
   ],
   "tip": {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "79-89",
-    "condition": "Sunny",
-    "wind": "13 mph",
-    "humidity": "79%",
-    "chance_rain": "10%"
+    "temp_range": "77-91",
+    "condition": "Cloudy ",
+    "wind": "12 mph",
+    "humidity": "89%",
+    "chance_rain": "17%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 26
+      "daysUntil": 25
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 41
+      "daysUntil": 40
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 112
+      "daysUntil": 111
     }
   ],
-  "generatedAt": "2026-08-06T13:07:18.457Z"
+  "generatedAt": "2026-08-07T12:03:15.669Z"
 }
