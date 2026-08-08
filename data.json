@@ -3,6 +3,11 @@
   "dayOfWeek": "Saturday",
   "usNews": [
     {
+      "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+      "description": "Cloudflare Radar Researcher is a new AI-powered tool that lets you explore global Internet trends and traffic data using plain language. Built entirely on Cloudflare's Developer Platform, it turns natural language queries into real, interactive charts.",
+      "url": "https://blog.cloudflare.com/introducing-radar-researcher/"
+    },
+    {
       "title": "What is an AI Assistant?",
       "description": "* An AI assistant is software that uses artificial intelligence to understand natural language, process requests, and complete tasks, ranging from answering questions to executing multi-step workflows.\r\n* The technology behind AI assistants spans large langua…",
       "url": "https://www.databricks.com/blog/what-is-an-ai-assistant"
@@ -11,23 +16,18 @@
       "title": "What is enterprise marketing automation? Features, platforms, and best practices",
       "description": "Enterprise marketing automation is how large organizations scale personalized marketing across multiple teams and channels without disrupting their data or workflow. If you’re evaluating platforms or trying to modernize a fragmented stack, this guide covers e…",
       "url": "https://blog.hubspot.com/marketing/enterprise-marketing-automation"
-    },
-    {
-      "title": "Presentation: Rewriting All of Spotify's Code Base, All the Time",
-      "description": "Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created \"Honk,\" an AI coding agent, to handle complex fleet-wide codebase migrations. They share key architectural insights on decoupling CI verification runtimes from AI agents, dealing with automated …",
-      "url": "https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "PURIS Announces the Acquisition of Amici Engineering Contractors",
+      "description": "NEW YORK, Aug. 7, 2026 /PRNewswire/ -- PURIS, LLC (\"PURIS\"), a portfolio company of investment affiliates of J.F. Lehman & Company, LLC (\"JFLCO\"), announced today the completion of the acquisition of Amici Engineering Contractors, LLC (\"Amici\" or the \"Company…",
+      "url": "https://www.prnewswire.com/news-releases/puris-announces-the-acquisition-of-amici-engineering-contractors-302845373.html"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -55,8 +55,8 @@
   "weather": {
     "temp_range": "80-94",
     "condition": "Sunny",
-    "wind": "14 mph",
-    "humidity": "79%",
+    "wind": "12 mph",
+    "humidity": "73%",
     "chance_rain": "25%"
   },
   "celebration": null,
@@ -77,5 +77,5 @@
       "daysUntil": 110
     }
   ],
-  "generatedAt": "2026-08-08T11:49:11.728Z"
+  "generatedAt": "2026-08-08T13:22:58.400Z"
 }
