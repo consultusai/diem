@@ -1,28 +1,28 @@
 {
-  "date": "August 7, 2026",
-  "dayOfWeek": "Friday",
+  "date": "August 8, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "Data Pipeline Tools Market Expected to Hit $86.11 Billion by 2035 | SNS Insider",
-      "description": "The U.S. Data Pipeline Tools Market is Expected to Reach $16.26 Billion by 2035, While Europe is Projected to Hit $19.15 Billion, Driven by Rapid Cloud Adoption, AI-Powered Data Engineering, Real-Time Analytics, and Growing Enterprise Investments in Scalable …",
-      "url": "https://www.globenewswire.com/news-release/2026/08/06/3340034/0/en/Data-Pipeline-Tools-Market-Expected-to-Hit-86-11-Billion-by-2035-SNS-Insider.html"
+      "title": "What is an AI Assistant?",
+      "description": "* An AI assistant is software that uses artificial intelligence to understand natural language, process requests, and complete tasks, ranging from answering questions to executing multi-step workflows.\r\n* The technology behind AI assistants spans large langua…",
+      "url": "https://www.databricks.com/blog/what-is-an-ai-assistant"
     },
     {
-      "title": "7 Best Web Crawling Tools and APIs in 2026",
-      "description": "Learn about the best web crawling tools for collecting website content, crawling subpages, generating clean web data, and powering AI agents.",
-      "url": "https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026"
+      "title": "What is enterprise marketing automation? Features, platforms, and best practices",
+      "description": "Enterprise marketing automation is how large organizations scale personalized marketing across multiple teams and channels without disrupting their data or workflow. If you’re evaluating platforms or trying to modernize a fragmented stack, this guide covers e…",
+      "url": "https://blog.hubspot.com/marketing/enterprise-marketing-automation"
     },
     {
-      "title": "Inevitable AI Group raises $6M to derail SaaS incumbents with more agile, AI-native software startups",
-      "description": "Aleph, one of Israel’s top funds, is backing a new artificial intelligence-native venture studio with $6 million in pre-seed funding so it can build and launch dozens of new software startups by the end of the year. The studio is called Inevitable AI Group, a…",
-      "url": "https://siliconangle.com/2026/08/06/inevitable-ai-group-raises-6m-take-saas-incumbents-agile-ai-native-software-startups/"
+      "title": "Presentation: Rewriting All of Spotify's Code Base, All the Time",
+      "description": "Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created \"Honk,\" an AI coding agent, to handle complex fleet-wide codebase migrations. They share key architectural insights on decoupling CI verification runtimes from AI agents, dealing with automated …",
+      "url": "https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/"
     }
   ],
   "miamiNews": [
     {
-      "title": "SAB BIO Reports Q2 2026 Financial Results and Provides Business Highlights",
-      "description": "Over 60 clinical sites activated in registrational SAFEGUARD study of SAB-142 in Stage 3 new onset type 1 diabetes; Enrollment remains on track for completion in Q4 2026, with topline data expected in 2H 2027",
-      "url": "https://www.globenewswire.com/news-release/2026/08/06/3340152/0/en/SAB-BIO-Reports-Q2-2026-Financial-Results-and-Provides-Business-Highlights.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "77-91",
-    "condition": "Partly Cloudy ",
-    "wind": "12 mph",
-    "humidity": "87%",
-    "chance_rain": "17%"
+    "temp_range": "80-94",
+    "condition": "Sunny",
+    "wind": "14 mph",
+    "humidity": "79%",
+    "chance_rain": "25%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 25
+      "daysUntil": 24
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 40
+      "daysUntil": 39
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 111
+      "daysUntil": 110
     }
   ],
-  "generatedAt": "2026-08-07T13:43:57.614Z"
+  "generatedAt": "2026-08-08T11:49:11.728Z"
 }
