@@ -16,8 +16,8 @@
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -44,9 +44,9 @@
   },
   "weather": {
     "temp_range": "80-89",
-    "condition": "Sunny",
+    "condition": "Partly Cloudy ",
     "wind": "13 mph",
-    "humidity": "77%",
+    "humidity": "73%",
     "chance_rain": "13%"
   },
   "celebration": null,
@@ -67,5 +67,5 @@
       "daysUntil": 109
     }
   ],
-  "generatedAt": "2026-08-09T11:51:06.240Z"
+  "generatedAt": "2026-08-09T13:26:51.604Z"
 }
