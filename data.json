@@ -1,11 +1,11 @@
 {
-  "date": "August 9, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "August 10, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "calb-aihub added to PyPI",
-      "description": "CALB AIHub — QwenPaw fork with LDAP-only web auth and admin-controlled login allowlist.",
-      "url": "https://pypi.org/project/calb-aihub/"
+      "title": "The AI Apocalypse Is Here",
+      "description": "Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/\nComments URL: https://news.ycombinator.com/item?id=49227521\nPoints: 6\n# Comments: 0",
+      "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/"
     }
   ],
   "miamiNews": [
@@ -37,35 +37,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "80-89",
-    "condition": "Partly Cloudy ",
+    "temp_range": "80-95",
+    "condition": "Sunny",
     "wind": "13 mph",
-    "humidity": "73%",
-    "chance_rain": "13%"
+    "humidity": "80%",
+    "chance_rain": "17%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 23
+      "daysUntil": 22
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 38
+      "daysUntil": 37
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 109
+      "daysUntil": 108
     }
   ],
-  "generatedAt": "2026-08-09T13:26:51.604Z"
+  "generatedAt": "2026-08-10T12:04:55.207Z"
 }
