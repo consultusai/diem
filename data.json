@@ -1,11 +1,21 @@
 {
-  "date": "August 10, 2026",
-  "dayOfWeek": "Monday",
+  "date": "August 11, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "The AI Apocalypse Is Here",
-      "description": "Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/\nComments URL: https://news.ycombinator.com/item?id=49227521\nPoints: 6\n# Comments: 0",
-      "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/"
+      "title": "Automate SageMaker HyperPod incident triage and root-cause-analysis with AWS DevOps Agent",
+      "description": "Introduction Large-scale machine learning workloads: training, fine-tuning, and inference run on clusters of hundreds to thousands of GPU instances for days or weeks at a stretch. Keeping operational visibility across a fleet of this size is a constant challe…",
+      "url": "https://aws.amazon.com/blogs/devops/automate-sagemaker-hyperpod-incident-triage-and-root-cause-analysis-with-aws-devops-agent/"
+    },
+    {
+      "title": "Decisions without deciders: authority at machine speed in the space enterprise",
+      "description": "Space activities increasingly rely on automation and AI to make decisions faster than humans. Bharath Gopalaswamy and Daniel Dant describe how this creates challenges for determining what decisions get made and how.",
+      "url": "https://www.thespacereview.com/article/5284/1"
+    },
+    {
+      "title": "Why tech vendors are key to solving AI's adoption problem",
+      "description": "Companies who succeed with AI adoption will be the one hiring technology vendors. They are the ones who live between the technology and the profession, translating AI capability into trusted, scalable business outcomes.",
+      "url": "https://www.techradar.com/pro/why-tech-vendors-are-key-to-solving-ais-adoption-problem"
     }
   ],
   "miamiNews": [
@@ -16,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -37,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "80-95",
+    "temp_range": "80-90",
     "condition": "Sunny",
-    "wind": "14 mph",
-    "humidity": "74%",
-    "chance_rain": "17%"
+    "wind": "10 mph",
+    "humidity": "81%",
+    "chance_rain": "9%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 22
+      "daysUntil": 21
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 37
+      "daysUntil": 36
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 108
+      "daysUntil": 107
     }
   ],
-  "generatedAt": "2026-08-10T13:50:22.713Z"
+  "generatedAt": "2026-08-11T12:02:38.651Z"
 }
