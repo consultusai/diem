@@ -1,21 +1,21 @@
 {
-  "date": "August 11, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "August 12, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Automate SageMaker HyperPod incident triage and root-cause-analysis with AWS DevOps Agent",
-      "description": "Introduction Large-scale machine learning workloads: training, fine-tuning, and inference run on clusters of hundreds to thousands of GPU instances for days or weeks at a stretch. Keeping operational visibility across a fleet of this size is a constant challe…",
-      "url": "https://aws.amazon.com/blogs/devops/automate-sagemaker-hyperpod-incident-triage-and-root-cause-analysis-with-aws-devops-agent/"
+      "title": "How AI is transforming frontend engineering for modern web applications",
+      "description": "Artificial intelligence has rapidly become a core part of software development, but its biggest impact may not be replacing developers, it may be redefining what developers spend their time doing. For frontend engineers, AI is shifting the focus from repetiti…",
+      "url": "https://thenextweb.com/news/ai-transforming-frontend-engineering-web"
     },
     {
-      "title": "Decisions without deciders: authority at machine speed in the space enterprise",
-      "description": "Space activities increasingly rely on automation and AI to make decisions faster than humans. Bharath Gopalaswamy and Daniel Dant describe how this creates challenges for determining what decisions get made and how.",
-      "url": "https://www.thespacereview.com/article/5284/1"
+      "title": "Chandigarh University Students' 'Green Heart' Wins NASSCOM's Best Startup Award, Bags ₹5 Lakh Grant to Transform Farming with AI, Satellites & IoT",
+      "description": "Chandigarh University Students' 'Green Heart' Wins NASSCOM's Best Startup Award, Bags ₹5 Lakh Grant to Transform Farming with AI, Satellites & IoT",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/chandigarh-university-students-green-heart-wins-nasscoms-best-startup-award-bags-5-lakh-grant-to-transform-farming-with-ai-satellites-iot/article71332276.ece"
     },
     {
-      "title": "Why tech vendors are key to solving AI's adoption problem",
-      "description": "Companies who succeed with AI adoption will be the one hiring technology vendors. They are the ones who live between the technology and the profession, translating AI capability into trusted, scalable business outcomes.",
-      "url": "https://www.techradar.com/pro/why-tech-vendors-are-key-to-solving-ais-adoption-problem"
+      "title": "Singapore’s AI boom challenges the hype myth",
+      "description": "Singapore has raised its 2026 GDP growth forecast to 4.5%–5.5%, up sharply from the previous 2%–4% range. The upgrade offers further evidence that artificial intelligence is not merely an overhyped technology with little real-world economic impact.\nSource",
+      "url": "https://4sysops.com/archives/singapores-ai-boom-challenges-the-hype-myth/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "80-90",
-    "condition": "Partly Cloudy ",
-    "wind": "10 mph",
-    "humidity": "78%",
+    "temp_range": "79-92",
+    "condition": "Sunny",
+    "wind": "2 mph",
+    "humidity": "86%",
     "chance_rain": "9%"
   },
   "celebration": null,
@@ -64,18 +64,18 @@
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 21
+      "daysUntil": 20
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 36
+      "daysUntil": 35
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 107
+      "daysUntil": 106
     }
   ],
-  "generatedAt": "2026-08-11T13:48:40.600Z"
+  "generatedAt": "2026-08-12T12:04:06.404Z"
 }
