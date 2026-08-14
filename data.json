@@ -1,21 +1,21 @@
 {
-  "date": "August 13, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "August 14, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "IBM inks $240M infrastructure deal with AI-optimized cloud operator Together AI",
-      "description": "IBM Corp. will provide infrastructure to artificial intelligence startup Together AI Inc. as part of a $240 million deal announced today. The partnership comes a few weeks after the latter company raised $800 million in funding. The consortium that provided t…",
-      "url": "https://siliconangle.com/2026/08/11/ibm-inks-240m-infrastructure-deal-ai-optimized-cloud-operator-together-ai/"
+      "title": "Where Agents Belong in Enterprise Testing: What I Took Away from UiPath Test Cloud",
+      "description": "Introduction During a recent UiPath Test Cloud showcase with Tech Field Day, I had a chance to look past the usual “AI can automate testing” message and think about how agents might fit into a real enterprise delivery process. As a Cloud Solutions Architect w…",
+      "url": "https://devops.com/where-agents-belong-in-enterprise-testing-what-i-took-away-from-uipath-test-cloud/"
     },
     {
-      "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
-      "description": "Learn how OneAdvanced, a UK enterprise software provider, built a UK-sovereign AI platform by self-hosting Llama 4 Maverick and Llama Guard 4 on Amazon SageMaker AI, with a RAG pipeline on pgvector and over 50 agents built with Strands Agents SDK on Amazon EC…",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/"
+      "title": "What is metal to agents? Navigating the architecture of enterprise AI",
+      "description": "Enterprise AI has reached a critical turning point as organizations move from isolated, chat-based experimentation to complex reasoning models and autonomous agents. While the productivity gains are real, underlying infrastructure costs are escalating rapidly…",
+      "url": "https://www.redhat.com/en/blog/what-metal-agents-navigating-architecture-enterprise-ai"
     },
     {
-      "title": "Article: InfoQ Cloud and DevOps Trends Report - 2026",
-      "description": "InfoQ editorial staff and friends of InfoQ are discussing the current trends in the domain of Cloud and DevOps as part of the process of creating our annual 2026 trends report. By Steef-Jan Wiggers, Matt Saunders, Shweta Vohra, Daniel Bryant, Mark Silvester",
-      "url": "https://www.infoq.com/articles/cloud-devops-trends-2026/"
+      "title": "News",
+      "description": "AI is making software cheaper to build and easier to replace. Could disposable, generated apps reshape SaaS and the future of software?",
+      "url": "https://hackernoon.com/saas-is-dead-why-software-is-becoming-disposable"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "76-92",
+    "temp_range": "80-94",
     "condition": "Sunny",
-    "wind": "6 mph",
-    "humidity": "81%",
-    "chance_rain": "12%"
+    "wind": "10 mph",
+    "humidity": "83%",
+    "chance_rain": "9%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 19
+      "daysUntil": 18
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 34
+      "daysUntil": 33
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 105
+      "daysUntil": 104
     }
   ],
-  "generatedAt": "2026-08-13T13:53:32.087Z"
+  "generatedAt": "2026-08-14T12:02:41.113Z"
 }
