@@ -1,21 +1,21 @@
 {
-  "date": "August 14, 2026",
-  "dayOfWeek": "Friday",
+  "date": "August 15, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "Generative AI in the Real World: AI for Real Estate with Ben Miller",
-      "description": "A typical apartment building generates data on everything from leaking toilet flappers to tenant demographics, yet most of the real estate industry still runs its analysis by hand in spreadsheets. Fundrise co-founder and RealAI CEO Ben Miller argues the missi…",
-      "url": "https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-ai-for-real-estate-with-ben-miller/"
+      "title": "Sr. Artificial Intelligence & Machine Learning Developer",
+      "description": "Summary Welcome to Ryerson, where exceptional career opportunities await. As a leading provider of industrial and OEM metal products and services since 1842, we are committed to excellence and best-in-class customer service. Join our team and be a part of a l…",
+      "url": "https://nlppeople.com/job/sr-artificial-intelligence-machine-learning-developer/"
     },
     {
-      "title": "Where Agents Belong in Enterprise Testing: What I Took Away from UiPath Test Cloud",
-      "description": "Introduction During a recent UiPath Test Cloud showcase with Tech Field Day, I had a chance to look past the usual “AI can automate testing” message and think about how agents might fit into a real enterprise delivery process. As a Cloud Solutions Architect w…",
-      "url": "https://devops.com/where-agents-belong-in-enterprise-testing-what-i-took-away-from-uipath-test-cloud/"
+      "title": "Novel macOS Infostealer AmnesiaStealer Spread via ClickFix",
+      "description": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data",
+      "url": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/"
     },
     {
-      "title": "What is metal to agents? Navigating the architecture of enterprise AI",
-      "description": "Enterprise AI has reached a critical turning point as organizations move from isolated, chat-based experimentation to complex reasoning models and autonomous agents. While the productivity gains are real, underlying infrastructure costs are escalating rapidly…",
-      "url": "https://www.redhat.com/en/blog/what-metal-agents-navigating-architecture-enterprise-ai"
+      "title": "Benchmarking .NET 11 NativeAOT CLI Startup and Memory Usage",
+      "description": "Benchmark .NET 11 NativeAOT command-line applications against JIT deployments to compare startup time, memory consumption, execution performance, and deployment characteristics.",
+      "url": "https://www.c-sharpcorner.com/article/benchmarking-net-11-nativeaot-cli-startup-and-memory-usage/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -53,29 +53,29 @@
     "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "80-94",
-    "condition": "Sunny",
-    "wind": "9 mph",
-    "humidity": "75%",
-    "chance_rain": "9%"
+    "temp_range": "80-91",
+    "condition": "Partly Cloudy ",
+    "wind": "15 mph",
+    "humidity": "82%",
+    "chance_rain": "26%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 18
+      "daysUntil": 17
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 33
+      "daysUntil": 32
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 104
+      "daysUntil": 103
     }
   ],
-  "generatedAt": "2026-08-14T13:49:16.638Z"
+  "generatedAt": "2026-08-15T11:39:46.703Z"
 }
