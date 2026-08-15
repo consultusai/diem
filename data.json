@@ -3,6 +3,11 @@
   "dayOfWeek": "Saturday",
   "usNews": [
     {
+      "title": "AI-Powered Marketing Automation: The Unseen Security Perimeter And API Exploitation Vectors In Third-Party Integration + Video - Undercode Testing",
+      "description": "AI-Powered Marketing Automation: The Unseen Security Perimeter And API Exploitation Vectors In Third-Party Integration + Video - Undercode Testingundercodetesting.com",
+      "url": "https://undercodetesting.com/ai-powered-marketing-automation-the-unseen-security-perimeter-and-api-exploitation-vectors-in-third-party-integration-video/"
+    },
+    {
       "title": "Sr. Artificial Intelligence & Machine Learning Developer",
       "description": "Summary Welcome to Ryerson, where exceptional career opportunities await. As a leading provider of industrial and OEM metal products and services since 1842, we are committed to excellence and best-in-class customer service. Join our team and be a part of a l…",
       "url": "https://nlppeople.com/job/sr-artificial-intelligence-machine-learning-developer/"
@@ -11,11 +16,6 @@
       "title": "Novel macOS Infostealer AmnesiaStealer Spread via ClickFix",
       "description": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data",
       "url": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/"
-    },
-    {
-      "title": "Benchmarking .NET 11 NativeAOT CLI Startup and Memory Usage",
-      "description": "Benchmark .NET 11 NativeAOT command-line applications against JIT deployments to compare startup time, memory consumption, execution performance, and deployment characteristics.",
-      "url": "https://www.c-sharpcorner.com/article/benchmarking-net-11-nativeaot-cli-startup-and-memory-usage/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
     "temp_range": "80-91",
-    "condition": "Partly Cloudy ",
-    "wind": "15 mph",
-    "humidity": "82%",
+    "condition": "Sunny",
+    "wind": "13 mph",
+    "humidity": "79%",
     "chance_rain": "26%"
   },
   "celebration": null,
@@ -77,5 +77,5 @@
       "daysUntil": 103
     }
   ],
-  "generatedAt": "2026-08-15T11:39:46.703Z"
+  "generatedAt": "2026-08-15T13:04:03.927Z"
 }
