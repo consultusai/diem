@@ -1,21 +1,11 @@
 {
-  "date": "August 15, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "August 16, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "AI-Powered Marketing Automation: The Unseen Security Perimeter And API Exploitation Vectors In Third-Party Integration + Video - Undercode Testing",
-      "description": "AI-Powered Marketing Automation: The Unseen Security Perimeter And API Exploitation Vectors In Third-Party Integration + Video - Undercode Testingundercodetesting.com",
-      "url": "https://undercodetesting.com/ai-powered-marketing-automation-the-unseen-security-perimeter-and-api-exploitation-vectors-in-third-party-integration-video/"
-    },
-    {
-      "title": "Sr. Artificial Intelligence & Machine Learning Developer",
-      "description": "Summary Welcome to Ryerson, where exceptional career opportunities await. As a leading provider of industrial and OEM metal products and services since 1842, we are committed to excellence and best-in-class customer service. Join our team and be a part of a l…",
-      "url": "https://nlppeople.com/job/sr-artificial-intelligence-machine-learning-developer/"
-    },
-    {
-      "title": "Novel macOS Infostealer AmnesiaStealer Spread via ClickFix",
-      "description": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data",
-      "url": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/"
+      "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
+      "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
+      "url": "https://www.geeky-gadgets.com/claude-ai-math-record/"
     }
   ],
   "miamiNews": [
@@ -47,35 +37,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "80-91",
-    "condition": "Sunny",
-    "wind": "13 mph",
-    "humidity": "79%",
-    "chance_rain": "26%"
+    "temp_range": "85-88",
+    "condition": "Partly Cloudy ",
+    "wind": "9 mph",
+    "humidity": "70%",
+    "chance_rain": "7%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 17
+      "daysUntil": 16
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 32
+      "daysUntil": 31
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 103
+      "daysUntil": 102
     }
   ],
-  "generatedAt": "2026-08-15T13:04:03.927Z"
+  "generatedAt": "2026-08-16T11:40:13.430Z"
 }
