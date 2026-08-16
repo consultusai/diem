@@ -16,8 +16,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -37,14 +37,14 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
     "temp_range": "85-88",
-    "condition": "Partly Cloudy ",
+    "condition": "Cloudy ",
     "wind": "9 mph",
     "humidity": "70%",
     "chance_rain": "7%"
@@ -67,5 +67,5 @@
       "daysUntil": 102
     }
   ],
-  "generatedAt": "2026-08-16T11:40:13.430Z"
+  "generatedAt": "2026-08-16T13:05:31.718Z"
 }
