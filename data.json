@@ -1,11 +1,11 @@
 {
-  "date": "August 16, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "August 17, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
-      "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
-      "url": "https://www.geeky-gadgets.com/claude-ai-math-record/"
+      "title": "Data governance culture gives companies competitive edge — Taxtech boss",
+      "description": "Discover how a strong data governance culture, powered by advanced fintech, gives Nigerian companies a competitive edge in tax and compliance, according to\n\nRead More: https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/",
+      "url": "https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/"
     }
   ],
   "miamiNews": [
@@ -16,8 +16,8 @@
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -37,35 +37,35 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "85-88",
-    "condition": "Cloudy ",
-    "wind": "9 mph",
-    "humidity": "70%",
-    "chance_rain": "7%"
+    "temp_range": "58-96",
+    "condition": "Clear ",
+    "wind": "27 mph",
+    "humidity": "79%",
+    "chance_rain": "9%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 16
+      "daysUntil": 15
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 31
+      "daysUntil": 30
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 102
+      "daysUntil": 101
     }
   ],
-  "generatedAt": "2026-08-16T13:05:31.718Z"
+  "generatedAt": "2026-08-17T11:45:56.519Z"
 }
