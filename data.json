@@ -13,9 +13,9 @@
       "url": "https://nlppeople.com/job/senior-recruiter-ai-engineering/"
     },
     {
-      "title": "Windows 11’s strongest security defenses can be bypassed without a screwdriver",
-      "description": "Researchers from the University of Birmingham and Durham University have found a way to knock down some of the toughest protections in Windows 11 without physically opening or modifying the target machine. The attack assumes the attacker has already gained pr…",
-      "url": "https://www.helpnetsecurity.com/2026/08/17/windows-11-security-bypass-research/"
+      "title": "The AI Dilemma’s Innovator: Why AI Makes You Faster While Still Falling Behind",
+      "description": "Every company is now asking some version of the same question…how do we use AI to become more efficient? It’s the right question. But it’s not the only question. If we use AI only to automate existing processes, reduce costs, and accelerate yesterday’s work, …",
+      "url": "https://briansolis.com/2026/08/the-ai-dilemmas-innovator-why-ai-makes-you-faster-while-still-falling-behind/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,15 +47,15 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
     "temp_range": "78-97",
-    "condition": "Clear ",
-    "wind": "9 mph",
+    "condition": "Sunny",
+    "wind": "8 mph",
     "humidity": "92%",
     "chance_rain": "7%"
   },
@@ -77,5 +77,5 @@
       "daysUntil": 100
     }
   ],
-  "generatedAt": "2026-08-18T11:46:05.708Z"
+  "generatedAt": "2026-08-18T13:14:04.444Z"
 }
