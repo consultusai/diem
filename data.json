@@ -1,11 +1,21 @@
 {
-  "date": "August 17, 2026",
-  "dayOfWeek": "Monday",
+  "date": "August 18, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Data governance culture gives companies competitive edge — Taxtech boss",
-      "description": "Discover how a strong data governance culture, powered by advanced fintech, gives Nigerian companies a competitive edge in tax and compliance, according to\n\nRead More: https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/",
-      "url": "https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/"
+      "title": "Benchmarking NativeAOT CLI Tools Against JIT-Based .NET Apps",
+      "description": "Benchmark NativeAOT CLI tools against JIT-based .NET applications to compare startup time, memory usage, execution speed, binary size, and overall runtime performance.",
+      "url": "https://www.c-sharpcorner.com/article/benchmarking-nativeaot-cli-tools-against-jit-based-net-apps/"
+    },
+    {
+      "title": "Senior Recruiter (AI & Engineering)",
+      "description": "We’re looking for a Senior Technical Recruiter, AI & Engineering to help build the teams behind our AI-powered platform. This is a high-impact, individual-contributor recruiting role for someone who thrives on owning complex technical searches end to end and …",
+      "url": "https://nlppeople.com/job/senior-recruiter-ai-engineering/"
+    },
+    {
+      "title": "Windows 11’s strongest security defenses can be bypassed without a screwdriver",
+      "description": "Researchers from the University of Birmingham and Durham University have found a way to knock down some of the toughest protections in Windows 11 without physically opening or modifying the target machine. The attack assumes the attacker has already gained pr…",
+      "url": "https://www.helpnetsecurity.com/2026/08/17/windows-11-security-bypass-research/"
     }
   ],
   "miamiNews": [
@@ -16,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -37,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "58-96",
-    "condition": "Sunny",
-    "wind": "27 mph",
-    "humidity": "85%",
-    "chance_rain": "9%"
+    "temp_range": "78-97",
+    "condition": "Clear ",
+    "wind": "9 mph",
+    "humidity": "92%",
+    "chance_rain": "7%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 15
+      "daysUntil": 14
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 30
+      "daysUntil": 29
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 101
+      "daysUntil": 100
     }
   ],
-  "generatedAt": "2026-08-17T13:11:51.770Z"
+  "generatedAt": "2026-08-18T11:46:05.708Z"
 }
