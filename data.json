@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,15 +47,15 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
     "temp_range": "79-98",
-    "condition": "Clear ",
-    "wind": "11 mph",
+    "condition": "Sunny",
+    "wind": "10 mph",
     "humidity": "92%",
     "chance_rain": "12%"
   },
@@ -77,5 +77,5 @@
       "daysUntil": 99
     }
   ],
-  "generatedAt": "2026-08-19T11:45:22.032Z"
+  "generatedAt": "2026-08-19T13:16:51.597Z"
 }
