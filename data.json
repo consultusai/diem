@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
     "temp_range": "78-92",
     "condition": "Overcast ",
-    "wind": "9 mph",
-    "humidity": "83%",
+    "wind": "8 mph",
+    "humidity": "84%",
     "chance_rain": "14%"
   },
   "celebration": null,
@@ -77,5 +77,5 @@
       "daysUntil": 98
     }
   ],
-  "generatedAt": "2026-08-20T11:47:54.280Z"
+  "generatedAt": "2026-08-20T13:22:53.702Z"
 }
