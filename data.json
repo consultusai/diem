@@ -1,33 +1,33 @@
 {
-  "date": "August 19, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "August 20, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Gain.Energy Launches Upstrima: The Industry’s Premier AI Marketplace for Automated Oil & Gas Engineering",
-      "description": "HOUSTON — Gain.Energy today announced the launch of Upstrima, a specialized AI platform built for the oil and gas industry. Upstrima brings together AI Agents, AI Workflows, intelligent data processing, and engineering expertise to automate complex technical …",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/gain-energy-launches-upstrima-the-industrys-premier-ai-marketplace-for-automated-oil-gas-engineering"
+      "title": "TELUS Digital Named a Leader in the 2026 NelsonHall NEAT Evaluation for AI Enablement Services",
+      "description": "TELUS Digital recognized as a Leader in AI Enablement and AI Training, with capabilities in physical AI and robotics data cited as a key strength VANCOUVER, BC, Aug. 19, 2026 /PRNewswire/ -- TELUS Digital, a global technology service provider specializing in …",
+      "url": "https://www.prnewswire.com/news-releases/telus-digital-named-a-leader-in-the-2026-nelsonhall-neat-evaluation-for-ai-enablement-services-302854304.html"
     },
     {
-      "title": "Chandigarh University Student builds AI-Powered Startup 'Fovea Infotech'; Crosses Rs 50 Lakh Turnover in Less Than a Year of Operations",
-      "description": "Chandigarh University Student builds AI-Powered Startup 'Fovea Infotech'; Crosses Rs 50 Lakh Turnover in Less Than a Year of Operations",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/chandigarh-university-student-builds-ai-powered-startup-fovea-infotech-crosses-rs-50-lakh-turnover-in-less-than-a-year-of-operations/article71359505.ece"
+      "title": "I left my $250,000 Meta job to coach startup founders. I work fewer hours, have less stress, and still make a good living.",
+      "description": "Jason Shen joined Meta after his startup's team was brought in. Three years later, he left a high-paying role and unvested stock to coach founders.",
+      "url": "https://www.businessinsider.com/left-250000-meta-job-unvested-rsus-coach-founders-2026-8#article"
     },
     {
-      "title": "Beyond Venture Capital: Why family offices are becoming AI’s most influential investors",
-      "description": "Over the past 12 months, I have become increasingly convinced that one of the most underappreciated shifts in the artificial intelligence ecosystem is financial. While much of the market remains focused on OpenAI, Anthropic, Nvidia and the latest model releas…",
-      "url": "https://thenextweb.com/news/family-offices-ai-investment"
+      "title": "Best MCP Servers for Business Sales and Marketing",
+      "description": "Sales and marketing teams are moving from “AI as a writing assistant” to AI as an operational teammate. That shift is where MCP servers matter. The Model",
+      "url": "https://enstinemuki.com/best-mcp-servers-for-business-sales-and-marketing/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Cash Buyers Pull Back Faster Than Housing Market as Cash Sales Fade, Realtor.com® Report Finds",
-      "description": "Cash purchases accounted for 31.4% of home sales in early 2026, as easing prices, improving inventory and a more balanced market allowed more financed buyers to return AUSTIN, Texas, Aug. 18, 2026 /PRNewswire/ -- Cash buyers are beginning to lose some of the …",
-      "url": "https://www.prnewswire.com/news-releases/cash-buyers-pull-back-faster-than-housing-market-as-cash-sales-fade-realtorcom-report-finds-302853195.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -53,29 +53,29 @@
     "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "79-98",
-    "condition": "Sunny",
-    "wind": "10 mph",
-    "humidity": "92%",
-    "chance_rain": "12%"
+    "temp_range": "78-92",
+    "condition": "Overcast ",
+    "wind": "9 mph",
+    "humidity": "83%",
+    "chance_rain": "14%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 13
+      "daysUntil": 12
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 28
+      "daysUntil": 27
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 99
+      "daysUntil": 98
     }
   ],
-  "generatedAt": "2026-08-19T13:16:51.597Z"
+  "generatedAt": "2026-08-20T11:47:54.280Z"
 }
