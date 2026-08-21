@@ -1,21 +1,21 @@
 {
-  "date": "August 20, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "August 21, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "TELUS Digital Named a Leader in the 2026 NelsonHall NEAT Evaluation for AI Enablement Services",
-      "description": "TELUS Digital recognized as a Leader in AI Enablement and AI Training, with capabilities in physical AI and robotics data cited as a key strength VANCOUVER, BC, Aug. 19, 2026 /PRNewswire/ -- TELUS Digital, a global technology service provider specializing in …",
-      "url": "https://www.prnewswire.com/news-releases/telus-digital-named-a-leader-in-the-2026-nelsonhall-neat-evaluation-for-ai-enablement-services-302854304.html"
+      "title": "How to Avoid Repeating the “Automate Everything” Mistake Due to AI FOMO",
+      "description": "The DevOps community has already experienced technological extremes. You might recall the time when automation was thought of as a panacea for all possible engineering issues, and the slogan “Automate Everything” was ringing out everywhere. Over time, the ind…",
+      "url": "https://devops.com/how-to-avoid-repeating-the-automate-everything-mistake-due-to-ai-fomo/"
     },
     {
-      "title": "I left my $250,000 Meta job to coach startup founders. I work fewer hours, have less stress, and still make a good living.",
-      "description": "Jason Shen joined Meta after his startup's team was brought in. Three years later, he left a high-paying role and unvested stock to coach founders.",
-      "url": "https://www.businessinsider.com/left-250000-meta-job-unvested-rsus-coach-founders-2026-8#article"
+      "title": "IBM Storage Scale Container Native: Implementation Guide for Kubernetes and Red Hat OpenShift",
+      "description": "This IBM Redbooks publication provides comprehensive technical guidance for deploying and operating IBM Storage Scale Container Native in Kubernetes and Red Hat OpenShift environments. The document covers IBM Storage Scale Container Native architectural princ…",
+      "url": "https://www.redbooks.ibm.com/docs/MD260016/MD260016.html"
     },
     {
-      "title": "Best MCP Servers for Business Sales and Marketing",
-      "description": "Sales and marketing teams are moving from “AI as a writing assistant” to AI as an operational teammate. That shift is where MCP servers matter. The Model",
-      "url": "https://enstinemuki.com/best-mcp-servers-for-business-sales-and-marketing/"
+      "title": "ICS Operators Warned of AI-Driven Attacks on Siemens PLCs",
+      "description": "A US government advisory warned that attackers are deploying AI-generated exploitation scripts against exposed Siemens S7 Series PLCs",
+      "url": "https://www.infosecurity-magazine.com/news/ics-ai-attacks-siemens/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "78-92",
-    "condition": "Overcast ",
-    "wind": "8 mph",
-    "humidity": "84%",
-    "chance_rain": "14%"
+    "temp_range": "80-89",
+    "condition": "Cloudy ",
+    "wind": "11 mph",
+    "humidity": "76%",
+    "chance_rain": "24%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 12
+      "daysUntil": 11
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 27
+      "daysUntil": 26
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 98
+      "daysUntil": 97
     }
   ],
-  "generatedAt": "2026-08-20T13:22:53.702Z"
+  "generatedAt": "2026-08-21T11:47:58.120Z"
 }
