@@ -1,33 +1,33 @@
 {
-  "date": "August 21, 2026",
-  "dayOfWeek": "Friday",
+  "date": "August 22, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "How to Avoid Repeating the “Automate Everything” Mistake Due to AI FOMO",
-      "description": "The DevOps community has already experienced technological extremes. You might recall the time when automation was thought of as a panacea for all possible engineering issues, and the slogan “Automate Everything” was ringing out everywhere. Over time, the ind…",
-      "url": "https://devops.com/how-to-avoid-repeating-the-automate-everything-mistake-due-to-ai-fomo/"
+      "title": "Waterfall 2.0: Controlling LLM-Driven Software Development with Stage-Gated Discipline",
+      "description": "Waterfall 2.0 reimagines classic stage-gated software development for the LLM era, combining fast AI generation with structured validation, cheap backtracking and a shared knowledge corpus.",
+      "url": "https://devops.com/waterfall-2-0-controlling-llm-driven-software-development-with-stage-gated-discipline/"
     },
     {
-      "title": "IBM Storage Scale Container Native: Implementation Guide for Kubernetes and Red Hat OpenShift",
-      "description": "This IBM Redbooks publication provides comprehensive technical guidance for deploying and operating IBM Storage Scale Container Native in Kubernetes and Red Hat OpenShift environments. The document covers IBM Storage Scale Container Native architectural princ…",
-      "url": "https://www.redbooks.ibm.com/docs/MD260016/MD260016.html"
+      "title": "Is Salesforce Headless 360 Built for the Agentic Era?",
+      "description": "Salesforce Headless 360 exposes customer data through APIs instead of Salesforce-only interfaces.\nContinue reading...",
+      "url": "https://www.cmswire.com/digital-experience/is-salesforce-headless-360-built-for-the-agentic-era/"
     },
     {
-      "title": "Building a VMS With ChatGPT vs. Buying an AI-Powered Enterprise VMS",
-      "description": "Should you build a VMS with ChatGPT or buy an AI-powered enterprise VMS? Explore the key differences in development, costs, security, compliance, integrations, AI governance, scalability, and long-term maintenance.",
-      "url": "https://www.c-sharpcorner.com/article/building-a-vms-with-chatgpt-vs-buying-an-ai-powered-enterprise-vms/"
+      "title": "C++ AI/ML Software Engineer",
+      "description": "C++ AI/ML Software Engineer Description – C++ AI/ML Software Engineer- HP Wolf Security HP Wolf Security is changing the future of endpoint security through delivering secure PCs with advanced hardware-enforced security features. As AI becomes increasingly im…",
+      "url": "https://nlppeople.com/job/c-ai-ml-software-engineer-3/"
     }
   ],
   "miamiNews": [
     {
-      "title": "NFL Star Robert Smith to Headline JumpStart VC Fest, Joining National Speaker Lineup as Startups and Venture Leaders Converge on Cleveland",
-      "description": "Speakers from Cleveland to Palo Alto join founders, investors and corporate leaders September 29–30 for panels, showcases and curated matchmaking. CLEVELAND, Aug. 20, 2026 /PRNewswire/ -- JumpStart Inc., a nonprofit on a mission to drive economic vitality by …",
-      "url": "https://www.prnewswire.com/news-releases/nfl-star-robert-smith-to-headline-jumpstart-vc-fest-joining-national-speaker-lineup-as-startups-and-venture-leaders-converge-on-cleveland-302855774.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "80-89",
-    "condition": "Sunny",
-    "wind": "10 mph",
-    "humidity": "79%",
-    "chance_rain": "24%"
+    "temp_range": "78-92",
+    "condition": "Clear ",
+    "wind": "3 mph",
+    "humidity": "91%",
+    "chance_rain": "22%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 11
+      "daysUntil": 10
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 26
+      "daysUntil": 25
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 97
+      "daysUntil": 96
     }
   ],
-  "generatedAt": "2026-08-21T13:22:37.399Z"
+  "generatedAt": "2026-08-22T11:40:49.877Z"
 }
