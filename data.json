@@ -3,14 +3,19 @@
   "dayOfWeek": "Sunday",
   "usNews": [
     {
+      "title": "‘Location is the obvious way to connect data’: I spoke to Ordnance Survey CEO Nick Bolton on the challenges of turning a 225-year-old institution into an AI powerhouse",
+      "description": "As it celebrates its 225th birthday, the Ordnance Survey is becoming an AI superpower.",
+      "url": "https://www.techradar.com/pro/location-is-the-obvious-way-to-connect-data-i-spoke-to-ordnance-survey-ceo-nick-bolton-on-the-challenges-of-turning-a-225-year-old-institution-into-an-ai-powerhouse"
+    },
+    {
       "title": "UCP needs VRM",
       "description": "In Microsoft Advertising’s Agentic Playbook, Laurie Sullivan of MediaPost looks into Microsoft’s “agentic commerce blueprint to guide businesses, retailers, and developers when AI agents make purchases on behalf of humans.” Meaning agents are out there shoppi…",
       "url": "https://projectvrm.org/2026/08/22/ucp-needs-vrm/"
     },
     {
-      "title": "training-security-awareness",
-      "description": "Open-source interactive security awareness training library with 130+ SCORM exercises covering phishing, vishing, BEC, MFA fatigue, and OWASP AI/LLM scenarios for LMS deployment.",
-      "url": "https://kitploit.com/en/tools/github/ransomleak/training-security-awareness/"
+      "title": "Pigeon’s AI Growth Hacking Blueprint: Automating Scale And Securing The Unscalable + Video - Undercode Testing",
+      "description": "Pigeon’s AI Growth Hacking Blueprint: Automating Scale and Securing the Unscalable + Video - \"Undercode Testing\": Monitor hackers like a pro. Get real-time",
+      "url": "https://undercodetesting.com/pigeons-ai-growth-hacking-blueprint-automating-scale-and-securing-the-unscalable-video/"
     }
   ],
   "miamiNews": [
@@ -21,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -42,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
     "temp_range": "77-91",
-    "condition": "Partly Cloudy ",
-    "wind": "6 mph",
-    "humidity": "90%",
+    "condition": "Sunny",
+    "wind": "7 mph",
+    "humidity": "87%",
     "chance_rain": "8%"
   },
   "celebration": null,
@@ -72,5 +77,5 @@
       "daysUntil": 95
     }
   ],
-  "generatedAt": "2026-08-23T11:40:44.906Z"
+  "generatedAt": "2026-08-23T13:06:44.302Z"
 }
