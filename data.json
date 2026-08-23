@@ -1,21 +1,16 @@
 {
-  "date": "August 22, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "August 23, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Waterfall 2.0: Controlling LLM-Driven Software Development with Stage-Gated Discipline",
-      "description": "Waterfall 2.0 reimagines classic stage-gated software development for the LLM era, combining fast AI generation with structured validation, cheap backtracking and a shared knowledge corpus.",
-      "url": "https://devops.com/waterfall-2-0-controlling-llm-driven-software-development-with-stage-gated-discipline/"
+      "title": "UCP needs VRM",
+      "description": "In Microsoft Advertising’s Agentic Playbook, Laurie Sullivan of MediaPost looks into Microsoft’s “agentic commerce blueprint to guide businesses, retailers, and developers when AI agents make purchases on behalf of humans.” Meaning agents are out there shoppi…",
+      "url": "https://projectvrm.org/2026/08/22/ucp-needs-vrm/"
     },
     {
-      "title": "Is Salesforce Headless 360 Built for the Agentic Era?",
-      "description": "Salesforce Headless 360 exposes customer data through APIs instead of Salesforce-only interfaces.\nContinue reading...",
-      "url": "https://www.cmswire.com/digital-experience/is-salesforce-headless-360-built-for-the-agentic-era/"
-    },
-    {
-      "title": "C++ AI/ML Software Engineer",
-      "description": "C++ AI/ML Software Engineer Description – C++ AI/ML Software Engineer- HP Wolf Security HP Wolf Security is changing the future of endpoint security through delivering secure PCs with advanced hardware-enforced security features. As AI becomes increasingly im…",
-      "url": "https://nlppeople.com/job/c-ai-ml-software-engineer-3/"
+      "title": "training-security-awareness",
+      "description": "Open-source interactive security awareness training library with 130+ SCORM exercises covering phishing, vishing, BEC, MFA fatigue, and OWASP AI/LLM scenarios for LMS deployment.",
+      "url": "https://kitploit.com/en/tools/github/ransomleak/training-security-awareness/"
     }
   ],
   "miamiNews": [
@@ -53,29 +48,29 @@
     "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "78-92",
-    "condition": "Sunny",
-    "wind": "2 mph",
-    "humidity": "91%",
-    "chance_rain": "22%"
+    "temp_range": "77-91",
+    "condition": "Partly Cloudy ",
+    "wind": "6 mph",
+    "humidity": "90%",
+    "chance_rain": "8%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 10
+      "daysUntil": 9
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 25
+      "daysUntil": 24
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 96
+      "daysUntil": 95
     }
   ],
-  "generatedAt": "2026-08-22T13:05:42.943Z"
+  "generatedAt": "2026-08-23T11:40:44.906Z"
 }
