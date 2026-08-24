@@ -3,6 +3,11 @@
   "dayOfWeek": "Monday",
   "usNews": [
     {
+      "title": "A hidden “on switch” in human DNA has finally been decoded",
+      "description": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict th…",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm"
+    },
+    {
       "title": "Google Confirms Gemini 4 Replaces Gemini 3.5 Pro Entirely",
       "description": "World of AI has shared an in-depth disclosure on some of the most intriguing developments in artificial intelligence, including leaks about Google’s Gemini 4.0 and the unveiling of DeepSeek V4 Flash Vision. One standout detail is DeepSeek V4’s grayscale testi…",
       "url": "https://www.geeky-gadgets.com/latest-ai-model-news/"
@@ -16,8 +21,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -37,16 +42,16 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
     "temp_range": "76-91",
-    "condition": "Clear ",
+    "condition": "Light drizzle",
     "wind": "5 mph",
-    "humidity": "91%",
+    "humidity": "92%",
     "chance_rain": "28%"
   },
   "celebration": null,
@@ -67,5 +72,5 @@
       "daysUntil": 94
     }
   ],
-  "generatedAt": "2026-08-24T11:49:10.030Z"
+  "generatedAt": "2026-08-24T13:26:34.057Z"
 }
