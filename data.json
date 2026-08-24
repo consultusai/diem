@@ -1,33 +1,23 @@
 {
-  "date": "August 23, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "August 24, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "‘Location is the obvious way to connect data’: I spoke to Ordnance Survey CEO Nick Bolton on the challenges of turning a 225-year-old institution into an AI powerhouse",
-      "description": "As it celebrates its 225th birthday, the Ordnance Survey is becoming an AI superpower.",
-      "url": "https://www.techradar.com/pro/location-is-the-obvious-way-to-connect-data-i-spoke-to-ordnance-survey-ceo-nick-bolton-on-the-challenges-of-turning-a-225-year-old-institution-into-an-ai-powerhouse"
-    },
-    {
-      "title": "UCP needs VRM",
-      "description": "In Microsoft Advertising’s Agentic Playbook, Laurie Sullivan of MediaPost looks into Microsoft’s “agentic commerce blueprint to guide businesses, retailers, and developers when AI agents make purchases on behalf of humans.” Meaning agents are out there shoppi…",
-      "url": "https://projectvrm.org/2026/08/22/ucp-needs-vrm/"
-    },
-    {
-      "title": "Pigeon’s AI Growth Hacking Blueprint: Automating Scale And Securing The Unscalable + Video - Undercode Testing",
-      "description": "Pigeon’s AI Growth Hacking Blueprint: Automating Scale and Securing the Unscalable + Video - \"Undercode Testing\": Monitor hackers like a pro. Get real-time",
-      "url": "https://undercodetesting.com/pigeons-ai-growth-hacking-blueprint-automating-scale-and-securing-the-unscalable-video/"
+      "title": "Google Confirms Gemini 4 Replaces Gemini 3.5 Pro Entirely",
+      "description": "World of AI has shared an in-depth disclosure on some of the most intriguing developments in artificial intelligence, including leaks about Google’s Gemini 4.0 and the unveiling of DeepSeek V4 Flash Vision. One standout detail is DeepSeek V4’s grayscale testi…",
+      "url": "https://www.geeky-gadgets.com/latest-ai-model-news/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Miami Marketing Expert Josue Santos Helps Local Businesses Adopt AI-Driven Growth Strategies",
+      "description": "Miami Marketing Expert Josue Santos Helps Local Businesses Adopt AI-Driven Growth Strategies. With over 20 years of experience and 500+ clients served, Santos combines proven digital marketing with practical AI tools to help South Florida businesses grow onli…",
+      "url": "https://www.prlog.org/13166234-miami-marketing-expert-josue-santos-helps-local-businesses-adopt-ai-driven-growth-strategies.html"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,35 +37,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "77-91",
-    "condition": "Sunny",
-    "wind": "7 mph",
-    "humidity": "87%",
-    "chance_rain": "8%"
+    "temp_range": "76-91",
+    "condition": "Clear ",
+    "wind": "5 mph",
+    "humidity": "91%",
+    "chance_rain": "28%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 9
+      "daysUntil": 8
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 24
+      "daysUntil": 23
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 95
+      "daysUntil": 94
     }
   ],
-  "generatedAt": "2026-08-23T13:06:44.302Z"
+  "generatedAt": "2026-08-24T11:49:10.030Z"
 }
