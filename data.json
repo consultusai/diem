@@ -13,9 +13,9 @@
       "url": "https://www.c-sharpcorner.com/news/hugging-face-a-failed-chatbot-that-is-potentially-worth-13-billion"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Stock markets end lower amid simmering geopolitical tensions, elevated crude oil prices",
-      "description": "Sensex, Nifty, Share Prices Highlights: Benchmark equity indices Sensex and Nifty ended lower on Monday as persistent geopolitical tensions and elevated crude oil prices hampered risk appetite. Investors remained cautious ahead of fresh US sanctions on Iran, …",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-24-august-2026/article71380598.ece"
+      "title": "How Knowledge Management Drives AI’s Context Layer: 5 Industry Examples",
+      "description": "Knowledge management is a key process for developing the AI's context layer. The article explores opportunities and challenges in five industries: healthcare, financial services, construction, manufacturing, and higher ed. Common challenges include change man…",
+      "url": "https://drive.starcio.com/2026/08/knowledge-management-ai-context-layer/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,16 +47,16 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
     "temp_range": "78-92",
-    "condition": "Clear ",
-    "wind": "7 mph",
-    "humidity": "83%",
+    "condition": "Cloudy ",
+    "wind": "8 mph",
+    "humidity": "92%",
     "chance_rain": "12%"
   },
   "celebration": null,
@@ -77,5 +77,5 @@
       "daysUntil": 93
     }
   ],
-  "generatedAt": "2026-08-25T11:49:36.694Z"
+  "generatedAt": "2026-08-25T13:24:05.066Z"
 }
