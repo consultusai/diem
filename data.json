@@ -1,28 +1,33 @@
 {
-  "date": "August 24, 2026",
-  "dayOfWeek": "Monday",
+  "date": "August 25, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "A hidden “on switch” in human DNA has finally been decoded",
-      "description": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict th…",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm"
+      "title": "The ascent of autonomous attacks and the race to contain them",
+      "description": "Autonomous AI attacks are accelerating, forcing businesses to rethink cyber defense, identity and resilience.",
+      "url": "https://www.techradar.com/pro/the-ascent-of-autonomous-attacks-and-the-race-to-contain-them"
     },
     {
-      "title": "Google Confirms Gemini 4 Replaces Gemini 3.5 Pro Entirely",
-      "description": "World of AI has shared an in-depth disclosure on some of the most intriguing developments in artificial intelligence, including leaks about Google’s Gemini 4.0 and the unveiling of DeepSeek V4 Flash Vision. One standout detail is DeepSeek V4’s grayscale testi…",
-      "url": "https://www.geeky-gadgets.com/latest-ai-model-news/"
+      "title": "Hugging Face: A Failed Chatbot That Is Potentially Worth $13 Billion",
+      "description": "Hugging Face reportedly explores a $13 billion sale after transforming from a failed chatbot into one of the world’s largest AI developer communities.",
+      "url": "https://www.c-sharpcorner.com/news/hugging-face-a-failed-chatbot-that-is-potentially-worth-13-billion"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Stock markets end lower amid simmering geopolitical tensions, elevated crude oil prices",
+      "description": "Sensex, Nifty, Share Prices Highlights: Benchmark equity indices Sensex and Nifty ended lower on Monday as persistent geopolitical tensions and elevated crude oil prices hampered risk appetite. Investors remained cautious ahead of fresh US sanctions on Iran, …",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-24-august-2026/article71380598.ece"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami Marketing Expert Josue Santos Helps Local Businesses Adopt AI-Driven Growth Strategies",
-      "description": "Miami Marketing Expert Josue Santos Helps Local Businesses Adopt AI-Driven Growth Strategies. With over 20 years of experience and 500+ clients served, Santos combines proven digital marketing with practical AI tools to help South Florida businesses grow onli…",
-      "url": "https://www.prlog.org/13166234-miami-marketing-expert-josue-santos-helps-local-businesses-adopt-ai-driven-growth-strategies.html"
+      "title": "Podcast Studios Are Transforming Due To Video, Technology, And Creators",
+      "description": "Podcast studios have dramatically evolved from simple home setups to sophisticated, professional environments. This transformation is driven by both video podcasting and advanced audio equipment",
+      "url": "https://www.forbes.com/sites/frankracioppi/2026/08/24/podcast-studios-are-transforming-due-to-video-technology-and-creators/"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -48,29 +53,29 @@
     "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "76-91",
-    "condition": "Light drizzle",
-    "wind": "5 mph",
-    "humidity": "92%",
-    "chance_rain": "28%"
+    "temp_range": "78-92",
+    "condition": "Clear ",
+    "wind": "7 mph",
+    "humidity": "83%",
+    "chance_rain": "12%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 8
+      "daysUntil": 7
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 23
+      "daysUntil": 22
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 94
+      "daysUntil": 93
     }
   ],
-  "generatedAt": "2026-08-24T13:26:34.057Z"
+  "generatedAt": "2026-08-25T11:49:36.694Z"
 }
