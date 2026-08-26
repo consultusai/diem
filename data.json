@@ -1,33 +1,33 @@
 {
-  "date": "August 25, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "August 26, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "The ascent of autonomous attacks and the race to contain them",
-      "description": "Autonomous AI attacks are accelerating, forcing businesses to rethink cyber defense, identity and resilience.",
-      "url": "https://www.techradar.com/pro/the-ascent-of-autonomous-attacks-and-the-race-to-contain-them"
+      "title": "How to Detect Hidden Risks in Third-Party Software",
+      "description": "Learn how enterprises detect hidden third-party software risk across code, dependencies, provenance, architecture, AI code, technical debt, and governance.",
+      "url": "https://www.c-sharpcorner.com/article/how-to-detect-hidden-risks-in-third-party-software/"
     },
     {
-      "title": "Hugging Face: A Failed Chatbot That Is Potentially Worth $13 Billion",
-      "description": "Hugging Face reportedly explores a $13 billion sale after transforming from a failed chatbot into one of the world’s largest AI developer communities.",
-      "url": "https://www.c-sharpcorner.com/news/hugging-face-a-failed-chatbot-that-is-potentially-worth-13-billion"
+      "title": "Python Software Foundation: Calvin Tsang: 2026 PSF Board Election Candidate Interview",
+      "description": "Who are you?\r\nI am Calvin Tsang, Vice President of Open Source Hong Kong (OSHK) and Conference Chair of PyCon Hong Kong 2026. I have contributed to open-source communities since 2013 and have helped … [+7929 chars]",
+      "url": "https://pyfound.blogspot.com/2026/08/calvin-tsang-2026-psf-board-election.html"
     },
     {
-      "title": "How Knowledge Management Drives AI’s Context Layer: 5 Industry Examples",
-      "description": "Knowledge management is a key process for developing the AI's context layer. The article explores opportunities and challenges in five industries: healthcare, financial services, construction, manufacturing, and higher ed. Common challenges include change man…",
-      "url": "https://drive.starcio.com/2026/08/knowledge-management-ai-context-layer/"
+      "title": "Vibhor Kumar: Your PostgreSQL Platform Has Telemetry. Does It Have a Digital Twin?",
+      "description": "Beyond observability: building the synchronized, simulatable model AI agentsneed before they touch production\n\n\n\n\n\n\n\nThe digital twin you are building may depend on one you have not built yet.\n\n\n\nMost digital-twin programs begin with a physical asset: a build…",
+      "url": "https://vibhorkumar.wordpress.com/2026/08/25/your-postgresql-platform-has-telemetry-does-it-have-a-digital-twin/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Podcast Studios Are Transforming Due To Video, Technology, And Creators",
-      "description": "Podcast studios have dramatically evolved from simple home setups to sophisticated, professional environments. This transformation is driven by both video podcasting and advanced audio equipment",
-      "url": "https://www.forbes.com/sites/frankracioppi/2026/08/24/podcast-studios-are-transforming-due-to-video-technology-and-creators/"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "78-92",
-    "condition": "Cloudy ",
-    "wind": "8 mph",
-    "humidity": "92%",
-    "chance_rain": "12%"
+    "temp_range": "79-89",
+    "condition": "Overcast ",
+    "wind": "12 mph",
+    "humidity": "81%",
+    "chance_rain": "22%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 7
+      "daysUntil": 6
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 22
+      "daysUntil": 21
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 93
+      "daysUntil": 92
     }
   ],
-  "generatedAt": "2026-08-25T13:24:05.066Z"
+  "generatedAt": "2026-08-26T11:51:48.082Z"
 }
