@@ -1,21 +1,21 @@
 {
-  "date": "August 26, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "August 27, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Tech layoffs 2026: More than 175,000 workers laid off as Apple, Microsoft, Oracle, Amazon, Meta, TikTok, Uber, LinkedIn and dozens of companies cut jobs amid AI boom",
-      "description": "Tech layoffs are accelerating in 2026 as big companies such as Apple, Microsoft, Oracle, Amazon, Meta, Linkedin, TikTok, Visa and dozens of other mega companies have announced slashing of jobs. Here's why AI, restructuring, cost-cutting and changing business …",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/tech-layoffs-2026-more-than-175000-workers-laid-off-as-apple-microsoft-oracle-amazon-meta-tiktok-uber-linkedin-and-dozens-of-companies-cut-jobs-amid-ai-boom/articleshow/133511127.cms"
+      "title": "Data Engineering with GCP",
+      "description": "eBook Details: Paperback: 338 pages Published: March 5, 2026 Language: English ISBN-10: 936589817X ISBN-13: 978-9365898170 eBook Description: Data Engineering with GCP: Practical guide to designing and deploying scalable data pipelines on Google Cloud. Master…",
+      "url": "https://www.wowebook.org/data-engineering-with-gcp/"
     },
     {
-      "title": "How to Detect Hidden Risks in Third-Party Software",
-      "description": "Learn how enterprises detect hidden third-party software risk across code, dependencies, provenance, architecture, AI code, technical debt, and governance.",
-      "url": "https://www.c-sharpcorner.com/article/how-to-detect-hidden-risks-in-third-party-software/"
+      "title": "Google Reportedly in Advanced Talks for $1.5 Billion Deal With AI Coding Startup Mechanize",
+      "description": "Google is reportedly in advanced talks to license technology and hire staff from AI startup Mechanize in a deal valued at more than $1.\nThank you for being a Ghacks reader. The post Google Reportedly in Advanced Talks for $1.5 Billion Deal With AI Coding Star…",
+      "url": "https://www.ghacks.net/2026/08/26/google-reportedly-in-advanced-talks-for-1-5-billion-deal-with-ai-coding-startup-mechanize/"
     },
     {
-      "title": "Python Software Foundation: Calvin Tsang: 2026 PSF Board Election Candidate Interview",
-      "description": "Who are you?\r\nI am Calvin Tsang, Vice President of Open Source Hong Kong (OSHK) and Conference Chair of PyCon Hong Kong 2026. I have contributed to open-source communities since 2013 and have helped … [+7929 chars]",
-      "url": "https://pyfound.blogspot.com/2026/08/calvin-tsang-2026-psf-board-election.html"
+      "title": "Oumi Want Every Enterprise to Build Its Own AI Brain",
+      "description": "Oumi launched its Compounding AI Factory this month, a platform built to automate the development of specialized enterprise artificial intelligence models. Instead of assembling a team of machine learning engineers to build, evaluate and improve a model by ha…",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/oumi-want-every-enterprise-to-build-its-own-ai-brain/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "79-89",
-    "condition": "Overcast ",
-    "wind": "10 mph",
-    "humidity": "84%",
-    "chance_rain": "22%"
+    "temp_range": "80-92",
+    "condition": "Sunny",
+    "wind": "12 mph",
+    "humidity": "56%",
+    "chance_rain": "25%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 6
+      "daysUntil": 5
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 21
+      "daysUntil": 20
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 92
+      "daysUntil": 91
     }
   ],
-  "generatedAt": "2026-08-26T13:29:36.361Z"
+  "generatedAt": "2026-08-27T21:03:53.055Z"
 }
