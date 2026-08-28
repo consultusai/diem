@@ -1,33 +1,33 @@
 {
-  "date": "August 27, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "August 28, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Data Engineering with GCP",
-      "description": "eBook Details: Paperback: 338 pages Published: March 5, 2026 Language: English ISBN-10: 936589817X ISBN-13: 978-9365898170 eBook Description: Data Engineering with GCP: Practical guide to designing and deploying scalable data pipelines on Google Cloud. Master…",
-      "url": "https://www.wowebook.org/data-engineering-with-gcp/"
+      "title": "When Guest Access Becomes an Attack Surface: A Technical Analysis of the City-Forum Campaign",
+      "description": "Learn how attackers enumerated Salesforce Experience Cloud and ServiceNow portals — and how defenders can detect and prevent the same abuse.\nWhen Guest Access Becomes an Attack Surface\nModern enterprise portals increasingly expose APIs to unauthenticated user…",
+      "url": "https://dzone.com/articles/guest-access-city-forum-campaign"
     },
     {
-      "title": "Google Reportedly in Advanced Talks for $1.5 Billion Deal With AI Coding Startup Mechanize",
-      "description": "Google is reportedly in advanced talks to license technology and hire staff from AI startup Mechanize in a deal valued at more than $1.\nThank you for being a Ghacks reader. The post Google Reportedly in Advanced Talks for $1.5 Billion Deal With AI Coding Star…",
-      "url": "https://www.ghacks.net/2026/08/26/google-reportedly-in-advanced-talks-for-1-5-billion-deal-with-ai-coding-startup-mechanize/"
+      "title": "Vertical Advantage: Transforming Industries with Lakebase and Agentic AI",
+      "description": "- Leading consulting and SI partners have built production-ready solutions on Databricks Lakebase that pair deep industry expertise with a single governed foundation for operational data, analytics, and AI.\r\n- Industry-specific solutions span financial servic…",
+      "url": "https://www.databricks.com/blog/vertical-advantage-transforming-industries-lakebase-and-agentic-ai"
     },
     {
-      "title": "Oumi Want Every Enterprise to Build Its Own AI Brain",
-      "description": "Oumi launched its Compounding AI Factory this month, a platform built to automate the development of specialized enterprise artificial intelligence models. Instead of assembling a team of machine learning engineers to build, evaluate and improve a model by ha…",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/oumi-want-every-enterprise-to-build-its-own-ai-brain/"
+      "title": "Humans vs Robots: The jobs world may not be full of 'Frankenstein' fears",
+      "description": "AI is reshaping jobs in India more through task automation and role redesign than outright workforce replacement. Companies such as Wipro and DHL are using AI to handle repetitive work while shifting employees towards higher-value tasks, while hiring platform…",
+      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/ai-led-job-layoffs-humans-vs-robots-the-jobs-world-may-not-be-full-of-frankenstein-fears-ai-jobs-in-india-2026-ai-replacing-jobs-future-of-work-human-vs-ai-automation-employment-impact/articleshow/133559917.cms"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "GetHookd Announces AI Ad Generator For More Persuasive Problem-Solution Ads",
+      "description": "GetHookd has launched an AI-powered ad generator for problem-solution advertising, addressing a widening gap between rising 2026 marketing budgets and the in-house capacity many teams have to produce fresh creative at pace.",
+      "url": "https://apnews.com/press-release/marketersmedia/press-release-78f52dbccc02c33ec595b2b06d5cacac"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "80-92",
-    "condition": "Sunny",
-    "wind": "12 mph",
-    "humidity": "56%",
-    "chance_rain": "25%"
+    "temp_range": "78-97",
+    "condition": "Patchy rain nearby",
+    "wind": "10 mph",
+    "humidity": "62%",
+    "chance_rain": "10%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 5
+      "daysUntil": 4
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 20
+      "daysUntil": 19
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 91
+      "daysUntil": 90
     }
   ],
-  "generatedAt": "2026-08-27T21:03:53.055Z"
+  "generatedAt": "2026-08-28T21:27:22.494Z"
 }
