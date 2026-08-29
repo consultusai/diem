@@ -1,33 +1,33 @@
 {
-  "date": "August 28, 2026",
-  "dayOfWeek": "Friday",
+  "date": "August 29, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "When Guest Access Becomes an Attack Surface: A Technical Analysis of the City-Forum Campaign",
-      "description": "Learn how attackers enumerated Salesforce Experience Cloud and ServiceNow portals — and how defenders can detect and prevent the same abuse.\nWhen Guest Access Becomes an Attack Surface\nModern enterprise portals increasingly expose APIs to unauthenticated user…",
-      "url": "https://dzone.com/articles/guest-access-city-forum-campaign"
+      "title": "NexusOne triples its business in 2026, names Ken Pickering SVP of Engineering to scale the AI & Data Control Plane",
+      "description": "Pickering, who led engineering at Starburst Data and served as CTO at Hopper and Scripta Insights, joins on the heels of NexusOne's general availability and the launch of its AI & Data Control Plane, now standing up at customers including a top-ten US bank AT…",
+      "url": "https://www.prnewswire.com/news-releases/nexusone-triples-its-business-in-2026-names-ken-pickering-svp-of-engineering-to-scale-the-ai--data-control-plane-302862378.html"
     },
     {
-      "title": "Vertical Advantage: Transforming Industries with Lakebase and Agentic AI",
-      "description": "- Leading consulting and SI partners have built production-ready solutions on Databricks Lakebase that pair deep industry expertise with a single governed foundation for operational data, analytics, and AI.\r\n- Industry-specific solutions span financial servic…",
-      "url": "https://www.databricks.com/blog/vertical-advantage-transforming-industries-lakebase-and-agentic-ai"
+      "title": "AI ecommerce projects may fail without clean, centralised data: Report",
+      "description": "The report said data readiness is one of the biggest factors determining whether AI projects move beyond experimentation and deliver measurable business outcomes. It noted that AI systems depend heavily on the quality of the information they receive, making d…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/ai-ecommerce-projects-may-fail-without-clean-centralised-data-report/articleshow/133586667.cms"
     },
     {
-      "title": "Humans vs Robots: The jobs world may not be full of 'Frankenstein' fears",
-      "description": "AI is reshaping jobs in India more through task automation and role redesign than outright workforce replacement. Companies such as Wipro and DHL are using AI to handle repetitive work while shifting employees towards higher-value tasks, while hiring platform…",
-      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/ai-led-job-layoffs-humans-vs-robots-the-jobs-world-may-not-be-full-of-frankenstein-fears-ai-jobs-in-india-2026-ai-replacing-jobs-future-of-work-human-vs-ai-automation-employment-impact/articleshow/133559917.cms"
+      "title": "Why AI Projects Stall Between Proof of Concept and Production",
+      "description": "A proof of concept is often the easiest part of an AI project. The scope is narrow, the users are friendly, the data sample is controlled, and the success criteria are usually simple enough to prove that something can work. A chatbot answers support questions…",
+      "url": "https://dzone.com/articles/why-production-ai-projects-stall"
     }
   ],
   "miamiNews": [
     {
-      "title": "GetHookd Announces AI Ad Generator For More Persuasive Problem-Solution Ads",
-      "description": "GetHookd has launched an AI-powered ad generator for problem-solution advertising, addressing a widening gap between rising 2026 marketing budgets and the in-house capacity many teams have to produce fresh creative at pace.",
-      "url": "https://apnews.com/press-release/marketersmedia/press-release-78f52dbccc02c33ec595b2b06d5cacac"
+      "title": " Y! Sports AM: Week 0",
+      "description": "College football is back, baby! Here’s a primer to get you ready.",
+      "url": "https://sports.yahoo.com/articles/y-sports-am-week-0-123009480.html"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "78-97",
-    "condition": "Patchy rain nearby",
+    "temp_range": "79-89",
+    "condition": "Patchy light rain",
     "wind": "10 mph",
-    "humidity": "62%",
-    "chance_rain": "10%"
+    "humidity": "77%",
+    "chance_rain": "9%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 4
+      "daysUntil": 3
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 19
+      "daysUntil": 18
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 90
+      "daysUntil": 89
     }
   ],
-  "generatedAt": "2026-08-28T21:27:22.494Z"
+  "generatedAt": "2026-08-29T15:40:10.011Z"
 }
