@@ -1,33 +1,23 @@
 {
-  "date": "August 29, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "August 30, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "NexusOne triples its business in 2026, names Ken Pickering SVP of Engineering to scale the AI & Data Control Plane",
-      "description": "Pickering, who led engineering at Starburst Data and served as CTO at Hopper and Scripta Insights, joins on the heels of NexusOne's general availability and the launch of its AI & Data Control Plane, now standing up at customers including a top-ten US bank AT…",
-      "url": "https://www.prnewswire.com/news-releases/nexusone-triples-its-business-in-2026-names-ken-pickering-svp-of-engineering-to-scale-the-ai--data-control-plane-302862378.html"
-    },
-    {
-      "title": "AI ecommerce projects may fail without clean, centralised data: Report",
-      "description": "The report said data readiness is one of the biggest factors determining whether AI projects move beyond experimentation and deliver measurable business outcomes. It noted that AI systems depend heavily on the quality of the information they receive, making d…",
-      "url": "https://economictimes.indiatimes.com/tech/technology/ai-ecommerce-projects-may-fail-without-clean-centralised-data-report/articleshow/133586667.cms"
-    },
-    {
-      "title": "Why AI Projects Stall Between Proof of Concept and Production",
-      "description": "A proof of concept is often the easiest part of an AI project. The scope is narrow, the users are friendly, the data sample is controlled, and the success criteria are usually simple enough to prove that something can work. A chatbot answers support questions…",
-      "url": "https://dzone.com/articles/why-production-ai-projects-stall"
+      "title": "Qnity Electronics Sees AI, Advanced Packaging Fueling Its Next Growth Phase",
+      "description": "Qnity Electronics (NYSE:Q) Chief Executive Officer Jon Kemp outlined the semiconductor-materials company’s strategy, growth drivers and capital-allocation pr...",
+      "url": "https://www.marketbeat.com/instant-alerts/event-qnity-electronics-sees-ai-advanced-packaging-fueling-its-next-growth-phase-2026-08-29/?utm_source=yahoofinance&amp;utm_medium=yahoofinance"
     }
   ],
   "miamiNews": [
     {
-      "title": " Y! Sports AM: Week 0",
-      "description": "College football is back, baby! Here’s a primer to get you ready.",
-      "url": "https://sports.yahoo.com/articles/y-sports-am-week-0-123009480.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,35 +37,35 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "79-89",
-    "condition": "Patchy light rain",
-    "wind": "10 mph",
-    "humidity": "77%",
-    "chance_rain": "9%"
+    "temp_range": "78-89",
+    "condition": "Overcast ",
+    "wind": "11 mph",
+    "humidity": "74%",
+    "chance_rain": "15%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 3
+      "daysUntil": 2
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 18
+      "daysUntil": 17
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 89
+      "daysUntil": 88
     }
   ],
-  "generatedAt": "2026-08-29T15:40:10.011Z"
+  "generatedAt": "2026-08-30T15:23:00.074Z"
 }
