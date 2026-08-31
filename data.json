@@ -1,11 +1,21 @@
 {
-  "date": "August 30, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "August 31, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Qnity Electronics Sees AI, Advanced Packaging Fueling Its Next Growth Phase",
-      "description": "Qnity Electronics (NYSE:Q) Chief Executive Officer Jon Kemp outlined the semiconductor-materials company’s strategy, growth drivers and capital-allocation pr...",
-      "url": "https://www.marketbeat.com/instant-alerts/event-qnity-electronics-sees-ai-advanced-packaging-fueling-its-next-growth-phase-2026-08-29/?utm_source=yahoofinance&amp;utm_medium=yahoofinance"
+      "title": "Latest Developments in AI and Machine Learning",
+      "description": "Stay updated with the newest breakthroughs in artificial intelligence, machine learning, and automation.",
+      "url": "https://ai.google.com"
+    },
+    {
+      "title": "Data Engineering and Analytics News",
+      "description": "Explore the latest tools, techniques, and best practices in data engineering and business analytics.",
+      "url": "https://www.dataengineeringweekly.com"
+    },
+    {
+      "title": "Startup Trends and Business Insights",
+      "description": "Learn about what's happening in the startup ecosystem and entrepreneur success stories.",
+      "url": "https://techcrunch.com"
     }
   ],
   "miamiNews": [
@@ -37,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "78-89",
-    "condition": "Overcast ",
-    "wind": "11 mph",
-    "humidity": "74%",
-    "chance_rain": "15%"
+    "temp_range": "76-90",
+    "condition": "Heavy rain",
+    "wind": "9 mph",
+    "humidity": "77%",
+    "chance_rain": "93%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-01",
       "event": "Labor Day",
-      "daysUntil": 2
+      "daysUntil": 1
     },
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 17
+      "daysUntil": 16
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 88
+      "daysUntil": 87
     }
   ],
-  "generatedAt": "2026-08-30T15:23:00.074Z"
+  "generatedAt": "2026-08-31T18:02:17.653Z"
 }
