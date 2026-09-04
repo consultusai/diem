@@ -1,21 +1,21 @@
 {
-  "date": "September 3, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "September 4, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Writing for an audience of agents — podcast with Ethan Palm from Mintlify",
-      "description": "In this podcast, co-host Fabrizio Ferri-Benedetti and I chat with Ethan Palm, a technical writer and knowledge engineer at Mintlify, about what happens when nearly half your documentation traffic comes from AI agents. We discuss Mintlify's platform data on ag…",
-      "url": "https://idratherbewriting.com/blog/podcast-ethan-palm-agent-traffic"
+      "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
+      "description": "In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place? The post Live from ICM 2026: What I…",
+      "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/"
     },
     {
-      "title": "OpenMatter adds an AI model gateway and privacy-preserving machine learning",
-      "description": "OpenMatter Network Inc. today announced the first significant expansion of its platform since its commercial launch three months ago, adding a developer kit, a gateway for managing access to artificial intelligence models from multiple providers, a rebuilt pr…",
-      "url": "https://siliconangle.com/2026/09/02/openmatter-adds-an-ai-model-gateway-and-privacy-preserving-machine-learning/"
+      "title": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
+      "description": "Introduction Continuous improvement depends on experimentation. Teams know that the fastest path to better outcomes is to test changes against real user behavior, measure results, and iterate. In practice, sustaining that cycle is slow and costly because the …",
+      "url": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"
     },
     {
-      "title": "Beyond Agent-Washing: The Engineering Principles Behind Production-Ready AI Agents",
-      "description": "An AI agent is not defined by how intelligently it talks. It's defined by what it's trusted to do.\nGive a language model a chat window, and you have an interface. Give it access to production APIs, identity, business logic, memory, and the authority to execut…",
-      "url": "https://dzone.com/articles/production-ready-ai-agents"
+      "title": "iocx v0.7.6.1",
+      "description": "An extensible, deterministic static‑analysis engine that extracts high‑signal IOCs from PE binaries and text, built for SOC automation and modern threat‑analysis pipelines.",
+      "url": "https://kitploit.com/en/posts/github-iocx-dev-iocx-v0761"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "80-90",
-    "condition": "Sunny",
-    "wind": "7 mph",
-    "humidity": "77%",
-    "chance_rain": "11%"
+    "temp_range": "77-88",
+    "condition": "Heavy rain",
+    "wind": "8 mph",
+    "humidity": "94%",
+    "chance_rain": "27%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 13
+      "daysUntil": 12
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 84
+      "daysUntil": 83
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 113
+      "daysUntil": 112
     }
   ],
-  "generatedAt": "2026-09-03T15:03:22.164Z"
+  "generatedAt": "2026-09-04T15:00:41.416Z"
 }
