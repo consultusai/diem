@@ -1,33 +1,33 @@
 {
-  "date": "September 4, 2026",
-  "dayOfWeek": "Friday",
+  "date": "September 5, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
-      "description": "In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place? The post Live from ICM 2026: What I…",
-      "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/"
+      "title": "Video and Audio as Knowledge Sources: Content Understanding in Microsoft Foundry IQ",
+      "description": "Your largest corpus is the one nobody indexed. Here's how to turn recordings into grounding data an agent can cite.\r\n\n The Corpus You Already Have and Never Indexed\r\n\n Every organization is sitting on years of recorded meetings, support calls, training sessio…",
+      "url": "https://dzone.com/articles/content-understanding-foundry-iq"
     },
     {
-      "title": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
-      "description": "Introduction Continuous improvement depends on experimentation. Teams know that the fastest path to better outcomes is to test changes against real user behavior, measure results, and iterate. In practice, sustaining that cycle is slow and costly because the …",
-      "url": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"
+      "title": "Digital twins as a new foundation of competitive advantage",
+      "description": "AI-powered digital twins are not simply another stage of digital transformation. They represent a new organising logic for economic activity in data-rich environments. By categorising organisations according to twin maturity and ecosystem integration, Rick Aa…",
+      "url": "https://blogs.lse.ac.uk/businessreview/2026/09/04/digital-twins-as-a-new-foundation-of-competitive-advantage/"
     },
     {
-      "title": "iocx v0.7.6.1",
-      "description": "An extensible, deterministic static‑analysis engine that extracts high‑signal IOCs from PE binaries and text, built for SOC automation and modern threat‑analysis pipelines.",
-      "url": "https://kitploit.com/en/posts/github-iocx-dev-iocx-v0761"
+      "title": "AICost.ai Expands Its Independent AI Cost, Policy and Governance Decision-Intelligence Platform for the Agentic, Multi-Model Enterprise",
+      "description": "AICost.ai brings AI cost visibility, cost optimization, continuous AI governance, and forecasting and planning to enterprises running frontier, open-weight and self-hosted models across clouds, gateways and agents Email support@cloudintelligence.ai for an AIC…",
+      "url": "https://www.prnewswire.com/news-releases/aicostai-expands-its-independent-ai-cost-policy-and-governance-decision-intelligence-platform-for-the-agentic-multi-model-enterprise-302869728.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Miami Office Towers Target a Major Supply Shortage",
+      "description": "Two Miami office towers could add over 1.5M SF of leasable Brickell space, giving large corporate tenants more room to relocate.",
+      "url": "https://www.credaily.com/briefs/miami-office-towers-target-a-major-supply-shortage/"
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -53,29 +53,29 @@
     "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "77-88",
+    "temp_range": "79-89",
     "condition": "Heavy rain",
     "wind": "8 mph",
-    "humidity": "94%",
-    "chance_rain": "27%"
+    "humidity": "82%",
+    "chance_rain": "25%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 12
+      "daysUntil": 11
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 83
+      "daysUntil": 82
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 112
+      "daysUntil": 111
     }
   ],
-  "generatedAt": "2026-09-04T15:00:41.416Z"
+  "generatedAt": "2026-09-05T13:54:38.632Z"
 }
