@@ -1,21 +1,21 @@
 {
-  "date": "September 6, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "September 7, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Show HN: I built an AI that audits businesses. It's first job was to catch me",
-      "description": "I built an AI that audits businesses.I ran it on my own startup. It caught me over-crediting my own business.Score: 34/100.It cut my own score.\nMost founders would hide that.I shipped it anyway.That’s the point.7 agents. One verdict on your revenue.\nScored PD…",
-      "url": "https://www.moltybeeai.com/#pricing"
+      "title": "AI Agency Mastermind Complaints",
+      "description": "AI Agency Mastermind is a high-ticket business education and mentorship program created by Carson Reed and Wyatt Roderick. It teaches participants how to build agencies that sell AI-assisted lead generation, appointment setting, follow-up, sales, and automati…",
+      "url": "https://themattwalshblog.com/ai-agency-mastermind-complaints/"
     },
     {
-      "title": "About Digital Cyril | AI Search & Growth Marketing Consultant Hyderabad",
-      "description": "Founder of Happening Hyderabad (85K+ CXO network). Growth Marketing Consultant & AI Search Strategist. Helping tech founders & CXOs scale brand authority.",
-      "url": "https://digitalcyril.in/ai-visibility-playbook-digital-cyril/"
+      "title": "How Figma Uses AI Agents for Security",
+      "description": "The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepare code fixes. The agents learn from previous investigation…",
+      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/"
     },
     {
-      "title": "AI Email Marketing Automation: From Signup to Sale on Autopilot",
-      "description": "Build an AI email marketing automation pipeline: capture leads, personalize with AI, send triggered campaigns, and measure — without expensive tools.",
-      "url": "https://slashmantools.us/blog/ai-email-marketing-automation/"
+      "title": "agentic-discipline-kit added to PyPI",
+      "description": "Evidence-backed engineering controls for AI coding agents.",
+      "url": "https://pypi.org/project/agentic-discipline-kit/"
     }
   ],
   "miamiNews": [
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "76-91",
-    "condition": "Light drizzle",
-    "wind": "2 mph",
-    "humidity": "92%",
-    "chance_rain": "67%"
+    "temp_range": "78-93",
+    "condition": "Sunny",
+    "wind": "5 mph",
+    "humidity": "76%",
+    "chance_rain": "10%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 10
+      "daysUntil": 9
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 81
+      "daysUntil": 80
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 110
+      "daysUntil": 109
     }
   ],
-  "generatedAt": "2026-09-06T14:15:37.014Z"
+  "generatedAt": "2026-09-07T16:32:59.084Z"
 }
