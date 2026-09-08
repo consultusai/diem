@@ -1,21 +1,21 @@
 {
-  "date": "September 7, 2026",
-  "dayOfWeek": "Monday",
+  "date": "September 8, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "AI Agency Mastermind Complaints",
-      "description": "AI Agency Mastermind is a high-ticket business education and mentorship program created by Carson Reed and Wyatt Roderick. It teaches participants how to build agencies that sell AI-assisted lead generation, appointment setting, follow-up, sales, and automati…",
-      "url": "https://themattwalshblog.com/ai-agency-mastermind-complaints/"
+      "title": "Ineffable Intelligence hires six cofounders from Google DeepMind, InstaDeep, Flying Fish",
+      "description": "Ineffable Intelligence's strategic hires and funding could accelerate AI innovation, potentially reshaping industries and ethical AI discussions.\nThe post Ineffable Intelligence hires six cofounders from Google DeepMind, InstaDeep, Flying Fish appeared first …",
+      "url": "https://cryptobriefing.com/ineffable-intelligence-deepmind-cofounders/"
     },
     {
-      "title": "How Figma Uses AI Agents for Security",
-      "description": "The engineering team at software company Figma recently documented how they built AI agents to help their security team investigate alerts, search past incidents, check company systems, and even prepare code fixes. The agents learn from previous investigation…",
-      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/"
+      "title": "10 high-paying, fast-growing jobs that are at the forefront of the AI revolution",
+      "description": "Data scientists and human resources specialists are high-paying, growing jobs with very high relative exposure to AI.",
+      "url": "https://www.businessinsider.com/high-paying-growing-jobs-very-high-exposure-to-ai-2026-9"
     },
     {
-      "title": "agentic-discipline-kit added to PyPI",
-      "description": "Evidence-backed engineering controls for AI coding agents.",
-      "url": "https://pypi.org/project/agentic-discipline-kit/"
+      "title": "150+ AI Tools for Agile Product Managers",
+      "description": "A research study revealed over 150 AI tools for product leaders.A I is reshaping the roles of agile product managers and owners, pushing them towards customer-centric tasks while leveraging AI tools for efficiency. Examples include enhanced prototyping with A…",
+      "url": "https://drive.starcio.com/2026/09/ai-tools-for-agile-product-managers/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "78-93",
-    "condition": "Sunny",
-    "wind": "5 mph",
-    "humidity": "76%",
-    "chance_rain": "10%"
+    "temp_range": "76-89",
+    "condition": "Light rain",
+    "wind": "2 mph",
+    "humidity": "90%",
+    "chance_rain": "63%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 9
+      "daysUntil": 8
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 80
+      "daysUntil": 79
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 109
+      "daysUntil": 108
     }
   ],
-  "generatedAt": "2026-09-07T16:32:59.084Z"
+  "generatedAt": "2026-09-08T15:11:21.123Z"
 }
