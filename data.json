@@ -1,33 +1,33 @@
 {
-  "date": "September 8, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "September 9, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Ineffable Intelligence hires six cofounders from Google DeepMind, InstaDeep, Flying Fish",
-      "description": "Ineffable Intelligence's strategic hires and funding could accelerate AI innovation, potentially reshaping industries and ethical AI discussions.\nThe post Ineffable Intelligence hires six cofounders from Google DeepMind, InstaDeep, Flying Fish appeared first …",
-      "url": "https://cryptobriefing.com/ineffable-intelligence-deepmind-cofounders/"
+      "title": "[no title]",
+      "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai/"
     },
     {
-      "title": "10 high-paying, fast-growing jobs that are at the forefront of the AI revolution",
-      "description": "Data scientists and human resources specialists are high-paying, growing jobs with very high relative exposure to AI.",
-      "url": "https://www.businessinsider.com/high-paying-growing-jobs-very-high-exposure-to-ai-2026-9"
+      "title": "Architecting Trust: Agentic Microservice Testing Strategies in the Era of Non-Deterministic AI",
+      "description": "The enterprise software landscape is undergoing a foundational architectural shift that rivals the original transition from monolithic applications to distributed systems. For the past decade, the microservice architecture has successfully allowed engineering…",
+      "url": "https://dzone.com/articles/agentic-microservice-testing"
     },
     {
-      "title": "150+ AI Tools for Agile Product Managers",
-      "description": "A research study revealed over 150 AI tools for product leaders.A I is reshaping the roles of agile product managers and owners, pushing them towards customer-centric tasks while leveraging AI tools for efficiency. Examples include enhanced prototyping with A…",
-      "url": "https://drive.starcio.com/2026/09/ai-tools-for-agile-product-managers/"
+      "title": "Measuring Board Fit — Evidence from Elliott’s Campaign at Norwegian Cruise Line",
+      "description": "Boards are routinely assessed with tools that cannot answer the question that matters most: whether a given director’s accumulated professional experience fits the strategic needs of the specific company on whose board that director sits. This post describes …",
+      "url": "https://corpgov.law.harvard.edu/2026/09/08/measuring-board-fit-evidence-from-elliotts-campaign-at-norwegian-cruise-line/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Mission Impossible: How Star Trek used the aerospace community to try and win an Emmy",
+      "description": "Like many TV producers, Gene Roddenberry lobbied 60 years to win awards for his new series, Star Trek. Glen Swanson examines the unusual approach he took to seek television's highest honor.",
+      "url": "https://www.thespacereview.com/article/5307/1"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "76-89",
-    "condition": "Light rain",
-    "wind": "2 mph",
-    "humidity": "90%",
-    "chance_rain": "63%"
+    "temp_range": "78-89",
+    "condition": "Sunny",
+    "wind": "13 mph",
+    "humidity": "76%",
+    "chance_rain": "8%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 8
+      "daysUntil": 7
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 79
+      "daysUntil": 78
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 108
+      "daysUntil": 107
     }
   ],
-  "generatedAt": "2026-09-08T15:11:21.123Z"
+  "generatedAt": "2026-09-09T15:11:05.048Z"
 }
