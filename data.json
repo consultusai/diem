@@ -1,28 +1,28 @@
 {
-  "date": "September 9, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "September 10, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "[no title]",
-      "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai/"
+      "title": "Now generally available: See how Stack Automation by Quali cuts deployment time",
+      "description": "Still burning weeks on manual infrastructure deployment? Stack Automation by Quali, co-developed with Cisco, is now available—turning that grind into an automated, cloud-like experience that takes minutes.",
+      "url": "https://blogs.cisco.com/?p=496998"
     },
     {
-      "title": "Architecting Trust: Agentic Microservice Testing Strategies in the Era of Non-Deterministic AI",
-      "description": "The enterprise software landscape is undergoing a foundational architectural shift that rivals the original transition from monolithic applications to distributed systems. For the past decade, the microservice architecture has successfully allowed engineering…",
-      "url": "https://dzone.com/articles/agentic-microservice-testing"
+      "title": "AI at population scale: Rahul Chari’s charter for the next 300 million",
+      "description": "At Global Fintech Fest 2026, PhonePe co-founder and CPTO Rahul Chari laid out an AI philosophy built on intent-led experiences, engineering scale and operational efficiency.",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/ai-at-population-scale-rahul-charis-charter-for-the-next-300-million/articleshow/133952966.cms"
     },
     {
-      "title": "Measuring Board Fit — Evidence from Elliott’s Campaign at Norwegian Cruise Line",
-      "description": "Boards are routinely assessed with tools that cannot answer the question that matters most: whether a given director’s accumulated professional experience fits the strategic needs of the specific company on whose board that director sits. This post describes …",
-      "url": "https://corpgov.law.harvard.edu/2026/09/08/measuring-board-fit-evidence-from-elliotts-campaign-at-norwegian-cruise-line/"
+      "title": "Sergey Brin is cooking up Google's AI comeback in a California microkitchen",
+      "description": "Google's AI reshuffle has handed more sway to Sergey Brin, say insiders, who describe an effective operator trying to run Gemini like a startup.",
+      "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-microkitchen-2026-9#article"
     }
   ],
   "miamiNews": [
     {
-      "title": "Mission Impossible: How Star Trek used the aerospace community to try and win an Emmy",
-      "description": "Like many TV producers, Gene Roddenberry lobbied 60 years to win awards for his new series, Star Trek. Glen Swanson examines the unusual approach he took to seek television's highest honor.",
-      "url": "https://www.thespacereview.com/article/5307/1"
+      "title": "Innocent woman says police use of Flock camera led to 13 days in jail",
+      "description": "Lindsey Brooke Isaacs spent 13 days in jail after a Flock camera flagged her Dodge Durango near a fatal Florida crash that killed three people.",
+      "url": "https://www.foxnews.com/tech/innocent-woman-says-police-use-flock-camera-led-13-days-jail"
     }
   ],
   "tip": {
@@ -54,28 +54,28 @@
   },
   "weather": {
     "temp_range": "78-89",
-    "condition": "Sunny",
-    "wind": "13 mph",
-    "humidity": "76%",
-    "chance_rain": "8%"
+    "condition": "Moderate rain",
+    "wind": "11 mph",
+    "humidity": "81%",
+    "chance_rain": "12%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 7
+      "daysUntil": 6
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 78
+      "daysUntil": 77
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 107
+      "daysUntil": 106
     }
   ],
-  "generatedAt": "2026-09-09T15:11:05.048Z"
+  "generatedAt": "2026-09-10T15:03:08.683Z"
 }
