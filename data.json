@@ -1,33 +1,33 @@
 {
-  "date": "September 10, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "September 11, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Now generally available: See how Stack Automation by Quali cuts deployment time",
-      "description": "Still burning weeks on manual infrastructure deployment? Stack Automation by Quali, co-developed with Cisco, is now available—turning that grind into an automated, cloud-like experience that takes minutes.",
-      "url": "https://blogs.cisco.com/?p=496998"
+      "title": "ST Engineering iDirect Advances Intelligent Satellite Operations with New AI Capabilities",
+      "description": "New capabilities for AI governance, operational control and rapid onboarding help operators simplify complexity, strengthen compliance and scale automation with confidence HERNDON, Va., Sept. 10, 2026 /PRNewswire/ -- ST Engineering iDirect, a global leader in…",
+      "url": "https://www.prnewswire.com/news-releases/st-engineering-idirect-advances-intelligent-satellite-operations-with-new-ai-capabilities-302874454.html"
     },
     {
-      "title": "AI at population scale: Rahul Chari’s charter for the next 300 million",
-      "description": "At Global Fintech Fest 2026, PhonePe co-founder and CPTO Rahul Chari laid out an AI philosophy built on intent-led experiences, engineering scale and operational efficiency.",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/ai-at-population-scale-rahul-charis-charter-for-the-next-300-million/articleshow/133952966.cms"
+      "title": "ICIMS Insights: Workers Are Teaching Themselves AI Skills Faster Than Employers Train Them, Raising Stakes for AI-Powered Recruiting and Screening",
+      "description": "New ICIMS Insights September Workforce Report finds job openings outpacing hires for a third straight month as a thinner candidate pool raises the cost of slow hiring processes Lightcast data and a new ICIMS survey show a growing divide between the AI skills …",
+      "url": "https://www.prnewswire.com/news-releases/icims-insights-workers-are-teaching-themselves-ai-skills-faster-than-employers-train-them-raising-stakes-for-ai-powered-recruiting-and-screening-302874634.html"
     },
     {
-      "title": "Sergey Brin is cooking up Google's AI comeback in a California microkitchen",
-      "description": "Google's AI reshuffle has handed more sway to Sergey Brin, say insiders, who describe an effective operator trying to run Gemini like a startup.",
-      "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-microkitchen-2026-9#article"
+      "title": "Simform Completes Microsoft AI Cloud Coverage with AI Business Solutions Designation",
+      "description": "ORLANDO, Fla., Sept. 10, 2026 /PRNewswire/ -- Simform has earned the Microsoft Solutions Partner designation for AI Business Solutions, completing its coverage across all Microsoft AI Cloud solution areas. Simform is now one of the only 50 partners globally t…",
+      "url": "https://www.prnewswire.com/news-releases/simform-completes-microsoft-ai-cloud-coverage-with-ai-business-solutions-designation-302875062.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "Innocent woman says police use of Flock camera led to 13 days in jail",
-      "description": "Lindsey Brooke Isaacs spent 13 days in jail after a Flock camera flagged her Dodge Durango near a fatal Florida crash that killed three people.",
-      "url": "https://www.foxnews.com/tech/innocent-woman-says-police-use-flock-camera-led-13-days-jail"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -54,28 +54,28 @@
   },
   "weather": {
     "temp_range": "78-89",
-    "condition": "Moderate rain",
-    "wind": "11 mph",
-    "humidity": "81%",
-    "chance_rain": "12%"
+    "condition": "Light rain",
+    "wind": "9 mph",
+    "humidity": "87%",
+    "chance_rain": "28%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 6
+      "daysUntil": 5
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 77
+      "daysUntil": 76
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 106
+      "daysUntil": 105
     }
   ],
-  "generatedAt": "2026-09-10T15:03:08.683Z"
+  "generatedAt": "2026-09-11T15:05:45.633Z"
 }
