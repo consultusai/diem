@@ -1,33 +1,33 @@
 {
-  "date": "September 11, 2026",
-  "dayOfWeek": "Friday",
+  "date": "September 12, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "ST Engineering iDirect Advances Intelligent Satellite Operations with New AI Capabilities",
-      "description": "New capabilities for AI governance, operational control and rapid onboarding help operators simplify complexity, strengthen compliance and scale automation with confidence HERNDON, Va., Sept. 10, 2026 /PRNewswire/ -- ST Engineering iDirect, a global leader in…",
-      "url": "https://www.prnewswire.com/news-releases/st-engineering-idirect-advances-intelligent-satellite-operations-with-new-ai-capabilities-302874454.html"
+      "title": "Show HN: Algo-Trading-Skills – trading failure modes AI agents don't know",
+      "description": "500+ algorithmic-trading skills for AI coding agents in the agentskills.io format. Every skill ships a working Python reference implementation and its own tests - 20,291 in CI. Broker APIs, backtes...",
+      "url": "https://github.com/HimanshuJ16/Algo-Trading-Skills"
     },
     {
-      "title": "ICIMS Insights: Workers Are Teaching Themselves AI Skills Faster Than Employers Train Them, Raising Stakes for AI-Powered Recruiting and Screening",
-      "description": "New ICIMS Insights September Workforce Report finds job openings outpacing hires for a third straight month as a thinner candidate pool raises the cost of slow hiring processes Lightcast data and a new ICIMS survey show a growing divide between the AI skills …",
-      "url": "https://www.prnewswire.com/news-releases/icims-insights-workers-are-teaching-themselves-ai-skills-faster-than-employers-train-them-raising-stakes-for-ai-powered-recruiting-and-screening-302874634.html"
+      "title": "STEAM learning prepares SMK students for dynamic job market: Ministry",
+      "description": "The Primary and Secondary Education Ministry said learning in science, technology, engineering, arts, and mathematics (STEAM) equips vocational high school ...",
+      "url": "https://en.antaranews.com/news/430976/steam-learning-prepares-smk-students-for-dynamic-job-market-ministry"
     },
     {
-      "title": "Simform Completes Microsoft AI Cloud Coverage with AI Business Solutions Designation",
-      "description": "ORLANDO, Fla., Sept. 10, 2026 /PRNewswire/ -- Simform has earned the Microsoft Solutions Partner designation for AI Business Solutions, completing its coverage across all Microsoft AI Cloud solution areas. Simform is now one of the only 50 partners globally t…",
-      "url": "https://www.prnewswire.com/news-releases/simform-completes-microsoft-ai-cloud-coverage-with-ai-business-solutions-designation-302875062.html"
+      "title": "From Oracle to Amazon: Tech giants drive global wave of layoffs in 2026",
+      "description": "More than 128,000 tech jobs have been cut globally in 2026, surpassing last year's total, as companies including Oracle, Amazon, Dell and Uber restructure and boost AI spending",
+      "url": "https://www.business-standard.com/industry/news/global-tech-layoffs-2026-oracle-amazon-dell-uber-paypal-it-sector-job-cuts-126091100188_1.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": " Y! Sports AM: Niners cruise in Melbourne",
+      "description": "The Rams did not look like the anointed Super Bowl favorites in their opener.",
+      "url": "https://sports.yahoo.com/articles/y-sports-am-niners-cruise-121723652.html"
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,35 +47,35 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "78-89",
-    "condition": "Light rain",
-    "wind": "9 mph",
-    "humidity": "87%",
-    "chance_rain": "28%"
+    "temp_range": "79-89",
+    "condition": "Overcast ",
+    "wind": "8 mph",
+    "humidity": "79%",
+    "chance_rain": "11%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 5
+      "daysUntil": 4
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 76
+      "daysUntil": 75
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 105
+      "daysUntil": 104
     }
   ],
-  "generatedAt": "2026-09-11T15:05:45.633Z"
+  "generatedAt": "2026-09-12T14:14:07.488Z"
 }
