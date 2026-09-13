@@ -1,33 +1,28 @@
 {
-  "date": "September 12, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "September 13, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Show HN: Algo-Trading-Skills – trading failure modes AI agents don't know",
-      "description": "500+ algorithmic-trading skills for AI coding agents in the agentskills.io format. Every skill ships a working Python reference implementation and its own tests - 20,291 in CI. Broker APIs, backtes...",
-      "url": "https://github.com/HimanshuJ16/Algo-Trading-Skills"
+      "title": "Elon Musk Says Technology Is War's 'Most Important Advantage' as John Carmack Warns on AI and Coding",
+      "description": "Elon Musk has linked the debate over AI-generated software and the future of hand-coding to wider questions about technological competition, warfare and national security.",
+      "url": "https://www.ibtimes.com.au/elon-musk-ai-coding-technology-warfare-debate-1875420"
     },
     {
-      "title": "STEAM learning prepares SMK students for dynamic job market: Ministry",
-      "description": "The Primary and Secondary Education Ministry said learning in science, technology, engineering, arts, and mathematics (STEAM) equips vocational high school ...",
-      "url": "https://en.antaranews.com/news/430976/steam-learning-prepares-smk-students-for-dynamic-job-market-ministry"
-    },
-    {
-      "title": "From Oracle to Amazon: Tech giants drive global wave of layoffs in 2026",
-      "description": "More than 128,000 tech jobs have been cut globally in 2026, surpassing last year's total, as companies including Oracle, Amazon, Dell and Uber restructure and boost AI spending",
-      "url": "https://www.business-standard.com/industry/news/global-tech-layoffs-2026-oracle-amazon-dell-uber-paypal-it-sector-job-cuts-126091100188_1.html"
+      "title": "redamon v6.14.1",
+      "description": "An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.",
+      "url": "https://kitploit.com/en/posts/github-samugit83-redamon-v6141"
     }
   ],
   "miamiNews": [
     {
-      "title": " Y! Sports AM: Niners cruise in Melbourne",
-      "description": "The Rams did not look like the anointed Super Bowl favorites in their opener.",
-      "url": "https://sports.yahoo.com/articles/y-sports-am-niners-cruise-121723652.html"
+      "title": "For the US news industry, a tough summer draws to a close with McClatchy chain's cuts",
+      "description": "The McClatchy newspaper chain has made significant layoffs at The Miami Herald and other papers, cutting over 90 unionized journalists across 17 publications",
+      "url": "https://abcnews.com/US/wireStory/us-news-industry-tough-summer-draws-close-mcclatchy-136383877"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,35 +42,35 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "79-89",
+    "temp_range": "81-89",
     "condition": "Overcast ",
-    "wind": "8 mph",
-    "humidity": "79%",
-    "chance_rain": "11%"
+    "wind": "5 mph",
+    "humidity": "64%",
+    "chance_rain": "18%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 4
+      "daysUntil": 3
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 75
+      "daysUntil": 74
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 104
+      "daysUntil": 103
     }
   ],
-  "generatedAt": "2026-09-12T14:14:07.488Z"
+  "generatedAt": "2026-09-13T14:56:41.667Z"
 }
