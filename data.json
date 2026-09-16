@@ -1,21 +1,21 @@
 {
-  "date": "September 15, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "September 16, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "A Practical Framework for Scoping an AI Proof of Concept",
-      "description": "Most AI proof-of-concept projects don't break down while they're building. They fall down on scoping, weeks before coding is even written. If the objective is unclear, data is unavailable, or a success is not defined, a two-week experiment becomes a two-month…",
-      "url": "https://dzone.com/articles/ai-poc-practical-framework"
+      "title": "Startup Evvy raises $40M to accelerate precision diagnostics and medicine for women’s health",
+      "description": "Evvy, an artificial intelligence startup that’s looking to enhance women’s healthcare, said today it has closed on $40 million in Series B funding to scale its precision diagnostics and care platform. The round was led by Catalio Capital Management, with new …",
+      "url": "https://siliconangle.com/2026/09/15/ai-startup-evvy-raises-40m-to-accelerate-precision-diagnostics-and-medicine-for-womens-health/"
     },
     {
-      "title": "DVC Pipelines for MLOps: Build a Reproducible ML Pipeline",
-      "description": "Table of Contents DVC Pipelines for MLOps: Build a Reproducible ML Pipeline Introduction Project Setup Understanding the Pipeline Architecture Stage 1: Dataset Preprocessing Stage 2: Model Training and Versioning with DVC Stage 3: Model Evaluation and Metrics…",
-      "url": "https://pyimagesearch.com/2026/09/14/dvc-pipelines-for-mlops-build-a-reproducible-ml-pipeline/"
+      "title": "Startup Keewano launches agent-focused database and pulls in $12M in funding",
+      "description": "Database startup Keewano today launched KeewanoDB, an event-oriented database designed to give artificial intelligence agents real-time context for analytics and decision-making. The startup also announced $12 million in funding from Hetz Ventures, Andreessen…",
+      "url": "https://siliconangle.com/2026/09/15/startup-keewano-launches-agent-focused-database-and-pulls-in-12m-in-funding/"
     },
     {
-      "title": "IT firms recycle regular software jobs with AI labels",
-      "description": "According to industry experts and staffing firm representatives, as well as a Bernstein research report, much of what is being advertised as ‘AI work’ remains rooted in traditional technology roles, albeit with the use of AI tools.",
-      "url": "https://www.livemint.com/companies/news/ai-impact-on-it-sector-jobs-in-india-11788773413028.html"
+      "title": "TSMC executive calls AI a ‘three-year-old superman’ as chipmaker takes cautious internal stance",
+      "description": "TSMC's cautious AI stance highlights the tension between rapid tech adoption and safeguarding proprietary processes in high-stakes industries.\nThe post TSMC executive calls AI a ‘three-year-old superman’ as chipmaker takes cautious internal stance appeared fi…",
+      "url": "https://cryptobriefing.com/tsmc-executive-ai-toddler-cautious-approach/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -53,29 +53,29 @@
     "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "--",
-    "condition": "Unable to fetch",
-    "wind": "--",
-    "humidity": "--",
-    "chance_rain": "--"
+    "temp_range": "84-88",
+    "condition": "Light rain shower",
+    "wind": "11 mph",
+    "humidity": "66%",
+    "chance_rain": "27%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-09-16",
       "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 1
+      "daysUntil": 0
     },
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 72
+      "daysUntil": 71
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 101
+      "daysUntil": 100
     }
   ],
-  "generatedAt": "2026-09-15T15:36:34.825Z"
+  "generatedAt": "2026-09-16T15:26:42.133Z"
 }
