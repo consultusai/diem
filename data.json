@@ -1,21 +1,21 @@
 {
-  "date": "September 16, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "September 17, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Startup Evvy raises $40M to accelerate precision diagnostics and medicine for women’s health",
-      "description": "Evvy, an artificial intelligence startup that’s looking to enhance women’s healthcare, said today it has closed on $40 million in Series B funding to scale its precision diagnostics and care platform. The round was led by Catalio Capital Management, with new …",
-      "url": "https://siliconangle.com/2026/09/15/ai-startup-evvy-raises-40m-to-accelerate-precision-diagnostics-and-medicine-for-womens-health/"
+      "title": "Architecting Production AI Across Clouds: Patterns That Decide System Survival",
+      "description": "Most enterprise AI post-mortems do not blame the model. They blame the storage tier that starved the accelerators, the identity policy that over-granted access, the cost model that ignored egress, the forecast that leaked future data, or the region that faile…",
+      "url": "https://dzone.com/articles/architecting-production-ai-across-clouds"
     },
     {
-      "title": "Startup Keewano launches agent-focused database and pulls in $12M in funding",
-      "description": "Database startup Keewano today launched KeewanoDB, an event-oriented database designed to give artificial intelligence agents real-time context for analytics and decision-making. The startup also announced $12 million in funding from Hetz Ventures, Andreessen…",
-      "url": "https://siliconangle.com/2026/09/15/startup-keewano-launches-agent-focused-database-and-pulls-in-12m-in-funding/"
+      "title": "Cyberthreats are moving faster than SMBs: Readiness must accelerate",
+      "description": "As AI adoption expands the attack surface and adds to the security workload, businesses need automation backed by experts",
+      "url": "https://www.welivesecurity.com/en/business-security/cyberthreats-moving-faster-smbs-readiness-must-accelerate/"
     },
     {
-      "title": "TSMC executive calls AI a ‘three-year-old superman’ as chipmaker takes cautious internal stance",
-      "description": "TSMC's cautious AI stance highlights the tension between rapid tech adoption and safeguarding proprietary processes in high-stakes industries.\nThe post TSMC executive calls AI a ‘three-year-old superman’ as chipmaker takes cautious internal stance appeared fi…",
-      "url": "https://cryptobriefing.com/tsmc-executive-ai-toddler-cautious-approach/"
+      "title": "One runaway AI agent racked up a $50,000 cloud bill",
+      "description": "Organizations are deploying autonomous AI systems that execute API calls, optimize production configurations, and analyze telemetry across hybrid cloud environments. At the same time, attacks are expanding from direct prompts to indirect prompt injection and …",
+      "url": "https://www.helpnetsecurity.com/2026/09/16/google-mandiant-enterprise-ai-security-risks-report/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,35 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "84-88",
+    "temp_range": "82-87",
     "condition": "Light rain shower",
     "wind": "11 mph",
     "humidity": "66%",
-    "chance_rain": "27%"
+    "chance_rain": "26%"
   },
   "celebration": null,
   "upcoming": [
     {
-      "date": "2026-09-16",
-      "event": "Bruno Mars concert (Charlie + Hayley)",
-      "daysUntil": 0
-    },
-    {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 71
+      "daysUntil": 70
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 100
+      "daysUntil": 99
     }
   ],
-  "generatedAt": "2026-09-16T15:26:42.133Z"
+  "generatedAt": "2026-09-17T15:34:28.991Z"
 }
