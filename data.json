@@ -1,21 +1,21 @@
 {
-  "date": "September 17, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "September 18, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Architecting Production AI Across Clouds: Patterns That Decide System Survival",
-      "description": "Most enterprise AI post-mortems do not blame the model. They blame the storage tier that starved the accelerators, the identity policy that over-granted access, the cost model that ignored egress, the forecast that leaked future data, or the region that faile…",
-      "url": "https://dzone.com/articles/architecting-production-ai-across-clouds"
+      "title": "Why automation may be the most important skill new professionals must learn",
+      "description": "The AI Agent and Business Automation E-Degree gives professionals 25+ hours of instruction from AI fundamentals through full automation.",
+      "url": "https://financialpost.com/personal-finance/business-essentials/ai-agent-business-automation-edegree"
     },
     {
-      "title": "Cyberthreats are moving faster than SMBs: Readiness must accelerate",
-      "description": "As AI adoption expands the attack surface and adds to the security workload, businesses need automation backed by experts",
-      "url": "https://www.welivesecurity.com/en/business-security/cyberthreats-moving-faster-smbs-readiness-must-accelerate/"
+      "title": "Hopeless Algorithms, Broken Promises: Why China’s Youth Are Losing Faith in the CCP",
+      "description": "China’s economic miracle was once celebrated as a model of rapid modernization, lifting millions out of poverty and creating dazzling skylines that symbolized progress. Yet beneath this glittering façade lies a sobering reality: millions of educated young Chi…",
+      "url": "https://english.khabarhub.com/2026/17/568141/"
     },
     {
-      "title": "One runaway AI agent racked up a $50,000 cloud bill",
-      "description": "Organizations are deploying autonomous AI systems that execute API calls, optimize production configurations, and analyze telemetry across hybrid cloud environments. At the same time, attacks are expanding from direct prompts to indirect prompt injection and …",
-      "url": "https://www.helpnetsecurity.com/2026/09/16/google-mandiant-enterprise-ai-security-risks-report/"
+      "title": "Scaling enterprise AI fleets with Alquimia and Red Hat OpenShift AI",
+      "description": "Building an AI agent in a Jupyter Notebook is a solved problem. With a handful of lines of Python and a large language model (LLM) API key, you can wire up a prototype that reads emails, invokes custom tools, and responds to users. It feels like magic.But whe…",
+      "url": "https://www.redhat.com/en/blog/scaling-enterprise-ai-fleets-alquimia-and-red-hat-openshift-ai"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "82-87",
-    "condition": "Light rain shower",
-    "wind": "11 mph",
-    "humidity": "66%",
-    "chance_rain": "26%"
+    "temp_range": "83-88",
+    "condition": "Sunny",
+    "wind": "6 mph",
+    "humidity": "63%",
+    "chance_rain": "47%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 70
+      "daysUntil": 69
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 99
+      "daysUntil": 98
     }
   ],
-  "generatedAt": "2026-09-17T15:34:28.991Z"
+  "generatedAt": "2026-09-18T15:03:03.985Z"
 }
