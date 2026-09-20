@@ -1,21 +1,21 @@
 {
-  "date": "September 19, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "September 20, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Document AI Market worth $35.34 billion by 2031 - Report by MarketsandMarkets™",
-      "description": "DELRAY BEACH, Fla., Sept. 18, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Document AI Market is projected to grow from USD 17.51 billion in 2026 to USD 35.34 billion by 2031, at a CAGR of 15.1%. Browse 350 market data Tables and 59 Figures sprea…",
-      "url": "https://www.prnewswire.com/news-releases/document-ai-market-worth-35-34-billion-by-2031--report-by-marketsandmarkets-302883038.html"
+      "title": "10 Reliable Machine Learning Development Companies in the USA for AI-Powered Personal Finance Apps in 2026",
+      "description": "Personal finance apps are moving beyond expense tracking and static dashboards. Most of them are now using machine learning to sort transactions, spot unusual activity, forecast cash flow, suggest savings actions, monitor credit health, and answer questions r…",
+      "url": "https://addicted2success.com/ai/best-machine-learning-development-companies-finance-apps/"
     },
     {
-      "title": "The AIDEs Framework: How We Built a “Theory of Everything” for AI Development Tools",
-      "description": "We are living in genuinely interesting times. AI is disrupting software development at a pace where new models, tools, and practices appear almost daily. Many teams’ natural first instinct is to spend ever more time chasing updates. After almost two years of …",
-      "url": "https://blog.jetbrains.com/research/2026/09/levels-of-ai-delegation/"
+      "title": "Why Do We Need Human Mathematicians Anymore?",
+      "description": "[This is a guest post by Po-Shen Loh, crossposted from his blog, where an illustrated version appears. This blog post was initially written in a different file format and converted using AI. — T.] Similar logic applies to every industry and every job. And it …",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/"
     },
     {
-      "title": "Presentation: Complexity and Creativity in Software Engineering",
-      "description": "Phillip Mortimer discusses the shift toward write-only software driven by AI code generation. He explains why traditional pull requests are broken and shares how engineering leaders can manage complexity by decoupling intent from implementation, automating co…",
-      "url": "https://www.infoq.com/presentations/ai-software-engineering-complexity/"
+      "title": "Who are we Now? – Jessitron",
+      "description": "This is based on my keynote at RubyConf 2026. Video, references There’s a philosopher in Naples, Italy,  way back in the 1700s who understood something important to software today. Giambattist…",
+      "url": "https://jessitron.com/2026/08/30/who-are-we-now/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "80-88",
-    "condition": "Partly Cloudy ",
-    "wind": "7 mph",
-    "humidity": "69%",
-    "chance_rain": "51%"
+    "temp_range": "82-86",
+    "condition": "Overcast ",
+    "wind": "4 mph",
+    "humidity": "64%",
+    "chance_rain": "14%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 68
+      "daysUntil": 67
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 97
+      "daysUntil": 96
     }
   ],
-  "generatedAt": "2026-09-19T14:31:49.986Z"
+  "generatedAt": "2026-09-20T14:44:32.875Z"
 }
