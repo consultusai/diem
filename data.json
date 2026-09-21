@@ -1,21 +1,11 @@
 {
-  "date": "September 20, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "September 21, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "10 Reliable Machine Learning Development Companies in the USA for AI-Powered Personal Finance Apps in 2026",
-      "description": "Personal finance apps are moving beyond expense tracking and static dashboards. Most of them are now using machine learning to sort transactions, spot unusual activity, forecast cash flow, suggest savings actions, monitor credit health, and answer questions r…",
-      "url": "https://addicted2success.com/ai/best-machine-learning-development-companies-finance-apps/"
-    },
-    {
-      "title": "Why Do We Need Human Mathematicians Anymore?",
-      "description": "[This is a guest post by Po-Shen Loh, crossposted from his blog, where an illustrated version appears. This blog post was initially written in a different file format and converted using AI. — T.] Similar logic applies to every industry and every job. And it …",
-      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/"
-    },
-    {
-      "title": "Who are we Now? – Jessitron",
-      "description": "This is based on my keynote at RubyConf 2026. Video, references There’s a philosopher in Naples, Italy,  way back in the 1700s who understood something important to software today. Giambattist…",
-      "url": "https://jessitron.com/2026/08/30/who-are-we-now/"
+      "title": "Daskalakis on Artificial Intelligence: ‘The risk of unpredictable behaviour is already real’",
+      "description": "The MIT professor examines the risks posed by advanced models and AI agents, and the need for strict safety safeguards\nThe post Daskalakis on Artificial Intelligence: ‘The risk of unpredictable behaviour is already real’ appeared first on ProtoThema English.",
+      "url": "https://en.protothema.gr/2026/09/20/daskalakis-on-artificial-intelligence-the-risk-of-unpredictable-behaviour-is-already-real/"
     }
   ],
   "miamiNews": [
@@ -47,30 +37,30 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "82-86",
-    "condition": "Overcast ",
-    "wind": "4 mph",
-    "humidity": "64%",
-    "chance_rain": "14%"
+    "temp_range": "81-87",
+    "condition": "Light rain shower",
+    "wind": "5 mph",
+    "humidity": "57%",
+    "chance_rain": "17%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 67
+      "daysUntil": 66
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 96
+      "daysUntil": 95
     }
   ],
-  "generatedAt": "2026-09-20T14:44:32.875Z"
+  "generatedAt": "2026-09-21T17:07:02.649Z"
 }
