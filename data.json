@@ -1,11 +1,21 @@
 {
-  "date": "September 21, 2026",
-  "dayOfWeek": "Monday",
+  "date": "September 22, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Daskalakis on Artificial Intelligence: ‘The risk of unpredictable behaviour is already real’",
-      "description": "The MIT professor examines the risks posed by advanced models and AI agents, and the need for strict safety safeguards\nThe post Daskalakis on Artificial Intelligence: ‘The risk of unpredictable behaviour is already real’ appeared first on ProtoThema English.",
-      "url": "https://en.protothema.gr/2026/09/20/daskalakis-on-artificial-intelligence-the-risk-of-unpredictable-behaviour-is-already-real/"
+      "title": "Anthropic Says Claude Leads 26% of Its Own R&D. Five Days Earlier, Its CEO Said the Industry Should Slow Down.",
+      "description": "On September 17, 2026, the Anthropic Institute published its inaugural R&D Automation Index, a prototype measurement of how much of the company’s AI research and development is performed by Claude. The disclosure arrived five days after CEO Dario Amodei publi…",
+      "url": "https://forkast.news/anthropic-says-claude-leads-26-of-its-own-rd-five-days-earlier-its-ceo-said-the-industry-should-slow-down/"
+    },
+    {
+      "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive",
+      "description": "As AI opens new paths to company data while making familiar attacks faster and cheaper, SMBs need protection designed around the time and expertise available to operate it.",
+      "url": "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/"
+    },
+    {
+      "title": "Edge AI Software Market worth $120.31 billion by 2032 - Report by MarketsandMarkets™",
+      "description": "DELRAY BEACH, Fla., Sept. 21, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the global Edge AI Software Market is estimated at USD 20.73 billion in 2026 and is projected to reach USD 120.31 billion by 2032, reflecting a 34.1% CAGR during the forecast …",
+      "url": "https://www.prnewswire.com/news-releases/edge-ai-software-market-worth-120-31-billion-by-2032--report-by-marketsandmarkets-302884411.html"
     }
   ],
   "miamiNews": [
@@ -37,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "81-87",
+    "temp_range": "80-84",
     "condition": "Light rain shower",
-    "wind": "5 mph",
-    "humidity": "57%",
-    "chance_rain": "17%"
+    "wind": "7 mph",
+    "humidity": "69%",
+    "chance_rain": "4%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 66
+      "daysUntil": 65
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 95
+      "daysUntil": 94
     }
   ],
-  "generatedAt": "2026-09-21T17:07:02.649Z"
+  "generatedAt": "2026-09-22T15:32:56.822Z"
 }
