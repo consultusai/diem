@@ -1,21 +1,21 @@
 {
-  "date": "September 22, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "September 23, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Anthropic Says Claude Leads 26% of Its Own R&D. Five Days Earlier, Its CEO Said the Industry Should Slow Down.",
-      "description": "On September 17, 2026, the Anthropic Institute published its inaugural R&D Automation Index, a prototype measurement of how much of the company’s AI research and development is performed by Claude. The disclosure arrived five days after CEO Dario Amodei publi…",
-      "url": "https://forkast.news/anthropic-says-claude-leads-26-of-its-own-rd-five-days-earlier-its-ceo-said-the-industry-should-slow-down/"
+      "title": "Spott raises $21M Series A led by Balderton for its AI platform for recruitment agencies",
+      "description": "Spott, a Leuven-based startup that sells recruitment agencies an AI-native applicant tracking system and CRM, has raised a $21M Series A led by Balderton Capital. Base10 Partners, Y Combinator, and Fortino also took part. Spott launched its main platform six …",
+      "url": "https://thenextweb.com/news/spott-raises-21m-series-a-balderton-recruitment"
     },
     {
-      "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive",
-      "description": "As AI opens new paths to company data while making familiar attacks faster and cheaper, SMBs need protection designed around the time and expertise available to operate it.",
-      "url": "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/"
+      "title": "With $35M in early funding, Baselayer is building the trust layer for the agentic economy",
+      "description": "Business identity and risk infrastructure startup Baselayer is shifting its attention to artificial intelligence agents after raising $35 million in early-stage funding today. Alongside the Series A round, it’s announcing the launch of its Agentic Identity Su…",
+      "url": "https://siliconangle.com/2026/09/22/with-35m-in-series-a-funding-baselayer-is-building-the-trust-layer-for-the-agentic-economy/"
     },
     {
-      "title": "Edge AI Software Market worth $120.31 billion by 2032 - Report by MarketsandMarkets™",
-      "description": "DELRAY BEACH, Fla., Sept. 21, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the global Edge AI Software Market is estimated at USD 20.73 billion in 2026 and is projected to reach USD 120.31 billion by 2032, reflecting a 34.1% CAGR during the forecast …",
-      "url": "https://www.prnewswire.com/news-releases/edge-ai-software-market-worth-120-31-billion-by-2032--report-by-marketsandmarkets-302884411.html"
+      "title": "Beemo Automation Partners with $28.6B Choreo to Build AI Capabilities That Support Growth, Client Experience and Operational Scale",
+      "description": "Partnership establishes foundational AI capabilities designed to enhance advisor effectiveness, improve organizational consistency and unlock greater access to institutional knowledge CHICAGO, Sept. 22, 2026 /PRNewswire/ -- Beemo Automation, a managed AI serv…",
+      "url": "https://www.prnewswire.com/news-releases/beemo-automation-partners-with-28-6b-choreo-to-build-ai-capabilities-that-support-growth-client-experience-and-operational-scale-302885964.html"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "80-84",
+    "temp_range": "79-83",
     "condition": "Light rain shower",
-    "wind": "7 mph",
-    "humidity": "69%",
-    "chance_rain": "4%"
+    "wind": "13 mph",
+    "humidity": "74%",
+    "chance_rain": "49%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 65
+      "daysUntil": 64
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 94
+      "daysUntil": 93
     }
   ],
-  "generatedAt": "2026-09-22T15:32:56.822Z"
+  "generatedAt": "2026-09-23T15:28:41.727Z"
 }
