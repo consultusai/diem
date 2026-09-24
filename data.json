@@ -1,33 +1,33 @@
 {
-  "date": "September 23, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "September 24, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Spott raises $21M Series A led by Balderton for its AI platform for recruitment agencies",
-      "description": "Spott, a Leuven-based startup that sells recruitment agencies an AI-native applicant tracking system and CRM, has raised a $21M Series A led by Balderton Capital. Base10 Partners, Y Combinator, and Fortino also took part. Spott launched its main platform six …",
-      "url": "https://thenextweb.com/news/spott-raises-21m-series-a-balderton-recruitment"
+      "title": "What Full-Stack AI Engineering Means in Real Projects",
+      "description": "Quick answer: Full-stack AI engineering is the practice of building an AI feature from end to end: the data and retrieval layer, the model and orchestration layer, the application interface, and the production monitoring that keeps it working. It treats a mod…",
+      "url": "https://dzone.com/articles/full-stack-ai-engineering"
     },
     {
-      "title": "With $35M in early funding, Baselayer is building the trust layer for the agentic economy",
-      "description": "Business identity and risk infrastructure startup Baselayer is shifting its attention to artificial intelligence agents after raising $35 million in early-stage funding today. Alongside the Series A round, it’s announcing the launch of its Agentic Identity Su…",
-      "url": "https://siliconangle.com/2026/09/22/with-35m-in-series-a-funding-baselayer-is-building-the-trust-layer-for-the-agentic-economy/"
+      "title": "‘The future isn’t AI or people. It’s AI helping people do their jobs better’",
+      "description": "Irish business leaders are investing in AI to streamline operations and free up time for building relationships",
+      "url": "https://www.irishtimes.com/business/2026/09/23/the-future-isnt-ai-or-people-its-ai-helping-people-do-their-jobs-better/"
     },
     {
-      "title": "Beemo Automation Partners with $28.6B Choreo to Build AI Capabilities That Support Growth, Client Experience and Operational Scale",
-      "description": "Partnership establishes foundational AI capabilities designed to enhance advisor effectiveness, improve organizational consistency and unlock greater access to institutional knowledge CHICAGO, Sept. 22, 2026 /PRNewswire/ -- Beemo Automation, a managed AI serv…",
-      "url": "https://www.prnewswire.com/news-releases/beemo-automation-partners-with-28-6b-choreo-to-build-ai-capabilities-that-support-growth-client-experience-and-operational-scale-302885964.html"
+      "title": "The Race to Mass-Produce Silicon Photonics",
+      "description": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The artificial intelligence boom is usually measured in chips. More powerful models require more accelerators, larger clusters and data centers capable of supplying extra…",
+      "url": "https://technode.com/2026/09/23/the-race-to-mass-produce-silicon-photonics/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Troubled spy camera giant Flock offers employees THOUSANDS of dollars to quit as customers flee amid mounting backlash",
+      "description": "After a wave of privacy concerns, alleged misuse and public protests, the Atlanta-based company is losing customers and buying out employees.",
+      "url": "https://www.dailymail.com/yourmoney/article-16153615/flock-safety-spy-camera-employee-exodus.html"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "79-83",
-    "condition": "Light rain shower",
-    "wind": "13 mph",
-    "humidity": "74%",
-    "chance_rain": "49%"
+    "temp_range": "81-84",
+    "condition": "Patchy rain nearby",
+    "wind": "5 mph",
+    "humidity": "71%",
+    "chance_rain": "23%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 64
+      "daysUntil": 63
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 93
+      "daysUntil": 92
     }
   ],
-  "generatedAt": "2026-09-23T15:28:41.727Z"
+  "generatedAt": "2026-09-24T15:51:06.834Z"
 }
