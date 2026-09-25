@@ -1,33 +1,33 @@
 {
-  "date": "September 24, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "September 25, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "What Full-Stack AI Engineering Means in Real Projects",
-      "description": "Quick answer: Full-stack AI engineering is the practice of building an AI feature from end to end: the data and retrieval layer, the model and orchestration layer, the application interface, and the production monitoring that keeps it working. It treats a mod…",
-      "url": "https://dzone.com/articles/full-stack-ai-engineering"
+      "title": "How Much Do Custom AI Development Services Cost? Pricing & ROI Breakdown",
+      "description": "Custom AI application budgets often start near $10,000 for a focused proof of concept. Complex production platforms can exceed $200,000. Enterprise programs with extensive data engineering, security controls and integrations can require larger investment plus…",
+      "url": "https://slashdot.org/submission/17350963/how-much-do-custom-ai-development-services-cost-pricing-roi-breakdown"
     },
     {
-      "title": "‘The future isn’t AI or people. It’s AI helping people do their jobs better’",
-      "description": "Irish business leaders are investing in AI to streamline operations and free up time for building relationships",
-      "url": "https://www.irishtimes.com/business/2026/09/23/the-future-isnt-ai-or-people-its-ai-helping-people-do-their-jobs-better/"
+      "title": "Silicon Valley AI Academy Seeks ‘Main Character’ Students",
+      "description": "Silicon Valley AI Academy Seeks ‘Main Character’ Students\n\n \n\n\n \nkathryn.palmer…\n\nThu, 09/24/2026 - 03:00 AM\n\nThe venture capital firm Andreessen Horowitz is launching an unaccredited academy that promises to show young people how to excel in the AI era for t…",
+      "url": "https://www.insidehighered.com/news/tech-innovation/teaching-learning/2026/09/24/silicon-valley-ai-academy-seeks-main-character"
     },
     {
-      "title": "The Race to Mass-Produce Silicon Photonics",
-      "description": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. The artificial intelligence boom is usually measured in chips. More powerful models require more accelerators, larger clusters and data centers capable of supplying extra…",
-      "url": "https://technode.com/2026/09/23/the-race-to-mass-produce-silicon-photonics/"
+      "title": "MCP Explained in 5 Minutes",
+      "description": "A visual guide to MCP that explains how it works, how to use it with Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagrams that make the whole concept easy for anyone to understand.",
+      "url": "https://www.kdnuggets.com/mcp-explained-in-5-minutes"
     }
   ],
   "miamiNews": [
     {
-      "title": "Troubled spy camera giant Flock offers employees THOUSANDS of dollars to quit as customers flee amid mounting backlash",
-      "description": "After a wave of privacy concerns, alleged misuse and public protests, the Atlanta-based company is losing customers and buying out employees.",
-      "url": "https://www.dailymail.com/yourmoney/article-16153615/flock-safety-spy-camera-employee-exodus.html"
+      "title": "Trump Discloses 1,156 July Trades, Including Up to $25 Million Each in Microsoft, Amazon Sales",
+      "description": "President Donald Trump disclosed 1,156 securities transactions made on his behalf in July, including sales of as much as $25 million each of Microsoft and Amazon shares, according to a filing released Tuesday. The transactions totaled between roughly $79 mill…",
+      "url": "https://www.naturalnews.com/2026-09-24-trump-discloses-july-trades-microsoft-amazon.html"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "81-84",
-    "condition": "Patchy rain nearby",
-    "wind": "5 mph",
-    "humidity": "71%",
-    "chance_rain": "23%"
+    "temp_range": "79-88",
+    "condition": "Sunny",
+    "wind": "13 mph",
+    "humidity": "65%",
+    "chance_rain": "4%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 63
+      "daysUntil": 62
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 92
+      "daysUntil": 91
     }
   ],
-  "generatedAt": "2026-09-24T15:51:06.834Z"
+  "generatedAt": "2026-09-25T15:51:15.803Z"
 }
