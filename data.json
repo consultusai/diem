@@ -1,33 +1,28 @@
 {
-  "date": "September 25, 2026",
-  "dayOfWeek": "Friday",
+  "date": "September 26, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "How Much Do Custom AI Development Services Cost? Pricing & ROI Breakdown",
-      "description": "Custom AI application budgets often start near $10,000 for a focused proof of concept. Complex production platforms can exceed $200,000. Enterprise programs with extensive data engineering, security controls and integrations can require larger investment plus…",
-      "url": "https://slashdot.org/submission/17350963/how-much-do-custom-ai-development-services-cost-pricing-roi-breakdown"
+      "title": "Avnet and The University of Hong Kong Open EMUS Lab to Accelerate AI Innovation and Commercialization in Hong Kong",
+      "description": "Avnet (NASDAQ: AVT), a leading global technology distributor and solutions provider, today joined The University of Hong Kong (HKU) in officially opening the ...",
+      "url": "https://en.antaranews.com/news/432856/avnet-and-the-university-of-hong-kong-open-emus-lab-to-accelerate-ai-innovation-and-commercialization-in-hong-kong"
     },
     {
-      "title": "Silicon Valley AI Academy Seeks ‘Main Character’ Students",
-      "description": "Silicon Valley AI Academy Seeks ‘Main Character’ Students\n\n \n\n\n \nkathryn.palmer…\n\nThu, 09/24/2026 - 03:00 AM\n\nThe venture capital firm Andreessen Horowitz is launching an unaccredited academy that promises to show young people how to excel in the AI era for t…",
-      "url": "https://www.insidehighered.com/news/tech-innovation/teaching-learning/2026/09/24/silicon-valley-ai-academy-seeks-main-character"
-    },
-    {
-      "title": "MCP Explained in 5 Minutes",
-      "description": "A visual guide to MCP that explains how it works, how to use it with Claude Code, Tavily, GitHub, and Playwright, and what is new through simple diagrams that make the whole concept easy for anyone to understand.",
-      "url": "https://www.kdnuggets.com/mcp-explained-in-5-minutes"
+      "title": "More agents go rogue — but AI companies aren’t slowing down yet",
+      "description": "It’s becoming more apparent every day that artificial intelligence agents are escaping our control — but it’s not yet apparent who or what is going to rein them in. This week a researcher found that a swarm of AI agents, at least two of them from OpenAI, hack…",
+      "url": "https://siliconangle.com/2026/09/25/more-agents-go-rogue-but-ai-companies-arent-slowing-down-yet/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Trump Discloses 1,156 July Trades, Including Up to $25 Million Each in Microsoft, Amazon Sales",
-      "description": "President Donald Trump disclosed 1,156 securities transactions made on his behalf in July, including sales of as much as $25 million each of Microsoft and Amazon shares, according to a filing released Tuesday. The transactions totaled between roughly $79 mill…",
-      "url": "https://www.naturalnews.com/2026-09-24-trump-discloses-july-trades-microsoft-amazon.html"
+      "title": "Tech Bros and the Trump Administration Are Building an AI Empire—In the Philippines",
+      "description": "In a move that upended the international conversation about AI, earlier this month, a researcher at the AI company Anthropic named Jacob Coxon resigned and took to X to sound the alarm about what he saw as a dangerous trajectory. “The people building AI earne…",
+      "url": "https://www.motherjones.com/politics/2026/09/tech-bros-and-the-trump-administration-are-building-an-ai-empire-in-the-philippines-pax-silica/"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,30 +42,30 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "79-88",
-    "condition": "Sunny",
-    "wind": "13 mph",
-    "humidity": "65%",
-    "chance_rain": "4%"
+    "temp_range": "79-87",
+    "condition": "Partly Cloudy ",
+    "wind": "9 mph",
+    "humidity": "66%",
+    "chance_rain": "5%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 62
+      "daysUntil": 61
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 91
+      "daysUntil": 90
     }
   ],
-  "generatedAt": "2026-09-25T15:51:15.803Z"
+  "generatedAt": "2026-09-26T15:01:34.189Z"
 }
