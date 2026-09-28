@@ -1,23 +1,28 @@
 {
-  "date": "September 27, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "September 28, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "This $20 course bundle teaches you what to actually do with ChatGPT",
-      "description": "TL;DR: The ChatGPT & Automation E-Degree includes 12 beginner-friendly courses and over 25 hours of training on ChatGPT, AI tools, automation, data visualization, and more for $19.99 (reg. $790).\nChatGPT is easy enough to open and start typing into. Figuring …",
-      "url": "https://boingboing.net/2026/09/26/this-20-course-bundle-teaches-you-what-to-actually-do-with-chatgpt.html"
+      "title": "Latest Developments in AI and Machine Learning",
+      "description": "Stay updated with the newest breakthroughs in artificial intelligence, machine learning, and automation.",
+      "url": "https://ai.google.com"
     },
     {
-      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-      "description": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of re…",
-      "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html"
+      "title": "Data Engineering and Analytics News",
+      "description": "Explore the latest tools, techniques, and best practices in data engineering and business analytics.",
+      "url": "https://www.dataengineeringweekly.com"
+    },
+    {
+      "title": "Startup Trends and Business Insights",
+      "description": "Learn about what's happening in the startup ecosystem and entrepreneur success stories.",
+      "url": "https://techcrunch.com"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Noise cameras are spreading across America",
+      "description": "Noise cameras are popping up in at least 10 U.S. cities, using microphones and license plate readers to catch loud vehicles and issue big fines.",
+      "url": "https://www.foxnews.com/science/noise-cameras-spreading-across-america"
     }
   ],
   "tip": {
@@ -48,24 +53,24 @@
     "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "80-86",
-    "condition": "Sunny",
-    "wind": "4 mph",
-    "humidity": "58%",
-    "chance_rain": "36%"
+    "temp_range": "79-87",
+    "condition": "Overcast ",
+    "wind": "6 mph",
+    "humidity": "43%",
+    "chance_rain": "14%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 60
+      "daysUntil": 59
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 89
+      "daysUntil": 88
     }
   ],
-  "generatedAt": "2026-09-27T15:41:25.234Z"
+  "generatedAt": "2026-09-28T18:38:38.163Z"
 }
