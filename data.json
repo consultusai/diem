@@ -1,33 +1,33 @@
 {
-  "date": "September 28, 2026",
-  "dayOfWeek": "Monday",
+  "date": "September 29, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Latest Developments in AI and Machine Learning",
-      "description": "Stay updated with the newest breakthroughs in artificial intelligence, machine learning, and automation.",
-      "url": "https://ai.google.com"
+      "title": "Arcadis deepens Autodesk collaboration to accelerate AI and data-led delivery for clients",
+      "description": "AMSTERDAM, Sept. 28, 2026 /PRNewswire/ -- Arcadis (EURONEXT: ARCAD), the world's leading company delivering data-driven sustainable design, engineering and consultancy solutions for natural and built assets, today announced an expanded collaboration with Auto…",
+      "url": "https://www.prnewswire.com/news-releases/arcadis-deepens-autodesk-collaboration-to-accelerate-ai-and-data-led-delivery-for-clients-302890861.html"
     },
     {
-      "title": "Data Engineering and Analytics News",
-      "description": "Explore the latest tools, techniques, and best practices in data engineering and business analytics.",
-      "url": "https://www.dataengineeringweekly.com"
+      "title": "Applied mathematics has met the machine before",
+      "description": "Why does AI worry applied mathematicians less? We have met the machine before: human computers moved up to designing algorithms, and a computer run led to the solution. Driven by problems rather than great conjectures, we expect AI, used with careful verifica…",
+      "url": "https://proofsandprompts.com/2026/09/28/applied-mathematics-has-met-the-machine-before/"
     },
     {
-      "title": "Startup Trends and Business Insights",
-      "description": "Learn about what's happening in the startup ecosystem and entrepreneur success stories.",
-      "url": "https://techcrunch.com"
+      "title": "Synopsys debuts Autopilot platform for developing chips autonomously using AI",
+      "description": "Synopsys unveiled seven AgentEngineer agents on its new Autopilot platform, with general availability planned for the end of 2026.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026"
     }
   ],
   "miamiNews": [
     {
-      "title": "Noise cameras are spreading across America",
-      "description": "Noise cameras are popping up in at least 10 U.S. cities, using microphones and license plate readers to catch loud vehicles and issue big fines.",
-      "url": "https://www.foxnews.com/science/noise-cameras-spreading-across-america"
+      "title": "This Colorado city wants to be the first out with rules for delivery drones — before they even get here",
+      "description": "No drones are dropping off packages at homes in Colorado yet -- but they're coming. In preparation, a north metro Denver city's leaders are aiming to enact the first Colorado regulations.",
+      "url": "https://www.denverpost.com/2026/09/28/delivery-drones-northglenn-regulations-walmart/"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "79-87",
-    "condition": "Overcast ",
-    "wind": "6 mph",
-    "humidity": "43%",
-    "chance_rain": "14%"
+    "temp_range": "78-84",
+    "condition": "Patchy rain nearby",
+    "wind": "5 mph",
+    "humidity": "63%",
+    "chance_rain": "12%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 59
+      "daysUntil": 58
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 88
+      "daysUntil": 87
     }
   ],
-  "generatedAt": "2026-09-28T18:38:38.163Z"
+  "generatedAt": "2026-09-29T16:55:19.297Z"
 }
