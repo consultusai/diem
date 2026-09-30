@@ -1,28 +1,28 @@
 {
-  "date": "September 29, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "September 30, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Arcadis deepens Autodesk collaboration to accelerate AI and data-led delivery for clients",
-      "description": "AMSTERDAM, Sept. 28, 2026 /PRNewswire/ -- Arcadis (EURONEXT: ARCAD), the world's leading company delivering data-driven sustainable design, engineering and consultancy solutions for natural and built assets, today announced an expanded collaboration with Auto…",
-      "url": "https://www.prnewswire.com/news-releases/arcadis-deepens-autodesk-collaboration-to-accelerate-ai-and-data-led-delivery-for-clients-302890861.html"
+      "title": "Global AI market could hit $6 trillion annually by 2031 through unlocking value and innovation - Bain & Co's 7th Global Technology Report",
+      "description": "As AI compute demand grows and creates value in bottleneck technologies, hardware and semiconductor companies' market capitalization grew at 24% annually from 2020 to 2026 vs. 6% for software AI absorption becomes the competitive variable as enterprises look …",
+      "url": "https://www.prnewswire.com/news-releases/global-ai-market-could-hit-6-trillion-annually-by-2031-through-unlocking-value-and-innovation--bain--cos-7th-global-technology-report-302891178.html"
     },
     {
-      "title": "Applied mathematics has met the machine before",
-      "description": "Why does AI worry applied mathematicians less? We have met the machine before: human computers moved up to designing algorithms, and a computer run led to the solution. Driven by problems rather than great conjectures, we expect AI, used with careful verifica…",
-      "url": "https://proofsandprompts.com/2026/09/28/applied-mathematics-has-met-the-machine-before/"
+      "title": "Rig Security launches with $12M to watch AI agents that run under employees’ accounts",
+      "description": "Israeli identity security startup Rig Security Inc. launched today with $12 million in new funding to help enterprises keep watch over the artificial intelligence agents that operate under their employees’ accounts. Rig’s platform is aimed at a blind spot in …",
+      "url": "https://siliconangle.com/2026/09/29/rig-security-launches-with-12m-to-watch-ai-agents-that-run-under-employees-accounts/"
     },
     {
-      "title": "Synopsys debuts Autopilot platform for developing chips autonomously using AI",
-      "description": "Synopsys unveiled seven AgentEngineer agents on its new Autopilot platform, with general availability planned for the end of 2026.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026"
+      "title": "Cybersecurity jobs available right now: September 29, 2026",
+      "description": "Application Security Researcher Novee Security | Israel | Hybrid – View job details As an Application Security Researcher, you will test web applications and APIs to verify vulnerabilities found by Novee’s AI platform and document how they can be exploited. Y…",
+      "url": "https://www.helpnetsecurity.com/2026/09/29/cybersecurity-jobs-available-right-now-september-29-2026/"
     }
   ],
   "miamiNews": [
     {
-      "title": "This Colorado city wants to be the first out with rules for delivery drones — before they even get here",
-      "description": "No drones are dropping off packages at homes in Colorado yet -- but they're coming. In preparation, a north metro Denver city's leaders are aiming to enact the first Colorado regulations.",
-      "url": "https://www.denverpost.com/2026/09/28/delivery-drones-northglenn-regulations-walmart/"
+      "title": "Career Prep When No One Knows What’s Next",
+      "description": "Career Prep When No One Knows What’s Next\n\n \n\n\n \ncolleen.flaherty\n\nTue, 09/29/2026 - 03:00 AM\n\nMaking sure graduates get jobs comes with high stakes—and the jobs outlook is especially hazy. This is what colleges are doing to prepare students for an uncertain …",
+      "url": "https://www.insidehighered.com/news/student-success/life-after-college/2026/09/29/future-proofing-graduates-uncertain-labor-market"
     }
   ],
   "tip": {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "78-84",
-    "condition": "Patchy rain nearby",
-    "wind": "5 mph",
-    "humidity": "63%",
-    "chance_rain": "12%"
+    "temp_range": "80-83",
+    "condition": "Light rain shower",
+    "wind": "13 mph",
+    "humidity": "65%",
+    "chance_rain": "14%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 58
+      "daysUntil": 57
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 87
+      "daysUntil": 86
     }
   ],
-  "generatedAt": "2026-09-29T16:55:19.297Z"
+  "generatedAt": "2026-09-30T16:52:07.126Z"
 }
