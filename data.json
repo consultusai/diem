@@ -1,33 +1,33 @@
 {
-  "date": "October 1, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "October 2, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "description": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next ge…",
-      "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/"
+      "title": "Presentation: Beyond Observability: Evolving Production Operations in the Age of AI",
+      "description": "The panelists discuss how production operations are evolving with AI, turning operational data into actionable insights for incident response. They explain how automation and new architectural practices help engineering teams build more understandable systems…",
+      "url": "https://www.infoq.com/presentations/ai-production-operations/"
     },
     {
-      "title": "How Software Development Partners Help Companies Build Smarter Operations",
-      "description": "Software Development Partners  In flexible business environments, legacy operational models consistently hit performance ceilings. Organizations often discover that off the shelf platforms force teams into rigid workflows, creating fragmented data silos, heav…",
-      "url": "https://cloudtweaks.com/2026/09/how-software-development-partners-help-companies-build-smarter-operations/"
+      "title": "Metaview wants to eliminate recruiting grunt work and speed up hiring after raising $60M in funding",
+      "description": "Artificial intelligence recruiting software startup Metaview Labs Inc. said today the industry is ready for a “Claude Code moment” after it closed on $60 million in a Series C funding. The round was led by Insight Partners and saw the participation of GV, See…",
+      "url": "https://siliconangle.com/2026/09/30/metaview-wants-to-eliminate-recruiting-grunt-work-and-speed-up-hiring-after-raising-60m-in-funding/"
     },
     {
-      "title": "The Man Who Built China’s Screen Giant Is Betting on RISC-V",
-      "description": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. Wang Dongsheng has already spent one career proving that a Chinese company could compete in one of the technology industry’s most capital-intensive businesses. In 1993, h…",
-      "url": "https://technode.com/2026/09/30/the-man-who-built-chinas-screen-giant-is-betting-on-risc-v/"
+      "title": "A look back before we look forward: A Developer Survey retrospective",
+      "description": "This analysis compares the 2024 and 2025 Developer Survey data across three connected stories: the evolution of AI, humans at work, and demographics and community.",
+      "url": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Ken Griffin Gives Record $3 Billion to Carnegie Mellon to Launch Miami Campus in Biggest College Gift Ever",
-      "description": "Citadel founder Ken Griffin has pledged $3 billion to Carnegie Mellon University, the largest individual gift in US higher education, including $2 billion for a Miami campus.",
-      "url": "https://www.ibtimes.com.au/ken-griffin-record-gift-carnegie-mellon-miami-campus-1876088"
+      "title": "5W Expands Tampa Headquarters as Firm Accelerates Growth Strategy in Florida",
+      "description": "Independent PR firm doubles down on Tampa with expanded headquarters, growing local team, and plans to pursue strategic acquisitions. TAMPA, Fla., Oct. 1, 2026 /PRNewswire/ -- 5W, one of the largest independently owned PR and communications agencies in the U.…",
+      "url": "https://www.prnewswire.com/news-releases/5w-expands-tampa-headquarters-as-firm-accelerates-growth-strategy-in-florida-302896181.html"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -53,24 +53,24 @@
     "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "78-84",
-    "condition": "Light rain shower",
-    "wind": "15 mph",
-    "humidity": "70%",
-    "chance_rain": "67%"
+    "temp_range": "79-85",
+    "condition": "Patchy rain nearby",
+    "wind": "14 mph",
+    "humidity": "74%",
+    "chance_rain": "26%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 56
+      "daysUntil": 55
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 85
+      "daysUntil": 84
     }
   ],
-  "generatedAt": "2026-10-01T17:25:11.457Z"
+  "generatedAt": "2026-10-02T16:43:06.219Z"
 }
