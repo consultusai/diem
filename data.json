@@ -1,33 +1,33 @@
 {
-  "date": "October 2, 2026",
-  "dayOfWeek": "Friday",
+  "date": "October 3, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "Presentation: Beyond Observability: Evolving Production Operations in the Age of AI",
-      "description": "The panelists discuss how production operations are evolving with AI, turning operational data into actionable insights for incident response. They explain how automation and new architectural practices help engineering teams build more understandable systems…",
-      "url": "https://www.infoq.com/presentations/ai-production-operations/"
+      "title": "Clay’s Kareem Amin joins Disrupt 2026 | TechCrunch",
+      "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/"
     },
     {
-      "title": "Metaview wants to eliminate recruiting grunt work and speed up hiring after raising $60M in funding",
-      "description": "Artificial intelligence recruiting software startup Metaview Labs Inc. said today the industry is ready for a “Claude Code moment” after it closed on $60 million in a Series C funding. The round was led by Insight Partners and saw the participation of GV, See…",
-      "url": "https://siliconangle.com/2026/09/30/metaview-wants-to-eliminate-recruiting-grunt-work-and-speed-up-hiring-after-raising-60m-in-funding/"
+      "title": "5 Proven Techniques for Token Compression and Prompt Optimization",
+      "description": "Reduce costs, improve response quality, and build leaner AI applications with these prompt engineering strategies.",
+      "url": "https://www.kdnuggets.com/5-proven-techniques-for-token-compression-and-prompt-optimization"
     },
     {
-      "title": "A look back before we look forward: A Developer Survey retrospective",
-      "description": "This analysis compares the 2024 and 2025 Developer Survey data across three connected stories: the evolution of AI, humans at work, and demographics and community.",
-      "url": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/"
+      "title": "AI broke the economics of software. Vayu wants to be the first to tell a CFO which customers are losing them money",
+      "description": "Here is a problem the software industry did not have three years ago. A customer signs a contract for an AI product. They use it heavily, which is what every vendor wants. Every one of those uses costs the vendor money: tokens, compute, third-party model call…",
+      "url": "https://thenextweb.com/news/vayu-revenue-intelligence-hub-ai-margins-cfo"
     }
   ],
   "miamiNews": [
     {
-      "title": "5W Expands Tampa Headquarters as Firm Accelerates Growth Strategy in Florida",
-      "description": "Independent PR firm doubles down on Tampa with expanded headquarters, growing local team, and plans to pursue strategic acquisitions. TAMPA, Fla., Oct. 1, 2026 /PRNewswire/ -- 5W, one of the largest independently owned PR and communications agencies in the U.…",
-      "url": "https://www.prnewswire.com/news-releases/5w-expands-tampa-headquarters-as-firm-accelerates-growth-strategy-in-florida-302896181.html"
+      "title": "The jobs report, Nike's China conundrum, Burger King's franchise bet and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2026/10/02/5-things-to-know-before-the-stock-market-opens.html"
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "79-85",
-    "condition": "Patchy rain nearby",
-    "wind": "14 mph",
-    "humidity": "74%",
-    "chance_rain": "26%"
+    "temp_range": "80-84",
+    "condition": "Overcast ",
+    "wind": "12 mph",
+    "humidity": "81%",
+    "chance_rain": "38%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 55
+      "daysUntil": 54
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 84
+      "daysUntil": 83
     }
   ],
-  "generatedAt": "2026-10-02T16:43:06.219Z"
+  "generatedAt": "2026-10-03T15:09:55.502Z"
 }
