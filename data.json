@@ -1,28 +1,28 @@
 {
-  "date": "October 6, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "October 7, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Collibra acquires trail ML to automate AI governance from policy to production",
-      "description": "Combination brings agent-powered automation, continuous assessment and runtime control to Collibra, helping enterprises automate governance and enforce AI policies, regulations and standards across the AI lifecycle. NEW YORK, Oct. 5, 2026 /PRNewswire/ -- Coll…",
-      "url": "https://www.prnewswire.com/news-releases/collibra-acquires-trail-ml-to-automate-ai-governance-from-policy-to-production-302897376.html"
+      "title": "Identity-aware AI data agents with AWS Lake Formation and Trusted Identity Propagation",
+      "description": "You’re building a data agent that lets business users ask questions about lakehouse data in natural language. You’ve already built governance policies that control who can access which datasets. The challenge is making the agent respect those rules without re…",
+      "url": "https://aws.amazon.com/blogs/security/identity-aware-ai-data-agents-with-aws-lake-formation-and-trusted-identity-propagation/"
     },
     {
-      "title": "Show HN: Decision models remove training, not production ML Engineering",
-      "description": "A reusable decision model can remove task-specific training from the critical path. It cannot remove task specification, representative evidence, calibration, selective automation, replay, monitoring, or change control. What actually changes in the ML lifecyc…",
-      "url": "https://agentunicorn.ai/research/decision-models-production"
+      "title": "AI Assistant Market worth $26.75 billion by 2031 - Report by MarketsandMarkets™",
+      "description": "DELRAY BEACH, Fla., Oct. 6, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the AI Assistant Market is slated to expand from USD 7.11 billion in 2026 to USD 26.75 billion by 2031, at a CAGR of 30.4% during the forecast period. Browse 350 market data Tab…",
+      "url": "https://www.prnewswire.com/news-releases/ai-assistant-market-worth-26-75-billion-by-2031--report-by-marketsandmarkets-302899506.html"
     },
     {
-      "title": "I Just Witnessed the AI That Will Replace the Vast Majority of Human Desk Jobs â And It’s Running In My Data Center",
-      "description": "Witness to Real AI Intelligence I am not theorizing about artificial intelligence replacing desk jobs. I just built it, deployed it, and watched it work. After weeks of sweating over custom thermal management, power delivery tuning, and RAM offloading across …",
-      "url": "https://www.naturalnews.com/2026-10-05-just-witnessed-ai-replace-majority-desk-jobs.html"
+      "title": "Cybersecurity jobs available right now: October 6, 2026",
+      "description": "Associate IAM Engineer New York City Office of Technology & Innovation | USA | On-site – View job details As an Associate IAM Engineer, you will support daily identity and access management operations in Microsoft Entra ID and related platforms. You will mana…",
+      "url": "https://www.helpnetsecurity.com/2026/10/06/cybersecurity-jobs-available-right-now-october-6-2026/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Treasure AI Bets on Click-Based Email Pricing, Launches Personalization Studio",
+      "description": "Treasure AI will charge by email engagement, and it just launched real-time web personalization to back the bet.\nContinue reading...",
+      "url": "https://www.cmswire.com/digital-marketing/treasure-ai-bets-on-click-based-email-pricing-launches-personalization-studio/"
     }
   ],
   "tip": {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "82-86",
-    "condition": "Partly Cloudy ",
-    "wind": "8 mph",
+    "temp_range": "82-89",
+    "condition": "Cloudy ",
+    "wind": "9 mph",
     "humidity": "59%",
-    "chance_rain": "21%"
+    "chance_rain": "19%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 51
+      "daysUntil": 50
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 80
+      "daysUntil": 79
     }
   ],
-  "generatedAt": "2026-10-06T17:18:10.496Z"
+  "generatedAt": "2026-10-07T17:51:31.394Z"
 }
