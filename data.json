@@ -1,33 +1,33 @@
 {
-  "date": "October 8, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "October 9, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock",
-      "description": "Cornerstone OnDemand built Orion AI, a multi-agent system on Amazon Bedrock and Strands Agents, to turn database operations from reactive firefighting into proactive automation. A three-person team cut database diagnosis from 45 minutes to 10, a 78% reduction…",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock/"
+      "title": "Top 5 Companies Helping Businesses Build Smarter AI Chatbots",
+      "description": "A chatbot can look impressive in a demo and still fall apart once real customers start using it. The difficult part is rarely the chat window itself. Problems usually appear behind it: outdated product data, disconnected systems, weak search, poor escalation …",
+      "url": "https://addicted2success.com/ai/top-enterprise-ai-chatbot-companies-guide/"
     },
     {
-      "title": "Beyond hours saved: Building the business case for agentic automation",
-      "description": "The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception handling, decision quality, and maintenance economics, and t…",
-      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/"
+      "title": "How AI Is Changing Strategy: Rethinking What Your Business Is Designed to Do",
+      "description": "AI is advancing so quickly that companies can’t afford to treat it as simply another productivity tool; it is fundamentally reshaping strategy. In this final episode of our special four-part series on how AI is changing leadership, Wharton professor and AI ex…",
+      "url": "https://hbr.org/podcast/2026/10/how-ai-is-changing-strategy-rethinking-what-your-business-is-designed-to-do"
     },
     {
-      "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
-      "description": "Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. Learn how a layered, multi-agent architecture with cross-Region inference and Amazon Bedrock Guardrails deliv…",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/"
+      "title": "New Relic Debuts Command-Line Observability Tool for Developers and AI Agents",
+      "description": "New Relic has unveiled Ground Truth CLI, a command-line tool that enables software developers and AI agents to analyze system performance and verify whether technical issues have been resolved without needing to use dashboards. The release reflects a big shif…",
+      "url": "https://devops.com/new-relic-debuts-command-line-observability-tool-for-developers-and-ai-agents/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Target’s new employee dress code draws backlash: ‘Why the f–k do I need an apron?’",
-      "description": "Target is rolling out a new dress code for its grocery workers -- sparking employee complaints that the duds will get in the way of doing their jobs, not to mention make them look like dorks.",
-      "url": "https://nypost.com/2026/10/07/business/targets-new-employee-dress-code-draws-backlash-why-the-f-k-do-i-need-an-apron/"
+      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion | TechCrunch",
+      "description": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -53,24 +53,24 @@
     "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "82-89",
-    "condition": "Overcast ",
-    "wind": "13 mph",
-    "humidity": "58%",
-    "chance_rain": "17%"
+    "temp_range": "84-88",
+    "condition": "Patchy rain nearby",
+    "wind": "15 mph",
+    "humidity": "62%",
+    "chance_rain": "7%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 49
+      "daysUntil": 48
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 78
+      "daysUntil": 77
     }
   ],
-  "generatedAt": "2026-10-08T17:54:46.843Z"
+  "generatedAt": "2026-10-09T17:28:36.683Z"
 }
