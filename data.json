@@ -1,33 +1,33 @@
 {
-  "date": "October 9, 2026",
-  "dayOfWeek": "Friday",
+  "date": "October 10, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "Top 5 Companies Helping Businesses Build Smarter AI Chatbots",
-      "description": "A chatbot can look impressive in a demo and still fall apart once real customers start using it. The difficult part is rarely the chat window itself. Problems usually appear behind it: outdated product data, disconnected systems, weak search, poor escalation …",
-      "url": "https://addicted2success.com/ai/top-enterprise-ai-chatbot-companies-guide/"
+      "title": "Scale enterprise analytics by running Cloudera Data Platform with OpenShift Virtualization",
+      "description": "IT leaders face a frustrating dilemma when scaling big data: Should they force engineering teams to rewrite applications running on traditional virtual machines (VMs) for containers, or maintain separate, expensive infrastructure environments? Red Hat OpenShi…",
+      "url": "https://www.redhat.com/en/blog/scale-enterprise-analytics-running-cloudera-data-platform-openshift-virtualization"
     },
     {
-      "title": "How AI Is Changing Strategy: Rethinking What Your Business Is Designed to Do",
-      "description": "AI is advancing so quickly that companies can’t afford to treat it as simply another productivity tool; it is fundamentally reshaping strategy. In this final episode of our special four-part series on how AI is changing leadership, Wharton professor and AI ex…",
-      "url": "https://hbr.org/podcast/2026/10/how-ai-is-changing-strategy-rethinking-what-your-business-is-designed-to-do"
+      "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
+      "description": "Build a production-grade data science toolkit without spending a dollar, using open-source AI tools that match, and sometimes exceed, their paid alternatives.",
+      "url": "https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists"
     },
     {
-      "title": "New Relic Debuts Command-Line Observability Tool for Developers and AI Agents",
-      "description": "New Relic has unveiled Ground Truth CLI, a command-line tool that enables software developers and AI agents to analyze system performance and verify whether technical issues have been resolved without needing to use dashboards. The release reflects a big shif…",
-      "url": "https://devops.com/new-relic-debuts-command-line-observability-tool-for-developers-and-ai-agents/"
+      "title": "Healthcare AI cannot improve outcomes until it understands the human context behind every claim",
+      "description": "Artificial intelligence is rapidly reshaping healthcare, but many of the industry’s biggest operational problems remain unresolved. Hospitals continue facing administrative bottlenecks. Providers still struggle with documentation burdens. Insurers continue na…",
+      "url": "https://thenextweb.com/news/healthcare-ai-human-context-claims-workers-compensation"
     }
   ],
   "miamiNews": [
     {
-      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion | TechCrunch",
-      "description": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "84-88",
-    "condition": "Patchy rain nearby",
-    "wind": "15 mph",
-    "humidity": "62%",
-    "chance_rain": "7%"
+    "temp_range": "83-89",
+    "condition": "Sunny",
+    "wind": "13 mph",
+    "humidity": "64%",
+    "chance_rain": "6%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 48
+      "daysUntil": 47
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 77
+      "daysUntil": 76
     }
   ],
-  "generatedAt": "2026-10-09T17:28:36.683Z"
+  "generatedAt": "2026-10-10T16:16:59.673Z"
 }
