@@ -1,33 +1,17 @@
 {
-  "date": "October 10, 2026",
-  "dayOfWeek": "Saturday",
-  "usNews": [
-    {
-      "title": "Scale enterprise analytics by running Cloudera Data Platform with OpenShift Virtualization",
-      "description": "IT leaders face a frustrating dilemma when scaling big data: Should they force engineering teams to rewrite applications running on traditional virtual machines (VMs) for containers, or maintain separate, expensive infrastructure environments? Red Hat OpenShi…",
-      "url": "https://www.redhat.com/en/blog/scale-enterprise-analytics-running-cloudera-data-platform-openshift-virtualization"
-    },
-    {
-      "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
-      "description": "Build a production-grade data science toolkit without spending a dollar, using open-source AI tools that match, and sometimes exceed, their paid alternatives.",
-      "url": "https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists"
-    },
-    {
-      "title": "Healthcare AI cannot improve outcomes until it understands the human context behind every claim",
-      "description": "Artificial intelligence is rapidly reshaping healthcare, but many of the industry’s biggest operational problems remain unresolved. Hospitals continue facing administrative bottlenecks. Providers still struggle with documentation burdens. Insurers continue na…",
-      "url": "https://thenextweb.com/news/healthcare-ai-human-context-claims-workers-compensation"
-    }
-  ],
+  "date": "October 11, 2026",
+  "dayOfWeek": "Sunday",
+  "usNews": [],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Brexton Busch burnout caps emotional celebration of life for Kyle Busch at Charlotte",
+      "description": "Brexton Busch did a burnout in his father's race car to cap off an emotional ceremony as NASCAR legend Kyle Busch was remembered in Charlotte.",
+      "url": "https://www.usatoday.com/story/sports/nascar/2026/10/09/kyle-busch-celebration-of-life-top-moments-brexton-burnout/92182693007/"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -47,30 +31,30 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "83-89",
-    "condition": "Sunny",
+    "temp_range": "84-88",
+    "condition": "Patchy rain nearby",
     "wind": "13 mph",
-    "humidity": "64%",
-    "chance_rain": "6%"
+    "humidity": "65%",
+    "chance_rain": "7%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 47
+      "daysUntil": 46
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 76
+      "daysUntil": 75
     }
   ],
-  "generatedAt": "2026-10-10T16:16:59.673Z"
+  "generatedAt": "2026-10-11T16:40:39.436Z"
 }
