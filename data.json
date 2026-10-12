@@ -1,17 +1,23 @@
 {
-  "date": "October 11, 2026",
-  "dayOfWeek": "Sunday",
-  "usNews": [],
+  "date": "October 12, 2026",
+  "dayOfWeek": "Monday",
+  "usNews": [
+    {
+      "title": "Agentic workloads break assumptions about software testing. Here’s how to cope",
+      "description": "Most traditional enterprise systems were built around three assumptions: Jobs finish quickly, retrying one is free and the same input always produces the same output. Agentic workloads break all three of these expectations, which is why pilots that perform we…",
+      "url": "https://siliconangle.com/2026/10/11/agentic-workloads-break-assumptions-about-software-testing-heres-how-to-cope/"
+    }
+  ],
   "miamiNews": [
     {
-      "title": "Brexton Busch burnout caps emotional celebration of life for Kyle Busch at Charlotte",
-      "description": "Brexton Busch did a burnout in his father's race car to cap off an emotional ceremony as NASCAR legend Kyle Busch was remembered in Charlotte.",
-      "url": "https://www.usatoday.com/story/sports/nascar/2026/10/09/kyle-busch-celebration-of-life-top-moments-brexton-burnout/92182693007/"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -31,30 +37,30 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "84-88",
+    "temp_range": "83-88",
     "condition": "Patchy rain nearby",
     "wind": "13 mph",
-    "humidity": "65%",
-    "chance_rain": "7%"
+    "humidity": "61%",
+    "chance_rain": "6%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 46
+      "daysUntil": 45
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 75
+      "daysUntil": 74
     }
   ],
-  "generatedAt": "2026-10-11T16:40:39.436Z"
+  "generatedAt": "2026-10-12T20:20:30.031Z"
 }
