@@ -1,33 +1,33 @@
 {
-  "date": "October 13, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "October 14, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Victoria Drazdova on how AI could change athlete training",
-      "description": "Coach Victoria Drazdova explains how integrated AI systems will transform athlete development by connecting fragmented data.",
-      "url": "https://sports.yahoo.com/articles/victoria-drazdova-ai-could-change-170621345.html"
+      "title": "Integrating Quantum Machine Learning and Ontology Matching for Efficient Semantic Web Services discovery",
+      "description": "Existing Semantic Web Service (SWS) discovery approaches based on classical machine learning suffer from limited representational capacity in high-dimensional semantic feature spaces and fail to fully exploit structured ontological knowledge for semantic alig…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360079"
     },
     {
-      "title": "Cisco Advances Scalability and Openness at OCP 2026",
-      "description": "Today at the OCP Global Summit 2026, Cisco introduced new silicon, systems and optical innovations that advance open AI infrastructure. More RSS Feeds: https://newsroom.cisco.com/c/r/newsroom/en/us/rss-feeds.html",
-      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m10/cisco-advances-scalability-and-openness-at-ocp-2026.html"
+      "title": "Open Channels FM: Balancing AI Efficiency Costs and Value in Markdown Data and Open Source Security",
+      "description": "In today's news, markdown streamlines AI input, AI-generated security reports increase workloads, and autonomous agent costs affect project efficiency",
+      "url": "https://openchannels.fm/balancing-ai-efficiency-costs-and-value-in-markdown-data-and-open-source-security/"
     },
     {
-      "title": "Developer-first innovation: Reducing technical debt with Red Hat Enterprise Linux",
-      "description": "Managing software teams means balancing 2 conflicting priorities: developers want freedom to pick their tools, while leadership needs security and stability. When every team runs a different operating system (OS) distribution, developers end up spending valua…",
-      "url": "https://www.redhat.com/en/blog/developer-first-innovation-reducing-technical-debt-red-hat-enterprise-linux"
+      "title": "Always-On Assurance: How Cisco is Reimagining the Secure Development Lifecycle",
+      "description": "Learn how Cisco’s Secure Development Lifecycle (CSDL) is evolving to support AI-driven development, ensuring secure and resilient software at speed.",
+      "url": "https://blogs.cisco.com/security/always-on-assurance"
     }
   ],
   "miamiNews": [
     {
-      "title": "Lane Kiffin's daughter ditches Ole Miss & LSU to root for new SEC team, Dolphins fans attack & sad Eagles kid",
-      "description": "Screencaps, America's Best Daily Column, tackles Landry Kiffin wearing UT colors at the Red River Shootout while her dad's LSU season spiraled.",
-      "url": "https://www.foxnews.com/outkick-sports/lane-kiffin-daughter-ditches-ole-miss-lsu-root-new-sec-team-dolphins-fans-attack-sad-eagles-kid"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -53,24 +53,24 @@
     "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "81-86",
-    "condition": "Sunny",
+    "temp_range": "81-85",
+    "condition": "Partly Cloudy ",
     "wind": "13 mph",
-    "humidity": "54%",
-    "chance_rain": "6%"
+    "humidity": "64%",
+    "chance_rain": "4%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 44
+      "daysUntil": 43
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 73
+      "daysUntil": 72
     }
   ],
-  "generatedAt": "2026-10-13T18:23:21.441Z"
+  "generatedAt": "2026-10-14T15:51:57.079Z"
 }
