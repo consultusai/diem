@@ -1,21 +1,21 @@
 {
-  "date": "October 14, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "October 15, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Integrating Quantum Machine Learning and Ontology Matching for Efficient Semantic Web Services discovery",
-      "description": "Existing Semantic Web Service (SWS) discovery approaches based on classical machine learning suffer from limited representational capacity in high-dimensional semantic feature spaces and fail to fully exploit structured ontological knowledge for semantic alig…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360079"
+      "title": "SolarWinds Avior pairs IT automation with human approval and audit trails",
+      "description": "SolarWinds has announced the launch of Avior, a standalone, goal-oriented agentic AI system purpose-built for mission-critical IT environments. Built on the SolarWinds Platform, Avior will help IT teams securely define goals, coordinate specialized agents, an…",
+      "url": "https://www.helpnetsecurity.com/2026/10/14/solarwinds-avior/"
     },
     {
-      "title": "Open Channels FM: Balancing AI Efficiency Costs and Value in Markdown Data and Open Source Security",
-      "description": "In today's news, markdown streamlines AI input, AI-generated security reports increase workloads, and autonomous agent costs affect project efficiency",
-      "url": "https://openchannels.fm/balancing-ai-efficiency-costs-and-value-in-markdown-data-and-open-source-security/"
+      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+      "description": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud e…",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/"
     },
     {
-      "title": "Always-On Assurance: How Cisco is Reimagining the Secure Development Lifecycle",
-      "description": "Learn how Cisco’s Secure Development Lifecycle (CSDL) is evolving to support AI-driven development, ensuring secure and resilient software at speed.",
-      "url": "https://blogs.cisco.com/security/always-on-assurance"
+      "title": "Svitla Smart Talk: Building a Local-First AI Coding Agent with Spring Boot, 27 October",
+      "description": "Date: 27 October (Tuesday)Place: online\n\nWhat if your AI coding assistant ran entirely on your own machine and handled routine work in the background while you focused on the hard problems? Join us for a Svitla Smart Talk with Iryna Lukashevych, Senior Java D…",
+      "url": "https://dou.ua/calendar/58499/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "81-85",
-    "condition": "Partly Cloudy ",
-    "wind": "13 mph",
-    "humidity": "64%",
-    "chance_rain": "4%"
+    "temp_range": "82-87",
+    "condition": "Patchy rain nearby",
+    "wind": "11 mph",
+    "humidity": "68%",
+    "chance_rain": "49%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 43
+      "daysUntil": 42
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 72
+      "daysUntil": 71
     }
   ],
-  "generatedAt": "2026-10-14T15:51:57.079Z"
+  "generatedAt": "2026-10-15T15:38:39.145Z"
 }
