@@ -1,33 +1,33 @@
 {
-  "date": "October 15, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "October 16, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "SolarWinds Avior pairs IT automation with human approval and audit trails",
-      "description": "SolarWinds has announced the launch of Avior, a standalone, goal-oriented agentic AI system purpose-built for mission-critical IT environments. Built on the SolarWinds Platform, Avior will help IT teams securely define goals, coordinate specialized agents, an…",
-      "url": "https://www.helpnetsecurity.com/2026/10/14/solarwinds-avior/"
+      "title": "North.cloud Raises $60M Series B to Unify Spend Intelligence and Enable Full Automation Across Cloud, AI, and Data",
+      "description": "North is approaching $2 billion in managed cloud spend and has helped customers save more than $400 million and is trusted by AssemblyAI, Tines, Atlan, SnapLogic, Emplifi and Imply. NEW YORK, Oct. 15, 2026 /PRNewswire/ -- North.cloud, the financial operating …",
+      "url": "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html"
     },
     {
-      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-      "description": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud e…",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/"
+      "title": "From prompts to genomes: A constraint-first framework for AI-driven sequence design across life and viruses",
+      "description": "A constraint-first framework for future ‘prompt-to-genome’ AI across Bacteria, Archaea, Eukaryota, and viruses is proposed. Genome-scale models can now generate long DNA sequences, and experimentally viable genome-scale designs have begun to appear, but seque…",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014865"
     },
     {
-      "title": "Svitla Smart Talk: Building a Local-First AI Coding Agent with Spring Boot, 27 October",
-      "description": "Date: 27 October (Tuesday)Place: online\n\nWhat if your AI coding assistant ran entirely on your own machine and handled routine work in the background while you focused on the hard problems? Join us for a Svitla Smart Talk with Iryna Lukashevych, Senior Java D…",
-      "url": "https://dou.ua/calendar/58499/"
+      "title": "Lotus Improv on the NeXT",
+      "description": "\"Cult classic\" isn't a term typically applied to software, but if it were, this would be its poster child.",
+      "url": "https://stonetools.ghost.io/lotusimprov-next/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Kipu Health Announces ELEVATE 2027 Bringing Together 400+ Behavioral Health Industry Experts to Shape the Future of Care",
+      "description": "Annual customer conference will offer exclusive first access to major Kipu innovations and explore the business, technology and policy forces transforming behavioral healthcare MIAMI, Oct. 15, 2026 /PRNewswire/ -- As behavioral health organizations confront a…",
+      "url": "https://www.prnewswire.com/news-releases/kipu-health-announces-elevate-2027-bringing-together-400-behavioral-health-industry-experts-to-shape-the-future-of-care-302910250.html"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "82-87",
+    "temp_range": "83-87",
     "condition": "Patchy rain nearby",
-    "wind": "11 mph",
-    "humidity": "68%",
-    "chance_rain": "49%"
+    "wind": "12 mph",
+    "humidity": "67%",
+    "chance_rain": "29%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 42
+      "daysUntil": 41
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 71
+      "daysUntil": 70
     }
   ],
-  "generatedAt": "2026-10-15T15:38:39.145Z"
+  "generatedAt": "2026-10-16T15:24:30.858Z"
 }
