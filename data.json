@@ -1,21 +1,16 @@
 {
-  "date": "October 17, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "October 18, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Making data work across boundaries: The next challenge for policing",
-      "description": "Police reform depends on making data work across force boundaries. Connecting data where it lives gives policing national reach, keeps local accountability, and makes AI cheaper and faster to scale.",
-      "url": "https://www.elastic.co/blog/making-data-work-across-boundaries-policing"
+      "title": "Why Math Dumped OpenAI",
+      "description": "Honest people cannot \"embrace change\" when that change is a lie.",
+      "url": "https://raymyers.org/post/math-dumped-openai/"
     },
     {
-      "title": "Oxipital AI Launches Foreign Material Detection Solutions at Pack Expo, Raising the Standard for Food Safety Inspection",
-      "description": "Running on the OX and VX hardware platforms already deployed in food manufacturing, the new capability delivers up to >99%* detection accuracy at line speed, with automated response, full audit logging, and analytics through the V-CORTX platform BEDFORD, Mass…",
-      "url": "https://www.prnewswire.com/news-releases/oxipital-ai-launches-foreign-material-detection-solutions-at-pack-expo-raising-the-standard-for-food-safety-inspection-302910805.html"
-    },
-    {
-      "title": "Tally Solutions to rebuild 40-year-old accounting software for AI era. Will customers embrace the change? MD reveals",
-      "description": "Tally Solutions plans to rebuild the core architecture of its 40-year-old accounting software to keep pace with AI, which its managing director says is essential for survival. Its AI product, TallyIra, automates document processing but keeps users in the loop…",
-      "url": "https://www.livemint.com/companies/news/tally-solutions-to-rebuild-40-year-old-accounting-software-for-ai-era-will-customers-embrace-the-change-md-reveals-11792155314710.html"
+      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+      "description": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
+      "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html"
     }
   ],
   "miamiNews": [
@@ -26,8 +21,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,30 +42,30 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "80-87",
-    "condition": "Overcast ",
-    "wind": "4 mph",
-    "humidity": "69%",
-    "chance_rain": "17%"
+    "temp_range": "78-81",
+    "condition": "Light rain shower",
+    "wind": "21 mph",
+    "humidity": "79%",
+    "chance_rain": "55%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 40
+      "daysUntil": 39
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 69
+      "daysUntil": 68
     }
   ],
-  "generatedAt": "2026-10-17T14:17:19.357Z"
+  "generatedAt": "2026-10-18T14:41:26.720Z"
 }
