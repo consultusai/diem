@@ -1,16 +1,21 @@
 {
-  "date": "October 18, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "October 19, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Why Math Dumped OpenAI",
-      "description": "Honest people cannot \"embrace change\" when that change is a lie.",
-      "url": "https://raymyers.org/post/math-dumped-openai/"
+      "title": "etabs-mcp added to PyPI",
+      "description": "Model Context Protocol server that lets AI agents drive CSI ETABS (v22+) through its official API: modeling, loads, analysis, design, results and the interactive database.",
+      "url": "https://pypi.org/project/etabs-mcp/"
     },
     {
-      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
-      "description": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
-      "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html"
+      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+      "description": "[This is a guest post by Francesco Maggi. This blog post was initially written in a different file format and converted using AI. — T.] Large language models (LLMs) and the research systems built around them (and commonly known as “artificial intelligence”) h…",
+      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/"
+    },
+    {
+      "title": "How employment is changing at Anthropic Anthropic",
+      "description": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic"
     }
   ],
   "miamiNews": [
@@ -42,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "78-81",
-    "condition": "Light rain shower",
-    "wind": "21 mph",
-    "humidity": "79%",
-    "chance_rain": "55%"
+    "temp_range": "81-83",
+    "condition": "Patchy rain nearby",
+    "wind": "19 mph",
+    "humidity": "60%",
+    "chance_rain": "13%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 39
+      "daysUntil": 38
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 68
+      "daysUntil": 67
     }
   ],
-  "generatedAt": "2026-10-18T14:41:26.720Z"
+  "generatedAt": "2026-10-19T17:35:25.012Z"
 }
