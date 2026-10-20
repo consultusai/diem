@@ -1,28 +1,28 @@
 {
-  "date": "October 19, 2026",
-  "dayOfWeek": "Monday",
+  "date": "October 20, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "etabs-mcp added to PyPI",
-      "description": "Model Context Protocol server that lets AI agents drive CSI ETABS (v22+) through its official API: modeling, loads, analysis, design, results and the interactive database.",
-      "url": "https://pypi.org/project/etabs-mcp/"
+      "title": "Chip legend Jim Keller’s Tenstorrent raises $1.5B to expand its open compute ecosystem",
+      "description": "Artificial intelligence computing hardware startup Tenstorrent Inc. is pushing hard to position itself as an alternative to Nvidia Corp.’s graphics processing units after raising a massive $1.5 billion in a late-stage funding round today. The Series E round w…",
+      "url": "https://siliconangle.com/2026/10/19/chip-legend-jim-kellers-tenstorrent-raises-1-5b-to-expand-its-open-compute-ecosystem/"
     },
     {
-      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-      "description": "[This is a guest post by Francesco Maggi. This blog post was initially written in a different file format and converted using AI. — T.] Large language models (LLMs) and the research systems built around them (and commonly known as “artificial intelligence”) h…",
-      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/"
+      "title": "Treso Wants Financial Products to Pay for Doctors’ Software",
+      "description": "Independent medical practices operate like small businesses, but the financial tools available to them rarely account for how healthcare works. Physicians must manage insurance reimbursements, medical supplies and operating expenses across disconnected system…",
+      "url": "https://www.pymnts.com/healthcare/2026/treso-wants-financial-products-pay-doctors-software/"
     },
     {
-      "title": "How employment is changing at Anthropic Anthropic",
-      "description": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic"
+      "title": "The week in AI-native telco (10-16 Oct 2026)",
+      "description": "Infrastructure investments and service portfolio enhancements dominated the week’s AI-native telco newsSovereign AI, cloud services and cybersecurity were also…",
+      "url": "https://www.telecomtv.com/content/ai/the-week-in-ai-native-telco-10-16-oct-2026-56488/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "description": "Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected po…",
+      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
     }
   ],
   "tip": {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "81-83",
+    "temp_range": "79-82",
     "condition": "Patchy rain nearby",
     "wind": "19 mph",
-    "humidity": "60%",
-    "chance_rain": "13%"
+    "humidity": "61%",
+    "chance_rain": "4%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 38
+      "daysUntil": 37
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 67
+      "daysUntil": 66
     }
   ],
-  "generatedAt": "2026-10-19T17:35:25.012Z"
+  "generatedAt": "2026-10-20T15:41:19.629Z"
 }
