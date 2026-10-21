@@ -1,33 +1,33 @@
 {
-  "date": "October 20, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "October 21, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Chip legend Jim Keller’s Tenstorrent raises $1.5B to expand its open compute ecosystem",
-      "description": "Artificial intelligence computing hardware startup Tenstorrent Inc. is pushing hard to position itself as an alternative to Nvidia Corp.’s graphics processing units after raising a massive $1.5 billion in a late-stage funding round today. The Series E round w…",
-      "url": "https://siliconangle.com/2026/10/19/chip-legend-jim-kellers-tenstorrent-raises-1-5b-to-expand-its-open-compute-ecosystem/"
+      "title": "The Roadmap to Becoming an AI Product Manager in 2026",
+      "description": "A structured four-phase roadmap for building the technical fluency, evaluation skills, and governance literacy needed to succeed as an AI product manager in 2026.",
+      "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026"
     },
     {
-      "title": "Treso Wants Financial Products to Pay for Doctors’ Software",
-      "description": "Independent medical practices operate like small businesses, but the financial tools available to them rarely account for how healthcare works. Physicians must manage insurance reimbursements, medical supplies and operating expenses across disconnected system…",
-      "url": "https://www.pymnts.com/healthcare/2026/treso-wants-financial-products-pay-doctors-software/"
+      "title": "AuxoAI raises over $20M to bring AI expertise to the enterprise and redesign how work gets done",
+      "description": "AuxoAI Inc., an enterprise engineering and consulting company that helps large businesses build and deploy artificial intelligence systems, today announced it has raised $20.7 million in a Series A funding to accelerate growth and scale its enterprise AI cons…",
+      "url": "https://siliconangle.com/2026/10/20/auxoai-raises-over-20m-to-bring-ai-expertise-to-the-enterprise-and-redesign-how-work-gets-done/"
     },
     {
-      "title": "The week in AI-native telco (10-16 Oct 2026)",
-      "description": "Infrastructure investments and service portfolio enhancements dominated the week’s AI-native telco newsSovereign AI, cloud services and cybersecurity were also…",
-      "url": "https://www.telecomtv.com/content/ai/the-week-in-ai-native-telco-10-16-oct-2026-56488/"
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "description": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and …",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
     }
   ],
   "miamiNews": [
     {
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "description": "Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected po…",
-      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
+      "title": "How Elevate Jet Is Pairing Transparent Pricing With A More Personalized Private Jet Experience",
+      "description": "Need a jet for New Year's in St. Barths? Elevate Jet's AI assistant Ruby is there to help with instant pricing.",
+      "url": "http://robbreport.com/partners/elevate-jet-more-personalized-jet-experience-1238756755/"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "79-82",
-    "condition": "Patchy rain nearby",
-    "wind": "19 mph",
-    "humidity": "61%",
-    "chance_rain": "4%"
+    "temp_range": "77-83",
+    "condition": "Sunny",
+    "wind": "13 mph",
+    "humidity": "50%",
+    "chance_rain": "13%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 37
+      "daysUntil": 36
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 66
+      "daysUntil": 65
     }
   ],
-  "generatedAt": "2026-10-20T15:41:19.629Z"
+  "generatedAt": "2026-10-21T15:59:48.137Z"
 }
