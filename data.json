@@ -1,33 +1,33 @@
 {
-  "date": "October 21, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "October 22, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "The Roadmap to Becoming an AI Product Manager in 2026",
-      "description": "A structured four-phase roadmap for building the technical fluency, evaluation skills, and governance literacy needed to succeed as an AI product manager in 2026.",
-      "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026"
+      "title": "ClicData Launches MCP Server to Bring Trusted Business Data to AI Assistants for Midmarket Teams",
+      "description": "Teams ask data questions in plain language and get live charts and dashboards inside Claude, ChatGPT and other AI assistants, no SQL required TORONTO, Oct. 21, 2026 (GLOBE NEWSWIRE) — ClicData, a data management and AI-enabled platform for midmarket organizat…",
+      "url": "https://financialpost.com/globe-newswire/clicdata-launches-mcp-server-to-bring-trusted-business-data-to-ai-assistants-for-midmarket-teams"
     },
     {
-      "title": "AuxoAI raises over $20M to bring AI expertise to the enterprise and redesign how work gets done",
-      "description": "AuxoAI Inc., an enterprise engineering and consulting company that helps large businesses build and deploy artificial intelligence systems, today announced it has raised $20.7 million in a Series A funding to accelerate growth and scale its enterprise AI cons…",
-      "url": "https://siliconangle.com/2026/10/20/auxoai-raises-over-20m-to-bring-ai-expertise-to-the-enterprise-and-redesign-how-work-gets-done/"
+      "title": "Rockwell Automation Introduces FactoryTalk Conductor, an AI-Native Orchestration Platform for Industrial Automation",
+      "description": "New software connects AI agents, skills and workflows across the automation lifecycle MILWAUKEE, Oct. 21, 2026 /PRNewswire/ -- Rockwell Automation, Inc. (NYSE: ROK), the world's largest company dedicated to industrial automation and digital transformation, to…",
+      "url": "https://www.prnewswire.com/news-releases/rockwell-automation-introduces-factorytalk-conductor-an-ai-native-orchestration-platform-for-industrial-automation-302914710.html"
     },
     {
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "description": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and …",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
+      "title": "Predicting continuous load-settlement trajectories of bored piles: A GA-optimized weighted ensemble framework with explainable AI",
+      "description": "Accurate prediction of bored pile settlement is a core element in reliable foundation design. While machine learning (ML) models demonstrate superior predictive capabilities compared to traditional analytical methods, their black-box nature and tendency to ge…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360945"
     }
   ],
   "miamiNews": [
     {
-      "title": "How Elevate Jet Is Pairing Transparent Pricing With A More Personalized Private Jet Experience",
-      "description": "Need a jet for New Year's in St. Barths? Elevate Jet's AI assistant Ruby is there to help with instant pricing.",
-      "url": "http://robbreport.com/partners/elevate-jet-more-personalized-jet-experience-1238756755/"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "77-83",
-    "condition": "Sunny",
-    "wind": "13 mph",
-    "humidity": "50%",
-    "chance_rain": "13%"
+    "temp_range": "75-81",
+    "condition": "Patchy rain nearby",
+    "wind": "10 mph",
+    "humidity": "67%",
+    "chance_rain": "3%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 36
+      "daysUntil": 35
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 65
+      "daysUntil": 64
     }
   ],
-  "generatedAt": "2026-10-21T15:59:48.137Z"
+  "generatedAt": "2026-10-22T15:55:23.935Z"
 }
