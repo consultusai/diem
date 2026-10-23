@@ -1,33 +1,33 @@
 {
-  "date": "October 22, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "October 23, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "ClicData Launches MCP Server to Bring Trusted Business Data to AI Assistants for Midmarket Teams",
-      "description": "Teams ask data questions in plain language and get live charts and dashboards inside Claude, ChatGPT and other AI assistants, no SQL required TORONTO, Oct. 21, 2026 (GLOBE NEWSWIRE) — ClicData, a data management and AI-enabled platform for midmarket organizat…",
-      "url": "https://financialpost.com/globe-newswire/clicdata-launches-mcp-server-to-bring-trusted-business-data-to-ai-assistants-for-midmarket-teams"
+      "title": "AI Agent Frameworks for Startups: Evaluating 7 Leading Options",
+      "description": "AI Agent Frameworks for Startups Ask an agent a question and it will answer. That part is easy. Research is harder: it has to go look things up, pull the useful bits together, compare them, and write something you can actually use. A second agent might check …",
+      "url": "https://cloudtweaks.com/2026/10/ai-agent-frameworks-for-startups-evaluating-7-leading-options/"
     },
     {
-      "title": "Rockwell Automation Introduces FactoryTalk Conductor, an AI-Native Orchestration Platform for Industrial Automation",
-      "description": "New software connects AI agents, skills and workflows across the automation lifecycle MILWAUKEE, Oct. 21, 2026 /PRNewswire/ -- Rockwell Automation, Inc. (NYSE: ROK), the world's largest company dedicated to industrial automation and digital transformation, to…",
-      "url": "https://www.prnewswire.com/news-releases/rockwell-automation-introduces-factorytalk-conductor-an-ai-native-orchestration-platform-for-industrial-automation-302914710.html"
+      "title": "Rebuilding the Brain With Neuromorphic Computing: An Interview With Oliver Rhodes",
+      "description": "Oliver Rhodes explains how brain-inspired computing could make artificial intelligence faster, more energy-efficient and capable of advancing neuroscience research.\nThe post Rebuilding the Brain With Neuromorphic Computing: An Interview With Oliver Rhodes app…",
+      "url": "https://goodmenproject.com/featured-content/rebuilding-the-brain-with-neuromorphic-computing-an-interview-with-oliver-rhodes/"
     },
     {
-      "title": "Predicting continuous load-settlement trajectories of bored piles: A GA-optimized weighted ensemble framework with explainable AI",
-      "description": "Accurate prediction of bored pile settlement is a core element in reliable foundation design. While machine learning (ML) models demonstrate superior predictive capabilities compared to traditional analytical methods, their black-box nature and tendency to ge…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360945"
+      "title": "Mood of the Boardroom survey: AI ranks second among CEOs’ concerns",
+      "description": "AI adoption is a top concern for 34% of surveyed executives.",
+      "url": "https://www.nzherald.co.nz/business/business-reports/mood-of-the-boardroom/mood-of-the-boardroom-survey-ai-ranks-second-among-ceos-concerns/premium/TS4JRDB36BH2LOXBAZLD3YG56M/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Jeff Bezos reportedly added a $69.5 million beach house to his $237 million Miami compound. A broker says that’s how billionaires live now",
+      "description": "A record-setting Golden Beach sale is reportedly tied to the Amazon founder, who already owns three waterfront properties in “Billionaire Bunker.”",
+      "url": "https://fortune.com/2026/10/22/jeff-bezos-reportedly-bought-69-5-million-miami-beach-house-near-his-237-million-compound/"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "75-81",
-    "condition": "Patchy rain nearby",
-    "wind": "10 mph",
-    "humidity": "67%",
-    "chance_rain": "3%"
+    "temp_range": "77-81",
+    "condition": "Light rain shower",
+    "wind": "8 mph",
+    "humidity": "72%",
+    "chance_rain": "17%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 35
+      "daysUntil": 34
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 64
+      "daysUntil": 63
     }
   ],
-  "generatedAt": "2026-10-22T15:55:23.935Z"
+  "generatedAt": "2026-10-23T15:47:24.287Z"
 }
