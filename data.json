@@ -1,33 +1,33 @@
 {
-  "date": "October 23, 2026",
-  "dayOfWeek": "Friday",
+  "date": "October 24, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "AI Agent Frameworks for Startups: Evaluating 7 Leading Options",
-      "description": "AI Agent Frameworks for Startups Ask an agent a question and it will answer. That part is easy. Research is harder: it has to go look things up, pull the useful bits together, compare them, and write something you can actually use. A second agent might check …",
-      "url": "https://cloudtweaks.com/2026/10/ai-agent-frameworks-for-startups-evaluating-7-leading-options/"
+      "title": "Polish PM Tusk seeks deeper tech, AI and space ties with India",
+      "description": "During a recent meeting, Polish Prime Minister Donald Tusk called for strengthened collaboration with India, zeroing in on advancements in AI and space technology. He pointed out potential synergies in manufacturing automation and data analysis. Karnataka's C…",
+      "url": "https://economictimes.indiatimes.com/news/india/polish-pm-tusk-seeks-deeper-tech-ai-and-space-ties-with-india/articleshow/135144535.cms"
     },
     {
-      "title": "Rebuilding the Brain With Neuromorphic Computing: An Interview With Oliver Rhodes",
-      "description": "Oliver Rhodes explains how brain-inspired computing could make artificial intelligence faster, more energy-efficient and capable of advancing neuroscience research.\nThe post Rebuilding the Brain With Neuromorphic Computing: An Interview With Oliver Rhodes app…",
-      "url": "https://goodmenproject.com/featured-content/rebuilding-the-brain-with-neuromorphic-computing-an-interview-with-oliver-rhodes/"
+      "title": "AI is everywhere except in the GDP numbers — here is what triggers the break",
+      "description": "The productivity data doesn't show the AI boom, and won't until companies stop cost-cutting and start building. Nobody is positioning for that trade.",
+      "url": "https://fortune.com/2026/10/23/ai-everywhere-except-in-the-gdp-numbers-innovation-lag-general-purpose-technology/"
     },
     {
-      "title": "Mood of the Boardroom survey: AI ranks second among CEOs’ concerns",
-      "description": "AI adoption is a top concern for 34% of surveyed executives.",
-      "url": "https://www.nzherald.co.nz/business/business-reports/mood-of-the-boardroom/mood-of-the-boardroom-survey-ai-ranks-second-among-ceos-concerns/premium/TS4JRDB36BH2LOXBAZLD3YG56M/"
+      "title": "When to Move an n8n AI Workflow into a Laravel Queue Job",
+      "description": "Your n8n workflow classifies support tickets, enriches them with CRM data, and posts a summary to Slack. It works beautifully in staging. Th...",
+      "url": "https://hosseinhezami.blogspot.com/2026/10/when-to-move-n8n-ai-workflow-into.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "Jeff Bezos reportedly added a $69.5 million beach house to his $237 million Miami compound. A broker says that’s how billionaires live now",
-      "description": "A record-setting Golden Beach sale is reportedly tied to the Amazon founder, who already owns three waterfront properties in “Billionaire Bunker.”",
-      "url": "https://fortune.com/2026/10/22/jeff-bezos-reportedly-bought-69-5-million-miami-beach-house-near-his-237-million-compound/"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -53,24 +53,24 @@
     "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "77-81",
-    "condition": "Light rain shower",
-    "wind": "8 mph",
-    "humidity": "72%",
-    "chance_rain": "17%"
+    "temp_range": "78-82",
+    "condition": "Sunny",
+    "wind": "15 mph",
+    "humidity": "52%",
+    "chance_rain": "19%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 34
+      "daysUntil": 33
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 63
+      "daysUntil": 62
     }
   ],
-  "generatedAt": "2026-10-23T15:47:24.287Z"
+  "generatedAt": "2026-10-24T14:40:22.376Z"
 }
