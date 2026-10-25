@@ -1,21 +1,16 @@
 {
-  "date": "October 24, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "October 25, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Polish PM Tusk seeks deeper tech, AI and space ties with India",
-      "description": "During a recent meeting, Polish Prime Minister Donald Tusk called for strengthened collaboration with India, zeroing in on advancements in AI and space technology. He pointed out potential synergies in manufacturing automation and data analysis. Karnataka's C…",
-      "url": "https://economictimes.indiatimes.com/news/india/polish-pm-tusk-seeks-deeper-tech-ai-and-space-ties-with-india/articleshow/135144535.cms"
+      "title": "Therese Walsh: AI is a boardroom issue, not just a technology problem",
+      "description": "Walsh says AI has become a strategic issue for boards.",
+      "url": "https://www.nzherald.co.nz/business/business-reports/mood-of-the-boardroom/therese-walsh-ai-is-a-boardroom-issue-not-just-a-technology-problem/premium/ZBOOIAJRWRDVVCCNGKGDPLJJWA/"
     },
     {
-      "title": "AI is everywhere except in the GDP numbers — here is what triggers the break",
-      "description": "The productivity data doesn't show the AI boom, and won't until companies stop cost-cutting and start building. Nobody is positioning for that trade.",
-      "url": "https://fortune.com/2026/10/23/ai-everywhere-except-in-the-gdp-numbers-innovation-lag-general-purpose-technology/"
-    },
-    {
-      "title": "When to Move an n8n AI Workflow into a Laravel Queue Job",
-      "description": "Your n8n workflow classifies support tickets, enriches them with CRM data, and posts a summary to Slack. It works beautifully in staging. Th...",
-      "url": "https://hosseinhezami.blogspot.com/2026/10/when-to-move-n8n-ai-workflow-into.html"
+      "title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
+      "description": "I worked a lot of cloc, sloc and scc and used them for various usage. But with AI driven development some of the models COCOMO I and II might not be that relevant.So built a new cli ccm short for code counter machine.Documentation: https://insanai.github.io/c…",
+      "url": "https://github.com/insanai/ccm"
     }
   ],
   "miamiNews": [
@@ -26,8 +21,8 @@
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -53,24 +48,24 @@
     "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "78-82",
-    "condition": "Sunny",
+    "temp_range": "75-80",
+    "condition": "Light rain shower",
     "wind": "15 mph",
-    "humidity": "52%",
-    "chance_rain": "19%"
+    "humidity": "69%",
+    "chance_rain": "22%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 33
+      "daysUntil": 32
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 62
+      "daysUntil": 61
     }
   ],
-  "generatedAt": "2026-10-24T14:40:22.376Z"
+  "generatedAt": "2026-10-25T14:58:40.858Z"
 }
