@@ -1,16 +1,11 @@
 {
-  "date": "October 25, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "October 26, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Therese Walsh: AI is a boardroom issue, not just a technology problem",
-      "description": "Walsh says AI has become a strategic issue for boards.",
-      "url": "https://www.nzherald.co.nz/business/business-reports/mood-of-the-boardroom/therese-walsh-ai-is-a-boardroom-issue-not-just-a-technology-problem/premium/ZBOOIAJRWRDVVCCNGKGDPLJJWA/"
-    },
-    {
-      "title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
-      "description": "I worked a lot of cloc, sloc and scc and used them for various usage. But with AI driven development some of the models COCOMO I and II might not be that relevant.So built a new cli ccm short for code counter machine.Documentation: https://insanai.github.io/c…",
-      "url": "https://github.com/insanai/ccm"
+      "title": "AI ネイティブの SDLC プレイブック",
+      "description": "This playbook is also available for download — the same six stages, plays, and worked examples, laid out for reading offline or sharing with your team. コードはもはやボトルネックではありません。組織は 1 年前には想像もできない速度でコードを書くために AI を活用し始めましたが、コードを扱うプロセスは...",
+      "url": "https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook"
     }
   ],
   "miamiNews": [
@@ -21,8 +16,8 @@
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -48,24 +43,24 @@
     "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "75-80",
-    "condition": "Light rain shower",
-    "wind": "15 mph",
-    "humidity": "69%",
-    "chance_rain": "22%"
+    "temp_range": "77-81",
+    "condition": "Patchy rain nearby",
+    "wind": "28 mph",
+    "humidity": "68%",
+    "chance_rain": "21%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 32
+      "daysUntil": 31
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 61
+      "daysUntil": 60
     }
   ],
-  "generatedAt": "2026-10-25T14:58:40.858Z"
+  "generatedAt": "2026-10-26T17:28:17.406Z"
 }
