@@ -1,23 +1,33 @@
 {
-  "date": "October 26, 2026",
-  "dayOfWeek": "Monday",
+  "date": "October 27, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "AI ネイティブの SDLC プレイブック",
-      "description": "This playbook is also available for download — the same six stages, plays, and worked examples, laid out for reading offline or sharing with your team. コードはもはやボトルネックではありません。組織は 1 年前には想像もできない速度でコードを書くために AI を活用し始めましたが、コードを扱うプロセスは...",
-      "url": "https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook"
+      "title": "The AI Arms Race Nobody Talks About — and the Question Every Entrepreneur Should Be Asking",
+      "description": "Explore how AI, data and algorithms are competing for human attention and reshaping autonomy, influence and ethical leadership.",
+      "url": "https://www.entrepreneur.com/science-technology/the-ai-arms-race-nobody-talks-about/505408"
+    },
+    {
+      "title": "Why Marketing Engineers Are Becoming the Most Dangerous Advantage in the Age of AI Search",
+      "description": "As we bring new tech into our businesses, the playbook changes entirely.",
+      "url": "https://www.entrepreneur.com/business-news/tech/why-marketing-engineers-are-becoming-the-most-dangerous-advantage-in-the-age-of-ai-search"
+    },
+    {
+      "title": "The week in AI-native telco (17-23 Oct 2026)",
+      "description": "AI-native network evolution, autonomous operations and AI-RAN advances dominated telco developments throughout the week.The impact of AI on financial results, …",
+      "url": "https://www.telecomtv.com/content/ai/the-week-in-ai-native-telco-17-23-oct-2026-56523/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Verosoft Launches Verovia to Turn AI into Industrial Value",
+      "description": "New Microsoft-first AI orchestration platform connects industrial systems, enterprise applications, and AI agents to automate operations and accelerate AI adoption. MONTRÉAL, Oct. 26, 2026 /PRNewswire/ -- Verosoft, a Microsoft-first industrial technology comp…",
+      "url": "https://www.prnewswire.co.uk/news-releases/verosoft-launches-verovia-to-turn-ai-into-industrial-value-302918490.html"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -37,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "77-81",
-    "condition": "Patchy rain nearby",
-    "wind": "28 mph",
-    "humidity": "68%",
-    "chance_rain": "21%"
+    "temp_range": "78-83",
+    "condition": "Cloudy ",
+    "wind": "23 mph",
+    "humidity": "62%",
+    "chance_rain": "18%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 31
+      "daysUntil": 30
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 60
+      "daysUntil": 59
     }
   ],
-  "generatedAt": "2026-10-26T17:28:17.406Z"
+  "generatedAt": "2026-10-27T16:44:32.808Z"
 }
