@@ -1,33 +1,33 @@
 {
-  "date": "October 27, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "October 28, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "The AI Arms Race Nobody Talks About — and the Question Every Entrepreneur Should Be Asking",
-      "description": "Explore how AI, data and algorithms are competing for human attention and reshaping autonomy, influence and ethical leadership.",
-      "url": "https://www.entrepreneur.com/science-technology/the-ai-arms-race-nobody-talks-about/505408"
+      "title": "SAP advances its autonomous enterprise push with smarter, governed Joule agents",
+      "description": "SAP SE today announced a set of artificial intelligence innovations at its annual TechEd conference for developers, enhancing its Joule assistant solutions and Business AI Platform, including tabular data foundation models. New capabilities in Joule Work will…",
+      "url": "https://siliconangle.com/2026/10/27/sap-advances-its-autonomous-enterprise-push-with-smarter-governed-joule-agents/"
     },
     {
-      "title": "Why Marketing Engineers Are Becoming the Most Dangerous Advantage in the Age of AI Search",
-      "description": "As we bring new tech into our businesses, the playbook changes entirely.",
-      "url": "https://www.entrepreneur.com/business-news/tech/why-marketing-engineers-are-becoming-the-most-dangerous-advantage-in-the-age-of-ai-search"
+      "title": "Q2 Results Today Highlgihts: Bajaj Auto Q2 PAT up 35%, Maruti Suzuki & Cipla profit down, ACC, Mazagon Dock PAT tumbles, Honeywell Automation PAT up, L&T, Vedanta Iron, Waaree Energies, SAIL, SBI Life, Tata Capital, Star Health, ABDL to announce Q2 results",
+      "description": "Q2 Results Today, 27th October 2026 Highlights: Find all the latest Q2 results 2026 updates of Allied Blenders and Distillers, ACC, Acutaas Chemicals, Akshar Spintex, Alfa Transformers, Amco India, Apis India, Ashish Polyplast, Atharv Enterprises, ATV Project…",
+      "url": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece"
     },
     {
-      "title": "The week in AI-native telco (17-23 Oct 2026)",
-      "description": "AI-native network evolution, autonomous operations and AI-RAN advances dominated telco developments throughout the week.The impact of AI on financial results, …",
-      "url": "https://www.telecomtv.com/content/ai/the-week-in-ai-native-telco-17-23-oct-2026-56523/"
+      "title": "Cybersecurity jobs available right now: October 27, 2026",
+      "description": "Cybersecurity Expert / Penetration Tester Barrion | Sweden | On-site – View job details As a Cybersecurity Expert / Penetration Tester, you will test web applications and APIs for authentication, authorisation, and business logic vulnerabilities. You’ll ident…",
+      "url": "https://www.helpnetsecurity.com/2026/10/27/cybersecurity-jobs-available-right-now-october-27-2026/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Verosoft Launches Verovia to Turn AI into Industrial Value",
-      "description": "New Microsoft-first AI orchestration platform connects industrial systems, enterprise applications, and AI agents to automate operations and accelerate AI adoption. MONTRÉAL, Oct. 26, 2026 /PRNewswire/ -- Verosoft, a Microsoft-first industrial technology comp…",
-      "url": "https://www.prnewswire.co.uk/news-releases/verosoft-launches-verovia-to-turn-ai-into-industrial-value-302918490.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -53,24 +53,24 @@
     "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "78-83",
-    "condition": "Cloudy ",
-    "wind": "23 mph",
-    "humidity": "62%",
-    "chance_rain": "18%"
+    "temp_range": "79-84",
+    "condition": "Patchy rain nearby",
+    "wind": "11 mph",
+    "humidity": "69%",
+    "chance_rain": "44%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 30
+      "daysUntil": 29
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 59
+      "daysUntil": 58
     }
   ],
-  "generatedAt": "2026-10-27T16:44:32.808Z"
+  "generatedAt": "2026-10-28T17:12:59.687Z"
 }
