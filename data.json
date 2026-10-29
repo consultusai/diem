@@ -1,33 +1,33 @@
 {
-  "date": "October 28, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "October 29, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "SAP advances its autonomous enterprise push with smarter, governed Joule agents",
-      "description": "SAP SE today announced a set of artificial intelligence innovations at its annual TechEd conference for developers, enhancing its Joule assistant solutions and Business AI Platform, including tabular data foundation models. New capabilities in Joule Work will…",
-      "url": "https://siliconangle.com/2026/10/27/sap-advances-its-autonomous-enterprise-push-with-smarter-governed-joule-agents/"
+      "title": "Cisco IT’s Endpoint Observability Strategy: Right-Sized Telemetry for Splunk Observability Cloud",
+      "description": "Learn how Cisco IT reduced endpoint telemetry volume by 75% using Splunk Observability Cloud. Discover a right-sized strategy to improve digital resilience and troubleshooting efficiency while keeping data footprints sustainable at scale. Learn how Cisco IT r…",
+      "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud"
     },
     {
-      "title": "Q2 Results Today Highlgihts: Bajaj Auto Q2 PAT up 35%, Maruti Suzuki & Cipla profit down, ACC, Mazagon Dock PAT tumbles, Honeywell Automation PAT up, L&T, Vedanta Iron, Waaree Energies, SAIL, SBI Life, Tata Capital, Star Health, ABDL to announce Q2 results",
-      "description": "Q2 Results Today, 27th October 2026 Highlights: Find all the latest Q2 results 2026 updates of Allied Blenders and Distillers, ACC, Acutaas Chemicals, Akshar Spintex, Alfa Transformers, Amco India, Apis India, Ashish Polyplast, Atharv Enterprises, ATV Project…",
-      "url": "https://www.thehindubusinessline.com/markets/q2-results-today-highlights-lampt-maruti-suzuki-bajaj-auto-tata-steel-vedanta-iron-waaree-acc-sail-sbi-star-health-mazagon-dock-cipla-united-breweries-ather-paytm-tata-consumer-results-27-october-20/article71626455.ece"
+      "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+      "description": "Meta censored a political organisation during a national voting campaign, blamed its own automation, then claimed its automated systems had detected another automated tool.",
+      "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram"
     },
     {
-      "title": "Cybersecurity jobs available right now: October 27, 2026",
-      "description": "Cybersecurity Expert / Penetration Tester Barrion | Sweden | On-site – View job details As a Cybersecurity Expert / Penetration Tester, you will test web applications and APIs for authentication, authorisation, and business logic vulnerabilities. You’ll ident…",
-      "url": "https://www.helpnetsecurity.com/2026/10/27/cybersecurity-jobs-available-right-now-october-27-2026/"
+      "title": "The Trouble with 'Tokenmaxxing': Amazon Tells Engineers to Stop Chasing AI Usage Metrics",
+      "description": "Amazon has told its software engineers to stop padding their AI usage just to look productive, according to an internal memo circulated in September and posted publicly on the company's website this week. The practice of extreme AI usage, popularly known as \"…",
+      "url": "https://www.breitbart.com/tech/2026/10/28/the-trouble-with-tokenmaxxing-amazon-tells-engineers-to-stop-chasing-ai-usage-metrics/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "⚾️ Y! Sports AM: Not dead yet",
+      "description": "The Rays extended their season with an extra-innings victory at The Trop. It ain’t over yet!",
+      "url": "https://sports.yahoo.com/articles/y-sports-am-not-dead-115759619.html"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "79-84",
-    "condition": "Patchy rain nearby",
+    "temp_range": "80-84",
+    "condition": "Sunny",
     "wind": "11 mph",
-    "humidity": "69%",
-    "chance_rain": "44%"
+    "humidity": "66%",
+    "chance_rain": "31%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 29
+      "daysUntil": 28
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 58
+      "daysUntil": 57
     }
   ],
-  "generatedAt": "2026-10-28T17:12:59.687Z"
+  "generatedAt": "2026-10-29T17:28:10.222Z"
 }
