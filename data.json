@@ -1,33 +1,33 @@
 {
-  "date": "October 29, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "October 30, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Cisco IT’s Endpoint Observability Strategy: Right-Sized Telemetry for Splunk Observability Cloud",
-      "description": "Learn how Cisco IT reduced endpoint telemetry volume by 75% using Splunk Observability Cloud. Discover a right-sized strategy to improve digital resilience and troubleshooting efficiency while keeping data footprints sustainable at scale. Learn how Cisco IT r…",
-      "url": "https://blogs.cisco.com/cisco-on-cisco/cisco-its-endpoint-observability-strategy-right-sized-telemetry-for-splunk-observability-cloud"
+      "title": "Reflex raises $14M to help enterprises replace generic third-party software with custom business apps",
+      "description": "Reflex, a startup that uses artificial intelligence agents to build, deploy and maintain custom business software for enterprises, said today it has closed on a $14 million Series A round of funding. Standard Capital led the round, which saw participation fro…",
+      "url": "https://siliconangle.com/2026/10/29/reflex-raises-15m-to-help-enterprises-replace-generic-third-party-software-with-custom-business-apps/"
     },
     {
-      "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
-      "description": "Meta censored a political organisation during a national voting campaign, blamed its own automation, then claimed its automated systems had detected another automated tool.",
-      "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram"
+      "title": "Serval raises $150M at $3B valuation to bring its automation agents beyond IT",
+      "description": "Enterprise service management startup Serval Inc. announced today it has raised $150 million in new funding at a $3 billion valuation to bring its automation agents to more departments beyond information technology. Serval offers a service management platform…",
+      "url": "https://siliconangle.com/2026/10/29/serval-raises-150m-at-3b-valuation-to-bring-its-automation-agents-beyond-it/"
     },
     {
-      "title": "The Trouble with 'Tokenmaxxing': Amazon Tells Engineers to Stop Chasing AI Usage Metrics",
-      "description": "Amazon has told its software engineers to stop padding their AI usage just to look productive, according to an internal memo circulated in September and posted publicly on the company's website this week. The practice of extreme AI usage, popularly known as \"…",
-      "url": "https://www.breitbart.com/tech/2026/10/28/the-trouble-with-tokenmaxxing-amazon-tells-engineers-to-stop-chasing-ai-usage-metrics/"
+      "title": "&Truth reportedly raises $70M to automate formal software verification",
+      "description": "The automation of formal software verification could revolutionize industries by reducing compliance costs and enhancing software reliability.\nThe post &Truth reportedly raises $70M to automate formal software verification appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/truth-raises-70m-formal-software-verification/"
     }
   ],
   "miamiNews": [
     {
-      "title": "⚾️ Y! Sports AM: Not dead yet",
-      "description": "The Rays extended their season with an extra-innings victory at The Trop. It ain’t over yet!",
-      "url": "https://sports.yahoo.com/articles/y-sports-am-not-dead-115759619.html"
+      "title": "DoorDash acquires Instacart for $17 billion, doubling down on hyper-local delivery",
+      "description": "DoorDash (DASH) announced plans to acquire hyper-local grocery delivery provider Instacart (CART) on Thursday morning in a deal valued at $17 billion. DoorDash, which is primarily known for its restaurant food delivery business, will pay $65 per Instacart sha…",
+      "url": "https://finance.yahoo.com/markets/stocks/article/doordash-acquires-instacart-for-17-billion-doubling-down-on-hyper-local-delivery-120136515.html"
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "80-84",
-    "condition": "Sunny",
-    "wind": "11 mph",
+    "temp_range": "79-85",
+    "condition": "Patchy rain nearby",
+    "wind": "10 mph",
     "humidity": "66%",
-    "chance_rain": "31%"
+    "chance_rain": "22%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 28
+      "daysUntil": 27
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 57
+      "daysUntil": 56
     }
   ],
-  "generatedAt": "2026-10-29T17:28:10.222Z"
+  "generatedAt": "2026-10-30T17:03:06.731Z"
 }
