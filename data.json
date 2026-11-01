@@ -1,21 +1,16 @@
 {
-  "date": "October 31, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "November 1, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Apple Buys Business Data Collection Automation Tech Firm Ascend.io",
-      "description": "Apple recently acquired Ascend.io, a California-based company that develops technology to help businesses automate the collection and analysis of data, and more recently introduced AI agents to help engineers manage this data.Read More...",
-      "url": "https://www.mactrast.com/2026/10/apple-buys-business-data-collection-automation-tech-firm-ascend-io/"
+      "title": "Benchma(r)king – James Bridle",
+      "description": "Technologist and artist James Bridle conducts a simple chair-building experiment to explore how our embodied intelligence could meet AI’s disembodied knowledge in more meaningful ways.",
+      "url": "https://emergencemagazine.org/essay/benchmarking/"
     },
     {
-      "title": "AI for Business Automation in 2026: A Practical US Guide",
-      "description": "US teams now use ai for business automation to connect routine work, judgment, and follow-up across existing systems. The goal is not automation for its...\nThe post AI for Business Automation in 2026: A Practical US Guide appeared first on Bitcoin Foundation.",
-      "url": "https://bitcoinfoundation.org/news/ai/ai-for-business-automation/"
-    },
-    {
-      "title": "Bedrock Data routes data exposure fixes to owners and verifies results",
-      "description": "Bedrock Data has announced AI-assisted remediation, which federates the work of fixing data exposure to the data owners across the enterprise. Bedrock Data discovers who owns each exposed dataset, opens a ticket for that owner in the Jira or ServiceNow workfl…",
-      "url": "https://www.helpnetsecurity.com/2026/10/30/bedrock-data-ai-assisted-remediation/"
+      "title": "How Grüns Scaled from a Stanford Dorm Room to a $200M+ Nutrition Brand on Shopify - Shopify Norway",
+      "description": "See how Grüns scaled from a Stanford dorm room to a leading nutrition brand on Shopify with subscriptions, multi-brand expansion, and 7,000+ retail locations.",
+      "url": "https://www.shopify.com/no-en/case-studies/gruns"
     }
   ],
   "miamiNews": [
@@ -26,8 +21,8 @@
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,30 +42,30 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "80-83",
+    "temp_range": "80-81",
     "condition": "Patchy rain nearby",
-    "wind": "13 mph",
-    "humidity": "75%",
-    "chance_rain": "49%"
+    "wind": "15 mph",
+    "humidity": "76%",
+    "chance_rain": "79%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 26
+      "daysUntil": 25
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 55
+      "daysUntil": 54
     }
   ],
-  "generatedAt": "2026-10-31T16:11:37.871Z"
+  "generatedAt": "2026-11-01T17:10:56.326Z"
 }
