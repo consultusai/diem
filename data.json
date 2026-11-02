@@ -1,28 +1,33 @@
 {
-  "date": "November 1, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "November 2, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Benchma(r)king – James Bridle",
-      "description": "Technologist and artist James Bridle conducts a simple chair-building experiment to explore how our embodied intelligence could meet AI’s disembodied knowledge in more meaningful ways.",
-      "url": "https://emergencemagazine.org/essay/benchmarking/"
+      "title": "101 Emerging Impacts: AI-Powered Business Growth in 2026 From Halloween Trick-or-Treating Traditions to the Future of Social Media Marketing, Agentic AI, Finance Automation & Online Entrepren",
+      "description": "101 Emerging Impacts: AI-Powered Business Growth in 2026 From Halloween Trick-or-Treating Traditions to the Future of Social Media Marketing, Agentic AI, Finance Automation & Online Entreprensubstack.com",
+      "url": "https://drratneshwarprasadsinha.substack.com/p/101-emerging-impacts-ai-powered-business"
     },
     {
-      "title": "How Grüns Scaled from a Stanford Dorm Room to a $200M+ Nutrition Brand on Shopify - Shopify Norway",
-      "description": "See how Grüns scaled from a Stanford dorm room to a leading nutrition brand on Shopify with subscriptions, multi-brand expansion, and 7,000+ retail locations.",
-      "url": "https://www.shopify.com/no-en/case-studies/gruns"
+      "title": "Agilex 2X FPGA portfolio supports PCIe 7.0 and QuartusIQ AI design tool",
+      "description": "Agilex 2X is Altera’s latest FPGA and SoC portfolio, consisting of four device families for applications ranging from industrial control to high-performance computing. The first announced family, Agilex 27, incorporates 256Gbps transceivers, PCIe 7.0 support,…",
+      "url": "https://linuxgizmos.com/agilex-2x-fpga-portfolio-supports-pcie-7-0-and-quartusiq-ai-design-tool/"
+    },
+    {
+      "title": "The future of the firm | OpenAI",
+      "description": "How AI might enter the org chart—beneath, beside, and between us.",
+      "url": "https://openai.com/index/the-future-of-the-firm/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "The Alligator’s CFO voting guide - The Independent Florida Alligator",
+      "description": "The chief financial officer sits on the Florida Cabinet, oversees state accounting and auditing and leads the Department of Financial Services, which handles insurance consumer complaints and the state fire marshal’s office. Two candidates are running.",
+      "url": "https://www.alligator.org/article/2026/10/the-alligator-s-cfo-voting-guide"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -42,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "80-81",
-    "condition": "Patchy rain nearby",
-    "wind": "15 mph",
-    "humidity": "76%",
-    "chance_rain": "79%"
+    "temp_range": "--",
+    "condition": "Unable to fetch",
+    "wind": "--",
+    "humidity": "--",
+    "chance_rain": "--"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 25
+      "daysUntil": 24
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 54
+      "daysUntil": 53
     }
   ],
-  "generatedAt": "2026-11-01T17:10:56.326Z"
+  "generatedAt": "2026-11-02T20:49:51.358Z"
 }
