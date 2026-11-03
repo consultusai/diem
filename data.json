@@ -1,33 +1,33 @@
 {
-  "date": "November 2, 2026",
-  "dayOfWeek": "Monday",
+  "date": "November 3, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "101 Emerging Impacts: AI-Powered Business Growth in 2026 From Halloween Trick-or-Treating Traditions to the Future of Social Media Marketing, Agentic AI, Finance Automation & Online Entrepren",
-      "description": "101 Emerging Impacts: AI-Powered Business Growth in 2026 From Halloween Trick-or-Treating Traditions to the Future of Social Media Marketing, Agentic AI, Finance Automation & Online Entreprensubstack.com",
-      "url": "https://drratneshwarprasadsinha.substack.com/p/101-emerging-impacts-ai-powered-business"
+      "title": "Chainalysis breached using “offensive agentic techniques”",
+      "description": "Blockchain analytics firm Chainalysis has suffered a cybersecurity incident that led to a data breach. According to the company’s Friday announcement, the incident is unrelated to the recent Binance hack. What was accessed? In October, the company detected ex…",
+      "url": "https://www.helpnetsecurity.com/2026/11/02/chainalysis-breached-using-offensive-agentic-techniques/"
     },
     {
-      "title": "Agilex 2X FPGA portfolio supports PCIe 7.0 and QuartusIQ AI design tool",
-      "description": "Agilex 2X is Altera’s latest FPGA and SoC portfolio, consisting of four device families for applications ranging from industrial control to high-performance computing. The first announced family, Agilex 27, incorporates 256Gbps transceivers, PCIe 7.0 support,…",
-      "url": "https://linuxgizmos.com/agilex-2x-fpga-portfolio-supports-pcie-7-0-and-quartusiq-ai-design-tool/"
+      "title": "Exclusive: Guardz brings Palo Alto Networks browser protection to MSPs serving small businesses",
+      "description": "Cybersecurity startup Guardz Cyber Ltd. today added browser protection from Palo Alto Networks Inc.’s Prisma Browser for Business to its security platform for managed service providers that protect small businesses. The integration is aimed at phishing attack…",
+      "url": "https://siliconangle.com/2026/11/02/exclusive-guardz-brings-palo-alto-networks-browser-protection-to-msps-serving-small-businesses/"
     },
     {
-      "title": "The future of the firm | OpenAI",
-      "description": "How AI might enter the org chart—beneath, beside, and between us.",
-      "url": "https://openai.com/index/the-future-of-the-firm/"
+      "title": "The Future of AI Will Be Shaped by an Astonishingly Small Number of People",
+      "description": "The future of AI — and therefore the world — will be shaped by a few dozen quietly powerful engineers, founders, brokers, and policy-makers. It’s time you got to know them.",
+      "url": "http://nymag.com/intelligencer/article/most-powerful-people-in-ai-2026-list.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "The Alligator’s CFO voting guide - The Independent Florida Alligator",
-      "description": "The chief financial officer sits on the Florida Cabinet, oversees state accounting and auditing and leads the Department of Financial Services, which handles insurance consumer complaints and the state fire marshal’s office. Two candidates are running.",
-      "url": "https://www.alligator.org/article/2026/10/the-alligator-s-cfo-voting-guide"
+      "title": "Business Insider's 2026 Rising Stars of Wall Street",
+      "description": "From financing the future of technology to building new businesses, here's why these young finance leaders are the ones to watch in 2026.",
+      "url": "https://www.businessinsider.com/wall-street-rising-stars-finance-leaders-2026-11#article"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "--",
-    "condition": "Unable to fetch",
-    "wind": "--",
-    "humidity": "--",
-    "chance_rain": "--"
+    "temp_range": "80-83",
+    "condition": "Light rain",
+    "wind": "16 mph",
+    "humidity": "71%",
+    "chance_rain": "22%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 24
+      "daysUntil": 23
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 53
+      "daysUntil": 52
     }
   ],
-  "generatedAt": "2026-11-02T20:49:51.358Z"
+  "generatedAt": "2026-11-03T18:29:40.990Z"
 }
