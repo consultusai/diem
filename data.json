@@ -1,33 +1,33 @@
 {
-  "date": "November 3, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "November 4, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Chainalysis breached using “offensive agentic techniques”",
-      "description": "Blockchain analytics firm Chainalysis has suffered a cybersecurity incident that led to a data breach. According to the company’s Friday announcement, the incident is unrelated to the recent Binance hack. What was accessed? In October, the company detected ex…",
-      "url": "https://www.helpnetsecurity.com/2026/11/02/chainalysis-breached-using-offensive-agentic-techniques/"
+      "title": "Orion Innovation Unveils the Next Generation of OI NEBULA™, Its Suite of Agentic SDLC Platforms",
+      "description": "Proven with a select group of enterprise clients, the hardened and expanded suite of agentic SDLC platforms is now available ISELIN, N.J., Nov. 3, 2026 /PRNewswire/ -- Orion Innovation (\"Orion\"), a data and AI-enabled software engineering services partner, to…",
+      "url": "https://www.prnewswire.co.uk/news-releases/orion-innovation-unveils-the-next-generation-of-oi-nebula-its-suite-of-agentic-sdlc-platforms-302927109.html"
     },
     {
-      "title": "Exclusive: Guardz brings Palo Alto Networks browser protection to MSPs serving small businesses",
-      "description": "Cybersecurity startup Guardz Cyber Ltd. today added browser protection from Palo Alto Networks Inc.’s Prisma Browser for Business to its security platform for managed service providers that protect small businesses. The integration is aimed at phishing attack…",
-      "url": "https://siliconangle.com/2026/11/02/exclusive-guardz-brings-palo-alto-networks-browser-protection-to-msps-serving-small-businesses/"
+      "title": "Future-proofing enterprise AI: The impact of post-quantum cryptography on Red Hat AI Enterprise",
+      "description": "We are rapidly approaching an intersection of 2 generational technology shifts: The explosive adoption of generative artificial intelligence (AI), and the looming reality of cryptographically relevant quantum computers (CRQCs). While AI is transforming how we…",
+      "url": "https://www.redhat.com/en/blog/future-proofing-enterprise-ai-impact-post-quantum-cryptography-red-hat-ai-enterprise"
     },
     {
-      "title": "The Future of AI Will Be Shaped by an Astonishingly Small Number of People",
-      "description": "The future of AI — and therefore the world — will be shaped by a few dozen quietly powerful engineers, founders, brokers, and policy-makers. It’s time you got to know them.",
-      "url": "http://nymag.com/intelligencer/article/most-powerful-people-in-ai-2026-list.html"
+      "title": "There is no posttraining data commons",
+      "description": "The LLM revolution ran on a pretraining commons that humanity built for other reasons. Posttraining consumes tasks, not documents, and no such commons exists. If the open models community wants...",
+      "url": "https://www.openathena.ai/blog/there-is-no-posttraining-data-commons/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Business Insider's 2026 Rising Stars of Wall Street",
-      "description": "From financing the future of technology to building new businesses, here's why these young finance leaders are the ones to watch in 2026.",
-      "url": "https://www.businessinsider.com/wall-street-rising-stars-finance-leaders-2026-11#article"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "Team Connection Hack",
-    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "80-83",
-    "condition": "Light rain",
-    "wind": "16 mph",
-    "humidity": "71%",
-    "chance_rain": "22%"
+    "temp_range": "79-83",
+    "condition": "Patchy rain nearby",
+    "wind": "11 mph",
+    "humidity": "75%",
+    "chance_rain": "9%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 23
+      "daysUntil": 22
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 52
+      "daysUntil": 51
     }
   ],
-  "generatedAt": "2026-11-03T18:29:40.990Z"
+  "generatedAt": "2026-11-04T18:43:08.810Z"
 }
