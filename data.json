@@ -1,21 +1,21 @@
 {
-  "date": "November 4, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "November 5, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Orion Innovation Unveils the Next Generation of OI NEBULA™, Its Suite of Agentic SDLC Platforms",
-      "description": "Proven with a select group of enterprise clients, the hardened and expanded suite of agentic SDLC platforms is now available ISELIN, N.J., Nov. 3, 2026 /PRNewswire/ -- Orion Innovation (\"Orion\"), a data and AI-enabled software engineering services partner, to…",
-      "url": "https://www.prnewswire.co.uk/news-releases/orion-innovation-unveils-the-next-generation-of-oi-nebula-its-suite-of-agentic-sdlc-platforms-302927109.html"
+      "title": "Google fine-tunes its Agentic Data Cloud to support highly scalable autonomous AI workers",
+      "description": "Artificial intelligence is no longer just about conversational assistants that tell people what to do. These days, it’s all about work automation, and Google Cloud is making sure it’s right at the forefront of that trend with its revamped Agentic Data Cloud p…",
+      "url": "https://siliconangle.com/2026/11/04/google-fine-tunes-its-agentic-data-cloud-to-support-highly-scalable-autonomous-ai-workers/"
     },
     {
-      "title": "Future-proofing enterprise AI: The impact of post-quantum cryptography on Red Hat AI Enterprise",
-      "description": "We are rapidly approaching an intersection of 2 generational technology shifts: The explosive adoption of generative artificial intelligence (AI), and the looming reality of cryptographically relevant quantum computers (CRQCs). While AI is transforming how we…",
-      "url": "https://www.redhat.com/en/blog/future-proofing-enterprise-ai-impact-post-quantum-cryptography-red-hat-ai-enterprise"
+      "title": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone",
+      "description": "Applied Compute Inc., a fast-growing provider of artificial intelligence infrastructure, has raised $350 million in funding at a $3.25 billion valuation. The startup announced the deal on Monday. It stated that prominent angel investor Elad Gil led the round …",
+      "url": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/"
     },
     {
-      "title": "There is no posttraining data commons",
-      "description": "The LLM revolution ran on a pretraining commons that humanity built for other reasons. Posttraining consumes tasks, not documents, and no such commons exists. If the open models community wants...",
-      "url": "https://www.openathena.ai/blog/there-is-no-posttraining-data-commons/"
+      "title": "AI And Marketing Lessons: 25 Quotations And Predictions From Global Leaders",
+      "description": "To extract signal from the noise, we compiled 25 AI and marketing lessons, quotes, strategic axioms, and future predictions from founders, technical pioneers, and marketing operators.",
+      "url": "https://www.digitalvidya.com/blog/ai-marketing-lessons/"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
     "temp_range": "79-83",
     "condition": "Patchy rain nearby",
-    "wind": "11 mph",
-    "humidity": "75%",
-    "chance_rain": "9%"
+    "wind": "10 mph",
+    "humidity": "68%",
+    "chance_rain": "8%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 22
+      "daysUntil": 21
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 51
+      "daysUntil": 50
     }
   ],
-  "generatedAt": "2026-11-04T18:43:08.810Z"
+  "generatedAt": "2026-11-05T18:51:02.964Z"
 }
