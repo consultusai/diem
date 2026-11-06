@@ -1,33 +1,33 @@
 {
-  "date": "November 5, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "November 6, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Google fine-tunes its Agentic Data Cloud to support highly scalable autonomous AI workers",
-      "description": "Artificial intelligence is no longer just about conversational assistants that tell people what to do. These days, it’s all about work automation, and Google Cloud is making sure it’s right at the forefront of that trend with its revamped Agentic Data Cloud p…",
-      "url": "https://siliconangle.com/2026/11/04/google-fine-tunes-its-agentic-data-cloud-to-support-highly-scalable-autonomous-ai-workers/"
+      "title": "The Hidden FinOps Skills Behind Enterprise AI Agents",
+      "description": "FinOps Skills Behind Enterprise AI Agents Enterprise AI agents are often sold as a simple equation. Spend money on the technology, reduce the amount of human labor required and the savings will follow. That equation is incomplete. The real economics of AI age…",
+      "url": "https://cloudtweaks.com/2026/11/the-hidden-finops-skills-behind-enterprise-ai-agents/"
     },
     {
-      "title": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone",
-      "description": "Applied Compute Inc., a fast-growing provider of artificial intelligence infrastructure, has raised $350 million in funding at a $3.25 billion valuation. The startup announced the deal on Monday. It stated that prominent angel investor Elad Gil led the round …",
-      "url": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/"
+      "title": "Agents aren’t humans (but they kinda are)",
+      "description": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
+      "url": "https://blog.cloudflare.com/trusted-agent-delegation/"
     },
     {
-      "title": "AI And Marketing Lessons: 25 Quotations And Predictions From Global Leaders",
-      "description": "To extract signal from the noise, we compiled 25 AI and marketing lessons, quotes, strategic axioms, and future predictions from founders, technical pioneers, and marketing operators.",
-      "url": "https://www.digitalvidya.com/blog/ai-marketing-lessons/"
+      "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
+      "description": "Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable clo…",
+      "url": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+      "description": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
+      "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "How to Build a $1M Consulting Business",
-    "source": "First Round Review",
-    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
-    "url": "https://firstround.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
     "temp_range": "79-83",
-    "condition": "Patchy rain nearby",
-    "wind": "10 mph",
-    "humidity": "68%",
-    "chance_rain": "8%"
+    "condition": "Partly Cloudy ",
+    "wind": "9 mph",
+    "humidity": "58%",
+    "chance_rain": "17%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 21
+      "daysUntil": 20
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 50
+      "daysUntil": 49
     }
   ],
-  "generatedAt": "2026-11-05T18:51:02.964Z"
+  "generatedAt": "2026-11-06T18:07:46.335Z"
 }
