@@ -1,33 +1,33 @@
 {
-  "date": "November 6, 2026",
-  "dayOfWeek": "Friday",
+  "date": "November 7, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "The Hidden FinOps Skills Behind Enterprise AI Agents",
-      "description": "FinOps Skills Behind Enterprise AI Agents Enterprise AI agents are often sold as a simple equation. Spend money on the technology, reduce the amount of human labor required and the savings will follow. That equation is incomplete. The real economics of AI age…",
-      "url": "https://cloudtweaks.com/2026/11/the-hidden-finops-skills-behind-enterprise-ai-agents/"
+      "title": "Midterm elections will put AI and data centers on trial, but Big Tech may end up winning anyway",
+      "description": "It may be a little soon to determine the ultimate winners and losers among enterprise suppliers after the midterm elections, but the early line is: Big Tech wins and data center suppliers operators such as chipmakers and neoclouds lose. Or will everybody lose…",
+      "url": "https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway/"
     },
     {
-      "title": "Agents aren’t humans (but they kinda are)",
-      "description": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
-      "url": "https://blog.cloudflare.com/trusted-agent-delegation/"
+      "title": "ClicData Launches MCP Server to Bring Trusted Business Data to AI Assistants for Midmarket Teams",
+      "description": "MCP connects Claude, ChatGPT, and other AI assistants directly to the governed data a company already manages in ClicData",
+      "url": "https://customerthink.com/clicdata-launches-mcp-server-to-bring-trusted-business-data-to-ai-assistants-for-midmarket-teams/"
     },
     {
-      "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
-      "description": "Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable clo…",
-      "url": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/"
+      "title": "How accurately did science fiction stories predict AI?",
+      "description": "Stories, novels, and films scored on how well they predicted the advent of AI.",
+      "url": "https://jamesyu.org/science-fiction-predictions-of-ai/"
     }
   ],
   "miamiNews": [
     {
-      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-      "description": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-      "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "79-83",
-    "condition": "Partly Cloudy ",
-    "wind": "9 mph",
-    "humidity": "58%",
-    "chance_rain": "17%"
+    "temp_range": "79-84",
+    "condition": "Sunny",
+    "wind": "4 mph",
+    "humidity": "68%",
+    "chance_rain": "4%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 20
+      "daysUntil": 19
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 49
+      "daysUntil": 48
     }
   ],
-  "generatedAt": "2026-11-06T18:07:46.335Z"
+  "generatedAt": "2026-11-07T16:55:16.162Z"
 }
