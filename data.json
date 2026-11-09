@@ -1,16 +1,11 @@
 {
-  "date": "November 8, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "November 9, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "What Is Agent iXi? How Agentic AI Systems Work in Automation",
-      "description": "Learn how agentic AI systems work in automation through Bosch Rexroth’s Agent iXi, including its workflow, tools, controls, and adoption risks today.\nThe post What Is Agent iXi? How Agentic AI Systems Work in Automation appeared first on Bitcoin Foundation.",
-      "url": "https://bitcoinfoundation.org/news/ai/what-is-agent-ixi-how-agentic-ai-systems-work-in-automation/"
-    },
-    {
-      "title": "How AI Is Changing Software Development in 2026",
-      "description": "Explore how AI coding agents are transforming software development in 2026, where they save time, and why human oversight still matters.",
-      "url": "https://palettevault.github.io/blog/ai-development-2026/"
+      "title": "Droptica: The Drupal AI module ecosystem, mapped",
+      "description": "This Drupal AI modules overview maps release status, dependencies, and operating costs for editorial, search, translation, and agent integrations on Drupal 10 and 11.",
+      "url": "https://www.droptica.com/blog/drupal-ai-module-ecosystem-mapped/"
     }
   ],
   "miamiNews": [
@@ -21,8 +16,8 @@
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -42,30 +37,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "78-83",
-    "condition": "Patchy rain nearby",
-    "wind": "8 mph",
-    "humidity": "69%",
-    "chance_rain": "24%"
+    "temp_range": "79-82",
+    "condition": "Partly Cloudy ",
+    "wind": "10 mph",
+    "humidity": "61%",
+    "chance_rain": "20%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 18
+      "daysUntil": 17
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 47
+      "daysUntil": 46
     }
   ],
-  "generatedAt": "2026-11-08T17:08:06.101Z"
+  "generatedAt": "2026-11-09T21:30:10.439Z"
 }
