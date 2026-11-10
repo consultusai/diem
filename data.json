@@ -1,23 +1,33 @@
 {
-  "date": "November 9, 2026",
-  "dayOfWeek": "Monday",
+  "date": "November 10, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Droptica: The Drupal AI module ecosystem, mapped",
-      "description": "This Drupal AI modules overview maps release status, dependencies, and operating costs for editorial, search, translation, and agent integrations on Drupal 10 and 11.",
-      "url": "https://www.droptica.com/blog/drupal-ai-module-ecosystem-mapped/"
+      "title": "Matillion recognized as a Visionary in the 2026 Gartner® Magic Quadrant™ for Data Integration Tools",
+      "description": "Recognition follows the launch of Maia by Matillion, the first autonomous data engineering platform DENVER and MANCHESTER, England, Nov. 9, 2026 /PRNewswire/ -- Matillion, the company behind Maia, the AI Data Automation platform, has been named a Visionary in…",
+      "url": "https://www.prnewswire.co.uk/news-releases/matillion-recognized-as-a-visionary-in-the-2026-gartner-magic-quadrant-for-data-integration-tools-302933310.html"
+    },
+    {
+      "title": "What Is MLOps? Architecture, MLOps vs DevOps, and LLMOps",
+      "description": "Table of Contents What Is MLOps? Architecture, MLOps vs DevOps, and LLMOps What Is MLOps? Why MLOps Matters for Production Machine Learning Core Principles of MLOps 1. Automation 2. Reproducibility 3. Scalability 4. Monitoring and Governance MLOps vs DevOps: …",
+      "url": "https://pyimagesearch.com/2026/11/09/what-is-mlops-architecture-mlops-vs-devops-and-llmops/"
+    },
+    {
+      "title": "Artmarket.com (Artprice): Q3 2026 revenue up; global rollout in early December 2026 of Artprice Visual Search®, the \"quantum leap\" of 30 years of AI-First strategy",
+      "description": "Note: The belief of the Ehrmann family and Groupe Serveur, the main shareholder, in the growth of Artprice by Artmarket's activities is reflected in the increase of their stake in the share capital of Artmarket.com, through the acquisition of new Artmarket.co…",
+      "url": "https://www.prnewswire.co.uk/news-releases/artmarketcom-artprice-q3-2026-revenue-up-global-rollout-in-early-december-2026-of-artprice-visual-search-the-quantum-leap-of-30-years-of-ai-first-strategy-302933372.html"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "What is the Best Literary TV Adaptation of All Time?",
+      "description": "Who says TV rots your brain? These days, it delivers its fair share of great storytelling, whether original or adapted. But this is Literary Hub, after all, and so as the weather gets cooler, we’ll be hunkering down with some",
+      "url": "https://lithub.com/what-is-the-best-literary-tv-adaptation-of-all-time/"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -37,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "79-82",
-    "condition": "Partly Cloudy ",
-    "wind": "10 mph",
-    "humidity": "61%",
-    "chance_rain": "20%"
+    "temp_range": "77-81",
+    "condition": "Patchy light drizzle",
+    "wind": "9 mph",
+    "humidity": "65%",
+    "chance_rain": "13%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 17
+      "daysUntil": 16
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 46
+      "daysUntil": 45
     }
   ],
-  "generatedAt": "2026-11-09T21:30:10.439Z"
+  "generatedAt": "2026-11-10T18:43:00.892Z"
 }
