@@ -1,33 +1,33 @@
 {
-  "date": "November 10, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "November 11, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Matillion recognized as a Visionary in the 2026 Gartner® Magic Quadrant™ for Data Integration Tools",
-      "description": "Recognition follows the launch of Maia by Matillion, the first autonomous data engineering platform DENVER and MANCHESTER, England, Nov. 9, 2026 /PRNewswire/ -- Matillion, the company behind Maia, the AI Data Automation platform, has been named a Visionary in…",
-      "url": "https://www.prnewswire.co.uk/news-releases/matillion-recognized-as-a-visionary-in-the-2026-gartner-magic-quadrant-for-data-integration-tools-302933310.html"
+      "title": "vibe-coding-qa added to PyPI",
+      "description": "Local static-analysis QA dashboard for AI-assisted web products - runs on your machine, your data stays on your PC.",
+      "url": "https://pypi.org/project/vibe-coding-qa/"
     },
     {
-      "title": "What Is MLOps? Architecture, MLOps vs DevOps, and LLMOps",
-      "description": "Table of Contents What Is MLOps? Architecture, MLOps vs DevOps, and LLMOps What Is MLOps? Why MLOps Matters for Production Machine Learning Core Principles of MLOps 1. Automation 2. Reproducibility 3. Scalability 4. Monitoring and Governance MLOps vs DevOps: …",
-      "url": "https://pyimagesearch.com/2026/11/09/what-is-mlops-architecture-mlops-vs-devops-and-llmops/"
+      "title": "Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell",
+      "description": "Jon Miller joins Heather Campbell to discuss how AI could reshape marketing automation, buying groups, and the decisions marketers face before renewing legacy platforms.\nThe post Jon Miller On AI And The Future Of Marketing Automation appeared first on Search…",
+      "url": "https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/"
     },
     {
-      "title": "Artmarket.com (Artprice): Q3 2026 revenue up; global rollout in early December 2026 of Artprice Visual Search®, the \"quantum leap\" of 30 years of AI-First strategy",
-      "description": "Note: The belief of the Ehrmann family and Groupe Serveur, the main shareholder, in the growth of Artprice by Artmarket's activities is reflected in the increase of their stake in the share capital of Artmarket.com, through the acquisition of new Artmarket.co…",
-      "url": "https://www.prnewswire.co.uk/news-releases/artmarketcom-artprice-q3-2026-revenue-up-global-rollout-in-early-december-2026-of-artprice-visual-search-the-quantum-leap-of-30-years-of-ai-first-strategy-302933372.html"
+      "title": "PitchBook opens its platform to startups for free and debuts Origin deal sourcing service",
+      "description": "Private markets data provider PitchBook Data Inc. today opened its platform to startups for free at Web Summit in Lisbon. Those that sign up have to share their financials. Some of that information will reach investors through the company’s new deal sourcing …",
+      "url": "https://siliconangle.com/2026/11/10/pitchbook-opens-its-platform-to-startups-for-free-and-debuts-origin-deal-sourcing-service/"
     }
   ],
   "miamiNews": [
     {
-      "title": "What is the Best Literary TV Adaptation of All Time?",
-      "description": "Who says TV rots your brain? These days, it delivers its fair share of great storytelling, whether original or adapted. But this is Literary Hub, after all, and so as the weather gets cooler, we’ll be hunkering down with some",
-      "url": "https://lithub.com/what-is-the-best-literary-tv-adaptation-of-all-time/"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "77-81",
-    "condition": "Patchy light drizzle",
-    "wind": "9 mph",
-    "humidity": "65%",
-    "chance_rain": "13%"
+    "temp_range": "75-81",
+    "condition": "Light rain shower",
+    "wind": "7 mph",
+    "humidity": "67%",
+    "chance_rain": "22%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 16
+      "daysUntil": 15
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 45
+      "daysUntil": 44
     }
   ],
-  "generatedAt": "2026-11-10T18:43:00.892Z"
+  "generatedAt": "2026-11-11T18:45:59.525Z"
 }
