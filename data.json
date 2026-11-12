@@ -1,33 +1,33 @@
 {
-  "date": "November 11, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "November 12, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "vibe-coding-qa added to PyPI",
-      "description": "Local static-analysis QA dashboard for AI-assisted web products - runs on your machine, your data stays on your PC.",
-      "url": "https://pypi.org/project/vibe-coding-qa/"
+      "title": "Sovereign AI and British Business Bank invest in British firm developing the next generation of AI hardware",
+      "description": "UK Government’s Sovereign AI and the British Business Bank back Fractile - a Bristol and London based frontier AI hardware firm developing advanced chips",
+      "url": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware"
     },
     {
-      "title": "Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell",
-      "description": "Jon Miller joins Heather Campbell to discuss how AI could reshape marketing automation, buying groups, and the decisions marketers face before renewing legacy platforms.\nThe post Jon Miller On AI And The Future Of Marketing Automation appeared first on Search…",
-      "url": "https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/"
+      "title": "Red Hat OpenShift 5 brings autonomous troubleshooting to hybrid clouds",
+      "description": "Red Hat has announced the general availability of Red Hat OpenShift 5, bringing built-in operational intelligence, zero trust security and a longer, predictable lifecycle to the hybrid cloud application platform powered by Kubernetes. Purpose-built to streaml…",
+      "url": "https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/"
     },
     {
-      "title": "PitchBook opens its platform to startups for free and debuts Origin deal sourcing service",
-      "description": "Private markets data provider PitchBook Data Inc. today opened its platform to startups for free at Web Summit in Lisbon. Those that sign up have to share their financials. Some of that information will reach investors through the company’s new deal sourcing …",
-      "url": "https://siliconangle.com/2026/11/10/pitchbook-opens-its-platform-to-startups-for-free-and-debuts-origin-deal-sourcing-service/"
+      "title": "TI marks 70 years of innovation in Europe",
+      "description": "Texas Instruments celebrates seven decades of semiconductor innovation in Europe, from early automotive components to AI-based infrastructure, and highlights collaborations with ABB Robotics, Porsche, Schneider Electric and Husqvarna Group.\nThe post TI marks …",
+      "url": "https://www.open-electronics.org/ti-marks-70-years-of-innovation-in-europe/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Meet the 2026 rising stars of real estate",
+      "description": "From agents, to brokers, to fintech entrepreneurs, to public relations professionals, here are Business Insider's 2026 rising stars of real estate.",
+      "url": "https://www.businessinsider.com/rising-stars-of-real-estate-2026#article"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -53,24 +53,24 @@
     "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "75-81",
+    "temp_range": "74-82",
     "condition": "Light rain shower",
     "wind": "7 mph",
-    "humidity": "67%",
-    "chance_rain": "22%"
+    "humidity": "62%",
+    "chance_rain": "16%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 15
+      "daysUntil": 14
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 44
+      "daysUntil": 43
     }
   ],
-  "generatedAt": "2026-11-11T18:45:59.525Z"
+  "generatedAt": "2026-11-12T18:59:28.369Z"
 }
