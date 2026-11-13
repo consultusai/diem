@@ -1,28 +1,28 @@
 {
-  "date": "November 12, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "November 13, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Sovereign AI and British Business Bank invest in British firm developing the next generation of AI hardware",
-      "description": "UK Government’s Sovereign AI and the British Business Bank back Fractile - a Bristol and London based frontier AI hardware firm developing advanced chips",
-      "url": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware"
+      "title": "How H6.ai builds AI-powered financial automation with Lakebase Postgres",
+      "description": "* H6.ai gives every customer a dedicated Lakebase Postgres database, which keeps each customer's financial data isolated on a multi-tenant AP automation platform.\r\n* Copy-on-write branches save the exact database state behind any invoice issue, so the team ca…",
+      "url": "https://www.databricks.com/blog/how-h6ai-builds-ai-powered-financial-automation-lakebase-postgres"
     },
     {
-      "title": "Red Hat OpenShift 5 brings autonomous troubleshooting to hybrid clouds",
-      "description": "Red Hat has announced the general availability of Red Hat OpenShift 5, bringing built-in operational intelligence, zero trust security and a longer, predictable lifecycle to the hybrid cloud application platform powered by Kubernetes. Purpose-built to streaml…",
-      "url": "https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/"
+      "title": "Hatz AI raises $24M to help small businesses go AI-native through their MSPs",
+      "description": "Large enterprises have emerged as the foremost adopters of artificial intelligence technology, and it’s giving them an unfair advantage over their smaller competitors. Looking to change that is a startup called Hatz AI Inc., which has just raised $24 million …",
+      "url": "https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/"
     },
     {
-      "title": "TI marks 70 years of innovation in Europe",
-      "description": "Texas Instruments celebrates seven decades of semiconductor innovation in Europe, from early automotive components to AI-based infrastructure, and highlights collaborations with ABB Robotics, Porsche, Schneider Electric and Husqvarna Group.\nThe post TI marks …",
-      "url": "https://www.open-electronics.org/ti-marks-70-years-of-innovation-in-europe/"
+      "title": "Open Channels FM: From Ideas to Micro Apps with Spacefast",
+      "description": "SpaceFast founder Batuhan İçöz talks about AI-driven tools, agentic web, and future software built on Automattic technology",
+      "url": "https://openchannels.fm/from-ideas-to-micro-apps-with-spacefast/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Meet the 2026 rising stars of real estate",
-      "description": "From agents, to brokers, to fintech entrepreneurs, to public relations professionals, here are Business Insider's 2026 rising stars of real estate.",
-      "url": "https://www.businessinsider.com/rising-stars-of-real-estate-2026#article"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "74-82",
-    "condition": "Light rain shower",
-    "wind": "7 mph",
-    "humidity": "62%",
-    "chance_rain": "16%"
+    "temp_range": "71-79",
+    "condition": "Cloudy ",
+    "wind": "6 mph",
+    "humidity": "66%",
+    "chance_rain": "24%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 14
+      "daysUntil": 13
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 43
+      "daysUntil": 42
     }
   ],
-  "generatedAt": "2026-11-12T18:59:28.369Z"
+  "generatedAt": "2026-11-13T18:35:48.253Z"
 }
