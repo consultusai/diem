@@ -1,33 +1,33 @@
 {
-  "date": "November 13, 2026",
-  "dayOfWeek": "Friday",
+  "date": "November 14, 2026",
+  "dayOfWeek": "Saturday",
   "usNews": [
     {
-      "title": "How H6.ai builds AI-powered financial automation with Lakebase Postgres",
-      "description": "* H6.ai gives every customer a dedicated Lakebase Postgres database, which keeps each customer's financial data isolated on a multi-tenant AP automation platform.\r\n* Copy-on-write branches save the exact database state behind any invoice issue, so the team ca…",
-      "url": "https://www.databricks.com/blog/how-h6ai-builds-ai-powered-financial-automation-lakebase-postgres"
+      "title": "How Jensen Huang transformed Nvidia into a tech giant: From gaming graphics to AI superpower",
+      "description": "Nvidia co-founder Jensen Huang transformed the company from a gaming graphics chipmaker into a global AI powerhouse. His early bet on GPUs, CUDA software and AI computing helped Nvidia become a critical supplier of chips and infrastructure powering the artifi…",
+      "url": "https://www.livemint.com/companies/news/how-jensen-huang-transformed-nvidia-into-a-tech-giant-from-gaming-graphics-to-ai-superpower-11794556364635.html"
     },
     {
-      "title": "Hatz AI raises $24M to help small businesses go AI-native through their MSPs",
-      "description": "Large enterprises have emerged as the foremost adopters of artificial intelligence technology, and it’s giving them an unfair advantage over their smaller competitors. Looking to change that is a startup called Hatz AI Inc., which has just raised $24 million …",
-      "url": "https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/"
+      "title": "Open Channels FM: After the Announcement, Open Channels News Week in Review",
+      "description": "This week’s news looked at AI, open-source licensing, security automation, regulatory software, enterprise spending, SaaS alternatives, maintenance challenges, patents, and credential risks.",
+      "url": "https://openchannels.fm/after-the-announcement-open-channels-news-week-in-review/"
     },
     {
-      "title": "Open Channels FM: From Ideas to Micro Apps with Spacefast",
-      "description": "SpaceFast founder Batuhan İçöz talks about AI-driven tools, agentic web, and future software built on Automattic technology",
-      "url": "https://openchannels.fm/from-ideas-to-micro-apps-with-spacefast/"
+      "title": "Nvidia CEO Jensen Huang’s abrupt departure shakes AI industry’s foundations",
+      "description": "Oh, Jensen… really? Honeypot or not, the Chinese executive/accused spy with whom Nvidia CEO Jensen Huang admitted an affair this week should have been a flashing red light to him. So should fraternizing with one of your own VPs — and reportedly another employ…",
+      "url": "https://siliconangle.com/2026/11/13/nvidia-ceo-jensen-huangs-abrupt-departure-shakes-ai-industrys-foundations/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Lives of the Tech Caesars",
+      "description": "The market, and maybe the future of humanity, depends on the personal decisions of 11 men. What could go wrong?",
+      "url": "http://nymag.com/intelligencer/article/jensen-huang-tech-caesars-nvidia-scandal.html"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -53,24 +53,24 @@
     "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "71-79",
-    "condition": "Cloudy ",
-    "wind": "6 mph",
-    "humidity": "66%",
-    "chance_rain": "24%"
+    "temp_range": "63-71",
+    "condition": "Sunny",
+    "wind": "10 mph",
+    "humidity": "52%",
+    "chance_rain": "10%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 13
+      "daysUntil": 12
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 42
+      "daysUntil": 41
     }
   ],
-  "generatedAt": "2026-11-13T18:35:48.253Z"
+  "generatedAt": "2026-11-14T17:12:54.425Z"
 }
