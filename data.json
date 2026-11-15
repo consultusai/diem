@@ -1,33 +1,33 @@
 {
-  "date": "November 14, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "November 15, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "How Jensen Huang transformed Nvidia into a tech giant: From gaming graphics to AI superpower",
-      "description": "Nvidia co-founder Jensen Huang transformed the company from a gaming graphics chipmaker into a global AI powerhouse. His early bet on GPUs, CUDA software and AI computing helped Nvidia become a critical supplier of chips and infrastructure powering the artifi…",
-      "url": "https://www.livemint.com/companies/news/how-jensen-huang-transformed-nvidia-into-a-tech-giant-from-gaming-graphics-to-ai-superpower-11794556364635.html"
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it | TechCrunch",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
     },
     {
-      "title": "Open Channels FM: After the Announcement, Open Channels News Week in Review",
-      "description": "This week’s news looked at AI, open-source licensing, security automation, regulatory software, enterprise spending, SaaS alternatives, maintenance challenges, patents, and credential risks.",
-      "url": "https://openchannels.fm/after-the-announcement-open-channels-news-week-in-review/"
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "description": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy commun…",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
     },
     {
-      "title": "Nvidia CEO Jensen Huang’s abrupt departure shakes AI industry’s foundations",
-      "description": "Oh, Jensen… really? Honeypot or not, the Chinese executive/accused spy with whom Nvidia CEO Jensen Huang admitted an affair this week should have been a flashing red light to him. So should fraternizing with one of your own VPs — and reportedly another employ…",
-      "url": "https://siliconangle.com/2026/11/13/nvidia-ceo-jensen-huangs-abrupt-departure-shakes-ai-industrys-foundations/"
+      "title": "The Security Jobs Growing Around Enterprise AI Agents",
+      "description": "Two years ago, most company AI use happened in a chat window. Today, AI assistants read shared mailboxes, search SharePoint, open support tickets and, in some",
+      "url": "https://hackread.com/security-jobs-growing-around-enterprise-ai-agents/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Lives of the Tech Caesars",
-      "description": "The market, and maybe the future of humanity, depends on the personal decisions of 11 men. What could go wrong?",
-      "url": "http://nymag.com/intelligencer/article/jensen-huang-tech-caesars-nvidia-scandal.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "63-71",
+    "temp_range": "61-76",
     "condition": "Sunny",
-    "wind": "10 mph",
-    "humidity": "52%",
-    "chance_rain": "10%"
+    "wind": "8 mph",
+    "humidity": "55%",
+    "chance_rain": "11%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 12
+      "daysUntil": 11
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 41
+      "daysUntil": 40
     }
   ],
-  "generatedAt": "2026-11-14T17:12:54.425Z"
+  "generatedAt": "2026-11-15T17:52:33.182Z"
 }
