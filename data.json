@@ -1,33 +1,28 @@
 {
-  "date": "November 15, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "November 16, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn't make it | TechCrunch",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      "title": "Israeli AI breakthrough could predict Alzheimer's years before symptoms appear",
+      "description": "Developed from pioneering research led by Clalit Health Services - Beilinson Hospital, ALZAI Health and Ariel University, the new AI model is marking a major step toward earlier Alzheimer’s risk detection",
+      "url": "https://www.israelnationalnews.com/news/436231"
     },
     {
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "description": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy commun…",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
-    },
-    {
-      "title": "The Security Jobs Growing Around Enterprise AI Agents",
-      "description": "Two years ago, most company AI use happened in a chat window. Today, AI assistants read shared mailboxes, search SharePoint, open support tickets and, in some",
-      "url": "https://hackread.com/security-jobs-growing-around-enterprise-ai-agents/"
+      "title": "AI Book Club recording of Co-Existence by Ethan Mollick",
+      "description": "This is a recording of our AI Book Club discussion of Co-Existence: The Next Phase of AI by Ethan Mollick, held November 15, 2026. Most of the group rated the book around three to four stars, noting that broad AI books age quickly even when individual concept…",
+      "url": "https://idratherbewriting.com/blog/ai-book-club-co-existence-mollick"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Brisbane 2032's Olympic boss and his pickleball conflict",
+      "description": "He is in charge of Australian sport's biggest money-pots. But can Brisbane's Olympic boss manage the tensions surrounding the 2032 Games?",
+      "url": "https://www.abc.net.au/news/2026-11-16/andrew-liveris-brisbane-olympics-profile/107379516"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -47,30 +42,30 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "61-76",
-    "condition": "Sunny",
-    "wind": "8 mph",
-    "humidity": "55%",
-    "chance_rain": "11%"
+    "temp_range": "71-79",
+    "condition": "Partly Cloudy ",
+    "wind": "11 mph",
+    "humidity": "50%",
+    "chance_rain": "5%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 11
+      "daysUntil": 10
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 40
+      "daysUntil": 39
     }
   ],
-  "generatedAt": "2026-11-15T17:52:33.182Z"
+  "generatedAt": "2026-11-16T21:06:53.118Z"
 }
