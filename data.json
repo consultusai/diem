@@ -1,28 +1,33 @@
 {
-  "date": "November 16, 2026",
-  "dayOfWeek": "Monday",
+  "date": "November 17, 2026",
+  "dayOfWeek": "Tuesday",
   "usNews": [
     {
-      "title": "Israeli AI breakthrough could predict Alzheimer's years before symptoms appear",
-      "description": "Developed from pioneering research led by Clalit Health Services - Beilinson Hospital, ALZAI Health and Ariel University, the new AI model is marking a major step toward earlier Alzheimer’s risk detection",
-      "url": "https://www.israelnationalnews.com/news/436231"
+      "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+      "description": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and ke…",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/"
     },
     {
-      "title": "AI Book Club recording of Co-Existence by Ethan Mollick",
-      "description": "This is a recording of our AI Book Club discussion of Co-Existence: The Next Phase of AI by Ethan Mollick, held November 15, 2026. Most of the group rated the book around three to four stars, noting that broad AI books age quickly even when individual concept…",
-      "url": "https://idratherbewriting.com/blog/ai-book-club-co-existence-mollick"
+      "title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
+      "description": "Novo Nordisk's Manufacturing Technology team within the Tablet area team built a process-intelligence assistant on Amazon Bedrock AgentCore, using a GraphRAG architecture that pairs a knowledge graph in Amazon Neptune with hybrid search in Amazon OpenSearch S…",
+      "url": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/"
+    },
+    {
+      "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
+      "description": "Hey HN, \nI built Emittr because, i frequently deal with air-gapped or locked-down systems where USB storage is disabled and third party software cannot be installed. \nNobody blocks a physical keyboard, so i used the Linux Kernel's USB gadget subsystem (Config…",
+      "url": "https://github.com/mr-anjaneyam/Emittr"
     }
   ],
   "miamiNews": [
     {
-      "title": "Brisbane 2032's Olympic boss and his pickleball conflict",
-      "description": "He is in charge of Australian sport's biggest money-pots. But can Brisbane's Olympic boss manage the tensions surrounding the 2032 Games?",
-      "url": "https://www.abc.net.au/news/2026-11-16/andrew-liveris-brisbane-olympics-profile/107379516"
+      "title": "Why the Epstein Kompromat Network Is Still Protected",
+      "description": "…\nThe post Why the Epstein Kompromat Network Is Still Protected appeared first on Global Research.",
+      "url": "https://michelchossudovsky.substack.com/p/why-epstein-kompromat-network-protected"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "The 80/20 Rule for Relationships",
+    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
   },
   "actions": [
     {
@@ -42,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Why Relationships Need Boundaries",
-    "source": "The Atlantic",
-    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
-    "url": "https://www.theatlantic.com"
+    "title": "The Cold Email Playbook That Actually Works",
+    "source": "Substack",
+    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
+    "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "71-79",
-    "condition": "Partly Cloudy ",
-    "wind": "11 mph",
-    "humidity": "50%",
-    "chance_rain": "5%"
+    "temp_range": "73-76",
+    "condition": "Light rain shower",
+    "wind": "15 mph",
+    "humidity": "76%",
+    "chance_rain": "36%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 10
+      "daysUntil": 9
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 39
+      "daysUntil": 38
     }
   ],
-  "generatedAt": "2026-11-16T21:06:53.118Z"
+  "generatedAt": "2026-11-17T19:56:01.596Z"
 }
