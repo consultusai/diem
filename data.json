@@ -1,33 +1,33 @@
 {
-  "date": "November 17, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "November 18, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
-      "description": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and ke…",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/"
+      "title": "Ontology pre-training improves machine learning-based predictions for metabolites",
+      "description": "Author summary Incorporating established biological knowledge into artificial intelligence models is a longstanding challenge in the life sciences. Ontologies provide carefully curated, structured data in classification hierarchies, but making practical use o…",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014925"
     },
     {
-      "title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
-      "description": "Novo Nordisk's Manufacturing Technology team within the Tablet area team built a process-intelligence assistant on Amazon Bedrock AgentCore, using a GraphRAG architecture that pairs a knowledge graph in Amazon Neptune with hybrid search in Amazon OpenSearch S…",
-      "url": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/"
+      "title": "Beyond the AI hype: How Industrial AI is reshaping India’s factories and infrastructure",
+      "description": "As India moves forward, artificial intelligence technologies are being woven into the fabric of its manufacturing, infrastructure, and transportation sectors. This innovative integration is set to boost productivity and create more sustainable practices, with…",
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/beyond-the-ai-hype-how-industrial-ai-is-reshaping-indias-factories-and-infrastructure/articleshow/135934331.cms"
     },
     {
-      "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
-      "description": "Hey HN, \nI built Emittr because, i frequently deal with air-gapped or locked-down systems where USB storage is disabled and third party software cannot be installed. \nNobody blocks a physical keyboard, so i used the Linux Kernel's USB gadget subsystem (Config…",
-      "url": "https://github.com/mr-anjaneyam/Emittr"
+      "title": "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations",
+      "description": "At Microsoft Ignite 2026, we’ll showcase what’s possible when models, silicon, and cloud infrastructure converge into a single, co-engineered system. By tuning the entire stack, and introducing new capabilities across isolated execution, networking, context m…",
+      "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Why the Epstein Kompromat Network Is Still Protected",
-      "description": "…\nThe post Why the Epstein Kompromat Network Is Still Protected appeared first on Global Research.",
-      "url": "https://michelchossudovsky.substack.com/p/why-epstein-kompromat-network-protected"
+      "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
+      "description": "Thank you for inviting me to return and speak today.  1     I am delighted to be here during a transformational time in payments. Two years ago, I spoke at The",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Team Connection Hack",
+    "content": "Start your next meeting by asking your team one non-work question: 'What's something you learned this week?' Builds psychological safety and shows you care beyond metrics."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "Why Relationships Need Boundaries",
+    "source": "The Atlantic",
+    "reason": "With friends visiting for 2 weeks, good reminder to set expectations early.",
+    "url": "https://www.theatlantic.com"
   },
   "weather": {
-    "temp_range": "73-76",
-    "condition": "Light rain shower",
-    "wind": "15 mph",
-    "humidity": "76%",
-    "chance_rain": "36%"
+    "temp_range": "71-75",
+    "condition": "Light rain",
+    "wind": "18 mph",
+    "humidity": "86%",
+    "chance_rain": "68%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 9
+      "daysUntil": 8
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 38
+      "daysUntil": 37
     }
   ],
-  "generatedAt": "2026-11-17T19:56:01.596Z"
+  "generatedAt": "2026-11-18T19:26:45.428Z"
 }
