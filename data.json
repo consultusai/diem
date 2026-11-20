@@ -1,33 +1,33 @@
 {
-  "date": "November 19, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "November 20, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Exclusive: Wherobots AI agents automate complex spatial data engineering",
-      "description": "Cloud-native spatial analytics and artificial intelligence startup Wherobots Inc. today introduced an artificial intelligence agent that enables users to build and deploy spatial data pipelines using natural-language instructions, reducing the need for specia…",
-      "url": "https://siliconangle.com/2026/11/18/exclusive-wherobots-ai-agents-automate-complex-spatial-data-engineering/"
+      "title": "Ancient Maya site uncovered with ‘vibe archaeology’ ignites firestorm over AI in science",
+      "description": "Contrary to online claims, AI did not discover an ancient Maya site. But it did spark a clash over how the technology should be used in science",
+      "url": "https://www.scientificamerican.com/article/ancient-maya-site-uncovered-with-vibe-archaeology-ignites-firestorm-over-ai-in-science/"
     },
     {
-      "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
-      "description": "A recap of the inaugural AWS Quick User Group DC meetup, where data leaders explored getting enterprise data ready for AI agents. It covers what's new in AWS Quick, Financial Independence Group's AI analytics journey, and hands-on app and no-code flow buildin…",
-      "url": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/"
+      "title": "How Moonfrog scales analytics and lowers query cost with Amazon Redshift RG instances",
+      "description": "Moonfrog Labs migrated a 148 TB Amazon Redshift warehouse from RA3 to Graviton-based RG instances with a single elastic resize. See how the team sized capacity for growing analytics demand, verified warehouse and data lake access, and measured faster loads an…",
+      "url": "https://aws.amazon.com/blogs/big-data/how-moonfrog-scales-analytics-and-lowers-query-cost-with-amazon-redshift-rg-instances/"
     },
     {
-      "title": "Introducing the Atlassian AI SDLC Index: What the data shows about AI and real work",
-      "description": "What is AI changing about how software teams work? That’s the question behind the new Atlassian AI SDLC Index, which brings together data from more than 340,000 engineers at over 500 engineering organizations to examine AI’s impact across the software develop…",
-      "url": "https://www.atlassian.com/blog/company-news/introducing-the-atlassian-ai-sdlc-index"
+      "title": "Pittsburgh experts weigh in on nationwide tech outages, AI coding risks",
+      "description": "Technology outages have disrupted everything from airline operations and banking services to government networks over the past week, raising questions about the reliability of technology that Americans rely on daily. Microsoft, the FAA, Chase Bank, United Air…",
+      "url": "https://triblive.com/local/regional/pittsburgh-experts-weigh-in-on-nationwide-tech-outages-ai-coding-risks/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Google billionaires Eric Schmidt and Sergey Brin list their Malibu mansions that could fetch $71M in total",
+      "description": "A pair of Silicon Valley titans — Google’s Eric Schmidt and Sergey Brin — just listed their respective Malibu mansions, which together could fetch more than $71 million.",
+      "url": "https://pagesix.com/2026/11/19/hollywood/googles-eric-schmidt-sergey-brin-list-malibu-mansions-that-could-fetch-71m-in-total/"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -53,24 +53,24 @@
     "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "73-79",
+    "temp_range": "71-81",
     "condition": "Patchy rain nearby",
     "wind": "6 mph",
-    "humidity": "75%",
-    "chance_rain": "62%"
+    "humidity": "74%",
+    "chance_rain": "23%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 7
+      "daysUntil": 6
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 36
+      "daysUntil": 35
     }
   ],
-  "generatedAt": "2026-11-19T19:31:28.517Z"
+  "generatedAt": "2026-11-20T19:09:32.472Z"
 }
