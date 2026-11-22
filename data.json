@@ -1,33 +1,33 @@
 {
-  "date": "November 21, 2026",
-  "dayOfWeek": "Saturday",
+  "date": "November 22, 2026",
+  "dayOfWeek": "Sunday",
   "usNews": [
     {
-      "title": "Dispatches from O'Reilly: Inside a software factory",
-      "description": "Go from vibe coding to generating clean, maintainable code",
-      "url": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/"
+      "title": "Omnisend Launches Instagram-to-email Automation and Gamified Popups to Help Merchants Prepare for the Holiday Season",
+      "description": "Social Capture along with gamified popups and smarter send-time modes, gives ecommerce brands more ways to grow and engage their audiences ahead of the holidays",
+      "url": "https://customerthink.com/omnisend-launches-instagram-to-email-automation-and-gamified-popups-to-help-merchants-prepare-for-the-holiday-season/"
     },
     {
-      "title": "'The Internet of Agents is the next shift': Wipro tells us why the next wave of AI agents could boost your business more than ever",
-      "description": "Wipro lays out what the the \"Internet of Agents\" can do for your business.",
-      "url": "https://www.techradar.com/pro/the-internet-of-agents-is-the-next-shift-wipro-tells-us-why-the-next-wave-of-ai-agents-could-boost-your-business-more-than-ever"
+      "title": "sandbox-ai-app added to PyPI",
+      "description": "sandbox-ai: run Claude Code, Codex, OpenCode and nine more agents in a verified rootless Podman/Bubblewrap sandbox with an egress firewall; command line and web interface, the desktop app with [gui]",
+      "url": "https://pypi.org/project/sandbox-ai-app/"
     },
     {
-      "title": "Who Is An AI Marketing Engineer? | AICopse",
-      "description": "Discover what an AI Marketing Engineer does, the skills required, key responsibilities, career paths, tools, and how to enter this emerging profession.",
-      "url": "https://aicopse.com/who-is-an-ai-marketing-engineer/"
+      "title": "Friday Links #48: JavaScript, AI and Developer Tools",
+      "description": "Gemini 4 Neon, jQuery 4.1, Excalibur 1.0, XState v6 Beta, and a fresh batch of JavaScript libraries, developer tools, and AI updates.",
+      "url": "https://jsdevspace.substack.com/p/friday-links-48-javascript-ai-and"
     }
   ],
   "miamiNews": [
     {
-      "title": "No employees and prototypes within days: AI agents supercharge start-ups",
-      "description": "Founders can now use the technology to handle almost any role, from marketing to building labs",
-      "url": "https://www.irishtimes.com/business/2026/11/20/no-employees-and-prototypes-within-days-ai-agents-supercharge-start-ups/"
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "description": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the…",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
     }
   ],
   "tip": {
-    "title": "The 80/20 Rule for Relationships",
-    "content": "80% of your relationship happiness comes from 20% of your time together. Focus that 20% on quality moments without distractions."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "How to Build a $1M Consulting Business",
+    "source": "First Round Review",
+    "reason": "Directly relevant to scaling your consulting practice. Real numbers on positioning and pricing.",
+    "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "72-78",
-    "condition": "Light rain shower",
-    "wind": "8 mph",
-    "humidity": "78%",
-    "chance_rain": "18%"
+    "temp_range": "73-83",
+    "condition": "Patchy rain nearby",
+    "wind": "6 mph",
+    "humidity": "67%",
+    "chance_rain": "24%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 5
+      "daysUntil": 4
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 34
+      "daysUntil": 33
     }
   ],
-  "generatedAt": "2026-11-21T18:05:43.697Z"
+  "generatedAt": "2026-11-22T18:34:58.542Z"
 }
