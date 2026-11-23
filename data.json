@@ -1,28 +1,23 @@
 {
-  "date": "November 22, 2026",
-  "dayOfWeek": "Sunday",
+  "date": "November 23, 2026",
+  "dayOfWeek": "Monday",
   "usNews": [
     {
-      "title": "Omnisend Launches Instagram-to-email Automation and Gamified Popups to Help Merchants Prepare for the Holiday Season",
-      "description": "Social Capture along with gamified popups and smarter send-time modes, gives ecommerce brands more ways to grow and engage their audiences ahead of the holidays",
-      "url": "https://customerthink.com/omnisend-launches-instagram-to-email-automation-and-gamified-popups-to-help-merchants-prepare-for-the-holiday-season/"
+      "title": "15 years of long term support for bare metal automation with MAAS",
+      "description": "Building modern AI supercomputing clusters, deploying 5G telecommunications networks, or operating High Performance Computing (HPC) data centers requires significant capital investment (CapEx). These investments are planned with a long-term horizon in mind, a…",
+      "url": "https://ubuntu.com/blog/15-years-of-long-term-support-for-bare-metal-automation-with-maas"
     },
     {
-      "title": "sandbox-ai-app added to PyPI",
-      "description": "sandbox-ai: run Claude Code, Codex, OpenCode and nine more agents in a verified rootless Podman/Bubblewrap sandbox with an egress firewall; command line and web interface, the desktop app with [gui]",
-      "url": "https://pypi.org/project/sandbox-ai-app/"
-    },
-    {
-      "title": "Friday Links #48: JavaScript, AI and Developer Tools",
-      "description": "Gemini 4 Neon, jQuery 4.1, Excalibur 1.0, XState v6 Beta, and a fresh batch of JavaScript libraries, developer tools, and AI updates.",
-      "url": "https://jsdevspace.substack.com/p/friday-links-48-javascript-ai-and"
+      "title": "Putting AI through the shopfloor grind",
+      "description": "Industrial startups fuse AI with hardware to create “physical AI” for adaptable, real-world automation across factories, warehouses, and security.",
+      "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/putting-ai-through-the-shopfloor-grind/article71732393.ece"
     }
   ],
   "miamiNews": [
     {
-      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
-      "description": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the…",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+      "title": "Meet the 116 women competing to be Miss Universe 2026",
+      "description": "The 75th Miss Universe pageant will take place in Puerto Rico on November 24. This year, 116 women from around the world will compete for the crown.",
+      "url": "https://www.businessinsider.com/miss-universe-pageant-contestants-photos-2026-11"
     }
   ],
   "tip": {
@@ -53,24 +48,24 @@
     "url": "https://firstround.com"
   },
   "weather": {
-    "temp_range": "73-83",
-    "condition": "Patchy rain nearby",
-    "wind": "6 mph",
+    "temp_range": "68-78",
+    "condition": "Overcast ",
+    "wind": "5 mph",
     "humidity": "67%",
-    "chance_rain": "24%"
+    "chance_rain": "12%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 4
+      "daysUntil": 3
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 33
+      "daysUntil": 32
     }
   ],
-  "generatedAt": "2026-11-22T18:34:58.542Z"
+  "generatedAt": "2026-11-23T22:45:33.692Z"
 }
