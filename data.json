@@ -1,33 +1,33 @@
 {
-  "date": "November 24, 2026",
-  "dayOfWeek": "Tuesday",
+  "date": "November 25, 2026",
+  "dayOfWeek": "Wednesday",
   "usNews": [
     {
-      "title": "Automated Client Reporting Tools for EU Marketing Agencies: ZapDigits vs. Competitors in 2026 | Marketing Dashboards for Agencies | ZapDigits",
-      "description": "For EU marketing agencies, automated client reporting tools streamline data consolidation and report generation. Key platforms like ZapDigits, Whatagraph, and AgencyAnalytics offer white-label dashboards, multi-source integrations, and features tailored for t…",
-      "url": "https://zapdigits.com/blog/automated-client-reporting-tools-for-eu-marketing-agencies-zapdigits-vs-competitors-in-2026"
+      "title": "Amazon acquires key assets of AI startup Decart for reported $7.5B",
+      "description": "Amazon.com Inc. today announced plans to hire the technical staff of startup Decart.AI Inc. and acquire its core technology. The company didn’t disclose the terms of the deal. However, sources told Bloomberg that Amazon is paying about $7.5 billion. That’s ne…",
+      "url": "https://siliconangle.com/2026/11/23/amazon-acquires-key-assets-of-ai-startup-decart-for-reported-7-5b/"
     },
     {
-      "title": "How Indian companies can successfully implement Artificial Intelligence",
-      "description": "India stands at a pivotal moment in its technological evolution, buoyed by a significant influx of engineering graduates and innovative start-ups. However, many companies find it challenging to transition AI projects from experimentation to successful impleme…",
-      "url": "https://timesofindia.indiatimes.com/technology/aiq/how-indian-companies-can-successfully-implement-artificial-intelligence/articleshow/136092997.cms"
+      "title": "Tech predictions for 2027 and beyond",
+      "description": "Robotics, space, biotech, and of course AI, are converging to power a golden era of innovation. Some of my predictions are a reality check, while others imagine what is possible in the decade to come.",
+      "url": "https://www.allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html"
     },
     {
-      "title": "Jobs boom ahead? These industries, roles and cities will drive 2027 hiring",
-      "description": "Consumer Electronics, Retail and Manufacturing are forecast to grow 12-14%, as local production and organised retail add roles in operations, quality, supply chain and frontline sales.",
-      "url": "https://www.business-standard.com/finance/personal-finance/jobs-boom-ahead-these-industries-roles-and-cities-will-drive-2027-hiring-126112300474_1.html"
+      "title": "West Midlands teenager Suleymaan Khan beat 20,000 entries worldwide to win Alibaba's $200,000 CoCreate Pitch prize for SuleyNova Robotics, the coding kit brand he built after teaching himself to code",
+      "description": "Suleymaan Khan, a brilliant self-taught robotics engineer hailing from Birmingham, has made waves at CoCreate Europe by securing a prestigious award. As the founder of SuleyNova Robotics, he created innovative educational robotics kits aimed at teaching codin…",
+      "url": "https://timesofindia.indiatimes.com/world/uk/west-midlands-teenager-suleymaan-khan-beat-20000-entries-worldwide-to-win-alibabas-200000-cocreate-pitch-prize-for-suleynova-robotics-the-coding-kit-brand-he-built-after-teaching-himself-to-code/articleshow/136134855.cms"
     }
   ],
   "miamiNews": [
     {
-      "title": "Jared Kushner’s Wars",
-      "description": "In Miami, the president’s son-in-law mixes diplomacy and business. Democrats call it corruption — Jared Kushner thinks he can ‘manifest impossible things.’",
-      "url": "https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html"
+      "title": "Miami & South Florida Business News",
+      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
+      "url": "https://www.miamigov.com"
     }
   ],
   "tip": {
-    "title": "Batch Your Email Reviews",
-    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
+    "title": "The 10-Minute Audit Rule",
+    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
   },
   "actions": [
     {
@@ -53,24 +53,24 @@
     "url": "https://substack.com"
   },
   "weather": {
-    "temp_range": "68-78",
-    "condition": "Patchy rain nearby",
-    "wind": "4 mph",
-    "humidity": "73%",
-    "chance_rain": "23%"
+    "temp_range": "72-76",
+    "condition": "Light rain shower",
+    "wind": "22 mph",
+    "humidity": "86%",
+    "chance_rain": "77%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 2
+      "daysUntil": 1
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 31
+      "daysUntil": 30
     }
   ],
-  "generatedAt": "2026-11-24T21:22:42.403Z"
+  "generatedAt": "2026-11-25T20:31:00.721Z"
 }
