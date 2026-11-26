@@ -1,21 +1,21 @@
 {
-  "date": "November 25, 2026",
-  "dayOfWeek": "Wednesday",
+  "date": "November 26, 2026",
+  "dayOfWeek": "Thursday",
   "usNews": [
     {
-      "title": "Amazon acquires key assets of AI startup Decart for reported $7.5B",
-      "description": "Amazon.com Inc. today announced plans to hire the technical staff of startup Decart.AI Inc. and acquire its core technology. The company didn’t disclose the terms of the deal. However, sources told Bloomberg that Amazon is paying about $7.5 billion. That’s ne…",
-      "url": "https://siliconangle.com/2026/11/23/amazon-acquires-key-assets-of-ai-startup-decart-for-reported-7-5b/"
+      "title": "Epochal launches with $100M to help developers train predictive AI models",
+      "description": "Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He established Epochal earli…",
+      "url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/"
     },
     {
-      "title": "Tech predictions for 2027 and beyond",
-      "description": "Robotics, space, biotech, and of course AI, are converging to power a golden era of innovation. Some of my predictions are a reality check, while others imagine what is possible in the decade to come.",
-      "url": "https://www.allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html"
+      "title": "The Roadmap to Becoming an AI Security Engineer in 2027",
+      "description": "From cybersecurity foundations to defending machine learning systems, agentic pipelines, and large language model applications.",
+      "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026"
     },
     {
-      "title": "West Midlands teenager Suleymaan Khan beat 20,000 entries worldwide to win Alibaba's $200,000 CoCreate Pitch prize for SuleyNova Robotics, the coding kit brand he built after teaching himself to code",
-      "description": "Suleymaan Khan, a brilliant self-taught robotics engineer hailing from Birmingham, has made waves at CoCreate Europe by securing a prestigious award. As the founder of SuleyNova Robotics, he created innovative educational robotics kits aimed at teaching codin…",
-      "url": "https://timesofindia.indiatimes.com/world/uk/west-midlands-teenager-suleymaan-khan-beat-20000-entries-worldwide-to-win-alibabas-200000-cocreate-pitch-prize-for-suleynova-robotics-the-coding-kit-brand-he-built-after-teaching-himself-to-code/articleshow/136134855.cms"
+      "title": "How Red Hat and Odine unify sovereign telco cloud management",
+      "description": "Red Hat has collaborated with Odine so their multiagent platform, MACE, runs natively on Red Hat OpenShift, with Red Hat OpenShift AI providing the supported, carrier-grade foundation for its AI capabilities. This allows MACE to operate within the same truste…",
+      "url": "https://www.redhat.com/en/blog/how-red-hat-and-odine-unify-sovereign-telco-cloud-management"
     }
   ],
   "miamiNews": [
@@ -26,8 +26,8 @@
     }
   ],
   "tip": {
-    "title": "The 10-Minute Audit Rule",
-    "content": "Before starting your day, spend 10 minutes reviewing your highest-value tasks. Check how many PMC emails were opened/replied to overnight. This 10 minutes saves 2 hours of scattered work."
+    "title": "One Thing Rule for Productivity",
+    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
   },
   "actions": [
     {
@@ -47,30 +47,30 @@
     }
   ],
   "article": {
-    "title": "The Cold Email Playbook That Actually Works",
-    "source": "Substack",
-    "reason": "Direct parallel to your PMC outreach. Shows how top SaaS founders personalize at scale.",
-    "url": "https://substack.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "72-76",
-    "condition": "Light rain shower",
-    "wind": "22 mph",
-    "humidity": "86%",
-    "chance_rain": "77%"
+    "temp_range": "69-78",
+    "condition": "Sunny",
+    "wind": "13 mph",
+    "humidity": "51%",
+    "chance_rain": "41%"
   },
   "celebration": null,
   "upcoming": [
     {
       "date": "2026-11-26",
       "event": "Thanksgiving",
-      "daysUntil": 1
+      "daysUntil": 0
     },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 30
+      "daysUntil": 29
     }
   ],
-  "generatedAt": "2026-11-25T20:31:00.721Z"
+  "generatedAt": "2026-11-26T20:18:37.963Z"
 }
