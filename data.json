@@ -1,33 +1,33 @@
 {
-  "date": "November 26, 2026",
-  "dayOfWeek": "Thursday",
+  "date": "November 27, 2026",
+  "dayOfWeek": "Friday",
   "usNews": [
     {
-      "title": "Epochal launches with $100M to help developers train predictive AI models",
-      "description": "Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He established Epochal earli…",
-      "url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/"
+      "title": "Google mandates MCP or CLI access for Workspace AI agents starting February 2027",
+      "description": "Google has announced security controls across Google Workspace and Google Cloud to address the risks associated with autonomous AI agents accessing enterprise data, executing tasks, and interacting with cloud infrastructure. The measures include dedicated age…",
+      "url": "https://www.helpnetsecurity.com/2026/11/26/google-ai-agent-security-requirements/"
     },
     {
-      "title": "The Roadmap to Becoming an AI Security Engineer in 2027",
-      "description": "From cybersecurity foundations to defending machine learning systems, agentic pipelines, and large language model applications.",
-      "url": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026"
+      "title": "As AI reshapes every industry, CEP, IIT Delhi’s Certification, gives working professionals the skills to build it",
+      "description": "Starting in January 2027, IIT Delhi will introduce an all-encompassing AI and Machine Learning programme tailored for industry professionals. This six-month course centers on hands-on learning, practical applications, and foundational concepts in machine lear…",
+      "url": "https://timesofindia.indiatimes.com/education/as-ai-reshapes-every-industry-cep-iit-delhis-certification-gives-working-professionals-the-skills-to-build-it/articleshow/136183493.cms"
     },
     {
-      "title": "How Red Hat and Odine unify sovereign telco cloud management",
-      "description": "Red Hat has collaborated with Odine so their multiagent platform, MACE, runs natively on Red Hat OpenShift, with Red Hat OpenShift AI providing the supported, carrier-grade foundation for its AI capabilities. This allows MACE to operate within the same truste…",
-      "url": "https://www.redhat.com/en/blog/how-red-hat-and-odine-unify-sovereign-telco-cloud-management"
+      "title": "Make post-quantum cryptography updates routine with AWS-LC",
+      "description": "As your organization plans upgrades to post-quantum cryptography (PQC), you should also think about cryptographic agility to more easily update algorithms used to protect your data. Changes to cryptography and related protocols aren’t new, but PQC is accelera…",
+      "url": "https://aws.amazon.com/blogs/security/make-post-quantum-cryptography-updates-routine-with-aws-lc/"
     }
   ],
   "miamiNews": [
     {
-      "title": "Miami & South Florida Business News",
-      "description": "Stay connected with the latest business, technology, and lifestyle news from Miami.",
-      "url": "https://www.miamigov.com"
+      "title": "Move over, pickleball – Padel elbows into Southwest Florida club scene",
+      "description": "Many country clubs and communities have diversified their offerings in Southwest Florida. We wrote earlier this decade.",
+      "url": "https://www.marconews.com/story/news/local/2026/11/25/move-over-pickleball-padel-elbows-into-southwest-florida-club-scene/92965493007/"
     }
   ],
   "tip": {
-    "title": "One Thing Rule for Productivity",
-    "content": "Pick ONE main goal per day. Everything else is bonus. This week: Guest bedroom revamp. This month: Scale PMC outreach."
+    "title": "Date Night Idea: Swap Bucket Lists",
+    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
   },
   "actions": [
     {
@@ -47,30 +47,28 @@
     }
   ],
   "article": {
-    "title": "The Founder's Guide to Hiring Your First Team",
-    "source": "Paul Graham Essays",
-    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
-    "url": "http://paulgraham.com"
+    "title": "Data-Driven Decision Making for Startups",
+    "source": "Andreessen Horowitz",
+    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
+    "url": "https://a16z.com"
   },
   "weather": {
-    "temp_range": "69-78",
-    "condition": "Sunny",
-    "wind": "13 mph",
+    "temp_range": "64-74",
+    "condition": "Overcast ",
+    "wind": "5 mph",
     "humidity": "51%",
-    "chance_rain": "41%"
+    "chance_rain": "9%"
   },
-  "celebration": null,
+  "celebration": {
+    "holiday": "Thanksgiving",
+    "event": null
+  },
   "upcoming": [
-    {
-      "date": "2026-11-26",
-      "event": "Thanksgiving",
-      "daysUntil": 0
-    },
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 29
+      "daysUntil": 28
     }
   ],
-  "generatedAt": "2026-11-26T20:18:37.963Z"
+  "generatedAt": "2026-11-27T20:03:47.465Z"
 }
