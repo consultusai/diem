@@ -1,33 +1,17 @@
 {
-  "date": "November 27, 2026",
-  "dayOfWeek": "Friday",
-  "usNews": [
-    {
-      "title": "Google mandates MCP or CLI access for Workspace AI agents starting February 2027",
-      "description": "Google has announced security controls across Google Workspace and Google Cloud to address the risks associated with autonomous AI agents accessing enterprise data, executing tasks, and interacting with cloud infrastructure. The measures include dedicated age…",
-      "url": "https://www.helpnetsecurity.com/2026/11/26/google-ai-agent-security-requirements/"
-    },
-    {
-      "title": "As AI reshapes every industry, CEP, IIT Delhi’s Certification, gives working professionals the skills to build it",
-      "description": "Starting in January 2027, IIT Delhi will introduce an all-encompassing AI and Machine Learning programme tailored for industry professionals. This six-month course centers on hands-on learning, practical applications, and foundational concepts in machine lear…",
-      "url": "https://timesofindia.indiatimes.com/education/as-ai-reshapes-every-industry-cep-iit-delhis-certification-gives-working-professionals-the-skills-to-build-it/articleshow/136183493.cms"
-    },
-    {
-      "title": "Make post-quantum cryptography updates routine with AWS-LC",
-      "description": "As your organization plans upgrades to post-quantum cryptography (PQC), you should also think about cryptographic agility to more easily update algorithms used to protect your data. Changes to cryptography and related protocols aren’t new, but PQC is accelera…",
-      "url": "https://aws.amazon.com/blogs/security/make-post-quantum-cryptography-updates-routine-with-aws-lc/"
-    }
-  ],
+  "date": "November 28, 2026",
+  "dayOfWeek": "Saturday",
+  "usNews": [],
   "miamiNews": [
     {
-      "title": "Move over, pickleball – Padel elbows into Southwest Florida club scene",
-      "description": "Many country clubs and communities have diversified their offerings in Southwest Florida. We wrote earlier this decade.",
-      "url": "https://www.marconews.com/story/news/local/2026/11/25/move-over-pickleball-padel-elbows-into-southwest-florida-club-scene/92965493007/"
+      "title": "Gift Ideas for the Music Fan in Your Life",
+      "description": "Tis the season once again to rummage through the barrage of enticing gift ideas for the holidays. Especially if you’re a music fan. Now that physical media is back in vogue, there are a ton of choices available in terms of new albums, old albums, reissued alb…",
+      "url": "https://www.spinmagazine.com/2026/11/gift-ideas-for-the-music-fan-in-your-life/"
     }
   ],
   "tip": {
-    "title": "Date Night Idea: Swap Bucket Lists",
-    "content": "Ask your girlfriend to share 3 things on her bucket list you didn't know about. Listen without planning. Then share yours. This creates deeper connection in 15 minutes."
+    "title": "Batch Your Email Reviews",
+    "content": "Check emails at 9 AM, 12 PM, 3 PM instead of constantly. Reduces context-switching and lets you focus on deep work."
   },
   "actions": [
     {
@@ -47,28 +31,25 @@
     }
   ],
   "article": {
-    "title": "Data-Driven Decision Making for Startups",
-    "source": "Andreessen Horowitz",
-    "reason": "Using BigQuery and Dataform for PMC metrics. How to turn data into strategy.",
-    "url": "https://a16z.com"
+    "title": "The Founder's Guide to Hiring Your First Team",
+    "source": "Paul Graham Essays",
+    "reason": "As you scale PMC outreach, you'll need help. Start thinking about hiring early.",
+    "url": "http://paulgraham.com"
   },
   "weather": {
-    "temp_range": "64-74",
+    "temp_range": "64-72",
     "condition": "Overcast ",
     "wind": "5 mph",
-    "humidity": "51%",
-    "chance_rain": "9%"
+    "humidity": "59%",
+    "chance_rain": "18%"
   },
-  "celebration": {
-    "holiday": "Thanksgiving",
-    "event": null
-  },
+  "celebration": null,
   "upcoming": [
     {
       "date": "2026-12-25",
       "event": "Christmas",
-      "daysUntil": 28
+      "daysUntil": 27
     }
   ],
-  "generatedAt": "2026-11-27T20:03:47.465Z"
+  "generatedAt": "2026-11-28T19:00:00.945Z"
 }
